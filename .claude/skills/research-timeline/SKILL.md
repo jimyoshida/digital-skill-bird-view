@@ -67,3 +67,9 @@ If a translated file exists in
 `website/i18n/ja/docusaurus-plugin-content-docs/current/timelines/`, also produce
 the matching Japanese entries (same class emoji, same date, translated
 description) so the two trees stay in sync.
+
+### Translation Rules
+
+The translation rules (preserve frontmatter keys, leave code blocks / URLs / MDX
+props / admonition labels untouched, use the official DSS-P Japanese names, etc.)
+live in `.claude/skills/docusaurus-i18n/translation-rules.md`. 

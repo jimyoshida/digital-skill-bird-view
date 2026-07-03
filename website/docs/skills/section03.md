@@ -346,6 +346,7 @@
   - [Microsoft eXecution Container (MXC)](https://github.com/microsoft/mxc) - A cross-platform sandboxed code execution system for running untrusted code with multiple containment backends and policy-driven security controls across Windows, Linux, and macOS
   - [Cloud Hypervisor](https://www.cloudhypervisor.org/) - An open source Virtual Machine Monitor (VMM) implemented in Rust that focuses on running modern, cloud workloads, with minimal hardware emulation
   - [Firecracker](https://firecracker-microvm.github.io/) - An open source virtualization technology that is purpose-built for creating and managing secure, multi-tenant container and function-based services
+  - [AWS Lambda MicroVMs](https://aws.amazon.com/lambda/lambda-microvms/) - A serverless compute service that provides VM-level isolation with near-instant startup and resume capabilities, built on Firecracker virtualization technology
   - [QEMU microvm](https://www.qemu.org/docs/master/system/i386/microvm.html) - A minimalist machine type without PCI nor ACPI support, designed for short-lived guests, and optimized for both boot time and footprint
   - [Docker Sandboxes](https://github.com/docker/sandboxes-releases) - The isolated, disposable environments designed to run AI coding agents in lightweight microVMs for enhanced security and system protection
   - [Daytona](https://www.daytona.io/) - The secure infrastructure platform for running AI-generated code in isolated sandbox environments with sub-90ms creation times

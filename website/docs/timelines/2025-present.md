@@ -121,3 +121,5 @@ sidebar_position: 7
 🧠 On June 9, 2026, Anthropic released Claude Fable 5, a Mythos-class model that it had made safe for general use, alongside the restricted Claude Mythos 5; the model shipped with a 1 million token context window and up to 128,000 output tokens per request.
 
 🧠 On June 12, 2026, Anthropic disabled all access to its Mythos-class models, Claude Fable 5 and Claude Mythos 5, to comply with a directive from the United States Department of Commerce to suspend access by foreign nationals, after a jailbreak in Fable 5 was flagged to the White House.
+
+☁️ On June 22, 2026, AWS introduced Lambda MicroVMs, a serverless compute service that provides VM-level isolation with near-instant startup and resume capabilities, built on Firecracker virtualization technology. The service became immediately available in US East (N. Virginia, Ohio), US West (Oregon), Europe (Ireland), and Asia Pacific (Tokyo), offering isolated sandboxes for running user-generated or AI-generated code with state preservation up to 8 hours.

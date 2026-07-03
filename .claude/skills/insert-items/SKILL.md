@@ -18,3 +18,15 @@ Format each item to match the document convention:
 - Quote the description from the linked site as much as possible; start it with "A" or "The", omit the trailing period, and do not repeat the item name in it.
 
 Keep the markup clean per markdownlint: no duplicate headings (MD024), blank lines around lists (MD032), and a single trailing newline (MD047).
+
+## Translations
+
+If a translated file exists in
+`website/i18n/ja/docusaurus-plugin-content-docs/current/skills/`, also produce
+the matching Japanese entries so the two trees stay in sync.
+
+### Translation Rules
+
+The translation rules (preserve frontmatter keys, leave code blocks / URLs / MDX
+props / admonition labels untouched, use the official DSS-P Japanese names, etc.)
+live in `.claude/skills/docusaurus-i18n/translation-rules.md`. 

@@ -9,7 +9,7 @@ Refer to `website/docs/intro.md` for the overview & principles.
 Local builds on Ubuntu require these system packages:
 
 ```bash
-sudo apt install pandoc ruby-asciidoctor-pdf
+sudo apt install pandoc asciidoctor-pdf
 sudo apt install graphviz libgvplugin-neato-layout8
 sudo apt install libyaml-tiny-perl
 ```

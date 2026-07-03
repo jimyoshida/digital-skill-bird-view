@@ -155,6 +155,7 @@
   - [go-mp4](https://github.com/abema/go-mp4) - A Go library that provides low-level I/O interfaces for MP4
   - [Native WebP for Go](https://github.com/HugoSmits86/nativewebp) - A native WebP encoder written entirely in Go, with no dependencies on libwebp or other external libraries
   - [Pillow](https://python-pillow.github.io/) - The friendly PIL (Python Imaging Library) fork that adds image processing capabilities to your Python interpreter
+  - [RMagick](https://rmagick.github.io/) - A binding from Ruby to the ImageMagick image manipulation library
   - [pure_jpeg](https://github.com/peterc/pure_jpeg) - A pure Ruby JPEG encoder and decoder library with no native dependencies
 
 ### Compression & Archiving
@@ -286,6 +287,7 @@
   - [Wish](https://github.com/charmbracelet/wish) - A tiny SSH server for your programs
   - [Wishlist](https://github.com/charmbracelet/wishlist) - An SSH directory for your private hostkeys and favorite SSH commands
   - [go-tui](https://www.go-tui.dev/) - A framework for building declarative terminal user interfaces (TUIs) in Go
+  - [asciigraph](https://github.com/guptarohit/asciigraph) - A Go package to make lightweight ASCII line graphs in command line apps with no other dependencies
 - Rust
   - [clap](https://github.com/clap-rs/clap) - A full featured, fast Command Line Argument Parser for Rust
   - [Ratatui](https://ratatui.rs/) - A Rust library for cooking up delicious terminal user interfaces
@@ -347,6 +349,10 @@
     - [Tauri](https://tauri.app/) - A toolkit that helps developers make applications for the major desktop platforms
     - [Wails](https://wails.io/) - A tool that enables developers to build desktop applications using Go and web technologies
     - [Microsoft Edge WebView2](https://learn.microsoft.com/en-us/microsoft-edge/webview2/) - A control that allows you to embed web technologies (HTML, CSS, and JavaScript) in your native apps by using Microsoft Edge as the rendering engine
+
+### Desktop App Testing & Automation
+
+- [xa11y](https://xa11y.dev/) - A Playwright-style library for driving native desktop apps on macOS, Windows, and Linux
 
 ### Installation & Packaging
 

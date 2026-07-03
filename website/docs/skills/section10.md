@@ -220,6 +220,7 @@ support
   - [Python tabulate](https://github.com/astanin/python-tabulate) - A library and a command-line utility that displays data in a visually appealing format
   - [Text::MarkdownTable](https://metacpan.org/pod/Text::MarkdownTable) - A module that can be used to write data in tabular form, formatted in MultiMarkdown syntax
   - [Terminal Table](https://github.com/tj/terminal-table) - A simple, feature-rich ascii table generation library for ruby
+  - [go-pretty](https://github.com/jedib0t/go-pretty) - A table-writer and more in golang
 
 ### Template Engines
 
@@ -487,6 +488,7 @@ support
   - [nvm-windows](https://github.com/coreybutler/nvm-windows) - A node.js version manager for Windows
   - [rv](https://github.com/spinel-coop/rv) - A simple and powerful Ruby version manager written in Rust
   - [frum](https://github.com/TaKO8Ki/frum) - A fast and modern Ruby version manager written in Rust
+  - [g](https://github.com/stefanmaric/g) - A simple Go version manager, gluten-free
   - [perlbrew](https://perlbrew.pl/) - A tool to manage multiple perl installations in your $HOME directory
   - [asdf](https://asdf-vm.com/) - A tool version manager
   - [mise](https://mise.jdx.dev/) - A polyglot tool version manager

@@ -369,6 +369,7 @@
 - [Claude Agent SDK](https://platform.claude.com/docs/en/agent-sdk/overview) - The Agent SDK gives you the same tools, agent loop, and context management that power Claude Code, programmable in Python and TypeScript
 - [Claude Agent Skills](https://platform.claude.com/docs/en/agents-and-tools/agent-skills/overview) - The modular capabilities that extend an agent's functionality by packaging instructions, metadata, and optional resources
 - [Fantasy](https://github.com/charmbracelet/fantasy) - A Go library for building AI agents with multiple providers and models through a single API
+- [Go Micro](https://go-micro.dev/) - An agent harness for Go that lets you build agents, services, and workflows on one runtime
 - [Microsoft 365 Agents Toolkit](https://learn.microsoft.com/en-us/microsoft-365/developer/overview-m365-agents-toolkit) - A suite of tools for building enterprise-ready agents and apps that work across Microsoft 365 Copilot, Teams, Office, web, and other third-party messaging channels
 - [OpenAI Agents SDK](https://developers.openai.com/api/docs/guides/agents-sdk) - A library for building agentic applications where models can use additional context and tools, hand off to specialized agents, and stream results
 
@@ -391,6 +392,7 @@
   - [SWIRL AI Search](https://swirlaiconnect.com/) - A Federated AI Search solution that connects to over 100 enterprise platforms, providing real-time visibility across data and document silos without requiring costly data transformations or migrations
 - Security Tools
   - [skill-scanner](https://github.com/cisco-ai-defense/skill-scanner) - A best-effort security scanner for AI Agent Skills that detects prompt injection, data exfiltration, and malicious code patterns
+  - [Toxic Flow Analysis (TFA)](https://invariantlabs.ai/blog/toxic-flow-analysis) - The first principled approach to reduce the attack surface of AI applications, mitigating indirect prompt injections and other MCP attack vectors
 
 ## MLOps & LLMOps
 

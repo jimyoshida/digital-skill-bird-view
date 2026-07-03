@@ -274,6 +274,7 @@
     - [Falcon](https://socketry.github.io/falcon/) - A multi-process, multi-fiber rack-compatible HTTP server built on top of async, async-container and async-http
     - [Sinatra](https://sinatrarb.com/) - A DSL for quickly creating web applications in Ruby with minimal effort
   - [Sidekiq](https://sidekiq.org/) - A simple, efficient background processing tool for Ruby
+  - [Shrine](https://shrinerb.com/) - A file attachment toolkit for Ruby applications
 - Perl Backend Frameworks (legacy)
   - Classic CGI
     - [mod_cgi](https://httpd.apache.org/docs/current/mod/mod_cgi.html) - A module for the execution of CGI scripts

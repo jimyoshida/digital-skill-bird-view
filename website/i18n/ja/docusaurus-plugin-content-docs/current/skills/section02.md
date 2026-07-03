@@ -273,6 +273,7 @@
     - [Falcon](https://socketry.github.io/falcon/) - async 、async -container 、async -http の上に構築された multi -process 、multi -fiber rack -compatible HTTP サーバーです
     - [Sinatra](https://sinatrarb.com/) - 最小限の手間で Ruby でウェブアプリケーションを迅速に作成するための DSL です
   - [Sidekiq](https://sidekiq.org/) - Ruby 向けのシンプルで効率的なバックグラウンド処理ツールです
+  - [Shrine](https://shrinerb.com/) - Ruby アプリケーション向けのファイル添付ツールキットです
 - Perl バックエンドフレームワーク (legacy)
   - クラシック CGI
     - [mod_cgi](https://httpd.apache.org/docs/current/mod/mod_cgi.html) - CGI スクリプト実行向けのモジュールです

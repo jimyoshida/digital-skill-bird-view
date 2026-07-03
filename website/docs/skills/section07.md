@@ -285,6 +285,7 @@
     - push, pull, fetch, rebase, reset, stash
     - staging, commit
   - [Jujutsu (jj)](https://www.jj-vcs.dev/latest/) - A Git-compatible VCS that is both simple and powerful
+  - [gitoxide](https://github.com/GitoxideLabs/gitoxide) - An idiomatic, lean, fast & safe pure Rust implementation of Git
   - [TortoiseGit](https://tortoisegit.org/) - A Windows Shell Interface to Git and based on TortoiseSVN
   - [git lfs](https://git-lfs.com/) - An open source Git extension for versioning large files
 - Terminal & UI Tools
