@@ -58,6 +58,8 @@ sidebar_position: 7
 
 🧠 Anthropic's Skills API (`anthropic-beta: skills-2025-10-02`) was officially introduced on October 2, 2025, providing a standardized way to package workflow instructions, executable code, and documentation into reusable capabilities for Claude via `SKILL.md` files.
 
+☁️ On October 8, 2025, the Cloud Native Computing Foundation announced the graduation of Knative, a serverless, event-driven application layer on top of Kubernetes, marking its readiness for widespread production use.
+
 🧠 On October 15, 2025, Anthropic launched the Skills Registry, a centralized platform for discovering and sharing "Anthropic-verified" and community-contributed skills to enhance Claude's functionality.
 
 🐛 A global DNS misconfiguration on October 29, 2025, disrupted Microsoft 365, Xbox Live, and major Azure corporate clients.
@@ -81,6 +83,8 @@ sidebar_position: 7
 🧠 GPT-5.2, an incremental update to GPT-5, was released on December 11, 2025, featuring improved reasoning capabilities, reduced latency, and enhanced tool integration. This release maintained backward compatibility while introducing more specialized modes for different use cases.
 
 📜 Ruby 4.0.0 was released on Christmas Day in 2025.
+
+🖥️ In 2025, Neovim was voted the most admired development environment in the Stack Overflow developer survey for the fifth consecutive year.
 
 ## 2026
 

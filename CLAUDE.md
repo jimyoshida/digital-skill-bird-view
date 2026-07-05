@@ -51,8 +51,8 @@ The 12 markdown files under the `website/docs/skills/` directory contain the ski
 
 Each markdown level 1 header should have 6 to 10 level 2 headers as subsections.
 Each level 2 header must start with a "Relevant DSS-P Skills" admonition mapping
-the subsection to skills from `website/docs/dss-p-v2-skills.md` (the IPA DX Promotion
-Skill Standard). Example:
+the subsection to skills from the IPA DX Promotion Skill Standard, whose full
+hierarchy is listed in `dss-p-extraction-jp.yml`. Example:
 
 ```markdown
 :::note[Relevant DSS-P Skills]
@@ -131,8 +131,9 @@ Contains Perl scripts for maintaining skill classification data:
 ```bash
 cd data
 make read        # Extract section titles from skill files → sections.yml
-make write       # Apply sections.yml classifications back to skill files
-make             # Run both read and write in sequence
+make write       # Apply sections.yml classifications back to skill files + intro.md
+make intro_sync  # Splice intro.md's body into the top-level README.md (sync_intro.pl)
+make             # Default target `release`: read, then write, then intro_sync
 make test_write  # Run write.pl unit tests (requires ruby)
 ```
 
@@ -140,7 +141,8 @@ make test_write  # Run write.pl unit tests (requires ruby)
 
 1. Run `make read` to extract the updated section structure from skill files into `sections.yml`
 2. Run `make write` to propagate those changes back across all skill files and `website/docs/intro.md`
-3. Or simply run `make` to do both in one step
+3. Run `make intro_sync` to copy the `intro.md` body into the top-level `README.md` between its `<!--Introduction-->` markers
+4. Or simply run `make` to do all three in sequence
 
 The digest markdown used for the mindmap is generated during the website build (see `website/Makefile`).
 
@@ -164,7 +166,3 @@ The following slash commands are user-invoked only (not auto-invoked by the mode
 - `/dss-p-linkage` — Fill in "Relevant DSS-P Skills" admonition blocks for section level-2 headings
 - `/dss-p-extraction` — Extract DSS-P skills from a PDF into a structured English markdown table
 - `/dss-p-extraction-jp` — Same as above but preserving original Japanese
-
-## AI Prompts (`prompts/`)
-
-- `DescriptionTranslator.txt` — Prompt for translating description strings to Japanese

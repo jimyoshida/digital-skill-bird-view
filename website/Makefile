@@ -14,7 +14,7 @@ clean:
 
 pdf/tmp/%.adoc: %.md
 	mkdir -p $(@D)
-	perl pdf/preprocess.pl < $< | pandoc --from=markdown-smart --to=asciidoc --wrap=none > $@
+	perl scripts/preprocess.pl < $< | pandoc --from=markdown-smart --to=asciidoc --wrap=none > $@
 
 # PDF Dest Files 
 ALLPDF := static/usr/docs/all.pdf
@@ -54,7 +54,7 @@ markmap: $(MAPHTML)
 
 $(MAPHTML): $(SKILLFILES)
 	mkdir -p $(@D) tmp
-	cat $(SKILLFILES) | perl ../data/digest.pl > tmp/digest.md
+	cat $(SKILLFILES) | perl scripts/digest.pl > tmp/digest.md
 	npx markmap --no-open -o $@ tmp/digest.md
 
 # Graphmap SVG Dest File
@@ -65,5 +65,5 @@ graphmap: $(GRAPHPDF)
 
 $(GRAPHPDF): $(SKILLFILES)
 	mkdir -p $(@D) tmp
-	cat $(SKILLFILES) | perl ../data/graphmap.pl > tmp/graphmap.dot
+	cat $(SKILLFILES) | perl scripts/graphmap.pl > tmp/graphmap.dot
 	sfdp -Tpdf -o $@ tmp/graphmap.dot

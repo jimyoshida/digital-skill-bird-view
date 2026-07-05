@@ -30,10 +30,10 @@ In addition to the skill categories above, this site provides [chronological tim
 - 🐛 Malware, Virus, Security Incident
 - 📊 Data Science, Databases, Data Platforms
 - 🧠 AI, Machine Learning, Large Language Models
-- 🖥️ Shell, Scripting, Terminal, IDE, Developer Productivity
+- 🖥️ Shell, Terminal, IDE, Developer Productivity
 - ⚙️ System Administration, OS, VM, Network Infrastructure
 - 📜 Programming Paradigms, Programming Concepts, Libraries
-- 🩷 Others
+- 🩷 Human Science, Social Science, Others
 
 These timelines help trace the evolution of technologies listed in the skill sections and provide historical context for understanding current trends in software development and digital transformation.
 

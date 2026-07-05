@@ -10,13 +10,17 @@ The 12 markdown files under the `website/docs/skills/` directory contain the ski
 The section classification structure is defined in `data/sections.yml`.
 
 Each markdown level 1 header should have 6 to 10 level 2 headers as subsections.
-Each level 2 header must start with information about relationship with DSS-P skills.
-Example lines:
+Each level 2 header must start with a "Relevant DSS-P Skills" admonition mapping
+the subsection to skills from the IPA DX Promotion Skill Standard, whose full
+hierarchy is listed in `dss-p-extraction-jp.yml`. Example:
+
 ```markdown
-> **Relevant DSS-P Skills:**
->
-> - 3\. Technology > 3.1 Software Development > Computer Science & Team Development
-> - 3\. Technology > 3.1 Software Development > Front-end & Back-end System Development
+:::note[Relevant DSS-P Skills]
+
+- 3\. Technology > 3.1 Software Development > Computer Science & Team Development
+- 3\. Technology > 3.1 Software Development > Front-end & Back-end System Development
+
+:::
 ```
 
 Each level 2 header can have up to 6 level 3 headers as subsections.
@@ -75,10 +79,10 @@ Class emojis:
 🐛: Malware, Virus, Security Incident
 📊: Data Science, Databases, Data Platforms
 🧠: AI, Machine Learning, Large Language Models
-🖥️: Shell, Scripting, Terminal, IDE, Developer Productivity
+🖥️: Shell, Terminal, IDE, Developer Productivity
 ⚙️: System Administration, OS, VM, Network Infrastructure
 📜: Programming Paradigms, Programming Concepts, Libraries
-🩷: Others
+🩷: Human Science, Social Science, and Others
 
 <Contents_Example>
 🧠 Claude Code, Anthropic's AI-powered command-line coding assistant, was first introduced as a beta research preview alongside Claude 3.7 Sonnet on February 24, 2025. It then became generally available on May 22, 2025
