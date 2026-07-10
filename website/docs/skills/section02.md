@@ -258,6 +258,7 @@
   - [Gin Web Framework](https://gin-gonic.com/) - A web framework written in Go
   - [Gorilla web toolkit](https://www.gorillatoolkit.org/) - A helpful toolkit that provides useful, composable packages for writing HTTP-based applications
   - [Yokai](https://ankorstore.github.io/yokai/) - A simple, modular and observable Go framework for backend applications
+  - [Kratos](https://github.com/go-kratos/kratos) - A lightweight Go framework for building cloud-native microservices, with APIs for transport, middleware, registry, configuration, logging, and code generation
 - Python Backend Frameworks & Servers
   - [WSGI](https://wsgi.readthedocs.io/en/latest/index.html) - The Web Server Gateway Interface
     - [Gunicorn](https://gunicorn.org/) - A Python WSGI HTTP Server for UNIX

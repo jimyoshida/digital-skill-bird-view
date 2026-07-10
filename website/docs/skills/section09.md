@@ -14,6 +14,7 @@
 - [Separation of concerns](https://en.wikipedia.org/wiki/Separation_of_concerns) - A design principle for separating a computer program into distinct sections
 - [Design by Contract](https://en.wikipedia.org/wiki/Design_by_contract) - An approach for designing software that prescribes formal, precise and verifiable interface specifications for software components
 - [Law of Demeter](https://en.wikipedia.org/wiki/Law_of_Demeter) - A design guideline for developing software, particularly object-oriented programs
+- [Hyrum's Law](https://www.hyrumslaw.com/) - The law of implicit interfaces, stating that with a sufficient number of users of an API, all observable behaviors of your system will be depended on by somebody
 - [SOLID - The principle of OOD](https://en.wikipedia.org/wiki/SOLID) - A mnemonic acronym for five design principles intended to make object-oriented designs more understandable, flexible, and maintainable
   - Single responsibility
   - Open–closed
@@ -23,6 +24,7 @@
 - [The Reactive Manifesto](https://www.reactivemanifesto.org/) - A coherent approach to systems architecture where applications are responsive, resilient, elastic and message driven
 - [Unix philosophy](https://en.wikipedia.org/wiki/Unix_philosophy) - A set of cultural norms and philosophical approaches to software development
 - [KISS principle](https://en.wikipedia.org/wiki/KISS_principle) - A design principle which states that most systems work best if they are kept simple rather than made complicated
+- [Wirth's law](https://en.wikipedia.org/wiki/Wirth%27s_law) - An adage on computer performance which states that software is getting slower more rapidly than hardware is becoming faster
 
 ### Design Best Practices
 
@@ -316,8 +318,9 @@
   - [Formal grammar](https://en.wikipedia.org/wiki/Formal_grammar) - A set of formation rules for strings in a formal language
   - [Chomsky hierarchy](https://en.wikipedia.org/wiki/Chomsky_hierarchy) - A containment hierarchy of classes of formal grammars
   - [Automata theory](https://en.wikipedia.org/wiki/Automata_theory) - The study of abstract machines and automata, as well as the computational problems that can be solved using them
-  - Lexical Analysis (Tokenizing)
-  - Syntactic Analysis (Parsing)
+    - [Finite-state machine](https://en.wikipedia.org/wiki/Finite-state_machine) - A mathematical model of computation that can be in exactly one of a finite number of states at any given time, changing from one state to another in response to some inputs
+  - [Lexical analysis](https://en.wikipedia.org/wiki/Lexical_analysis) - The conversion of a text into meaningful lexical tokens belonging to categories defined by a lexer program
+  - [Parsing](https://en.wikipedia.org/wiki/Parsing) - A process of analyzing a string of symbols conforming to the rules of a formal grammar by breaking it into parts
   - [BNF syntax](https://en.wikipedia.org/wiki/Backus%E2%80%93Naur_form) - A notation technique for context-free grammars, often used to describe the syntax of languages used in computing
   - [AST](https://en.wikipedia.org/wiki/Abstract_syntax_tree) - A tree representation of the abstract syntactic structure of source code written in a programming language
 - Parser Generators

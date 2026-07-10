@@ -309,6 +309,8 @@ support
   - [Test Pyramid](https://martinfowler.com/articles/practical-test-pyramid.html) - A way of thinking about how different kinds of tests should be used to create a balanced portfolio
   - [Test case](https://en.wikipedia.org/wiki/Test_case) - A specification of the inputs, execution conditions, testing procedure, and expected results that define a single test
   - [Test double](https://en.wikipedia.org/wiki/Test_double) - An object that can stand in for a real object in a test
+  - [Arrange-Act-Assert Pattern](https://xp123.com/3a-arrange-act-assert/) - A pattern for structuring a test into setting up the object to be tested, acting on it through some mutator, and making claims about the object, its collaborators, and its parameters
+  - [DAMP (Descriptive And Meaningful Phrases)](https://testing.googleblog.com/2019/12/testing-on-toilet-tests-too-dry-make.html) - A principle to lean more heavily towards, and less on DRY, when writing unit tests
   - [Unit testing best practices with .NET](https://learn.microsoft.com/en-us/dotnet/core/testing/unit-testing-best-practices) - A set of best practices that help you write tests that are robust and easy to maintain
   - [JS Testing Best Practices](https://github.com/goldbergyoni/javascript-testing-best-practices) - A summary of the top testing practices for JavaScript
 - Test Protocols

@@ -34,19 +34,7 @@ Each entry is a single paragraph:
 - Arrange entries in chronological order.
 - Do not use bold style.
 
-Class emojis:
-
-- 🏢: Business Administration, Development Methodology, Management
-- 🌐: Web Technology incl. Web Frameworks
-- ☁️: Cloud, Cloud Native, Container, DevOps/SRE
-- 🔐: Security, Privacy
-- 🐛: Malware, Virus, Security Incident
-- 📊: Data Science, Databases, Data Platforms
-- 🧠: AI, Machine Learning, Large Language Models
-- 🖥️: Shell, Scripting, Terminal, IDE, Developer Productivity
-- ⚙️: System Administration, OS, VM, Network Infrastructure
-- 📜: Programming Paradigms, Programming Concepts, Libraries
-- 🩷: Others
+See the "Class emojis" list in `AGENTS.md` for the available classes.
 
 Example:
 

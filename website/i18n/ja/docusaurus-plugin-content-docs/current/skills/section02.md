@@ -257,6 +257,7 @@
   - [Gin Web Framework](https://gin-gonic.com/) - Go で書かれたウェブフレームワークです
   - [Gorilla web toolkit](https://www.gorillatoolkit.org/) - HTTP ベースのアプリケーション記述向けに有用で構成可能なパッケージを提供する有益なツールキットです
   - [Yokai](https://ankorstore.github.io/yokai/) - バックエンドアプリケーション向けのシンプルでモジュール式で監視可能な Go フレームワークです
+  - [Kratos](https://github.com/go-kratos/kratos) - トランスポート、ミドルウェア、レジストリ、設定、ロギング、コード生成のための API を備えた、クラウドネイティブなマイクロサービスを構築するための軽量な Go フレームワークです
 - Python バックエンドフレームワーク及びサーバー
   - [WSGI](https://wsgi.readthedocs.io/en/latest/index.html) - Web Server Gateway Interface
     - [Gunicorn](https://gunicorn.org/) - UNIX 向けの Python WSGI HTTP サーバーです

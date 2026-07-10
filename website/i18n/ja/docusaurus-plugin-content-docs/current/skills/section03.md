@@ -264,6 +264,7 @@
 - K8s オペレーター
   - [Prometheus Operator](https://prometheus-operator.dev/) - Kubernetes 上で Prometheus クラスターを作成/設定/管理するオペレーター
     - [kube-prometheus](https://github.com/prometheus-operator/kube-prometheus) - エンドツーエンドの Kubernetes クラスター監視を簡単に操作できるよう、ドキュメントとスクリプトを組み合わせた Kubernetes マニフェスト、Grafana ダッシュボード、Prometheus ルールのコレクション
+  - [Grafana Operator](https://grafana.github.io/grafana-operator/) - Kubernetes と OpenShift 環境でカスタムリソースを通じて Grafana インスタンス、ダッシュボード、データソースの管理を効率化する Kubernetes オペレーター
   - [OpenTelemetry Operator](https://opentelemetry.io/docs/kubernetes/operator/) - OpenTelemetry のための Kubernetes Operator の実装
   - [Elastic Cloud on Kubernetes (ECK)](https://www.elastic.co/elastic-cloud-kubernetes) - Kubernetes 上の Elastic Stack の公式オペレーター
   - [Rook](https://rook.io/) - Kubernetes 向けのオープンソースのクラウドネイティブストレージオーケストレーター
@@ -450,6 +451,7 @@
 - 可視化ツール
   - [Grafana](https://grafana.com/oss/grafana/) - オープンソースのデータ可視化 & モニタリングソリューション
     - [Grafonnet](https://grafana.github.io/grafonnet/) - Grafana ダッシュボードを生成するための Jsonnet ライブラリ
+    - [gcx](https://github.com/grafana/gcx) - Grafana Cloud、Enterprise、セルフホスト環境全体で、ダッシュボード、アラート、SLO、メトリクス、ログ、トレースといった Grafana リソースへの構造化されたアクセスを提供し、オブザーバビリティ主導の開発ワークフローのために AI コーディングエージェントと統合する CLI ツール
   - [Kibana](https://www.elastic.co/kibana) - Elasticsearch データを可視化し、Elastic Stack を操作できる無料のオープンユーザーインターフェース
 
 ### テレメトリ送信

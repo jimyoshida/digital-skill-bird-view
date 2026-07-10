@@ -43,6 +43,7 @@
   - [Azure Boards](https://learn.microsoft.com/en-us/azure/devops/boards/) - A service that provides a customizable platform for managing work items, allowing teams to collaborate effectively and streamline their workflow
   - [GitHub Issues](https://github.com/features/issues) - A tracking tool that helps you manage your work on GitHub
   - [Redmine](https://www.redmine.org/) - A free and open source, web-based project management and issue tracking tool
+  - [OpenProject](https://www.openproject.org/) - The open source project management software for classic, agile or hybrid project management
 - Collaborative Work Management
   - [Asana](https://asana.com/) - The platform for human and AI collaboration that helps teams coordinate work and keep projects moving
   - [monday.com](https://monday.com/) - A secure work platform where people and agents drive results together across departments and use cases
@@ -129,6 +130,9 @@
     - [Affinity diagram](https://en.wikipedia.org/wiki/Affinity_diagram) - A business tool used to organize ideas and data
     - [Brainstorming](https://en.wikipedia.org/wiki/Brainstorming) - A group creativity technique by which efforts are made to find a conclusion for a specific problem by gathering a list of ideas spontaneously contributed by its members
     - [SCAMPER](https://en.wikipedia.org/wiki/SCAMPER) - A structured way of assisting students to think out of the box and enhance their knowledge
+    - [How Might We (HMW)](https://ixdf.org/literature/topics/how-might-we) - A design thinking method that allows designers to reframe and open up their problem statements for efficient, targeted and innovative ideation sessions to help solve design challenges
+    - [First principle](https://en.wikipedia.org/wiki/First_principle) - A basic proposition or assumption that cannot be deduced from any other proposition or assumption
+    - [Jobs to Be Done (JTBD)](https://www.christenseninstitute.org/theory/jobs-to-be-done/) - A lens that reveals the circumstances that drive people and organizations toward and away from decisions
 
 ### Marketing Technology
 
@@ -285,6 +289,7 @@
   - [MediaWiki](https://www.mediawiki.org/wiki/MediaWiki) - A free and open-source wiki software
   - [Ibis](https://ibis.wiki/) - A federated encyclopedia which uses the ActivityPub protocol, just like Mastodon or Lemmy
   - [Outline](https://www.getoutline.com/) - The knowledge base platform that helps teams organize documents, collaborate in real-time, and search across their workspace with AI-powered question answering
+  - [LeafWiki](https://leafwiki.com/) - A real wiki app without the heavy stack, storing Markdown files on disk without requiring a database server
 
 ## Enterprise AI & Productivity
 

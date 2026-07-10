@@ -82,7 +82,8 @@ Class emojis:
 🖥️: Shell, Terminal, IDE, Developer Productivity
 ⚙️: System Administration, OS, VM, Network Infrastructure
 📜: Programming Paradigms, Programming Concepts, Libraries
-🩷: Human Science, Social Science, and Others
+🎨: UX, Design & Cognitive Science
+🧩: Others
 
 <Contents_Example>
 🧠 Claude Code, Anthropic's AI-powered command-line coding assistant, was first introduced as a beta research preview alongside Claude 3.7 Sonnet on February 24, 2025. It then became generally available on May 22, 2025

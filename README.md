@@ -31,7 +31,8 @@ In addition to the skill categories above, this site provides [chronological tim
 - 🖥️ Shell, Terminal, IDE, Developer Productivity
 - ⚙️ System Administration, OS, VM, Network Infrastructure
 - 📜 Programming Paradigms, Programming Concepts, Libraries
-- 🩷 Human Science, Social Science, Others
+- 🎨 UX, Design & Cognitive Science
+- 🧩 Others
 
 These timelines help trace the evolution of technologies listed in the skill sections and provide historical context for understanding current trends in software development and digital transformation.
 

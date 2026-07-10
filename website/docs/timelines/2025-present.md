@@ -10,7 +10,9 @@ sidebar_position: 7
 
 🧠 On January 30, 2025, Google released Gemini 2.0 Flash as the new default model, with Gemini 1.5 Flash still available for usage. This was followed by the release of Gemini 2.0 Pro on February 5, 2025.
 
-🧠 GitHub officially introduced Copilot Agent Mode on February 6, 2025, as part of a major announcement highlighting new autonomous workflows and productivity enhancements for developers. Subsequently, on February 24, 2025, GitHub released a follow-up blog post confirming availability in VS Code Stable/Insiders, marking its first broader rollout beyond early access.
+🧠 GitHub officially introduced Copilot Agent Mode on February 6, 2025, as part of a major announcement highlighting new autonomous workflows and productivity enhancements for developers. Subsequently, on February 24, 2025, GitHub released a follow-up blog post confirming availability in VS Code Stable/Insiders, marking its first broader rollout beyond early access.
+
+🧠 In February 2025, Amazon introduced Alexa+, the latest version of its voice assistant powered by generative AI and free for all Prime members; the same announcement revealed that Anthropic's Claude models were incorporated into Alexa+.
 
 🧠 Devin 2.0 was released on April 3, 2025, introducing a new agent-native IDE experience that lets users run multiple parallel Devins, while cutting the starting price from $500 to $20 per month.
 
@@ -22,17 +24,19 @@ sidebar_position: 7
 
 ☁️ On May 6, 2025, Grafana k6 v1.0.0 was released after 9 years of iteration and countless community contributions.
 
+🧠 At Config 2025 on May 7, 2025, Figma unveiled a suite of AI-powered tools including Figma Sites, Figma Buzz, Figma Draw, and Figma Make, an AI tool that turns prompts into working apps and is powered by Anthropic's Claude 3.7 Sonnet model.
+
 🧠 On May 17, 2025, GitHub announced the GitHub Copilot coding agent, a more autonomous mode of operation that can be assigned issues and open pull requests on a developer's behalf.
 
 🧠 At Microsoft Build 2025 on May 19, 2025, GitHub announced that GitHub Copilot now includes an asynchronous coding agent, embedded directly in GitHub and accessible from VS Code, which excels at low-to-medium complexity tasks by spinning up secure development environments powered by GitHub Actions.
 
-🧠 Claude Code, Anthropic's AI-powered command-line coding assistant, was first introduced as a beta research preview alongside Claude 3.7 Sonnet on February 24, 2025. It then became generally available on May 22, 2025.
+🖥️ Claude Code, Anthropic's AI-powered command-line coding assistant, was first introduced as a beta research preview alongside Claude 3.7 Sonnet on February 24, 2025. It then became generally available on May 22, 2025.
 
 🧠 The release of Claude 4 (Opus and Sonnet) on May 22, 2025, further integrated computer use capabilities into the model's core agentic workflows, featuring improved pixel-counting and reduced latency.
 
 🧠 On June 17, 2025, Google announced general availability for 2.5 Pro and Flash. They also introduced Gemini 2.5 Flash-Lite that same day, a model optimized for speed and cost-efficiency.
 
-🧠 Gemini CLI was officially launched by Google on June 25, 2025, as an open-source command-line interface for Gemini 2.5 Pro, enabling AI-powered coding, debugging, research, and more directly in terminal environments.
+🖥️ Gemini CLI was officially launched by Google on June 25, 2025, as an open-source command-line interface for Gemini 2.5 Pro, enabling AI-powered coding, debugging, research, and more directly in terminal environments.
 
 📜 Jakarta EE 11, released on June 26, 2025, modernized the platform around Java SE 21 and 17, adding the Jakarta Data specification for streamlined data access.
 
@@ -88,19 +92,15 @@ sidebar_position: 7
 
 ## 2026
 
-🖥️ "Agent Skills" were first introduced as a preview feature in the v0.23.0 release of Gemini CLI on January 7, 2026, allowing users to extend the agent with specialized expertise via `SKILL.md` files.
-
 🧠 Mastra 1.0, an all-in-one open-source TypeScript framework for building, iterating, and deploying AI agents, was released on January 20, 2026. Developed by the team behind Gatsby, it provides integrated tools for workflows, RAG, memory, and observability.
-
-🖥️ The Gemini CLI Skills feature was officially promoted to the stable channel in the v0.26.0 release on January 27, 2026, which also introduced the built-in `skill-creator` tool for generating new agent capabilities.
-
-🖥️ In late January 2026, the Gemini CLI added the `/rewind` command and persistent tool execution policies to complement the new agentic workflows enabled by the Skills framework.
 
 🧠 Support for Anthropic's Claude models within the GitHub Copilot Agent and enhanced multi-agent session management were introduced in the January 2026 release (v1.109) of Visual Studio Code.
 
 🧠 GPT-5.3-Codex, a large language model by OpenAI focused on code generation, speed, and the ability to search repositories, run terminal commands, and debug code, was released on February 5, 2026. Positioned against Anthropic's Claude Opus 4.6 and reported to be 25% faster on technical benchmarks, it was initially available only to ChatGPT Pro subscribers.
 
 ☁️ On February 6, 2026, Salesforce moved Heroku into sustaining engineering mode, ceasing new feature development and limiting the platform to maintenance, security patches, and stability fixes only.
+
+🧠 On February 17, 2026, Figma partnered with Anthropic to launch Code to Canvas, a feature that converts code generated by AI tools like Claude Code into fully editable, native Figma layers, components, and auto-layout groups.
 
 🧠 The February 2026 release (v1.110) of Visual Studio Code introduced "Agent Plugins," experimental "Agentic Browser Tools," and the ability for agents to share memory across different sessions for GitHub Copilot.
 
@@ -116,11 +116,15 @@ sidebar_position: 7
 
 ⚙️ Linux 7.0 was released on April 12, 2026, as the latest major stable version, continuing the kernel's evolution with advanced hardware support and further integration of memory-safe programming languages.
 
+🧠 Anthropic launched Claude Design on April 17, 2026, a new Anthropic Labs product powered by Claude Opus 4.7 that lets users collaborate with Claude to create polished visual work like designs, prototypes, slides, and one-pagers, available in research preview on the Pro, Max, Team, and Enterprise plans.
+
 🧠 GPT-5.5, a major update to OpenAI's GPT-5 series, was released on April 23, 2026, representing a significant leap in capabilities with improved reasoning, multimodal understanding, and agentic features. API availability was announced on April 24, 2026, bringing the latest model to developers through OpenAI's API endpoints.
 
 🧠 Google announced Antigravity 2.0 at Google I/O on May 19, 2026, introducing Antigravity CLI as a Go-based terminal agent that replaces Gemini CLI, providing a lightweight interface to the same agent runtime used by the desktop app.
 
 🧠 On June 2, 2026, Anthropic expanded access to Claude Mythos for cyber-security, making it available to 150 organisations.
+
+🧠 On June 4, 2026, Anthropic published "When AI builds itself," an Anthropic Institute paper stating that more than 80% of the code merged into its own codebase was now authored by Claude, up from low single digits when Claude Code launched in February 2025, and mapping a path toward "recursive self-improvement," a process in which AI systems could autonomously design, build, and train their own successors; the paper called for a verifiable global pause mechanism to let alignment research and societal structures keep pace with the technology.
 
 🧠 On June 9, 2026, Anthropic released Claude Fable 5, a Mythos-class model that it had made safe for general use, alongside the restricted Claude Mythos 5; the model shipped with a 1 million token context window and up to 128,000 output tokens per request.
 

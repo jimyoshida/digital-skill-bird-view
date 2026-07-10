@@ -168,6 +168,7 @@
   - [Consensus](https://en.wikipedia.org/wiki/Consensus_(computer_science)) - A fault-tolerant mechanism that is used in distributed systems to achieve the necessary agreement on a single data value among distributed processes or systems
 - [CAP theorem](https://en.wikipedia.org/wiki/CAP_theorem) - A theorem stating that any distributed data store can provide only two of the following three guarantees: Consistency, Availability, and Partition tolerance
 - [BASE properties](https://aws.amazon.com/compare/the-difference-between-acid-and-base-database/) - A database model that prioritizes availability over consistency
+- [Amdahl's law](https://en.wikipedia.org/wiki/Amdahl%27s_law) - A formula limiting the speedup of a task as resources are added to the system executing that task
 
 ### Consensus & Replication Strategies
 

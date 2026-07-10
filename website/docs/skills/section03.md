@@ -265,6 +265,7 @@
 - K8s Operators
   - [Prometheus Operator](https://prometheus-operator.dev/) - The operator that creates/configures/manages Prometheus clusters atop Kubernetes
     - [kube-prometheus](https://github.com/prometheus-operator/kube-prometheus) - A collection of Kubernetes manifests, Grafana dashboards, and Prometheus rules combined with documentation and scripts to provide easy to operate end-to-end Kubernetes cluster monitoring
+  - [Grafana Operator](https://grafana.github.io/grafana-operator/) - A Kubernetes operator that streamlines the management of Grafana instances, dashboards, and data sources through custom resources in Kubernetes and OpenShift environments
   - [OpenTelemetry Operator](https://opentelemetry.io/docs/kubernetes/operator/) - An implementation of a Kubernetes Operator for OpenTelemetry
   - [Elastic Cloud on Kubernetes (ECK)](https://www.elastic.co/elastic-cloud-kubernetes) - The official operator for the Elastic Stack on Kubernetes
   - [Rook](https://rook.io/) - An open source cloud-native storage orchestrator for Kubernetes
@@ -453,6 +454,7 @@
 - Visualization Tools
   - [Grafana](https://grafana.com/oss/grafana/) - The open source data visualization and monitoring solution
     - [Grafonnet](https://grafana.github.io/grafonnet/) - A Jsonnet library for generating Grafana dashboards
+    - [gcx](https://github.com/grafana/gcx) - A CLI tool that provides structured access to Grafana resources—dashboards, alerts, SLOs, metrics, logs, and traces—and integrates with AI coding agents for observability-driven development workflows across Grafana Cloud, Enterprise, and self-hosted instances
   - [Kibana](https://www.elastic.co/kibana) - A free and open user interface that lets you visualize your Elasticsearch data and navigate the Elastic Stack
 
 ### Telemetry Shipment

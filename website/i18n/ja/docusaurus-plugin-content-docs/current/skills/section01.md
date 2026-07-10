@@ -43,6 +43,7 @@
   - [Azure Boards](https://learn.microsoft.com/en-us/azure/devops/boards/) - 作業項目を管理するためのカスタマイズ可能なプラットフォームを提供し、チームが効果的に協力し、ワークフローを合理化できるサービス
   - [GitHub Issues](https://github.com/features/issues) - GitHub で作業を管理するのに役立つ追跡ツール
   - [Redmine](https://www.redmine.org/) - 無料でオープンソースのウェブベースのプロジェクト管理および課題追跡ツール
+  - [OpenProject](https://www.openproject.org/) - クラシック、アジャイル、またはハイブリッドなプロジェクト管理向けのオープンソースプロジェクト管理ソフトウェア
 - 協調作業管理
   - [Asana](https://asana.com/) - チームが作業を調整し、プロジェクトを進行させるのに役立つ人間と AI の協力のためのプラットフォーム
   - [monday.com](https://monday.com/) - 人々とエージェントが部門と使用事例全体で結果を導く安全な作業プラットフォーム
@@ -129,6 +130,9 @@
     - [Affinity diagram](https://en.wikipedia.org/wiki/Affinity_diagram) - アイデアと情報を組織化するために使用されるビジネスツール
     - [Brainstorming](https://en.wikipedia.org/wiki/Brainstorming) - 特定の問題の結論を見つけるための取り組みが行われるグループ創造性技法（そのメンバーによって自発的に寄付されたアイデアのリストを集める）
     - [SCAMPER](https://en.wikipedia.org/wiki/SCAMPER) - 学生が固定観念にとらわれず、知識を高めるのに役立つ構造化された方法
+    - [How Might We (HMW)](https://ixdf.org/literature/topics/how-might-we) - 効率的で的を絞った革新的なアイデア創出セッションのために、デザイナーが問題提起を再構成し広げられるようにするデザイン思考の手法
+    - [First principle](https://en.wikipedia.org/wiki/First_principle) - 他のいかなる命題や仮定からも導き出すことができない基本的な命題や仮定
+    - [Jobs to Be Done (JTBD)](https://www.christenseninstitute.org/theory/jobs-to-be-done/) - 人々や組織を意思決定へと向かわせたり遠ざけたりする状況を明らかにするレンズ
 
 ### マーケティング技術
 
@@ -285,6 +289,7 @@
   - [MediaWiki](https://www.mediawiki.org/wiki/MediaWiki) - 無料でオープンソースのウィキソフトウェア
   - [Ibis](https://ibis.wiki/) - ActivityPub プロトコルを使用するフェデレーション百科事典（Mastodon または Lemmy のような）
   - [Outline](https://www.getoutline.com/) - チームがドキュメントを整理し、リアルタイムで共同作業し、AI 駆動型の質問応答を備えたワークスペース全体で検索するのに役立つ知識ベースプラットフォーム
+  - [LeafWiki](https://leafwiki.com/) - データベースサーバーを必要とせず、Markdown ファイルをディスクに保存する、重量級のスタックを持たない本物のウィキアプリ
 
 ## エンタープライズ AI・生産性
 

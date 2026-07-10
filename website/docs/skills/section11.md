@@ -175,6 +175,7 @@
   - [zlib-rs](https://github.com/trifectatechfoundation/zlib-rs) - A safer zlib
   - [snappy](https://google.github.io/snappy/) - A compression/decompression library that aims for very high speeds and reasonable compression
   - [rubyzip](https://github.com/rubyzip/rubyzip) - A ruby library for reading and writing zip files
+  - [klauspost/compress](https://github.com/klauspost/compress) - A package that provides various compression algorithms including zstandard, S2, optimized deflate (gzip, zip, zlib), snappy, and entropy encoding for Go
 
 ## Document Processing
 
