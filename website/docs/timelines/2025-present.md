@@ -12,6 +12,8 @@ sidebar_position: 7
 
 🧠 GitHub officially introduced Copilot Agent Mode on February 6, 2025, as part of a major announcement highlighting new autonomous workflows and productivity enhancements for developers. Subsequently, on February 24, 2025, GitHub released a follow-up blog post confirming availability in VS Code Stable/Insiders, marking its first broader rollout beyond early access.
 
+🖥️ fish 4.0.0 was released on February 27, 2025, rewritten in Rust from the previous C++ implementation, marking the largest architectural change in the shell's history.
+
 🧠 In February 2025, Amazon introduced Alexa+, the latest version of its voice assistant powered by generative AI and free for all Prime members; the same announcement revealed that Anthropic's Claude models were incorporated into Alexa+.
 
 🧠 Devin 2.0 was released on April 3, 2025, introducing a new agent-native IDE experience that lets users run multiple parallel Devins, while cutting the starting price from $500 to $20 per month.

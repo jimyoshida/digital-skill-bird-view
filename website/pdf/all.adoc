@@ -36,9 +36,9 @@ include::tmp/docs/skills/section11.adoc[]
 
 include::tmp/docs/skills/section12.adoc[]
 
-include::tmp/docs/timelines/1930-84.adoc[]
+include::tmp/docs/timelines/1930-89.adoc[]
 
-include::tmp/docs/timelines/1985-99.adoc[]
+include::tmp/docs/timelines/1990-99.adoc[]
 
 include::tmp/docs/timelines/2000-09.adoc[]
 
