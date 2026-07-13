@@ -1,6 +1,7 @@
 import clsx from 'clsx';
 import Link from '@docusaurus/Link';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
+import useBaseUrl from '@docusaurus/useBaseUrl';
 import Layout from '@theme/Layout';
 import HomepageFeatures from '@site/src/components/HomepageFeatures';
 import HomepageMotivation from '@site/src/components/HomepageMotivation';
@@ -10,8 +11,11 @@ import styles from './index.module.css';
 
 function HomepageHeader() {
   const {siteConfig} = useDocusaurusContext();
+  const heroBg = useBaseUrl('/img/future-dx.jpg');
   return (
-    <header className={clsx('hero hero--primary', styles.heroBanner)}>
+    <header
+      className={clsx('hero hero--primary', styles.heroBanner)}
+      style={{backgroundImage: `url(${heroBg})`}}>
       <div className="container">
         <Heading as="h1" className="hero__title">
           {siteConfig.title}
@@ -33,8 +37,8 @@ export default function Home() {
   const {siteConfig} = useDocusaurusContext();
   return (
     <Layout
-      title={`Hello from ${siteConfig.title}`}
-      description="Description will go into a meta tag in <head />">
+      title={siteConfig.tagline}
+      description="An open, curated landscape and timeline of the concepts, tools, and platforms behind modern software development, DevOps, and AI-driven DX.">
       <HomepageHeader />
       <main>
         <HomepageMotivation />

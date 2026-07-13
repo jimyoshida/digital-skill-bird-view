@@ -12,8 +12,9 @@
 ### プロジェクト計画と見積もり
 
 - [Project management](https://en.wikipedia.org/wiki/Project_management) - チームの作業を主導して、プロジェクトのすべての目標を与えられた制約内で達成するプロセス
+  - [PMBOK (Project Management Body of Knowledge)](https://en.wikipedia.org/wiki/A_Guide_to_the_Project_Management_Body_of_Knowledge) - プロジェクトマネジメントのための標準用語およびガイドラインのセット
+  - [Project charter](https://en.wikipedia.org/wiki/Project_charter) - プロジェクトの範囲、目的、および参加者に関する声明
   - [Critical chain project management](https://en.wikipedia.org/wiki/Critical_chain_project_management) - プロジェクトタスクを実行するために必要なリソース（人員、機器、物理的スペース）を強調するプロジェクト計画および管理の方法
-  - [Gantt Chart](https://en.wikipedia.org/wiki/Gantt_chart) - プロジェクトスケジュールを示す棒グラフで、タスクを縦軸に時間間隔を横軸に表示し、棒の幅が活動期間を示しており、しばしばタスク依存関係を示す
   - [Program evaluation and review technique (PERT)](https://en.wikipedia.org/wiki/Program_evaluation_and_review_technique) - プロジェクト完了に関わるタスクを分析および表現するための統計的ツール
   - [Work breakdown structure](https://en.wikipedia.org/wiki/Work_breakdown_structure) - プロジェクトをより小さなコンポーネントに分解した成果物中心の分解
   - [RACI matrix](https://en.wikipedia.org/wiki/Responsibility_assignment_matrix) - プロジェクトまたはビジネスプロセスのタスクまたは成果物を完了する際に、様々な役割による参加を説明する責任分配マトリックス
@@ -143,6 +144,12 @@
   - [Plausible](https://plausible.io/) - 直感的で軽量でオープンソースのウェブ分析
   - [Umami](https://umami.is/) - Google Analytics に対するシンプルで高速でプライバシー重視の代替案
   - [Ackee](https://ackee.electerious.com/) - プライバシーを気にする人のための自己ホスト型プライバシー重視の分析ツール
+- カスタマーデータプラットフォーム
+  - [Customer data platform](https://en.wikipedia.org/wiki/Customer_data_platform) - 様々なタッチポイントから顧客データを集約・整理し、統合された顧客プロファイルを構築するソフトウェアシステム
+  - [Twilio Segment](https://www.twilio.com/en-us/segment) - 複数のソースおよびデスティネーションにまたがって顧客データを収集、統合、活用し、パーソナライズされた体験を作成できるようにするカスタマーデータプラットフォーム
+- マーケティングオートメーション
+  - [Marketing automation](https://en.wikipedia.org/wiki/Marketing_automation) - マーケティング部門や組織が定型業務を自動化するために設計されたソフトウェアプラットフォームおよびテクノロジー
+  - [Klaviyo](https://en.wikipedia.org/wiki/Klaviyo) - アメリカのマーケティングオートメーションプラットフォーム兼メールマーケティングサービス
 - 広告プラットフォーム
   - [Google Ads](https://ads.google.com/home/) - 広告主が入札して簡潔な広告、サービス提供、プロダクトリスト、またはビデオをウェブユーザーに表示するオンライン広告プラットフォーム
   - [Google AdSence](https://adsense.google.com/start/) - Google が管理するプログラム（Google コンテンツサイトのネットワーク内のウェブサイト発行者が、サイトコンテンツおよびオーディエンスをターゲットとしたテキスト、画像、ビデオ、またはインタラクティブメディア広告を提供する）

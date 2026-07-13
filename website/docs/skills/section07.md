@@ -53,6 +53,7 @@
 - [Lean manufacturing](https://en.wikipedia.org/wiki/Lean_manufacturing) - A production method aimed primarily at reducing times within the production system as well as response times from suppliers and to customers
   - The 7 Wastes: The activities that add no value for the customer
   - [Value-stream mapping](https://en.wikipedia.org/wiki/Value-stream_mapping) - A lean-management method for analyzing the current state and designing a future state for the series of events that take a product or service from the beginning of the specific process until it reaches the customer
+  - [ECRS (Eliminate, Combine, Rearrange, Simplify)](https://www.creativesafetysupply.com/glossary/ecrs/) - A flexible continuous improvement strategy that allows for instant application of solutions to production lines
 - [Toyota Production System](https://en.wikipedia.org/wiki/Toyota_Production_System) - An integrated socio-technical system, developed by Toyota, that comprises its management philosophy and practices
   - [Kanban](https://en.wikipedia.org/wiki/Kanban_(development)) - A lean method to manage and improve work across human systems
   - [Kaizen](https://en.wikipedia.org/wiki/Kaizen) - A philosophy that focuses on continuous, incremental improvement of all functions and involves all employees from the CEO to the assembly line workers

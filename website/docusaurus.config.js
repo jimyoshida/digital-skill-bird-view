@@ -57,12 +57,12 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
-      image: 'img/docusaurus-social-card.jpg',
+      image: 'img/future-dx.jpg',
       navbar: {
         title: 'Home',
         logo: {
-          alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          alt: 'Future DX Logo',
+          src: 'img/logo-future-dx.png',
         },
         items: [
           {
@@ -87,11 +87,43 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Docs',
+            title: 'References',
             items: [
               {
-                label: 'Home',
-                to: '/docs/intro',
+                label: 'Level Up Coding',
+                href: 'https://levelup.gitconnected.com/',
+              },
+              {
+                label: 'ITNEXT',
+                href: 'https://itnext.io/',
+              },
+              {
+                label: 'FAUN',
+                href: 'https://faun.pub/',
+              },
+              {
+                label: 'Thoughtworks Technology Radar',
+                href: 'https://www.thoughtworks.com/radar',
+              },
+              {
+                label: 'Developer Roadmaps',
+                href: 'https://roadmap.sh',
+              },
+              {
+                label: 'Golang Weekly',
+                href: 'https://golangweekly.com/',
+              },
+              {
+                label: 'Ruby Weekly',
+                href: 'https://rubyweekly.com/',
+              },
+              {
+                label: 'Postgres Weekly',
+                href: 'https://postgresweekly.com/',
+              },
+              {
+                label: 'Tony Lixu on Medium',
+                href: 'https://medium.com/@tonylixu',
               },
             ],
           },

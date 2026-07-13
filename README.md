@@ -22,6 +22,7 @@ This site aims to provide a comprehensive overview of concepts, techniques, tool
 In addition to the skill categories above, this site provides [chronological timelines](timelines/2025-present.md) documenting significant technology events, product releases, and industry milestones from 1930 to the present. Each entry is categorized by domain using emojis:
 
 - 🏢 Business Administration, Development Methodology, Management
+- 🎨 UX, Design & Cognitive Science
 - 🌐 Web Technology incl. Web Frameworks
 - ☁️ Cloud, Cloud Native, Container, DevOps/SRE
 - 🔐 Security, Privacy
@@ -31,7 +32,6 @@ In addition to the skill categories above, this site provides [chronological tim
 - 🖥️ Shell, Terminal, IDE, Developer Productivity
 - ⚙️ System Administration, OS, VM, Network Infrastructure
 - 📜 Programming Paradigms, Programming Concepts, Libraries
-- 🎨 UX, Design & Cognitive Science
 - 🧩 Others
 
 These timelines help trace the evolution of technologies listed in the skill sections and provide historical context for understanding current trends in software development and digital transformation.

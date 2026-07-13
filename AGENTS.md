@@ -73,6 +73,7 @@ Each entry starts with one of the following class emoji.
 Class emojis:
 
 🏢: Business Administration, Development Methodology, Management
+🎨: UX, Design & Cognitive Science
 🌐: Web Technology incl. Web Frameworks
 ☁️: Cloud, Cloud Native, Container, DevOps/SRE
 🔐: Security, Privacy
@@ -82,7 +83,6 @@ Class emojis:
 🖥️: Shell, Terminal, IDE, Developer Productivity
 ⚙️: System Administration, OS, VM, Network Infrastructure
 📜: Programming Paradigms, Programming Concepts, Libraries
-🎨: UX, Design & Cognitive Science
 🧩: Others
 
 <Contents_Example>

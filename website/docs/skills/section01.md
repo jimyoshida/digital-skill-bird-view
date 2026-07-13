@@ -12,8 +12,9 @@
 ### Project Planning & Estimation
 
 - [Project management](https://en.wikipedia.org/wiki/Project_management) - The process of leading the work of a team to achieve all project goals within the given constraints
+  - [PMBOK (Project Management Body of Knowledge)](https://en.wikipedia.org/wiki/A_Guide_to_the_Project_Management_Body_of_Knowledge) - A set of standard terminology and guidelines for project management
+  - [Project charter](https://en.wikipedia.org/wiki/Project_charter) - A statement of the scope, objectives, and participants in a project
   - [Critical chain project management](https://en.wikipedia.org/wiki/Critical_chain_project_management) - A method of planning and managing projects that emphasizes the resources (people, equipment, physical space) required to execute project tasks
-  - [Gantt Chart](https://en.wikipedia.org/wiki/Gantt_chart) - A bar chart illustrating a project schedule, displaying tasks on the vertical axis and time intervals on the horizontal axis, with bar widths indicating activity durations and often showing task dependencies
   - [Program evaluation and review technique (PERT)](https://en.wikipedia.org/wiki/Program_evaluation_and_review_technique) - A statistical tool used in project management to analyze and represent the tasks involved in completing a project
   - [Work breakdown structure](https://en.wikipedia.org/wiki/Work_breakdown_structure) - A deliverable-oriented breakdown of a project into smaller components
   - [RACI matrix](https://en.wikipedia.org/wiki/Responsibility_assignment_matrix) - A responsibility assignment matrix that describes the participation by various roles in completing tasks or deliverables for a project or business process
@@ -143,6 +144,12 @@
   - [Plausible](https://plausible.io/) - Intuitive, lightweight and open source web analytics
   - [Umami](https://umami.is/) - A simple, fast, privacy-focused alternative to Google Analytics
   - [Ackee](https://ackee.electerious.com/) - Self-hosted, privacy-focused analytics tool for those who care about privacy
+- Customer Data Platforms
+  - [Customer data platform](https://en.wikipedia.org/wiki/Customer_data_platform) - A software system that aggregates and organizes customer data from various touchpoints to build a unified customer profile
+  - [Twilio Segment](https://www.twilio.com/en-us/segment) - A customer data platform that enables businesses to collect, unify, and activate customer data across multiple sources and destinations to create personalized experiences
+- Marketing Automation
+  - [Marketing automation](https://en.wikipedia.org/wiki/Marketing_automation) - Software platforms and technologies designed for marketing departments and organizations to automate repetitive tasks
+  - [Klaviyo](https://en.wikipedia.org/wiki/Klaviyo) - An American marketing automation platform and email marketing service
 - Advertising Platforms
   - [Google Ads](https://ads.google.com/home/) - An online advertising platform where advertisers bid to display brief advertisements, service offerings, product listings, or videos to web users
   - [Google AdSence](https://adsense.google.com/start/) - A program run by Google through which website publishers in the Google Network of content sites serve text, images, video, or interactive media advertisements that are targeted to the site content and audience
