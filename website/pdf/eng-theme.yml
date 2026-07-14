@@ -12,7 +12,7 @@ header:
   border_color: CCCCCCC
   border_style: solid # solid, dashed, dotted
   font_size: 9
-  font_family: Helvetica
+  font_family: Noto Sans
   font_color: "666666"
 
   # Content for right-hand pages (recto)
@@ -29,8 +29,24 @@ header:
     right:
       content: '{section-title}'
 
+font:
+  catalog:
+    merge: true
+    Noto Sans:
+      normal: GEM_FONTS_DIR/notosans-regular-subset.ttf
+      bold: GEM_FONTS_DIR/notosans-bold-subset.ttf
+      italic: GEM_FONTS_DIR/notosans-italic-subset.ttf
+      bold_italic: GEM_FONTS_DIR/notosans-bold_italic-subset.ttf
+    Noto Emoji:
+      normal: NotoEmoji-Regular.ttf
+      bold: NotoEmoji-Regular.ttf
+      italic: NotoEmoji-Regular.ttf
+      bold_italic: NotoEmoji-Regular.ttf
+  fallbacks:
+    - Noto Emoji
+
 base:
-  font_family: Helvetica
+  font_family: Noto Sans
   font_size: 11 # Default font size in points (pt)
   font_color: "333333" # Hex color for default text
   line_height_length: 16 # Absolute line height in points

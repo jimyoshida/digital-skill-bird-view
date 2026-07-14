@@ -4,37 +4,45 @@ section01: Business Transformation
     # Prioritization
     # Work & Issue Tracking
     # Team Collaboration
-    # Standards & Maturity
+    # Process Maturity & Quality Standards
   # Product Management
-    # Product Strategy
+    # Product Strategy & Roadmapping
     # Requirements Analysis
     # Marketing & Customer Experience
     # Marketing Technology
-    # Product Roadmapping
-    # IT Service Management
   # Metrics & Performance
     # Goal Setting Frameworks
-    # Performance Measurement
+    # Product & Customer Metrics
+    # Engineering Performance Metrics
   # Enterprise Strategy & Architecture
-    # Enterprise Architecture & Administration
-    # Strategic Management
+    # Enterprise Architecture
+    # Enterprise Applications
+    # Organizational Change Management
+    # Strategic Analysis & Business Intelligence
     # Risk Management
-    # Knowledge Management
+    # IT Service Management
+  # Knowledge & Content Management
+    # Personal Knowledge Management
+    # Collaborative Workspaces & Wikis
+    # Content Management Systems
+    # Content Collaboration & File Sync
   # Enterprise AI & Productivity
-    # General Autonomous Agents
+    # Autonomous AI Workers
     # Enterprise AI Assistants
     # Self-Hosted AI Platforms
     # AI Content & Document Generation
     # AI Agent Registries
   # Human-Centered Design
     # Core Principles & User Experience (UX)
+    # User Research & Ideation
     # Cognitive & Behavioral Psychology
     # Visual Design & Typography
-    # Platforms, Frameworks & Guidelines
+    # Design Systems & Design Tools
     # Web Experience & Performance
-  # Systems Thinking: Economics, Game Theory & Finance
+  # Economics, Game Theory & Finance
     # Economics & Game Theory
-    # Finance & Accounting
+    # Corporate Finance & Markets
+    # Accounting & Financial Reporting
 section02: Web Application Development
   # Web Platform Fundamentals
     # Web Concepts

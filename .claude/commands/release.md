@@ -14,5 +14,5 @@ Perform the release of the current 'draft' branch onto 'main' with the following
 4. Present the proposed changes and the commit message to the user and ask for confirmation.
 5. If confirmed:
    a. Create the squash commit on the 'main' branch.
-   b. Push the 'main' branch to the 'official' and 'mirror' remotes.
+   b. Push the 'main' branch to the 'official' remote.
    c. Switch back to the 'draft' branch and merge 'main' into it to keep it synchronized.

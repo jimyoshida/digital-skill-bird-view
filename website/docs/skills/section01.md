@@ -61,7 +61,7 @@
   - [Mattermost](https://mattermost.com/) - An open source collaboration platform for developers, offering secure messaging, project management, and workflow orchestration
   - [Zoom](https://zoom.us/) - A video communications platform that provides video meetings, voice calls, webinars, and chat
 
-### Standards & Maturity
+### Process Maturity & Quality Standards
 
 - [CMMI (Capability Maturity Model Integration)](https://en.wikipedia.org/wiki/Capability_Maturity_Model_Integration) - A process level improvement training and appraisal program
 - [ISO 9001 (Quality management systems)](https://www.iso.org/iso-9001-quality-management.html) - The world's most established quality framework, defining the requirements for a quality management system that organizations wishing to meet the standard must fulfill
@@ -80,16 +80,19 @@
 
 :::
 
-### Product Strategy
+### Product Strategy & Roadmapping
 
 - [Product management](https://en.wikipedia.org/wiki/Product_management) - The business process of planning, developing, launching, and managing a product or service
 - [Lean startup](https://en.wikipedia.org/wiki/Lean_startup) - A methodology for developing businesses and products that aims to shorten product development cycles and rapidly discover if a proposed business model is viable
+- [Jobs to Be Done (JTBD)](https://www.christenseninstitute.org/theory/jobs-to-be-done/) - A lens that reveals the circumstances that drive people and organizations toward and away from decisions
 - [Crowdfunding](https://en.wikipedia.org/wiki/Crowdfunding) - The practice of funding a project or venture by raising money from a large number of people, typically via the internet
 - [Business model](https://en.wikipedia.org/wiki/Business_model) - The rationale of how an organization creates, delivers, and captures value, in economic, social, cultural or other contexts
   - [Direct-to-consumer](https://en.wikipedia.org/wiki/Direct-to-consumer) - A business model of selling products directly to customers and thereby bypassing any third-party retailers, wholesalers, or intermediaries
   - [Subscription business model](https://en.wikipedia.org/wiki/Subscription_business_model) - A business model in which a customer must pay a recurring price at regular intervals for access to a product or service
   - [Business model canvas](https://en.wikipedia.org/wiki/Business_model_canvas) - A strategic management template for developing new or documenting existing business models
   - [Lean Canvas](https://www.leanfoundry.com/tools/lean-canvas) - A one-page business modeling tool for entrepreneurs to quickly outline their business idea
+- [Technology roadmap](https://en.wikipedia.org/wiki/Technology_roadmap) - A flexible planning schedule to support strategic and long-range planning, by matching short-term and long-term goals with specific technology solutions
+  - [Aha!](https://www.aha.io/) - A suite of product development software that helps teams build and market products customers love
 
 ### Requirements Analysis
 
@@ -109,10 +112,6 @@
   - [Marketing mix](https://en.wikipedia.org/wiki/Marketing_mix) - A foundation model for businesses, historically centered around product, price, place, and promotion
   - [Fear of missing out (FOMO)](https://en.wikipedia.org/wiki/Fear_of_missing_out) - The feeling of apprehension that one is either not in the know about or missing out on information, events, experiences, or life decisions that could make one's life better
   - [Fear, uncertainty, and doubt (FUD)](https://en.wikipedia.org/wiki/Fear,_uncertainty,_and_doubt) - A manipulative propaganda tactic used in sales, marketing, public relations, politics, polling, and cults
-  - User experience research
-    - [Card sorting](https://en.wikipedia.org/wiki/Card_sorting) - A method used to help design or evaluate the information architecture of a site
-    - [A/B testing](https://en.wikipedia.org/wiki/A/B_testing) - A way to compare multiple versions of a single variable, for example by testing a subject's response to variant A against variant B, and determining which of the variants is more effective
-    - [Diary studies](https://www.nngroup.com/articles/diary-studies/) - A research method in which people record their experiences and activities over time
   - Advertising
     - Indicators
       - [Click through rate](https://en.wikipedia.org/wiki/Click-through_rate) - The ratio of users who click on a specific link to the number of total users who view a page, email, or advertisement
@@ -121,19 +120,9 @@
     - [Brand](https://en.wikipedia.org/wiki/Brand) - A name, term, design, symbol or any other feature that distinguishes one seller's goods or service from those of other sellers
     - [Customer experience](https://en.wikipedia.org/wiki/Customer_experience) - A customer's cognitive, emotional, sensory, and behavioral responses during all stages of interaction with a product or service
     - [Customer service](https://en.wikipedia.org/wiki/Customer_service) - The assistance and advice provided by a company to those who buy or use its products or services, either in person or remotely
-    - [Design thinking](https://en.wikipedia.org/wiki/Design_thinking) - The set of cognitive, strategic and practical processes by which design concepts are developed
-    - [User experience](https://en.wikipedia.org/wiki/User_experience) - A person's emotions and attitudes about using a particular product, system or service
-    - [Value chain](https://en.wikipedia.org/wiki/Value_chain) - A progression of activities that a business or firm performs in order to deliver goods and services of value to an end customer.
+    - [Value chain](https://en.wikipedia.org/wiki/Value_chain) - A progression of activities that a business or firm performs in order to deliver goods and services of value to an end customer
   - Tools for Strategy
     - [Value proposition canvas](https://www.strategyzer.com/library/the-value-proposition-canvas) - A tool to help you create products and services customers want
-    - [Persona](https://en.wikipedia.org/wiki/Persona_(user_experience)) - A fictional character created to represent a user type relationship
-  - Tools for Ideation
-    - [Affinity diagram](https://en.wikipedia.org/wiki/Affinity_diagram) - A business tool used to organize ideas and data
-    - [Brainstorming](https://en.wikipedia.org/wiki/Brainstorming) - A group creativity technique by which efforts are made to find a conclusion for a specific problem by gathering a list of ideas spontaneously contributed by its members
-    - [SCAMPER](https://en.wikipedia.org/wiki/SCAMPER) - A structured way of assisting students to think out of the box and enhance their knowledge
-    - [How Might We (HMW)](https://ixdf.org/literature/topics/how-might-we) - A design thinking method that allows designers to reframe and open up their problem statements for efficient, targeted and innovative ideation sessions to help solve design challenges
-    - [First principle](https://en.wikipedia.org/wiki/First_principle) - A basic proposition or assumption that cannot be deduced from any other proposition or assumption
-    - [Jobs to Be Done (JTBD)](https://www.christenseninstitute.org/theory/jobs-to-be-done/) - A lens that reveals the circumstances that drive people and organizations toward and away from decisions
 
 ### Marketing Technology
 
@@ -152,7 +141,7 @@
   - [Klaviyo](https://en.wikipedia.org/wiki/Klaviyo) - An American marketing automation platform and email marketing service
 - Advertising Platforms
   - [Google Ads](https://ads.google.com/home/) - An online advertising platform where advertisers bid to display brief advertisements, service offerings, product listings, or videos to web users
-  - [Google AdSence](https://adsense.google.com/start/) - A program run by Google through which website publishers in the Google Network of content sites serve text, images, video, or interactive media advertisements that are targeted to the site content and audience
+  - [Google AdSense](https://adsense.google.com/start/) - A program run by Google through which website publishers in the Google Network of content sites serve text, images, video, or interactive media advertisements that are targeted to the site content and audience
 - Experimentation & Optimization
   - [Optimizely](https://www.optimizely.com/) - A leading digital experience platform (DXP) that provides a single, unified platform that offers you the scalability and security you need to drive your business into the future
 - Email Marketing & Delivery
@@ -160,17 +149,6 @@
   - [Mailchimp](https://mailchimp.com/) - An all-in-one marketing platform for small businesses that helps manage and talk to clients, customers, and audiences with email marketing
   - [listmonk](https://listmonk.app/) - Self-hosted newsletter and mailing list manager
   - [BillionMail](https://www.billionmail.com/) - An open-source MailServer and email marketing solution that is fully self-hosted and dev-friendly
-
-### Product Roadmapping
-
-- [Aha!](https://www.aha.io/) - A suite of product development software that helps teams build and market products customers love
-
-### IT Service Management
-
-- [IT service management](https://en.wikipedia.org/wiki/IT_service_management) - The activities that are performed by an organization to design, build, deliver, operate and control information technology (IT) services offered to customers
-- [ServiceNow](https://www.servicenow.com/) - A cloud-based, AI-powered platform for digital workflows that connects people, functions, and systems across the enterprise
-- [ISO/IEC 20000 (Service management)](https://en.wikipedia.org/wiki/ISO/IEC_20000) - The international standard for IT service management that specifies the requirements for establishing, implementing, maintaining, and continually improving a service management system
-- [ITIL (Information Technology Infrastructure Library)](https://en.wikipedia.org/wiki/ITIL) - A set of detailed practices for IT service management (ITSM) that focuses on aligning IT services with the needs of business
 
 ## Metrics & Performance
 
@@ -196,10 +174,13 @@
   - [KPIs](https://en.wikipedia.org/wiki/Performance_indicator) - A type of performance measurement used to evaluate the success of an organization or of a particular activity (such as projects, programs, products and other initiatives) in which it engages
   - [Goodhart's law](https://en.wikipedia.org/wiki/Goodhart%27s_law) - An adage often stated as, "When a measure becomes a target, it ceases to be a good measure"
 
-### Performance Measurement
+### Product & Customer Metrics
 
 - [Net Promoter Score](https://en.wikipedia.org/wiki/Net_promoter_score) - A market research metric that is based on a single survey question asking respondents to rate the likelihood that they would recommend a company, product, or a service to a friend or colleague
 - [Rubric](https://en.wikipedia.org/wiki/Rubric_(academic)) - A scoring tool used to evaluate the quality of responses
+
+### Engineering Performance Metrics
+
 - [SPACE framework](https://queue.acm.org/detail.cfm?id=3454124) - A framework that provides a way to think about developer productivity in a more holistic way, encompassing Satisfaction and well-being, Performance, Activity, Communication and collaboration, and Efficiency and flow
 - [The Four Keys of DORA](https://cloud.google.com/blog/products/devops-sre/using-the-four-keys-to-measure-your-devops-performance) - A set of metrics used to measure DevOps performance, consisting of Deployment Frequency, Lead Time for Changes, Change Failure Rate, and Time to Restore Service
 
@@ -209,52 +190,59 @@
 
 - 1\. Business Transformation > 1\.1 Strategy Understanding and Architecture Design > Understanding of Business Environment and Management Strategy
 - 1\. Business Transformation > 1\.1 Strategy Understanding and Architecture Design > Business and Enterprise Architecture Design
+- 1\. Business Transformation > 1\.3 Management of Transformation Activities > Architecture Management & Governance
+- 1\. Business Transformation > 1\.3 Management of Transformation Activities > Change Management
 - 1\. Business Transformation > 1\.3 Management of Transformation Activities > Risk & Compliance
 
 :::
 
-### Enterprise Architecture & Administration
+### Enterprise Architecture
 
 - [Enterprise architecture](https://en.wikipedia.org/wiki/Enterprise_architecture) - A well-defined practice for conducting enterprise analysis, design, planning, and implementation, using a comprehensive approach at all times, for the successful development and execution of strategy
   - [TOGAF standard](https://www.opengroup.org/togaf) - A proven Enterprise Architecture methodology and framework used by the world's leading organizations to improve business efficiency
   - [Zachman Framework](https://zachman-feac.com/zachman/about-the-zachman-framework) - An ontology – a theory of the existence of a structured set of essential components of an object
   - [ArchiMate](https://www.opengroup.org/archimate-forum/archimate-overview) - An open and independent modelling language for Enterprise Architecture that is supported by different tool vendors and consulting firms
     - [Archi](https://www.archimatetool.com/) - A free, open source, cross-platform tool and editor to create ArchiMate models
+- [Enterprise modeling](https://en.wikipedia.org/wiki/Enterprise_modelling) - The process of building models of whole or part of an enterprise with process models, data models, resource models and or new ontologies
+  - [BPMN](https://www.omg.org/bpmn/) - A graphical notation for specifying business processes in a Business Process Diagram, providing a standard comprehensible to business users yet representing complex process semantics for technical users
+  - [SysML](https://sysml.org/) - A general-purpose graphical modeling language for specifying, analyzing, designing, and verifying complex systems that may include hardware, software, information, personnel, procedures, and facilities
+  - [Eclipse Capella](https://mbse-capella.org/) - A powerful and extensible MBSE software tool that leverages a field-proven language and method to successfully design the architecture of complex systems
+
+### Enterprise Applications
+
 - [Enterprise resource planning](https://en.wikipedia.org/wiki/Enterprise_resource_planning) - The integrated management of main business processes, often in real time and mediated by software and technology
-  - [Customer relationship management](https://en.wikipedia.org/wiki/Customer_relationship_management) - A strategic process that organizations use to manage, analyze, and improve their interactions with customers
-    - [EspoCRM](https://www.espocrm.com/) - An open-source web application for managing and evaluating all company relationships
-    - [HubSpot](https://www.hubspot.com/) - A customer platform that helps businesses grow by connecting their marketing, sales, and service tools to a shared database
-    - [Salesforce](https://www.salesforce.com/) - A customer relationship management solution that brings companies and customers together, providing one integrated CRM platform for all departments
-    - [Zendesk](https://www.zendesk.com/) - A customer service software and support ticket system that helps businesses build better customer relationships through multi-channel support
-    - [Atlas](https://atlas.so/) - A bespoke AI for customer support that delivers fast, accurate, and measurable support tailored to tools and workflows
-    - [SuiteCRM](https://suitecrm.com/) - A free and open-source Customer Relationship Management (CRM) software solution providing a 360-degree view of customers and business
-  - [Supply chain management](https://en.wikipedia.org/wiki/Supply_chain_management) - The management of the flow of goods and services, between businesses and locations, including the movement and storage of raw materials, work-in-process inventory, and finished goods from point of origin to point of consumption
-  - [Human resource management](https://en.wikipedia.org/wiki/Human_resource_management) - The strategic and coherent approach to the effective and efficient management of of people in a company or organization such that they help their business gain a competitive advantage
-    - [Competence](https://en.wikipedia.org/wiki/Competence_(human_resources)) - The set of demonstrable characteristics and skills that enable and improve the efficiency or performance of a job
-  - [Contract management](https://en.wikipedia.org/wiki/Contract_management) - The process of systematically and efficiently managing contract creation, execution, and analysis for the purpose of maximizing financial and operational performance and minimizing risk
-  - [E-commerce](https://en.wikipedia.org/wiki/E-commerce) - The activity of electronically buying or selling products on online services or over the Internet
-    - [Shopify](https://www.shopify.com/) - A Canadian multinational e-commerce company that provides a proprietary e-commerce platform for online stores and retail point-of-sale systems
-    - [Stripe](https://stripe.com/) - A financial infrastructure platform for businesses that provides payment processing software and APIs for e-commerce websites and mobile applications
   - [SAP ERP](http://www.sap.com/products/erp.html) - A comprehensive software system that streamlines processes, improves productivity, and provides real-time insights across your entire organization
   - [Odoo](https://www.odoo.com/) - A suite of open source business applications covering areas such as CRM, ERP, accounting, and more
   - [ERPNext](https://frappe.io/erpnext) - A 100% open-source ERP with a modern, comprehensive, and user-friendly enterprise resource planning solution
-- [Enterprise modeling](https://en.wikipedia.org/wiki/Enterprise_modelling) - The process of building models of whole or part of an enterprise with process models, data models, resource models and or new ontologies
-  - [BPMN](https://www.omg.org/bpmn/)- A graphical notation for specifying business processes in a Business Process Diagram, providing a standard comprehensible to business users yet representing complex process semantics for technical users
-  - [SysML](https://sysml.org/) - A general-purpose graphical modeling language for specifying, analyzing, designing, and verifying complex systems that may include hardware, software, information, personnel, procedures, and facilities
-  - [Eclipse Capella](https://mbse-capella.org/) - A powerful and extensible MBSE software tool that leverages a field-proven language and method to successfully design the architecture of complex systems
-- Business process change management
-  - [Organizational structure](https://en.wikipedia.org/wiki/Organizational_structure) - A system that outlines how certain activities are directed in order to achieve the goals of an organization
-  - [Kotter's 8-step change model](https://www.kotterinc.com/methodology/8-steps/) - A set of tools and strategies designed to help organizations effectively implement and sustain change
-  - [Prosci ADKAR Model](https://www.prosci.com/methodology/adkar) - A goal-oriented change management model that guides individual and organizational change
+- [Customer relationship management](https://en.wikipedia.org/wiki/Customer_relationship_management) - A strategic process that organizations use to manage, analyze, and improve their interactions with customers
+  - [EspoCRM](https://www.espocrm.com/) - An open-source web application for managing and evaluating all company relationships
+  - [HubSpot](https://www.hubspot.com/) - A customer platform that helps businesses grow by connecting their marketing, sales, and service tools to a shared database
+  - [Salesforce](https://www.salesforce.com/) - A customer relationship management solution that brings companies and customers together, providing one integrated CRM platform for all departments
+  - [Zendesk](https://www.zendesk.com/) - A customer service software and support ticket system that helps businesses build better customer relationships through multi-channel support
+  - [Atlas](https://atlas.so/) - A bespoke AI for customer support that delivers fast, accurate, and measurable support tailored to tools and workflows
+  - [SuiteCRM](https://suitecrm.com/) - A free and open-source Customer Relationship Management (CRM) software solution providing a 360-degree view of customers and business
+- [Supply chain management](https://en.wikipedia.org/wiki/Supply_chain_management) - The management of the flow of goods and services, between businesses and locations, including the movement and storage of raw materials, work-in-process inventory, and finished goods from point of origin to point of consumption
+- [Human resource management](https://en.wikipedia.org/wiki/Human_resource_management) - The strategic and coherent approach to the effective and efficient management of people in a company or organization such that they help their business gain a competitive advantage
+  - [Competence](https://en.wikipedia.org/wiki/Competence_(human_resources)) - The set of demonstrable characteristics and skills that enable and improve the efficiency or performance of a job
+- [Contract management](https://en.wikipedia.org/wiki/Contract_management) - The process of systematically and efficiently managing contract creation, execution, and analysis for the purpose of maximizing financial and operational performance and minimizing risk
+- [E-commerce](https://en.wikipedia.org/wiki/E-commerce) - The activity of electronically buying or selling products on online services or over the Internet
+  - [Shopify](https://www.shopify.com/) - A Canadian multinational e-commerce company that provides a proprietary e-commerce platform for online stores and retail point-of-sale systems
+  - [Stripe](https://stripe.com/) - A financial infrastructure platform for businesses that provides payment processing software and APIs for e-commerce websites and mobile applications
 
-### Strategic Management
+### Organizational Change Management
 
-- Strategic management tools
+- [Organizational structure](https://en.wikipedia.org/wiki/Organizational_structure) - A system that outlines how certain activities are directed in order to achieve the goals of an organization
+- [Kotter's 8-step change model](https://www.kotterinc.com/methodology/8-steps/) - A set of tools and strategies designed to help organizations effectively implement and sustain change
+- [Prosci ADKAR Model](https://www.prosci.com/methodology/adkar) - A goal-oriented change management model that guides individual and organizational change
+
+### Strategic Analysis & Business Intelligence
+
+- Strategic Analysis Frameworks
   - [MECE principle](https://en.wikipedia.org/wiki/MECE_principle) - The grouping principle for separating a set of items into subsets that are mutually exclusive (ME) and collectively exhaustive (CE)
   - [SWOT analysis](https://en.wikipedia.org/wiki/SWOT_analysis) - A decision-making technique used in strategic planning and management that identifies the strengths, weaknesses, opportunities, and threats of an organization or project
   - [PEST analysis](https://en.wikipedia.org/wiki/PEST_analysis) - A framework of external macro-environmental factors (political, economic, social and technological) used in strategic management and market research
   - [Porter's five forces analysis](https://en.wikipedia.org/wiki/Porter%27s_five_forces_analysis) - A method of analyzing the competitive environment of a business, rooted in industrial organization economics, that identifies five forces determining competitive intensity and industry attractiveness
-- Business intelligence and analysis tools
+- Business Intelligence Platforms
   - [Tableau](https://www.tableau.com/) - The visual analytics platform that helps people see, understand, and act on data to solve problems
   - [Metabase](https://www.metabase.com/) - The querying and visualization layer for your database, made to fit startup's production DB to massive data warehouses
   - [Power BI](https://www.microsoft.com/en-us/power-platform/products/power-bi/) - A unified, scalable platform for self-service and enterprise business intelligence
@@ -270,33 +258,54 @@
   - [Financial risk management](https://en.wikipedia.org/wiki/Financial_risk_management) - The practice of protecting economic value in a firm by managing exposure to financial risk - principally credit risk and market risk, as well as some aspects of operational risk
   - [ISO 31000 (Risk management)](https://en.wikipedia.org/wiki/ISO_31000) - A set of international standards for risk management that provides a consistent vocabulary and methodology for assessing and managing risk
 
-### Knowledge Management
+### IT Service Management
 
-- Personal Knowledge Management
+- [IT service management](https://en.wikipedia.org/wiki/IT_service_management) - The activities that are performed by an organization to design, build, deliver, operate and control information technology (IT) services offered to customers
+  - [ITIL (Information Technology Infrastructure Library)](https://en.wikipedia.org/wiki/ITIL) - A set of detailed practices for IT service management (ITSM) that focuses on aligning IT services with the needs of business
+  - [ISO/IEC 20000 (Service management)](https://en.wikipedia.org/wiki/ISO/IEC_20000) - The international standard for IT service management that specifies the requirements for establishing, implementing, maintaining, and continually improving a service management system
+  - [ServiceNow](https://www.servicenow.com/) - A cloud-based, AI-powered platform for digital workflows that connects people, functions, and systems across the enterprise
+
+## Knowledge & Content Management
+
+:::note[Relevant DSS-P Skills]
+
+- 1\. Business Transformation > 1\.3 Management of Transformation Activities > Business Modeling and Collaboration
+
+:::
+
+### Personal Knowledge Management
+
+- [Zettelkasten](https://en.wikipedia.org/wiki/Zettelkasten) - A system of note-taking and personal knowledge management for research, study, and writing, consisting of small, interconnected items of information stored on slips or cards
+- Note-Taking Tools
   - [Obsidian](https://obsidian.md/) - A free and flexible application for private thoughts, allowing users to store notes on their device, connect ideas, and organize knowledge with a customizable interface through plugins and themes
-  - [Zettelkasten](https://en.wikipedia.org/wiki/Zettelkasten) - A system of note-taking and personal knowledge management for research, study, and writing, consisting of small, interconnected items of information stored on slips or cards
   - [Memos](https://github.com/usememos/memos) - An open-source, self-hosted note-taking tool built for quick capture that is markdown-native and lightweight
-- Collaborative Knowledge Management
+- Feed Aggregation
+  - [FreshRSS](https://freshrss.org/index.html) - A free, self-hostable aggregator for RSS and Atom feeds
+
+### Collaborative Workspaces & Wikis
+
+- [Wiki software](https://en.wikipedia.org/wiki/Wiki_software) - A collaborative software that runs a wiki, which allows users to create and collaboratively edit pages or entries via a web browser
+  - [MediaWiki](https://www.mediawiki.org/wiki/MediaWiki) - A free and open-source wiki software
+  - [Ibis](https://ibis.wiki/) - A federated encyclopedia which uses the ActivityPub protocol, just like Mastodon or Lemmy
+  - [LeafWiki](https://leafwiki.com/) - A real wiki app without the heavy stack, storing Markdown files on disk without requiring a database server
+- Team Workspaces
   - [Notion](https://www.notion.so/) - An all-in-one workspace for notes, docs, wikis, projects, and collaboration that combines knowledge management with task and project tracking
   - [Coda](https://coda.io/) - An all-in-one collaborative workspace that brings teams and tools together for a more organized work day
   - [Confluence](https://www.atlassian.com/software/confluence) - One place for all your ideas, docs, knowledge, and teammates
-- Feed Aggregation
-  - [FreshRSS](https://freshrss.org/index.html) - A free, self-hostable aggregator for RSS and Atom feeds
-- Content Management Systems (CMS)
-  - [Content management system](https://en.wikipedia.org/wiki/Content_management_system) - A computer software used to manage the creation and modification of digital content
+  - [Outline](https://www.getoutline.com/) - The knowledge base platform that helps teams organize documents, collaborate in real-time, and search across their workspace with AI-powered question answering
+
+### Content Management Systems
+
+- [Content management system](https://en.wikipedia.org/wiki/Content_management_system) - A computer software used to manage the creation and modification of digital content
   - [WordPress](https://wordpress.org/) - A free and open-source content management system written in hypertext preprocessor language and paired with a MySQL or MariaDB database with supported HTTPS
   - [Drupal](https://www.drupal.org/) - A free and open-source web content management system written in PHP and distributed under the GNU General Public License
-- Content Collaboration & File Sync
-  - [SharePoint](https://www.microsoft.com/en-us/microsoft-365/sharepoint/collaboration) - A web-based collaboration and document management platform that enables organizations to securely store, share, and manage content
-  - [Nextcloud](https://nextcloud.com/) - The industry-leading, fully open-source, on-premise content collaboration platform
-  - [Box](https://www.box.com/) - An enterprise cloud content management platform that enables organizations to securely manage and share content while collaborating with internal and external users
-  - [Dropbox](https://www.dropbox.com/) - A file hosting service that offers cloud storage, file synchronization, personal cloud, and client software
-- Wiki Systems
-  - [Wiki software](https://en.wikipedia.org/wiki/Wiki_software) - A collaborative software that runs a wiki, which allows users to create and collaboratively edit pages or entries via a web browser
-  - [MediaWiki](https://www.mediawiki.org/wiki/MediaWiki) - A free and open-source wiki software
-  - [Ibis](https://ibis.wiki/) - A federated encyclopedia which uses the ActivityPub protocol, just like Mastodon or Lemmy
-  - [Outline](https://www.getoutline.com/) - The knowledge base platform that helps teams organize documents, collaborate in real-time, and search across their workspace with AI-powered question answering
-  - [LeafWiki](https://leafwiki.com/) - A real wiki app without the heavy stack, storing Markdown files on disk without requiring a database server
+
+### Content Collaboration & File Sync
+
+- [SharePoint](https://www.microsoft.com/en-us/microsoft-365/sharepoint/collaboration) - A web-based collaboration and document management platform that enables organizations to securely store, share, and manage content
+- [Nextcloud](https://nextcloud.com/) - The industry-leading, fully open-source, on-premise content collaboration platform
+- [Box](https://www.box.com/) - An enterprise cloud content management platform that enables organizations to securely manage and share content while collaborating with internal and external users
+- [Dropbox](https://www.dropbox.com/) - A file hosting service that offers cloud storage, file synchronization, personal cloud, and client software
 
 ## Enterprise AI & Productivity
 
@@ -307,7 +316,7 @@
 
 :::
 
-### General Autonomous Agents
+### Autonomous AI Workers
 
 - [Claude Cowork](https://claude.com/product/cowork) - An agentic AI system for knowledge work that autonomously plans and executes multi-step tasks across files, documents, and web applications directly on your computer
 - [claw-empire](https://github.com/GreenSheep01201/claw-empire) - A local-first AI agent office simulator that orchestrates CLI, OAuth, and API-connected agents as a virtual autonomous company
@@ -325,12 +334,18 @@
 
 ### Self-Hosted AI Platforms
 
+- [AnythingLLM](https://anythingllm.com/) - The all-in-one AI application for everyone
 - [Dify](https://dify.ai/) - An open-source LLM app development platform
+- [Flowise](https://flowiseai.com/) - An open source generative AI development platform for building AI agents, LLM orchestration, and more
+- [LibreChat](https://www.librechat.ai/) - The open-source AI platform that brings together all your AI conversations in one unified, customizable interface
 - [OpenWebUI](https://openwebui.com/) - An extensible, feature-rich, and user-friendly self-hosted AI platform designed to operate entirely offline
 
 ### AI Content & Document Generation
 
+- [Beautiful.ai](https://www.beautiful.ai/) - The AI presentation platform built for enterprise teams that keeps every deck on-brand and ready to share across the whole company
 - [Gamma](https://gamma.app/) - A new medium for presenting ideas, powered by AI
+- [Napkin AI](https://www.napkin.ai/) - The visual AI for business storytelling that turns your text into visuals so sharing your ideas is quick and effective
+- [NotebookLM](https://notebooklm.google/) - The AI research tool and thinking partner that can analyze your sources, turn complexity into clarity and transform your content
 
 ### AI Agent Registries
 
@@ -354,16 +369,30 @@
 
 ### Core Principles & User Experience (UX)
 
+- [User experience](https://en.wikipedia.org/wiki/User_experience) - A person's emotions and attitudes about using a particular product, system or service
 - [Usability](https://en.wikipedia.org/wiki/Usability) - The extent to which a product can be used by specified users to achieve specified goals with effectiveness, efficiency, and satisfaction in a specified context of use
 - [User interface design](https://en.wikipedia.org/wiki/User_interface_design) - A craft in which designers perform an important function in creating the user experience
+- [Design thinking](https://en.wikipedia.org/wiki/Design_thinking) - The set of cognitive, strategic and practical processes by which design concepts are developed
 - [Accessibility](https://en.wikipedia.org/wiki/Accessibility) - The design of products, devices, services, or environments for people with disabilities
   - [Accessibility Object Model (AOM)](https://wicg.github.io/aom/) - A JavaScript API to allow developers to modify (and eventually explore) the accessibility tree for an HTML page
   - [WAI-ARIA](https://www.w3.org/WAI/standards-guidelines/aria/) - The Accessible Rich Internet Applications suite of web standards
 - Prototyping
   - [Paper prototyping](https://en.wikipedia.org/wiki/Paper_prototyping) - A widely used method in the user-centered design process, a process that helps developers to create software that meets the user's expectations and needs
   - [Website wireframe](https://en.wikipedia.org/wiki/Website_wireframe) - A skeletal outline of a webpage
-- User Research Methodologies
+
+### User Research & Ideation
+
+- Research Methodologies
   - [Extreme users](https://en.wikipedia.org/wiki/Extreme_users) - A user-centered design methodology that focuses on studying users at the extremes of the usage spectrum to inform design solutions that benefit both edge cases and typical users
+  - [Card sorting](https://en.wikipedia.org/wiki/Card_sorting) - A method used to help design or evaluate the information architecture of a site
+  - [A/B testing](https://en.wikipedia.org/wiki/A/B_testing) - A way to compare multiple versions of a single variable, for example by testing a subject's response to variant A against variant B, and determining which of the variants is more effective
+  - [Diary studies](https://www.nngroup.com/articles/diary-studies/) - A research method in which people record their experiences and activities over time
+  - [Persona](https://en.wikipedia.org/wiki/Persona_(user_experience)) - A fictional character created to represent a user type relationship
+- Ideation Techniques
+  - [Affinity diagram](https://en.wikipedia.org/wiki/Affinity_diagram) - A business tool used to organize ideas and data
+  - [Brainstorming](https://en.wikipedia.org/wiki/Brainstorming) - A group creativity technique by which efforts are made to find a conclusion for a specific problem by gathering a list of ideas spontaneously contributed by its members
+  - [SCAMPER](https://en.wikipedia.org/wiki/SCAMPER) - A structured way of assisting students to think out of the box and enhance their knowledge
+  - [How Might We (HMW)](https://ixdf.org/literature/topics/how-might-we) - A design thinking method that allows designers to reframe and open up their problem statements for efficient, targeted and innovative ideation sessions to help solve design challenges
 
 ### Cognitive & Behavioral Psychology
 
@@ -415,7 +444,7 @@
     - [ClearType](https://en.wikipedia.org/wiki/ClearType) - A subpixel rendering technology developed by Microsoft to improve the readability of text on liquid-crystal displays (LCDs) by utilizing the individual subpixels of each pixel
     - [DirectWrite](https://learn.microsoft.com/en-us/windows/win32/directwrite/direct-write-portal) - A high-performance text-layout and font-rendering API from Microsoft that supports hardware-accelerated rendering and high-quality typography for modern applications
 
-### Platforms, Frameworks & Guidelines
+### Design Systems & Design Tools
 
 - Visual Design Tools
   - [Claude Design](https://claude.ai/design) - A visual design tool that lets users collaborate with Claude to create polished designs, prototypes, slides, and marketing materials through natural conversation and iterative refinement
@@ -434,7 +463,7 @@
   - Interaction to Next Paint (INP)
   - Cumulative Layout Shift (CLS)
 
-## Systems Thinking: Economics, Game Theory & Finance
+## Economics, Game Theory & Finance
 
 :::note[Relevant DSS-P Skills]
 
@@ -459,7 +488,7 @@
 - [Pareto efficiency](https://en.wikipedia.org/wiki/Pareto_efficiency) - A state of allocation of resources from which it is impossible to reallocate so as to make any one individual or preference criterion better off without making at least one individual or preference criterion worse off
 - [Operations research](https://en.wikipedia.org/wiki/Operations_research) - A discipline that deals with the development and application of analytical methods to improve management and decision-making
 
-### Finance & Accounting
+### Corporate Finance & Markets
 
 - [Currency](https://en.wikipedia.org/wiki/Currency) - A standardization of money in any form, in use or circulation as a medium of exchange
 - [Interest](https://en.wikipedia.org/wiki/Interest) - The payment from a debtor or deposit-taking financial institution to a lender or depositor of an amount above repayment of the principal sum (that is, the amount borrowed), at a particular rate
@@ -480,6 +509,9 @@
   - [Futures](https://en.wikipedia.org/wiki/Futures_contract) - A standardized legal contract to buy or sell something at a predetermined price for delivery at a specified time in the future
   - [Option](https://en.wikipedia.org/wiki/Option_(finance)) - A contract which conveys to its owner, the holder, the right, but not the obligation, to buy or sell a specific quantity of an underlying asset or instrument at a specified strike price on or before a specified date
 - [Cryptocurrency](https://en.wikipedia.org/wiki/Cryptocurrency) - A type of currency which uses digital files as money
+
+### Accounting & Financial Reporting
+
 - Accounting Fundamentals
   - [Asset](https://en.wikipedia.org/wiki/Asset) - A resource owned or controlled by a business or economic entity that can be used to produce positive economic value
   - [Liability](https://en.wikipedia.org/wiki/Liability_(financial_accounting)) - A quantity of value that a financial entity owes and is expected to deliver in the future to satisfy a present obligation arising from past events

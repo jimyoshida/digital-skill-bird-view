@@ -2,9 +2,8 @@
 description: DSS-P Skill Coverage Check Command
 ---
 
-For each DSS-P skill category in `website\docs\dss-p-v2-skills.md`, evaluate how much this site's skill list covers the category.
-The result should be described as "No", "Partial", and "Full" in the "Coverage" column.
-Please modify the existing file with the new column "Coverage" and fill in the coverage status for each skill item.
+For each DSS-P skill category in `website/docs/dss-p-v2-skills.md`, evaluate how much this site's skill list covers the category.
+The result must be expressed as a percentage value and that must be inserted just after each level 3 header in the existing file.
 
 <Example>
 
@@ -13,9 +12,11 @@ Please modify the existing file with the new column "Coverage" and fill in the c
 
 ### 3.1 Software Development
 
-| Skill Item | Description | Learning Items Example | Coverage |
-| :--- | :--- | :--- | :--- |
-| **Computer Science** | • Skills related to data structures, algorithms, etc., required in software development. | Software engineering, optimization, data structures, algorithms, computability theory. | Full |
+_Coverage: 100%_
+
+| Skill Item | Description | Learning Items Example |
+| :--- | :--- | :--- |
+| **Computer Science** | • Skills related to data structures, algorithms, etc., required in software development. | Software engineering, optimization, data structures, algorithms, computability theory. |
 ```
 
 </Example>

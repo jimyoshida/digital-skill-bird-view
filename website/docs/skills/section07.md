@@ -232,7 +232,7 @@
   - [kitty](https://sw.kovidgoyal.net/kitty/) - The fast, feature-rich, GPU based terminal emulator
   - [Rio Terminal](https://rioterm.com/) - A modern terminal for the 21st century
   - [Alacritty](https://alacritty.org/) - A modern terminal emulator that comes with sensible defaults, but allows for extensive configuration
-  - [Terminator](https://gnome-terminator.org) - A terminal emulator like xterm, gnome-terminal, konsole, etc.
+  - [Terminator](https://gnome-terminator.org) - A terminal emulator that puts multiple GNOME terminals in one window, letting you combine and recombine terminals to suit the style you like
   - [Windows Terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host
   - [Mintty](https://mintty.github.io/) - A terminal emulator for Cygwin, MSYS or Msys2, and derived projects, and for WSL
   - [xterm](https://invisible-island.net/xterm/) - A terminal emulator for the X Window System
@@ -387,7 +387,7 @@
 
 ### Language Servers
 
-- [LSP](https://microsoft.github.io/language-server-protocol/) - The protocol used between an editor or IDE and a language server that provides language features like auto complete, go to definition, find all references etc.
+- [LSP](https://microsoft.github.io/language-server-protocol/) - The protocol used between an editor or IDE and a language server that provides language features like auto complete, go to definition, and find all references
 - [pyright](https://github.com/microsoft/pyright) - A static type checker and language server for Python
   - [Pylance](https://marketplace.visualstudio.com/items?itemName=ms-python.vscode-pylance) - An extension that works alongside the Python extension in Visual Studio Code to provide performant language support
 - [Ruby LSP](https://shopify.github.io/ruby-lsp/) - An opinionated language server for Ruby

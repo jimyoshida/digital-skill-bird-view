@@ -23,9 +23,6 @@ PDFDATE := $(shell date +%F)
 .PHONY: pdf
 pdf: $(ALLPDF)
 
-# CJK Support Flag
-USE_CJK ?= 0
-
 # Source Files
 ALLPAGES := $(wildcard docs/*.md docs/skills/*.md docs/timelines/*.md)
 
@@ -33,17 +30,17 @@ ALLPAGES := $(wildcard docs/*.md docs/skills/*.md docs/timelines/*.md)
 ALLADOCS := $(addprefix pdf/tmp/,$(ALLPAGES:.md=.adoc))
 
 $(ALLPDF): pdf/all.adoc $(ALLADOCS)
-ifeq ($(USE_CJK), 1)
 	asciidoctor-pdf -v -o $@ \
 	-a pdfdate=$(PDFDATE) \
-	-a pdf-theme=pdf/cjk-theme.yml \
-	-a pdf-fontsdir=fonts \
-	-a scripts=cjk $<
-else
-	asciidoctor-pdf -v -o $@ \
-	-a pdfdate=$(PDFDATE) \
-	-a pdf-theme=pdf/eng-theme.yml $<
-endif
+	-a pdf-theme=pdf/eng-theme.yml \
+	-a pdf-fontsdir=fonts $<
+
+# $(ALLPDFJP): pdf/alljp.adoc $(ALLADOCSJP)
+# 	asciidoctor-pdf -v -o $@ \
+# 	-a pdfdate=$(PDFDATE) \
+# 	-a pdf-theme=pdf/cjk-theme.yml \
+# 	-a pdf-fontsdir=fonts \
+# 	-a scripts=cjk $<
 
 # Markmap Dest File
 MAPHTML := static/usr/docs/map.html

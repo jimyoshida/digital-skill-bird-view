@@ -9,6 +9,7 @@ test:
   script:
   - cd website
   - yarn install
+  - ./scripts/download-fonts.sh
   - make 
   rules:
     - if: $CI_COMMIT_REF_NAME != $CI_DEFAULT_BRANCH
@@ -23,6 +24,7 @@ pages:
   script:
   - cd website
   - yarn install
+  - ./scripts/download-fonts.sh
   - make
   - mv ./build ../public
   artifacts:

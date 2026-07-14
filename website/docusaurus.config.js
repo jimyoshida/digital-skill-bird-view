@@ -146,12 +146,12 @@ const config = {
           },
           {
             title: 'More',
-            items: [
+            items: [/*
               {
                 label: 'GitLab',
                 href: 'https://gitlab.com/jimyoshida/dx-devops-landscape',
               },
-            ],
+            */],
           },
         ],
         copyright: `This material is licensed under the CC-BY-SA-4.0. Built with Docusaurus.`,

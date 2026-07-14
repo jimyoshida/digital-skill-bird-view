@@ -4,9 +4,17 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 Refer to `website/docs/intro.md` for the overview & principles.
 
+## What This Repository Is
+
+A Docusaurus 3 site (`website/`) that curates a categorized list of DX/software-engineering
+skills and tools (`website/docs/skills/section01.md` … `section12.md`) alongside chronological
+technology-history timelines (`website/docs/timelines/*.md`). The same source markdown is also
+compiled into a single PDF, a mindmap, and a dependency graph. `data/` holds Perl tooling that
+keeps section titles consistent across all of the derived files.
+
 ## Build & Development Commands
 
-Local builds on Ubuntu require these system packages:
+Local builds on Ubuntu require these system packages (already bundled in the CI Docker image):
 
 ```bash
 sudo apt install pandoc asciidoctor-pdf
@@ -18,16 +26,26 @@ All build commands run from the `website/` directory.
 
 ```bash
 cd website
-yarn install        # Install Node dependencies (once)
-yarn start          # Dev server (hot reload)
-make                # Full build: PDF + markmap + graphmap + yarn build
-make pdf            # Generate PDF only (requires asciidoctor-pdf)
-USE_CJK=1 make pdf  # Generate PDF with CJK (Chinese/Japanese/Korean) font support
-make markmap        # Generate skills mindmap HTML (static/usr/docs/map.html)
-make graphmap       # Generate skill dependency graph PDF (static/usr/docs/graphmap.pdf)
-make clean          # Remove build artifacts
-yarn serve          # Serve the production build locally
+yarn install                   # Install Node dependencies (once)
+yarn start                     # Dev server (hot reload)
+./scripts/download-fonts.sh    # Fetch Noto fonts into fonts/ (gitignored; needed before make pdf)
+make                           # Full build: PDF + markmap + graphmap + yarn build
+make pdf                       # Generate PDF only (requires asciidoctor-pdf + fonts/)
+make markmap                   # Generate skills mindmap HTML (static/usr/docs/map.html)
+make graphmap                  # Generate skill dependency graph PDF (static/usr/docs/graphmap.pdf)
+make clean                     # Remove build artifacts
+yarn serve                     # Serve the production build locally
 ```
+
+`make pdf` renders every file under `docs/*.md`, `docs/skills/*.md`, and `docs/timelines/*.md`
+through `perl scripts/preprocess.pl` (converts Docusaurus admonitions to blockquotes) → `pandoc`
+(Markdown → AsciiDoc, one `.adoc` per source file under `pdf/tmp/`) → `asciidoctor-pdf`, which
+assembles them via the `include::` directives in `pdf/all.adoc` using the theme
+`pdf/eng-theme.yml` (Noto Sans base font, with Noto Emoji registered as a font fallback so the
+timeline class emoji render). A CJK theme (`pdf/cjk-theme.yml`, Noto Serif JP based) exists but
+its Makefile target is currently commented out. Fonts are gitignored — run
+`scripts/download-fonts.sh` first, which pulls static (non-variable) TTF instances from Google
+Fonts' CSS API; asciidoctor-pdf's font embedding does not reliably support variable-font tables.
 
 CI uses the `jimyoshida/node-make-extra:node22` Docker image which bundles all required tools. To rebuild and push it after updating `docker/Dockerfile`:
 
@@ -39,7 +57,10 @@ make push
 
 ## CI/CD
 
-GitLab CI is configured in `.gitlab-ci.yml`. On non-default branches it runs `make` as a test. On `main` it runs `make` and deploys the output to GitLab Pages.
+Both GitLab CI (`.gitlab-ci.yml`) and GitHub Actions (`.github/workflows/ci.yml`) are configured
+identically and kept in sync: on non-default branches they run `make` as a build check; on the
+default branch they run `make` and deploy `website/build` to GitLab Pages / GitHub Pages
+respectively. The repo is pushed to both remotes (see `/release` below).
 
 ## Branch Workflow
 
@@ -78,7 +99,8 @@ The description string should be quoted from the linked site as much as possible
 The description string should start with "A" or "The", and must omit the trailing period.
 Don't repeat the item name in the description string.
 
-Make sure the markdown code meets the following markdownlint rules.
+Make sure the markdown code meets the following markdownlint rules (there is no linter config in
+this repo enforcing them in CI — follow them by convention):
 
 - MD024/no-duplicate-heading
 - MD032/blanks-around-lists
@@ -98,7 +120,7 @@ Make sure the markdown code meets the following markdownlint rules.
 
 ## Timeline Files
 
-In addition, the markdown files under the `website/docs/timelines/` directory contain the background timeline of the skill items.
+In addition, the markdown files under the `website/docs/timelines/` directory contain the background timeline of the skill items, one file per era (`1930-89.md`, `1990-99.md`, … `2025-present.md`).
 
 Each entry is a paragraph which contains the description basically quoted from Wikipedia English version. It must include the date information of the event and must be arranged in chronological order.
 If the event's month or day is unclear, they should be located at the last position of the year or month respectively.
@@ -138,14 +160,25 @@ make             # Default target `release`: read, then write, then intro_sync
 make test_write  # Run write.pl unit tests (requires ruby)
 ```
 
-`sections.yml` maps section IDs (e.g., `section01`) to their hierarchical subsection titles. When section titles change:
+`sections.yml` is the single source of truth for the section/subsection hierarchy — it maps
+section IDs (e.g., `section01`) to their heading structure. When section titles change:
 
 1. Run `make read` to extract the updated section structure from skill files into `sections.yml`
 2. Run `make write` to propagate those changes back across all skill files and `website/docs/intro.md`
-3. Run `make intro_sync` to copy the `intro.md` body into the top-level `README.md` between its `<!--Introduction-->` markers
+3. Run `make intro_sync` to copy the `intro.md` body into the top-level `README.md` between its `<!--Introduction-->` markers — everything between those markers in `README.md` is generated, not hand-edited
 4. Or simply run `make` to do all three in sequence
 
-The digest markdown used for the mindmap is generated during the website build (see `website/Makefile`).
+The digest markdown used for the mindmap and dependency graph (`scripts/digest.pl`,
+`scripts/graphmap.pl`) is generated during the website build from the same skill files (see
+`website/Makefile`), independently of `data/`.
+
+## Internationalization
+
+The site is built with locales `en` (default) and `ja` (`website/docusaurus.config.js`).
+Japanese translations live under `website/i18n/ja/docusaurus-plugin-content-docs/current/`,
+mirroring the `docs/` source tree. Use the `docusaurus-i18n` skill to add locales or translate
+documents — it delegates each document's actual translation to the `docusaurus-translator`
+subagent so the source text doesn't clutter the main session's context.
 
 ## Project Skills (`.claude/skills/`)
 

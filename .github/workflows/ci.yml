@@ -27,6 +27,7 @@ jobs:
         working-directory: website
         run: |
           yarn install
+          ./scripts/download-fonts.sh
           make
 
   # Build and deploy to GitHub Pages on the default branch (mirrors the GitLab
@@ -42,6 +43,7 @@ jobs:
         working-directory: website
         run: |
           yarn install
+          ./scripts/download-fonts.sh
           make
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
