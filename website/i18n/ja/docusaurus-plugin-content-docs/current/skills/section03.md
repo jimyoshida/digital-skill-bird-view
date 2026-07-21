@@ -307,6 +307,8 @@
   - [Goldilocks](https://goldilocks.docs.fairwinds.com/) - リソースリクエストと制限の出発点を特定するのに役立つユーティリティ
 - ベンダー固有のツール
   - [eksctl](https://eksctl.io/) - Amazon EKS の公式 CLI
+- バッチ & ジョブスケジューリング
+  - [Kueue](https://kueue.sigs.k8s.io/) - バッチ、HPC、AI/ML ワークロード向けにクォータとリソース共有を管理する Kubernetes ネイティブなシステム
 
 ## クラウドネイティブコンピューティング
 

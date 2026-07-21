@@ -23,6 +23,7 @@
     - [Hofstadter's law](https://en.wikipedia.org/wiki/Hofstadter%27s_law) - 複雑なタスク完成に必要な時間を正確に見積もることの難しさについての自己言及的な警句です
     - [Three-point estimation](https://en.wikipedia.org/wiki/Three-point_estimation) - プロジェクトマネジメントで活動の予想期間またはコストを見積もるために使用される技術です
     - [Planning poker](https://en.wikipedia.org/wiki/Planning_poker) - アジャイル原則でのタイムボックスに主に使用されるコンセンサスベースのゲーム化された見積もり技術です
+    - [Fermi problem](https://en.wikipedia.org/wiki/Fermi_problem) - 次元解析や極端な科学計算の近似を教えるために設計された、物理学または工学教育における見積もり問題です
   - [Systems development life cycle (SDLC)](https://en.wikipedia.org/wiki/Systems_development_life_cycle) - 情報システム開発プロジェクトに関わるステージを説明するプロジェクトマネジメントで使用される概念モデルです
 
 ### 優先順位付け
@@ -247,6 +248,8 @@
   - [Metabase](https://www.metabase.com/) - データベースのクエリと可視化層。スタートアップの本番 DB から大規模なデータウェアハウスまで対応します
   - [Power BI](https://www.microsoft.com/en-us/power-platform/products/power-bi/) - セルフサービスおよびエンタープライズビジネスインテリジェンスの統合されたスケーラブルなプラットフォームです
     - [DAX](https://learn.microsoft.com/en-us/dax/) - 計算列、測定、カスタムテーブルを作成するために Microsoft Power BI 全体で使用されるプログラミング言語です
+  - [Looker Studio](https://cloud.google.com/looker-studio) - 旧 Google Data Studio として知られる、データをカスタマイズ可能で情報豊富なレポートとダッシュボードに変えるビジネスインテリジェンス及びデータ可視化プラットフォームです
+  - [Exploratory Desktop](https://exploratory.io/) - さまざまなデータソースへのアクセス、データのクレンジングと変換、データの可視化と分析をシンプルで使いやすい UI で実現します
 
 ### リスクマネジメント
 
@@ -450,6 +453,9 @@
   - [Claude Design](https://claude.ai/design) - ユーザーが自然会話と反復的な洗練を通じて Claude と協力してポーランド化されたデザイン、プロトタイプ、スライド、マーケティング資料を作成できるビジュアルデザインツールです
   - [Figma Design](https://www.figma.com/) - チーム向けの強力でコラボレーティブなデザインツールです
   - [Locofy.ai](https://www.locofy.ai/) - デザインからコードへ瞬く間にです
+  - [Uizard](https://uizard.io/) - テキストプロンプトからプロトタイプ、画面、テーマを生成できる AI 搭載デザインツールです
+  - [Anything](https://www.create.xyz/) - あなたの言葉をコードで構築されたモバイルアプリ、サイト、ツール、製品に変える AI アプリビルダーです
+  - [v0](https://v0.app/) - 数分で動作するアプリケーションを生成し、数秒でライブウェブサイトとして公開できる AI 搭載のフルスタック Web アプリケーションビルダーです
 - デザインシステム＆ガイドライン
   - [Material Design](https://m3.material.io/) - 美しく、使いやすいプロダクトを構築するための Google のオープンソースデザインシステムです
   - [Apple HIG](https://developer.apple.com/design/human-interface-guidelines) - すべての Apple プラットフォーム全体でアプリの外観と動作を一貫させるのに役立つ推奨事項のセットです

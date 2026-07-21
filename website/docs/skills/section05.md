@@ -305,6 +305,7 @@
 - [Data lakehouse](https://www.databricks.com/blog/2020/01/30/what-is-a-data-lakehouse.html) - A new, open architecture that combines the best elements of data lakes and data warehouses
 - [Medallion Architecture](https://www.databricks.com/glossary/medallion-architecture) - A data design pattern used to logically organize data in a lakehouse
 - [CRISP-DM](https://en.wikipedia.org/wiki/Cross-industry_standard_process_for_data_mining) - An open standard process model that describes common approaches used by data mining experts
+- [PPDAC (Problem, Plan, Data, Analysis, Conclusion)](https://dataschools.education/about-data-literacy/ppdac-the-data-problem-solving-cycle/) - A well-established approach to statistical literacy, a cyclical framework for solving real-world challenges using data
 - [Data architecture](https://en.wikipedia.org/wiki/Data_architecture) - A set of models, policies, rules, and standards that govern which data is collected and how it is stored, arranged, integrated, and put to use in data systems and in organizations
 - [DAMA-DMBOK](https://dama.org/dmbok2r-infographics/) - The DAMA Guide to the Data Management Body of Knowledge, outlining frameworks and terminology across thirteen functional areas of managing data
 
@@ -490,7 +491,7 @@
 - Messaging & Streaming Platforms (Software)
   - [Apache Kafka](https://kafka.apache.org/) - An open-source distributed event streaming platform
     - Apache Kafka Ecosystem
-      - [Kafbat UI](https://ui.docs.kafbat.io/) - A versatile, fast, lightweight, and flexible web interface designed to monitor and manage Apache Kafka clusters
+      - [Kafbat UI](https://kafbat.io/) - A versatile, fast, lightweight, and flexible web interface designed to monitor and manage Apache Kafka clusters
   - [RabbitMQ](https://www.rabbitmq.com/) - A reliable and mature messaging and streaming broker
 - Cloud Services
   - [Amazon Kinesis](https://aws.amazon.com/kinesis/) - A service making it easy to collect, process, and analyze real-time, streaming data
@@ -566,6 +567,7 @@
   - [Amazon Redshift](https://aws.amazon.com/redshift/) - A fully managed, petabyte-scale data warehouse service in the cloud
   - [Amazon Athena](https://aws.amazon.com/athena/) - An interactive query service that makes it easy to analyze data directly in Amazon S3 and other data stores using standard SQL
   - [Databricks](https://www.databricks.com/product/data-intelligence-platform) - The platform that allows your entire organization to use data and AI
+    - [Declarative Automation Bundles](https://docs.databricks.com/aws/en/dev-tools/bundles/) - A tool to facilitate the adoption of software engineering best practices, including source control, code review, testing, and continuous integration and delivery (CI/CD), for data and AI projects, formerly known as Databricks Asset Bundles
   - [Snowflake](https://www.snowflake.com/en/) - The AI Data Cloud that mobilizes data with near-unlimited scale to power analytics, applications, and AI in a single fully managed platform
   - [Microsoft Fabric](https://www.microsoft.com/en-us/microsoft-fabric) - An end-to-end analytics solution with full-service capabilities including data movement, data lakes, data engineering, data integration, data science, real-time analytics, and business intelligence
     - [Microsoft OneLake](https://learn.microsoft.com/en-us/fabric/onelake/) - A single, unified, logical data lake for your whole organization

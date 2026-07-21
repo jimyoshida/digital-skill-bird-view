@@ -23,6 +23,7 @@
     - [Hofstadter's law](https://en.wikipedia.org/wiki/Hofstadter%27s_law) - A self-referential adage about the difficulty of accurately estimating the time required to complete complex tasks
     - [Three-point estimation](https://en.wikipedia.org/wiki/Three-point_estimation) - A technique used in project management to estimate the likely duration or cost of an activity
     - [Planning poker](https://en.wikipedia.org/wiki/Planning_poker) - A consensus-based, gamified technique for estimating, mostly used for timeboxing in Agile principles
+    - [Fermi problem](https://en.wikipedia.org/wiki/Fermi_problem) - An estimation problem in physics or engineering education, designed to teach dimensional analysis or approximation of extreme scientific calculations
   - [Systems development life cycle (SDLC)](https://en.wikipedia.org/wiki/Systems_development_life_cycle) - A conceptual model used in project management that describes the stages involved in an information system development project
 
 ### Prioritization
@@ -247,6 +248,8 @@
   - [Metabase](https://www.metabase.com/) - The querying and visualization layer for your database, made to fit startup's production DB to massive data warehouses
   - [Power BI](https://www.microsoft.com/en-us/power-platform/products/power-bi/) - A unified, scalable platform for self-service and enterprise business intelligence
     - [DAX](https://learn.microsoft.com/en-us/dax/) - A programming language that is used throughout Microsoft Power BI for creating calculated columns, measures, and custom tables
+  - [Looker Studio](https://cloud.google.com/looker-studio) - A business intelligence and data visualization platform, formerly known as Google Data Studio, that turns your data into customizable, informative reports and dashboards
+  - [Exploratory Desktop](https://exploratory.io/) - A Simple and Easy-to-Use UI experience to access various data sources, clean and transform data, visualize and analyze data
 
 ### Risk Management
 
@@ -450,6 +453,9 @@
   - [Claude Design](https://claude.ai/design) - A visual design tool that lets users collaborate with Claude to create polished designs, prototypes, slides, and marketing materials through natural conversation and iterative refinement
   - [Figma Design](https://www.figma.com/) - A powerful, collaborative design tool for teams
   - [Locofy.ai](https://www.locofy.ai/) - Design to code in a flash
+  - [Uizard](https://uizard.io/) - An AI-powered design tool that lets you generate prototypes, screens, and themes from text prompts
+  - [Anything](https://www.create.xyz/) - An AI app builder that turns your words into mobile apps, sites, tools, and products built with code
+  - [v0](https://v0.app/) - An AI-powered full-stack web application builder that generates working applications in minutes and publishes them as live websites in seconds
 - Design Systems & Guidelines
   - [Material Design](https://m3.material.io/) - Google's open-source design system for building beautiful, usable products
   - [Apple HIG](https://developer.apple.com/design/human-interface-guidelines) - A set of recommendations to help you create apps that look and behave consistently across all Apple platforms

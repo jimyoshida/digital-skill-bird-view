@@ -299,6 +299,7 @@
   - [Bandit](https://github.com/PyCQA/bandit) (for Python) - A tool designed to find common security issues in Python code
   - [Semgrep OSS](https://github.com/semgrep/semgrep) - A fast, open-source, static analysis tool for finding bugs and enforcing code standards
   - [Fluid attacks](https://docs.fluidattacks.com/tech/scanner/plans/foss/) - A security tool that allows you to find vulnerabilities in your source code, containers and dependencies
+  - [CodeQL](https://codeql.github.com/) - A semantic code analysis engine that lets you query code as though it were data to find vulnerabilities and their variants
 - Dynamic Analysis (DAST)
   - [ZAP](https://zaproxy.org/) - The world's most widely used web app scanner, free and open source, and a community based GitHub Top 1000 project that anyone can contribute to
   - [Nuclei](https://github.com/projectdiscovery/nuclei) - A fast and customizable vulnerability scanner powered by the global security community and built on a simple YAML-based DSL
@@ -348,6 +349,8 @@
     - [JFrog Xray](https://jfrog.com/xray/) - An application security tool that identifies vulnerabilities and license compliance issues across the software supply chain
   - License & Dependency Analysis
     - [Feluda](https://github.com/anistark/feluda) - A blazing fast dependency graph generator for Python projects
+  - Automated Dependency Updates
+    - [Dependabot Core](https://github.com/dependabot/dependabot-core) - The library at the heart of Dependabot security / version updates
 - Frameworks & Assessment
   - [SLSA framework](https://slsa.dev/) - A security framework of standards and controls to prevent tampering, improve integrity, and secure packages and infrastructure
   - [in-toto](https://in-toto.io/) - A framework to protect software supply chain integrity

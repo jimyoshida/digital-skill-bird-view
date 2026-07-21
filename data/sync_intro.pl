@@ -31,6 +31,14 @@ shift @lines while @lines && $lines[0] =~ /^\s*$/;
 my $body = join('', @lines);
 $body =~ s/\s+\z/\n/;
 
+# Rewrite relative links so they still resolve from the repo root: intro.md's
+# links are relative to website/docs/, but README.md lives at the repo root.
+$body =~ s{(\]\()([^)]+)(\))}{
+    my ($open, $url, $close) = ($1, $2, $3);
+    $url = "website/docs/$url" unless $url =~ m{^(?:[a-z]+:|/|#)};
+    "$open$url$close"
+}ge;
+
 # Splice the body into README.md between the Introduction markers.
 open my $fh_readme, '<:encoding(UTF-8)', $readme_file or die "Could not open '$readme_file': $!";
 my ($fh_out, $temp_file) = tempfile(SUFFIX => '.tmp');

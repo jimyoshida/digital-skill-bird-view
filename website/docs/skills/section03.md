@@ -308,6 +308,8 @@
   - [Goldilocks](https://goldilocks.docs.fairwinds.com/) - A utility that can help you identify a starting point for resource requests and limits
 - Vendor-specific Tools
   - [eksctl](https://eksctl.io/) - The official CLI for Amazon EKS
+- Batch & Job Scheduling
+  - [Kueue](https://kueue.sigs.k8s.io/) - A Kubernetes-native system that manages quotas and resource sharing for batch, HPC, and AI/ML workloads
 
 ## Cloud-Native Computing
 

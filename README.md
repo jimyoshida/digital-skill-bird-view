@@ -4,22 +4,22 @@
 
 This site aims to provide a comprehensive overview of concepts, techniques, tools, platforms, and frameworks related to DX (Digital Transformation), featuring Software Development and DevOps spaces, spanning the following 12 categories:
 
-- [01 - Business Transformation](skills/section01.md)
-- [02 - Web Application Development](skills/section02.md)
-- [03 - Cloud & Cloud-Native Computing](skills/section03.md)
-- [04 - Security & Privacy](skills/section04.md)
-- [05 - Data Science & Engineering](skills/section05.md)
-- [06 - AI, Machine Learning & LLM](skills/section06.md)
-- [07 - Fundamental Developer Skills](skills/section07.md)
-- [08 - OS & Network Basics](skills/section08.md)
-- [09 - Programming Concepts & Paradigms](skills/section09.md)
-- [10 - Advanced Programming](skills/section10.md)
-- [11 - Specialized Development Domains](skills/section11.md)
-- [12 - Personal Skills](skills/section12.md)
+- [01 - Business Transformation](website/docs/skills/section01.md)
+- [02 - Web Application Development](website/docs/skills/section02.md)
+- [03 - Cloud & Cloud-Native Computing](website/docs/skills/section03.md)
+- [04 - Security & Privacy](website/docs/skills/section04.md)
+- [05 - Data Science & Engineering](website/docs/skills/section05.md)
+- [06 - AI, Machine Learning & LLM](website/docs/skills/section06.md)
+- [07 - Fundamental Developer Skills](website/docs/skills/section07.md)
+- [08 - OS & Network Basics](website/docs/skills/section08.md)
+- [09 - Programming Concepts & Paradigms](website/docs/skills/section09.md)
+- [10 - Advanced Programming](website/docs/skills/section10.md)
+- [11 - Specialized Development Domains](website/docs/skills/section11.md)
+- [12 - Personal Skills](website/docs/skills/section12.md)
 
 ## Timelines
 
-In addition to the skill categories above, this site provides [chronological timelines](timelines/2025-present.md) documenting significant technology events, product releases, and industry milestones from 1930 to the present. Each entry is categorized by domain using emojis:
+In addition to the skill categories above, this site provides [chronological timelines](website/docs/timelines/2025-present.md) documenting significant technology events, product releases, and industry milestones from 1930 to the present. Each entry is categorized by domain using emojis:
 
 - 🏢 Business Administration, Development Methodology, Management
 - 🎨 UX, Design & Cognitive Science
@@ -38,7 +38,7 @@ These timelines help trace the evolution of technologies listed in the skill sec
 
 ## Coverage for IPA DSS-P
 
-This site's skill list attempts to cover all of the **[Digital Skills Standard for Promotion (DSS-P) v2.0](dss-p-v2-skills.md)** defined by IPA. Under each subsection of each section page, the most relevant DSS-P skill names are listed.
+This site's skill list attempts to cover all of the **[Digital Skills Standard for Promotion (DSS-P) v2.0](website/docs/dss-p-v2-skills.md)** defined by IPA. Under each subsection of each section page, the most relevant DSS-P skill names are listed.
 
 The IPA (Information-technology Promotion Agency, Japan) is a policy implementation agency under the jurisdiction of Japan's Ministry of Economy, Trade and Industry (METI).
 It plays a central role in Japan's national IT strategy, including **Human Resource Development** (administering national IT examinations), **Information Security Measures**, and establishing **Guidelines for Digital Transformation (DX)**.

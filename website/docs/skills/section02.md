@@ -165,6 +165,8 @@
   - Interaction & Media
     - [Swiper.js](https://swiperjs.com/) - The most modern mobile touch slider with hardware accelerated transitions and amazing native behavior
     - [Hammer.js](https://hammerjs.github.io/) - A javascript library for multi-touch gestures
+  - Canvas & Whiteboarding
+    - [tldraw](https://tldraw.dev/) - A React-based SDK for building whiteboards, diagrams, and canvas tools with a high-performance web canvas
 
 ### Build & Development Tooling
 
