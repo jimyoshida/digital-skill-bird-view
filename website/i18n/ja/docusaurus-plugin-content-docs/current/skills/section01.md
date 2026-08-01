@@ -113,6 +113,7 @@
   - [Marketing mix](https://en.wikipedia.org/wiki/Marketing_mix) - ビジネスの基盤モデル。歴史的にはプロダクト、価格、場所、プロモーションを中心としています
   - [Fear of missing out (FOMO)](https://en.wikipedia.org/wiki/Fear_of_missing_out) - 自分の人生をより良くする可能性のある情報、イベント、経験、または人生の決定について情報を得ていない、または逃している可能性があるという不安感です
   - [Fear, uncertainty, and doubt (FUD)](https://en.wikipedia.org/wiki/Fear,_uncertainty,_and_doubt) - 販売、マーケティング、公共関係、政治、投票、カルトで使用される操作的なプロパガンダ戦術です
+  - [Mere-exposure effect](https://en.wikipedia.org/wiki/Mere-exposure_effect) - 人が、単に慣れ親しんでいるという理由だけで物事に対する好みや嫌悪を抱く傾向がある心理現象です
   - 広告
     - インジケーター
       - [Click through rate](https://en.wikipedia.org/wiki/Click-through_rate) - 特定のリンクをクリックするユーザー数と、ページ、メール、または広告を表示するユーザー総数の比率です
@@ -233,6 +234,7 @@
 ### 組織の変革管理
 
 - [Organizational structure](https://en.wikipedia.org/wiki/Organizational_structure) - 特定の活動がどのように指向され、組織のゴールを達成するのかについて概説するシステムです
+- [Diffusion of innovations](https://en.wikipedia.org/wiki/Diffusion_of_innovations) - 新しいアイデアや技術がどのように、なぜ、どのくらいの速さで広まるのかを説明しようとする理論です
 - [Kotter's 8-step change model](https://www.kotterinc.com/methodology/8-steps/) - 組織が変革を効果的に実装し維持するのに役立つように設計されたツールと戦略のセットです
 - [Prosci ADKAR Model](https://www.prosci.com/methodology/adkar) - 個人および組織の変革をガイドするゴール指向の変革管理モデルです
 
@@ -483,7 +485,9 @@
 - [Market](https://en.wikipedia.org/wiki/Market_(economics)) - 当事者が交換に従事するシステム、機関、手順、社会関係、またはインフラストラクチャの構成です
 - [Inflation](https://en.wikipedia.org/wiki/Inflation) - 時間経過に伴うエコノミー内の商品およびサービスの一般価格レベルの上昇です
 - [Prospect theory](https://en.wikipedia.org/wiki/Prospect_theory) - 最終結果ではなく損失と利益の潜在的価値に基づいて人々が決定を下すと述べる行動経済学と行動金融の理論です
-- [Sunk cost](https://en.wikipedia.org/wiki/Sunk_cost) - すでに発生し、回収できないコストです
+- [Sunk cost](https://en.wikipedia.org/wiki/Sunk_cost) - すでに発生しており、もはや回収することのできないコストです
+- [Choice architecture](https://en.wikipedia.org/wiki/Choice_architecture) - 選択肢を意思決定者に提示するさまざまな方法の設計と、その提示が意思決定に与える影響です
+  - [Nudge theory](https://en.wikipedia.org/wiki/Nudge_theory) - 行動経済学および関連する行動科学における概念で、意思決定環境の適応的な設計を、集団や個人の行動と意思決定に影響を与える方法として提案するものです
 - [Principal–agent problem](https://en.wikipedia.org/wiki/Principal%E2%80%93agent_problem) - 人またはグループと、彼らに代わって行動する権限を与えられた代表者の間の優先順位の競合です
 - [Information asymmetry](https://en.wikipedia.org/wiki/Information_asymmetry) - トランザクション内の 1 つのパーティが他方よりもはるかに多くの情報を持っている状況です
 - [Induced demand](https://en.wikipedia.org/wiki/Induced_demand) - 供給が増加した後、より多くの商品が消費される現象です

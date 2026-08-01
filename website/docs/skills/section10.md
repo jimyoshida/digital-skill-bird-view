@@ -358,6 +358,7 @@ support
 - [cobertura](https://cobertura.github.io/cobertura/) - A free Java tool that calculates the percentage of code accessed by tests
 - [LCOV](https://github.com/linux-test-project/lcov) - An extension of GCOV, a GNU tool which provides information about what parts of a program are actually executed
 - [kcov](https://simonkagstrom.github.io/kcov/) - A code coverage tester for compiled programs
+- [SimpleCov](https://github.com/simplecov-ruby/simplecov) - A code coverage tool for Ruby with a powerful configuration library and automatic merging of coverage across test suites
 
 ### Test Supporting Tools
 

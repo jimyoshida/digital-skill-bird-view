@@ -113,6 +113,7 @@
 - [Attention](https://en.wikipedia.org/wiki/Attention_(machine_learning)) - A technique in the context of neural networks that mimics cognitive attention, enhancing the important parts of the input data and fading out the rest
   - [FlashAttention](https://github.com/Dao-AILab/flash-attention) - A fast and memory-efficient exact attention mechanism
   - [Transformer](https://en.wikipedia.org/wiki/Transformer_(deep_learning_architecture)) - A deep learning architecture based on the multi-head attention mechanism
+- [Mixture of experts](https://en.wikipedia.org/wiki/Mixture_of_experts) - A machine learning technique where multiple expert networks (learners) are used to divide a problem space into homogeneous regions
 - DL Frameworks & Visualization
   - [TensorFlow](https://www.tensorflow.org/) - An end-to-end open source platform for machine learning
     - [TFDS](https://www.tensorflow.org/datasets) - The collection of datasets ready to use with TensorFlow or other Python ML frameworks like Jax
@@ -263,8 +264,6 @@
 
 - [Anthropic](https://www.anthropic.com/api) - The API providing access to Anthropic's Claude models
 - [OpenAI](https://platform.openai.com/) - The platform for building applications with OpenAI's models
-- [DeepSeek](https://www.deepseek.com/) - An AI model research and development company that focuses on building advanced large language models and artificial intelligence infrastructure
-- [Kimi](https://www.kimi.com/) - An AI assistant platform by Moonshot AI featuring the K2 model with long-context capabilities, designed for coding assistance, deep research, and multi-agent workflows
 - [Gemini Developer APIs](https://ai.google.dev/gemini-api/docs) - The API that gives you access to the latest Gemini models from Google
 - [Hugging Face Serverless Inference API](https://huggingface.co/docs/api-inference/index) - The API allowing inference on models hosted on the Hugging Face Hub
 - [OpenRouter](https://openrouter.ai/) - A unified interface for LLMs
@@ -273,6 +272,8 @@
   - [Gemma](https://deepmind.google/models/gemma/) - A family of lightweight, state-of-the-art open models built from the same research and technology used to create the Gemini models
   - [Mistral](https://mistral.ai/models) - A family of open-source and commercial generative AI models
   - [OLMo](https://allenai.org/olmo) - A state-of-the-art, truly open language model and framework to build and study the science of language models
+  - [Kimi K3](https://github.com/MoonshotAI/Kimi-K3) - An open-weight, native multimodal agentic model with 2.8 trillion parameters and a 1-million-token context window
+  - [DeepSeek V4-Pro](https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro) - A Mixture-of-Experts (MoE) language model with 1.6T parameters (49B activated), a 1-million-token context window, and MIT-licensed open weights
 
 ### Standards & Model Formats
 
@@ -295,7 +296,10 @@
 
 - [Retrieval-augmented generation (RAG)](https://en.wikipedia.org/wiki/Retrieval-augmented_generation) - A technique that enables large language models to retrieve and incorporate new information from external data sources
   - [dsRAG](https://github.com/D-Star-AI/dsRAG) - A high-performance retrieval engine for unstructured data
-- [AWQ (Activation-aware Weight Quantization)](https://github.com/mit-han-lab/llm-awq) - An efficient and accurate low-bit weight quantization (INT3/4) for LLM compression and acceleration
+- Model Compression
+  - [Knowledge Distillation](https://en.wikipedia.org/wiki/Knowledge_distillation) - The process of transferring knowledge from a large machine learning model to a smaller one
+  - [AWQ (Activation-aware Weight Quantization)](https://github.com/mit-han-lab/llm-awq) - An efficient and accurate low-bit weight quantization (INT3/4) for LLM compression and acceleration
+  - [Pruning (artificial neural network)](https://en.wikipedia.org/wiki/Pruning_(artificial_neural_network)) - The practice of removing parameters from an existing artificial neural network
 - [GraphRAG](https://microsoft.github.io/graphrag/) - A data pipeline and transformation suite that is designed to extract meaningful, structured data from unstructured text using the power of LLMs
 - [Prompt Engineering Guide](https://www.promptingguide.ai/) - A comprehensive resource for learning and applying prompt engineering techniques to effectively utilize large language models and build AI agents
 - [CRAFT framework](https://www.geeky-gadgets.com/ai-prompt-writing/) - A structured method for crafting clear and precise AI prompts by defining context, role, action, format, and tone

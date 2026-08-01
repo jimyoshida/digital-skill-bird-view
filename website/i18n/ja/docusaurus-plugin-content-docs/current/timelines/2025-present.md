@@ -30,9 +30,9 @@ sidebar_position: 7
 
 🧠 2025 年 5 月 17 日に、GitHub は GitHub Copilot コーディングエージェントを発表しました。これは、より自律的な操作モードで、開発者の代わりに課題をアサインしてプルリクエストをオープンできます。
 
-🖥️ Anthropic の AI 搭載コマンドラインコーディングアシスタントである Claude Code は、2025 年 2 月 24 日に Claude 3.7 Sonnet とともにベータ研究プレビューとして初めて導入されました。その後、2025 年 5 月 22 日に一般提供となりました。
-
 🧠 2025 年 5 月 19 日の Microsoft Build 2025 で、GitHub は GitHub Copilot に非同期コーディングエージェントが含まれていることを発表しました。このエージェントは GitHub に直接埋め込まれ、VS Code からアクセス可能で、GitHub Actions で駆動されるセキュアな開発環境を立ち上げることで低～中程度の複雑さのタスクに優れています。
+
+🖥️ Anthropic の AI 搭載コマンドラインコーディングアシスタントである Claude Code は、2025 年 2 月 24 日に Claude 3.7 Sonnet とともにベータ研究プレビューとして初めて導入されました。その後、2025 年 5 月 22 日に一般提供となりました。
 
 🧠 2025 年 5 月 22 日の Claude 4（Opus および Sonnet）のリリースにより、コンピュータ使用機能をモデルのコア・エージェント・ワークフローにさらに統合し、ピクセルカウントの改善と遅延の短縮を実現しました。
 
@@ -64,7 +64,7 @@ sidebar_position: 7
 
 🧠 Anthropic の Skills API（`anthropic-beta: skills-2025-10-02`）は 2025 年 10 月 2 日に正式に導入され、ワークフロー指示、実行可能なコード、およびドキュメントを `SKILL.md` ファイルを介して Claude の再利用可能な機能にパッケージ化する標準化された方法を提供しました。
 
-☁️ 2025 年 10 月 8 日、 Cloud Native Computing Foundation は、 Kubernetes 上のサーバーレスかつイベント駆動型アプリケーションレイヤーである Knative の卒業（ Graduation ）を発表し、広範な本番利用に対応できる成熟度に達したことを示しました。
+☁️ 2025 年 10 月 8 日、Cloud Native Computing Foundation は、Kubernetes 上のサーバーレスかつイベント駆動型アプリケーションレイヤーである Knative の卒業（Graduation）を発表し、広範な本番利用に対応できる成熟度に達したことを示しました。
 
 🧠 2025 年 10 月 15 日に、Anthropic は Skills Registry をリリースしました。これは「Anthropic 検証済み」およびコミュニティ貢献のスキルを発見して共有し、Claude の機能を強化するための一元化されたプラットフォームです。
 
@@ -90,7 +90,7 @@ sidebar_position: 7
 
 📜 Ruby 4.0.0 は 2025 年のクリスマスの日にリリースされました。
 
-🖥️ 2025 年、 Neovim は Stack Overflow 開発者調査で 5 年連続となる「最も憧れる開発環境」に選ばれました。
+🖥️ 2025 年、Neovim は Stack Overflow 開発者調査で 5 年連続となる「最も憧れる開発環境」に選ばれました。
 
 ## 2026
 
@@ -133,3 +133,7 @@ sidebar_position: 7
 🧠 2026 年 6 月 12 日に、Anthropic は Fable 5 のジェイルブレイクが White House にフラグされた後、米国商務省からの外国人によるアクセスを停止する指令に準拠するため、Claude Fable 5 および Claude Mythos 5 を含むすべての Mythos クラスモデルへのアクセスを無効にしました。
 
 ☁️ 2026 年 6 月 22 日に、AWS は Lambda MicroVM を導入しました。これは、Firecracker 仮想化技術で構築された VM レベルの分離とほぼ即座のスタートアップおよび再開機能を提供するサーバーレス・コンピュート・サービスです。このサービスは US East（N. Virginia、Ohio）、US West（Oregon）、Europe（Ireland）、Asia Pacific（Tokyo）で即座に利用可能となり、ユーザー生成またはAI 生成コードを実行するための分離されたサンドボックスを提供し、最大 8 時間まで状態を保持できます。
+
+🧠 2026 年 7 月 16 日に、Moonshot AI は Kimi K3 をリリースしました。これは 2.8 兆パラメータの Mixture-of-Experts 大規模言語モデルで、896 個のエキスパートからトークンごとに 16 個が選択され、1 トークンあたり 1,040 億パラメータが活性化されます。Kimi Delta Attention と Attention Residuals を基盤とする 100 万トークンのコンテキストウィンドウを備えています。Artificial Analysis の AI リーダーボードでは Anthropic の Claude Fable 5 と OpenAI の GPT-5.6 Sol に次ぐ第 3 位でデビューし、Arena.ai のフロントエンド Web 開発ベンチマークでは競合モデルを上回りました。
+
+🧠 2026 年 7 月 27 日に、Moonshot AI は Kimi K3 の完全な重みを 1.4 TB のダウンロードとして Hugging Face で公開し、その時点で最大のオープンウェイトモデルとなりました。重みは MIT 由来の独自の Kimi K3 ライセンスの下で提供され、研究、社内利用、および小規模な商用利用を許可する一方で、Model-as-a-Service の収益が年間 2,000 万ドルを超えた場合には Moonshot との個別の商用契約を必要とします。

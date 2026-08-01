@@ -213,6 +213,7 @@
 
 - [Stakeholder management](https://en.wikipedia.org/wiki/Stakeholder_management) - The process of identifying individuals or groups that are affected by a project or business venture, understanding their interests and concerns, and managing their expectations and influence
 - [Contingency theory](https://en.wikipedia.org/wiki/Contingency_theory) - A theory that claims there is no single best way to organize a corporation, lead a company, or make decisions, asserting that the optimal course of action depends on internal and external situations
+- [Holacracy](https://en.wikipedia.org/wiki/Holacracy) - A method of decentralized management and organizational governance, which claims to distribute authority and decision-making through a holarchy of self-organizing teams rather than being vested in a management hierarchy
 - [Expectancy theory](https://en.wikipedia.org/wiki/Expectancy_theory) - A theory that proposes an individual's behavior is motivated by the expected results of their actions, with the desirability of the outcome determining the selection of a specific behavior
 - [Intrinsic motivation](https://en.wikipedia.org/wiki/Intrinsic_motivation) - A type of motivation that arises from internal factors, such as enjoyment, curiosity, or a sense of fulfillment, where individuals engage in an activity for its own sake
 - [Management 3.0](https://management30.com/) - An ever-evolving mindset and a collection of games, tools, and practices designed to help any worker manage the organization and improve work systems
@@ -247,6 +248,8 @@
 - Cognitive Performance / Decision Making
   - [Maslow's Hierarchy of Needs](https://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs) - A conceptualisation of the needs (or goals) that motivate human behavior
   - [Cognitive bias](https://en.wikipedia.org/wiki/Cognitive_bias) - A systematic pattern of deviation from norm or rationality in judgment
+    - [Anchoring effect](https://en.wikipedia.org/wiki/Anchoring_effect) - A psychological phenomenon in which an individual's judgments or decisions are influenced by a reference point or "anchor" which can be completely irrelevant
+  - [Zeigarnik effect](https://en.wikipedia.org/wiki/Zeigarnik_effect) - The phenomenon that people remember unfinished or interrupted tasks better than completed tasks
   - [Default mode network](https://en.wikipedia.org/wiki/Default_mode_network) - A large-scale brain network; known for being active when a person is not focused on the outside world and the brain is at wakeful rest
   - [Situation awareness](https://en.wikipedia.org/wiki/Situation_awareness) - The understanding of an environment, its elements, and how it changes with respect to time or other factors
     - 1: Perception of the elements in the environment.
@@ -268,6 +271,7 @@
   - [Groupthink](https://en.wikipedia.org/wiki/Groupthink) - A psychological phenomenon that occurs within a group of people in which the desire for harmony or conformity in the group results in an irrational or dysfunctional decision-making outcome
   - [Bystander effect](https://en.wikipedia.org/wiki/Bystander_effect) - A social psychological theory that states that individuals are less likely to offer help to a victim when there are other people present
   - [Dunbar's number](https://en.wikipedia.org/wiki/Dunbar%27s_number) - A suggested cognitive limit to the number of people with whom one can maintain stable social relationships
+  - [Norm of reciprocity](https://en.wikipedia.org/wiki/Norm_of_reciprocity) - The social expectation that people repay in kind what others have done for them
 - Illustrative Concepts
   - [Broken windows theory](https://en.wikipedia.org/wiki/Broken_windows_theory) - A criminological theory that states that visible signs of crime, anti-social behavior, and civil disorder create an urban environment that encourages further crime and disorder, including serious crimes
   - [Stone soup story](https://en.wikipedia.org/wiki/Stone_Soup) - A European folk story in which hungry strangers convince the people of a town to each share a small amount of their food in order to make a meal

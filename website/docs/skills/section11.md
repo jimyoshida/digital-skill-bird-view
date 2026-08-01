@@ -130,6 +130,7 @@
 - [bed](https://github.com/itchyny/bed) - A binary editor written in Go
 - [fq](https://github.com/wader/fq) - A tool inspired by jq that lets you poke at binary formats
 - [ELF format](https://en.wikipedia.org/wiki/Executable_and_Linkable_Format) - A common standard file format for executable files, object code, shared libraries, and core dumps
+- [BinData](https://github.com/dmendel/bindata) - A declarative way to read and write structured binary data in Ruby
 
 ### Data Serialization
 
@@ -266,6 +267,7 @@
   - [thor](https://github.com/rails/thor) - A toolkit for building powerful command-line interfaces
   - [dry-cli](https://dry-rb.org/gems/dry-cli/) - A general-purpose framework for developing Command Line Interface (CLI) applications that represents commands as objects and offers support for arguments, options, and forwarding variadic arguments to sub-commands
   - [Clamp](https://github.com/mdub/clamp) - A minimal framework for command-line utilities that handles parsing command-line arguments and generating help
+  - [TableTennis](https://github.com/gurgeous/table_tennis) - A library for printing stylish tables in your terminal, with auto-theming, layout fitting, and numeric column coloring
 - Javascript
   - [yargs](https://yargs.js.org/) - A library for building interactive command line tools by parsing arguments and generating an elegant user interface
   - [minimist](https://github.com/minimistjs/minimist) - A tool to parse argument options

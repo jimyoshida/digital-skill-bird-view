@@ -5,7 +5,7 @@ description: >
   following the project's translation rules, and writes the result directly to the i18n output path.
   Invoked by the docusaurus-i18n skill's Step 4 so the document body never enters the main session's context.
 tools: Read, Write
-model: haiku
+model: sonnet
 ---
 
 # Docusaurus Markdown Translator

@@ -113,6 +113,7 @@
   - [Marketing mix](https://en.wikipedia.org/wiki/Marketing_mix) - A foundation model for businesses, historically centered around product, price, place, and promotion
   - [Fear of missing out (FOMO)](https://en.wikipedia.org/wiki/Fear_of_missing_out) - The feeling of apprehension that one is either not in the know about or missing out on information, events, experiences, or life decisions that could make one's life better
   - [Fear, uncertainty, and doubt (FUD)](https://en.wikipedia.org/wiki/Fear,_uncertainty,_and_doubt) - A manipulative propaganda tactic used in sales, marketing, public relations, politics, polling, and cults
+  - [Mere-exposure effect](https://en.wikipedia.org/wiki/Mere-exposure_effect) - A psychological phenomenon by which people tend to develop a liking or disliking for things merely because they are familiar with them
   - Advertising
     - Indicators
       - [Click through rate](https://en.wikipedia.org/wiki/Click-through_rate) - The ratio of users who click on a specific link to the number of total users who view a page, email, or advertisement
@@ -233,6 +234,7 @@
 ### Organizational Change Management
 
 - [Organizational structure](https://en.wikipedia.org/wiki/Organizational_structure) - A system that outlines how certain activities are directed in order to achieve the goals of an organization
+- [Diffusion of innovations](https://en.wikipedia.org/wiki/Diffusion_of_innovations) - A theory that seeks to explain how, why, and at what rate new ideas and technology spread
 - [Kotter's 8-step change model](https://www.kotterinc.com/methodology/8-steps/) - A set of tools and strategies designed to help organizations effectively implement and sustain change
 - [Prosci ADKAR Model](https://www.prosci.com/methodology/adkar) - A goal-oriented change management model that guides individual and organizational change
 
@@ -484,6 +486,8 @@
 - [Inflation](https://en.wikipedia.org/wiki/Inflation) - An increase in the general price level of goods and services in an economy over a period of time
 - [Prospect theory](https://en.wikipedia.org/wiki/Prospect_theory) - A theory of behavioral economics and behavioral finance which states that people make decisions based on the potential value of losses and gains rather than the final outcome
 - [Sunk cost](https://en.wikipedia.org/wiki/Sunk_cost) - A cost that has already been incurred and cannot be recovered
+- [Choice architecture](https://en.wikipedia.org/wiki/Choice_architecture) - The design of different ways in which choices can be presented to decision makers, and the impact of that presentation on decision-making
+  - [Nudge theory](https://en.wikipedia.org/wiki/Nudge_theory) - A concept in behavioral economics and related behavioral sciences that proposes adaptive designs of the decision environment as ways to influence the behavior and decision-making of groups or individuals
 - [Principal–agent problem](https://en.wikipedia.org/wiki/Principal%E2%80%93agent_problem) - The conflict in priorities between a person or group and the representative authorized to act on their behalf
 - [Information asymmetry](https://en.wikipedia.org/wiki/Information_asymmetry) - A situation in which one party in a transaction has more or better information than the other
 - [Induced demand](https://en.wikipedia.org/wiki/Induced_demand) - The phenomenon that after supply increases, more of a good is consumed

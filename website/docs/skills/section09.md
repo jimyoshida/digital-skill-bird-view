@@ -268,6 +268,7 @@
   - Libraries
     - [io-event](https://socketry.github.io/io-event/) - The low level cross-platform primitives for constructing event loops
     - [Async](https://socketry.github.io/async/) - A composable asynchronous I/O framework for Ruby based on io-event
+    - [ruby-git](https://github.com/ruby-git/ruby-git) - A Ruby library that can be used to create, read and manipulate Git repositories by wrapping system calls to the git binary
   - Development Tools
     - [IRB (Interactive Ruby)](https://ruby.github.io/irb/) - A tool to interactively execute Ruby expressions read from the standard input
 - [Perl](https://www.perl.org/) - A family of two high-level, general-purpose, interpreted, dynamic programming languages
@@ -317,6 +318,8 @@
     - [Well-formed formula](https://en.wikipedia.org/wiki/Well-formed_formula) - A finite sequence of symbols from a given alphabet that is part of a formal language
   - [Formal grammar](https://en.wikipedia.org/wiki/Formal_grammar) - A set of formation rules for strings in a formal language
   - [Chomsky hierarchy](https://en.wikipedia.org/wiki/Chomsky_hierarchy) - A containment hierarchy of classes of formal grammars
+  - [Rewriting](https://en.wikipedia.org/wiki/Rewriting) - A wide range of methods of replacing subterms of a formula with other terms
+    - [Confluence](https://en.wikipedia.org/wiki/Confluence_(abstract_rewriting)) - A property of rewriting systems, describing which terms in such a system can be rewritten in more than one way, to yield the same result
   - [Automata theory](https://en.wikipedia.org/wiki/Automata_theory) - The study of abstract machines and automata, as well as the computational problems that can be solved using them
     - [Finite-state machine](https://en.wikipedia.org/wiki/Finite-state_machine) - A mathematical model of computation that can be in exactly one of a finite number of states at any given time, changing from one state to another in response to some inputs
   - [Lexical analysis](https://en.wikipedia.org/wiki/Lexical_analysis) - The conversion of a text into meaningful lexical tokens belonging to categories defined by a lexer program

@@ -381,6 +381,7 @@
 - [Flatpak](https://flatpak.org/) - A system for building, distributing, and running sandboxed desktop applications on Linux
 - [Snapcraft](https://snapcraft.io/) - A software packaging and deployment system developed by Canonical for operating systems that use the Linux kernel
 - [arkade](https://github.com/alexellis/arkade) - A portable marketplace for downloading your favourite devops CLIs and installing helm charts to your Kubernetes cluster
+- [Plaza](https://github.com/StaszeKrk/plaza) - A customizable, riceable terminal UI for finding, installing, and managing packages across pacman, AUR, apt, dnf, and Flatpak
 
 ## Linux Network Administration
 
