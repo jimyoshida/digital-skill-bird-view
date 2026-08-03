@@ -122,7 +122,9 @@
   - [ditaa](https://github.com/stathissideris/ditaa) - A small command-line utility that can convert diagrams drawn using ascii art into proper bitmap graphics
 - Architectural Decision Records
   - [Architectural Decision Records (ADRs)](https://adr.github.io/) - A document that captures an important architectural decision made along with its context and consequences
+    - [MADR (Markdown Architectural Decision Records)](https://adr.github.io/madr/) - A lean template to capture architectural decisions in Markdown, making it as easy as possible to write down and to version the decisions
     - [adr-tools](https://github.com/npryce/adr-tools) - A command-line tool to help you manage your architectural decision records
+    - [Log4brains](https://github.com/thomvaill/log4brains) - An architecture knowledge base that lets developers log decisions directly from their IDE and publish them as a static website
 
 ### Lightweight Markup & Writing Styles
 

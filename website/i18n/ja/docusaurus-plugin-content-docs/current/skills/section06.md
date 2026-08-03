@@ -102,6 +102,7 @@
 - 深層学習の概念とトレーニング
   - [Deep Learning](https://en.wikipedia.org/wiki/Deep_learning) - 表現学習に基づいた人工ニューラルネットワークを使用した、より幅広い機械学習方法のファミリーの一部です
   - [Stochastic gradient descent](https://en.wikipedia.org/wiki/Stochastic_gradient_descent) - 適切な平滑性プロパティを持つ目的関数を最適化するための反復的な方法です
+  - [Dropout (neural networks)](https://en.wikipedia.org/wiki/Dropout_(neural_networks)) - 訓練データに対する複雑な共適応を防ぐことで、人工ニューラルネットワークの過学習を低減する正則化手法です
   - [Fine tuning](https://en.wikipedia.org/wiki/Fine-tuning_(deep_learning)) - 転移学習へのアプローチで、事前学習されたモデルの重みが新しいデータで学習されます
   - [LoRA (machine learning)](https://en.wikipedia.org/wiki/Low-rank_adaptation) - 事前学習されたモデルを特定のタスクに適応させるためのパラメータ効率的なファインチューニング技法で、大幅に少ない計算リソースを使用します
 
@@ -333,6 +334,7 @@
 
 - [AGENTS.md](https://agents.md/) - AI エージェントを定義して実行するためのオープン標準です
 - [Agent Skills](https://agentskills.io/home) - エージェントに新しい機能と専門知識を付与するためのシンプルでオープンな形式です
+- [llms.txt](https://llmstxt.org/) - LLM が推論時に Web サイトを利用するのに役立つ情報を提供するため、/llms.txt ファイルの使用を標準化する提案です
 - [Model Context Protocol (MCP)](https://modelcontextprotocol.io/docs/getting-started/intro) - AI アプリケーションを外部システムに接続し、データソース、ツール、ワークフローへのアクセスを可能にするためのオープンソース標準です
 - [A2A Protocol](https://github.com/google/A2A) - ウェブアプリケーションと AI エージェント間の双方向通信を可能にするプロトコルです
 - [Agent Name Service (ANS)](https://genai.owasp.org/resource/agent-name-service-ans-for-secure-al-agent-discovery-v1-0/) - 公開鍵インフラストラクチャ(PKI)を活用した安全な DNS に着想を得た AI エージェント発見のためのフレームワークで、通信用の構造化 JSON スキーマ、および A2A、MCP、ACP プロトコルをサポートするプロトコルアダプタレイヤーを備えています

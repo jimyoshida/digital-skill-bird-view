@@ -102,6 +102,7 @@
 - Deep Learning Concepts & Training
   - [Deep Learning](https://en.wikipedia.org/wiki/Deep_learning) - A part of a broader family of machine learning methods based on artificial neural networks with representation learning
   - [Stochastic gradient descent](https://en.wikipedia.org/wiki/Stochastic_gradient_descent) - An iterative method for optimizing an objective function with suitable smoothness properties
+  - [Dropout (neural networks)](https://en.wikipedia.org/wiki/Dropout_(neural_networks)) - A regularization technique for reducing overfitting in artificial neural networks by preventing complex co-adaptations on training data
   - [Fine tuning](https://en.wikipedia.org/wiki/Fine-tuning_(deep_learning)) - An approach to transfer learning in which the weights of a pre-trained model are trained on new data
   - [LoRA (machine learning)](https://en.wikipedia.org/wiki/Low-rank_adaptation) - A parameter-efficient fine-tuning technique for adapting pre-trained models to specific tasks with significantly fewer computational resources
 
@@ -333,6 +334,7 @@
 
 - [AGENTS.md](https://agents.md/) - An open standard for defining and running AI agents
 - [Agent Skills](https://agentskills.io/home) - A simple, open format for giving agents new capabilities and expertise
+- [llms.txt](https://llmstxt.org/) - A proposal to standardise on using an /llms.txt file to provide information to help LLMs use a website at inference time
 - [Model Context Protocol (MCP)](https://modelcontextprotocol.io/docs/getting-started/intro) - An open-source standard for connecting AI applications to external systems, enabling them to access data sources, tools, and workflows
 - [A2A Protocol](https://github.com/google/A2A) - A protocol for enabling bidirectional communication between web applications and AI agents
 - [Agent Name Service (ANS)](https://genai.owasp.org/resource/agent-name-service-ans-for-secure-al-agent-discovery-v1-0/) - A secure, DNS-inspired framework for AI agent discovery that leverages Public Key Infrastructure (PKI) for identity verification, structured JSON schemas for communication, and a protocol adapter layer supporting A2A, MCP, and ACP protocols
