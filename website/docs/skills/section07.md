@@ -352,7 +352,7 @@
     - [Cline](https://cline.bot/) - An open source AI coding agent that brings frontier AI models directly to your VS Code editor
   - AI-integrated IDEs
     - [Cursor](https://www.cursor.com/) - An AI-native fork of VS Code designed for seamless, agentic integration with proprietary and frontier models
-    - [Winfsurf](https://codeium.com/windsurf) - Where the work of developers and AI truly flow together, allowing for a coding experience that feels like literal magic
+    - [Windsurf](https://codeium.com/windsurf) - Where the work of developers and AI truly flow together, allowing for a coding experience that feels like literal magic
     - [Zed](https://zed.dev/) - A next-generation code editor designed for high-performance collaboration with humans and AI
 - Web-based
   - [code-server](https://github.com/coder/code-server) - A VS Code instance running on a remote server, accessible through any web browser
@@ -380,10 +380,10 @@
     - [neotree](https://github.com/jaypei/emacs-neotree) - A tree explorer for Emacs
     - [Treemacs](https://github.com/Alexander-Miller/treemacs) - A tree layout file explorer for Emacs
     - [Spacemacs](https://www.spacemacs.org/#) - A community-driven Emacs distribution
-  - Tutorials and Cheet Sheets
+  - Tutorials and Cheat Sheets
     - [OpenVim](https://openvim.com/) - An interactive Vim tutorial
     - [Vim Adventures](https://vim-adventures.com/) - An online game based on VIM's keyboard shortcuts
-    - [Vim Cheet Sheet](https://vim.rtorr.com/) - A quick reference guide for Vim commands
+    - [Vim Cheat Sheet](https://vim.rtorr.com/) - A quick reference guide for Vim commands
 
 ### Language Servers
 

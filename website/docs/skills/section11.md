@@ -381,7 +381,7 @@
 
 - Canvas-Based (Custom Rendering)
   - [Flutter](https://flutter.dev/) - An open-source UI software development kit created by Google
-- Native Widget Brigde
+- Native Widget Bridge
   - [React Native](https://reactnative.dev) - A framework for building native apps with React
     - [Expo](https://expo.dev/) - A framework and a platform for universal React applications that run natively on Android, iOS, and the web
   - [.NET MAUI](https://learn.microsoft.com/en-us/dotnet/maui/what-is-maui) - A cross-platform framework for creating native mobile and desktop apps with C# and XAML

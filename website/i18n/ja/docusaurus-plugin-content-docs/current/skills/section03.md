@@ -137,6 +137,7 @@
     - [Docker Rootless mode](https://docs.docker.com/engine/security/rootless/) - Docker デーモンとコンテナを非 root ユーザーとして実行し、潜在的な脆弱性を軽減する機能
   - [podman](https://podman.io/) - コンテナと Pod の構築、管理、実行のための強力なコンテナエンジン
     - [podman-static](https://github.com/mgoltzsche/podman-static) - Linux 向けの Alpine ベースのコンテナイメージと静的リンク（rootless）バイナリ
+  - [WSL Container](https://learn.microsoft.com/en-us/windows/wsl/wsl-container) - Windows 上で Linux コンテナをビルド、実行、管理するための CLI (`wslc.exe`) と API を提供する、Windows Subsystem for Linux 組み込みのコンテナエンジン
 - コンテナランタイム
   - [containerd](https://containerd.io/) - シンプルさ、堅牢性、ポータビリティを重視した業界標準のコンテナランタイム
     - [nerdctl](https://github.com/containerd/nerdctl) - containerd 向けの Docker 互換 CLI
@@ -154,6 +155,7 @@
   - [buildah](https://buildah.io/) - Open Container Initiative (OCI) コンテナイメージの構築を容易にするツール
   - [podman build](https://docs.podman.io/en/latest/markdown/podman-build.1.html) - Containerfile または Dockerfile の指示を解釈し、Buildah を基盤として利用して OCI 互換のコンテナイメージを構築するコマンド
   - [Kaniko](https://github.com/GoogleContainerTools/kaniko) - コンテナまたは Kubernetes クラスター内で Dockerfile からコンテナイメージを構築するツール
+  - [Cloud Native Buildpacks](https://buildpacks.io/) - Dockerfile なしで、アプリケーションのソースコードをあらゆるクラウドで実行できるイメージに変換するツール
 - イメージ検査 & 管理ツール
   - [skopeo](https://github.com/containers/skopeo) - コンテナイメージとイメージリポジトリに対してさまざまな操作を実行するコマンドラインユーティリティ
   - [dive](https://github.com/wagoodman/dive) - Docker イメージ、レイヤーの内容を探索し、Docker/OCI イメージのサイズを縮小する方法を見つけるためのツール
@@ -345,8 +347,10 @@
   - [Kata Containers](https://katacontainers.io/) - コンテナのような感覚とパフォーマンスを持ちながら、仮想マシンのワークロード分離とセキュリティを提供する軽量仮想マシンの標準実装を構築するオープンソースプロジェクト
   - [gVisor](https://gvisor.dev/) - Linux カーネルとそのネットワークスタックを実装し、システムコールをインターセプトしてホストをコンテナ化されたアプリケーションから保護する Linux 互換サンドボックス
   - [libkrun](https://github.com/containers/libkrun) - 仮想化ベースのプロセス分離機能を提供する動的ライブラリ
+  - [Microsoft eXecution Container (MXC)](https://github.com/microsoft/mxc) - Windows、Linux、macOS にわたり、複数の封じ込めバックエンドとポリシー駆動のセキュリティ制御によって信頼できないコードを実行する、クロスプラットフォームなサンドボックス化コード実行システム
   - [Cloud Hypervisor](https://www.cloudhypervisor.org/) - 最小限のハードウェアエミュレーションで現代のクラウドワークロードの実行に焦点を当てた、Rust で実装されたオープンソースの仮想マシンモニター (VMM)
   - [Firecracker](https://firecracker-microvm.github.io/) - セキュアなマルチテナントのコンテナおよびファンクションベースのサービスの作成と管理を目的として構築されたオープンソースの仮想化技術
+  - [AWS Lambda MicroVMs](https://aws.amazon.com/lambda/lambda-microvms/) - Firecracker 仮想化技術を基盤に、ほぼ瞬時の起動と再開を備えた VM レベルの分離を提供するサーバーレスコンピューティングサービス
   - [QEMU microvm](https://www.qemu.org/docs/master/system/i386/microvm.html) - PCI や ACPI サポートのない最小限のマシンタイプで、短期ゲスト向けに設計され、起動時間とフットプリントの両方に最適化されている
   - [Docker Sandboxes](https://github.com/docker/sandboxes-releases) - セキュリティとシステム保護を強化するために、軽量なマイクロ VM 上で AI コーディングエージェントを実行するように設計された、隔離された使い捨て環境
   - [Daytona](https://www.daytona.io/) - 90ミリ秒未満の作成時間で、隔離されたサンドボックス環境で AI 生成コードを実行するための安全なインフラプラットフォーム
@@ -579,5 +583,6 @@
 - [sysbench](https://github.com/akopytov/sysbench) - LuaJIT に基づくスクリプト可能なマルチスレッドベンチマークツール
 - [fio](https://github.com/axboe/fio) - ユーザーが指定した特定の種類の I/O アクションを実行するスレッドまたはプロセスを多数生成するツール
 - [iPerf](https://iperf.fr/) - TCP、UDP、SCTP の究極のスピードテストツール
+- [Speedtest CLI](https://www.speedtest.net/apps/cli) - Web ブラウザーに依存せず、ダウンロード、アップロード、レイテンシー、パケットロスといったインターネット接続のパフォーマンス指標をネイティブに測定するコマンドラインインターフェース
 - [plow](https://github.com/six-ddc/plow) - Web UI とターミナルインターフェースの両方でリアルタイムのパフォーマンスメトリクスを表示しながら並行接続で負荷テストを実施する、Golang で書かれた HTTP(S) ベンチマークツール
 - [loadgen-rs](https://github.com/git001/loadgen-rs) - コマンドラインモードと分散モードをサポートする、HTTP/1.1、HTTP/2、HTTP/3 (QUIC) に対応した h2load 互換の Rust 製 HTTP ベンチマーククライアント

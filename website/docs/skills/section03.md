@@ -155,6 +155,7 @@
   - [buildah](https://buildah.io/) - A tool that facilitates building Open Container Initiative (OCI) container images
   - [podman build](https://docs.podman.io/en/latest/markdown/podman-build.1.html) - A command that constructs OCI-compatible container images by interpreting instructions from a Containerfile or Dockerfile, leveraging Buildah for the underlying operations
   - [Kaniko](https://github.com/GoogleContainerTools/kaniko) - A tool to build container images from a Dockerfile, inside a container or Kubernetes cluster
+  - [Cloud Native Buildpacks](https://buildpacks.io/) - A tool that transforms your application source code into images that can run on any cloud, without a Dockerfile
 - Image Inspection & Management Tools
   - [skopeo](https://github.com/containers/skopeo) - A command line utility that performs various operations on container images and image repositories
   - [dive](https://github.com/wagoodman/dive) - A tool for exploring a docker image, layer contents, and discovering ways to shrink the size of your Docker/OCI image
@@ -582,5 +583,6 @@
 - [sysbench](https://github.com/akopytov/sysbench) - A scriptable multi-threaded benchmark tool based on LuaJIT
 - [fio](https://github.com/axboe/fio) - A tool that will spawn a number of threads or processes doing a particular type of I/O action as specified by the user
 - [iPerf](https://iperf.fr/) - The ultimate speed test tool for TCP, UDP and SCTP
+- [Speedtest CLI](https://www.speedtest.net/apps/cli) - A command line interface that measures internet connection performance metrics like download, upload, latency and packet loss natively without relying on a web browser
 - [plow](https://github.com/six-ddc/plow) - An HTTP(S) benchmarking tool written in Golang that conducts load testing with concurrent connections while displaying real-time performance metrics through both a web UI and terminal interface
 - [loadgen-rs](https://github.com/git001/loadgen-rs) - A h2load-compatible HTTP benchmark client written in Rust, supporting HTTP/1.1, HTTP/2, and HTTP/3 (QUIC) with commandline mode and distributed mode

@@ -101,7 +101,6 @@
 
 - [ASCII](https://en.wikipedia.org/wiki/ASCII) - A character encoding standard for electronic communication
 - [Unicode](https://home.unicode.org/) - The universal character encoding standard
-support
   - [UTF-8](https://en.wikipedia.org/wiki/UTF-8) - A variable-width character encoding used for electronic communication
   - [Unicode Emoji](https://home.unicode.org/emoji/) - A standardized set of characters that are used like emoticons
 - [CSV](https://en.wikipedia.org/wiki/Comma-separated_values) - A delimited text file that uses a comma to separate values
@@ -395,7 +394,7 @@ support
 
 - Build Automation Tools
   - [GNU Make](https://www.gnu.org/software/make/) - A tool which controls the generation of executables and other non-source files of a program
-    - [Remake](https://bashdb.sourceforge.net/remake/) - An enahanced version of GNU Make that adds improved error reporting, better tracing, profiling and a debugger
+    - [Remake](https://bashdb.sourceforge.net/remake/) - An enhanced version of GNU Make that adds improved error reporting, better tracing, profiling and a debugger
     - [makefile-graph](https://github.com/dnaeon/makefile-graph) - A Go module and CLI application, which parses GNU Make's internal database and generates a graph
   - [Bazel](https://bazel.build/) - A fast, scalable, multi-language and extensible build system
   - [Gradle](https://gradle.org/) - An open-source build automation tool that is designed to be flexible enough to build almost any type of software
@@ -447,9 +446,11 @@ support
     - [npmgraph](https://npmgraph.js.org/) - A tool for exploring the npm dependency graph
   - [yarn](https://yarnpkg.com/) - A package manager that doubles down as project manager
   - [pNPm](https://pnpm.io) - A fast, disk space efficient package manager
+  - [Corepack](https://github.com/nodejs/corepack#readme) - A zero-runtime-dependency Node.js script that acts as a bridge between Node.js projects and the package managers they are intended to be used with during development
   - [dpmland](https://dpmland.deno.dev/) - A simple, modern and easy way to manage the Deno modules and dependencies
   - [Bun package manager](https://bun.sh/package-manager) - A fast, npm-compatible package manager built into Bun
   - [orogene](https://orogene.dev/) - A next-generation package manager for the JavaScript ecosystem
+  - [vlt](https://www.vlt.io/home) - A JavaScript package registry for teams that move fast, serving npm-compatible packages together with a secure npm mirror and a fully resolved dependency graph
 - Python Development
   - [pip](https://pip.pypa.io/) - The package installer for Python
   - [poetry](https://python-poetry.org/) - A tool for dependency management and packaging in Python

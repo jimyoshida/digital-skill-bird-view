@@ -403,13 +403,13 @@
 
 - Psychological Models
   - [Seven stages of action](https://en.wikipedia.org/wiki/Seven_stages_of_action) - An idealized description of the cognitive and physical steps an individual takes to achieve a goal
-    - 1: Forming the target.
-    - 2: Forming the intention.
-    - 3: Specifying an action.
-    - 4: Executing the action.
-    - 5: Perceiving the state of the world.
-    - 6: Interpreting the state of the world.
-    - 7: Evaluating the outcome.
+    - 1: Forming the target
+    - 2: Forming the intention
+    - 3: Specifying an action
+    - 4: Executing the action
+    - 5: Perceiving the state of the world
+    - 6: Interpreting the state of the world
+    - 7: Evaluating the outcome
 - Cognitive Processes
   - [Attention](https://en.wikipedia.org/wiki/Attention) - The cognitive process of selectively concentrating on one aspect of the environment while ignoring other things
   - [Metacognition](https://en.wikipedia.org/wiki/Metacognition) - An awareness of one's thought processes and an understanding of the patterns behind them

@@ -254,9 +254,9 @@
   - [Zeigarnik effect](https://en.wikipedia.org/wiki/Zeigarnik_effect) - The phenomenon that people remember unfinished or interrupted tasks better than completed tasks
   - [Default mode network](https://en.wikipedia.org/wiki/Default_mode_network) - A large-scale brain network; known for being active when a person is not focused on the outside world and the brain is at wakeful rest
   - [Situation awareness](https://en.wikipedia.org/wiki/Situation_awareness) - The understanding of an environment, its elements, and how it changes with respect to time or other factors
-    - 1: Perception of the elements in the environment.
-    - 2: Comprehension or understanding of the situation.
-    - 3: Projection of future status.
+    - 1: Perception of the elements in the environment
+    - 2: Comprehension or understanding of the situation
+    - 3: Projection of future status
   - [Vertical thinking](https://en.wikipedia.org/wiki/Vertical_thinking) - A problem-solving approach characterized by being selective, analytical, and sequential, often relying on rational assessment and external data
   - [Lateral thinking](https://en.wikipedia.org/wiki/Lateral_thinking) - A manner of solving problems using an indirect and creative approach via reasoning that is not immediately obvious
 - Related Philosophies

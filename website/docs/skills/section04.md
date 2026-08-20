@@ -194,8 +194,8 @@
   - [WS-Federation](http://docs.oasis-open.org/wsfed/federation/v1.2/ws-federation.html) - A specification that defines mechanisms used to broker trust and manage identities, attributes and authentication between participating Web services
   - [FIDO2](https://fidoalliance.org/specifications/) (WebAuthn, CTAP, Passkeys) - A set of specifications that enables users to leverage common devices to easily and securely authenticate to online services
     - Relying party - The website or online service that wants to verify a user's identity (e.g., your bank's website)
-    - Authenticator - The device or software that securely stores cryptographic keys and performs authentication for the user.
-    - Client - The software on the user's device, typically a web browser or operating system component, that communicates between the Relying Party and the Authenticator.
+    - Authenticator - The device or software that securely stores cryptographic keys and performs authentication for the user
+    - Client - The software on the user's device, typically a web browser or operating system component, that communicates between the Relying Party and the Authenticator
     - [WebAuthn](https://www.w3.org/TR/webauthn-1/) - An API for accessing Public Key Credentials
     - [CTAP](https://fidoalliance.org/specs/fido-v2.0-id-20180227/fido-client-to-authenticator-protocol-v2.0-id-20180227.html) - A protocol that enables an external authenticator to communicate with a client platform
     - [Passkeys](https://passkey.org/) - A phishing-resistant replacement for passwords
@@ -253,9 +253,9 @@
 - [OWASP Threat Modeling](https://owasp.org/www-project-security-culture/v10/6-Threat_Modelling/) - Guidance from the OWASP Security Culture project on integrating threat modeling into the development lifecycle
 - [STRIDE model](https://en.wikipedia.org/wiki/STRIDE_%28security%29) - A mnemonic for categorizing computer security threats into six categories
 - [MITRE ATT&CK](https://attack.mitre.org/) - A globally-accessible knowledge base of adversary tactics and techniques
-  - Tactics: The high-level objectives or goals that an adversary aims to achieve during an attack.
-  - Techniques: The specific methods or ways adversaries achieve their tactical objectives.
-  - Procedures: The specific implementations or variations of techniques that adversaries utilize in their operations.
+  - Tactics: The high-level objectives or goals that an adversary aims to achieve during an attack
+  - Techniques: The specific methods or ways adversaries achieve their tactical objectives
+  - Procedures: The specific implementations or variations of techniques that adversaries utilize in their operations
 - Modeling Tools
   - [OWASP Threat Dragon](https://owasp.org/www-project-threat-dragon/) - A free, open-source, cross-platform threat modeling application
   - [threatspec](https://threatspec.org/) - A tool that allows you to define threat models as code

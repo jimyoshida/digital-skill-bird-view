@@ -59,6 +59,7 @@
   - [Fetch Standard](https://fetch.spec.whatwg.org/) - リクエスト、レスポンス、およびそれらをバインドするプロセス (フェッチ) を定義する現行標準です
   - [Canvas API](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API) - JavaScript および HTML `<canvas>` 要素を使用してグラフィックスを描画するための手段です
   - [WebGL API](https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API) - プラグインを使用せずに互換性のあるウェブブラウザ内で高性能なインタラクティブ 3D および 2D グラフィックスをレンダリングするための JavaScript API です
+  - [Web Neural Network API (WebNN)](https://www.w3.org/TR/webnn/) - GPU、CPU、NPU などのオンデバイスハードウェアを利用して、ウェブアプリやフレームワークがディープニューラルネットワークを高速化できるようにする新興のウェブ標準です
 - サイト分析ツール
   - [Wappalyzer](https://www.wappalyzer.com/) - ウェブサイトが何で構築されているかを表示するテクノロジープロファイラーです
 

@@ -168,6 +168,8 @@
 
 - [Postfix](https://www.postfix.org/) - A mail server that started life at IBM research as an alternative to the widely-used Sendmail program
 - [Maddy Mail Server](https://github.com/foxcpp/maddy) - An all-in-one mail server that implements all functionality required to run a mail service
+- Testing Servers
+  - [Mailpit](https://mailpit.axllent.org/) - A small, fast, low memory, zero-dependency, multi-platform email testing tool & API for developers
 - IMAP
   - [Cyrus IMAP](https://www.cyrusimap.org/) - A highly scalable enterprise mail system designed for use in small to large enterprise environments
   - [Dovecot](https://www.dovecot.org/) - An open source IMAP and POP3 email server for Linux/UNIX-like systems
@@ -180,6 +182,7 @@
   - [Himalaya](https://github.com/pimalaya/himalaya) - A CLI application for email management, built in Rust, that allows users to interact with emails through shell commands, with support for IMAP, Maildir, SMTP, OAuth 2.0, and PGP encryption
   - [Mutt](http://www.mutt.org/) - A small but very powerful text based program for reading and sending electronic mail under unix operating systems
   - [swaks](http://www.jetmore.org/john/code/swaks/) - A featureful, flexible, scriptable, transaction-oriented SMTP test tool
+  - [msmtp](https://marlam.de/msmtp/) - An SMTP client that transmits mail to an SMTP server for delivery, designed to be configured as a sendmail replacement for mail clients
   - [Pop](https://github.com/charmbracelet/pop) - A library for sending emails from your terminal
   - [GNU sharutils](https://www.gnu.org/software/sharutils/) - A set of utilities for creating and unpacking shell archives
 - Libraries
