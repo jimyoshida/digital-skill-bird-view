@@ -9,8 +9,9 @@ Refer to `website/docs/intro.md` for the overview & principles.
 A Docusaurus 3 site (`website/`) that curates a categorized list of DX/software-engineering
 skills and tools (`website/docs/skills/section01.md` … `section12.md`) alongside chronological
 technology-history timelines (`website/docs/timelines/*.md`). The same source markdown is also
-compiled into a single PDF, a mindmap, and a dependency graph. `data/` holds Perl tooling that
-keeps section titles consistent across all of the derived files.
+compiled into a single PDF (plus a Japanese-language PDF from the `i18n/ja` translations), a
+mindmap, and a dependency graph. `data/` holds Perl tooling that keeps section titles consistent
+across all of the derived files.
 
 ## Build & Development Commands
 
@@ -29,8 +30,9 @@ cd website
 yarn install                   # Install Node dependencies (once)
 yarn start                     # Dev server (hot reload)
 ./scripts/download-fonts.sh    # Fetch Noto fonts into fonts/ (gitignored; needed before make pdf)
-make                           # Full build: PDF + markmap + graphmap + yarn build
-make pdf                       # Generate PDF only (requires asciidoctor-pdf + fonts/)
+make                           # Full build: PDF + Japanese PDF + markmap + graphmap + yarn build
+make pdf                       # Generate English PDF only (requires asciidoctor-pdf + fonts/)
+make pdf-ja                    # Generate Japanese PDF only (requires asciidoctor-pdf + fonts/)
 make markmap                   # Generate skills mindmap HTML (static/usr/docs/map.html)
 make graphmap                  # Generate skill dependency graph PDF (static/usr/docs/graphmap.pdf)
 make clean                     # Remove build artifacts
@@ -40,10 +42,12 @@ yarn serve                     # Serve the production build locally
 `make pdf` renders every file under `docs/*.md`, `docs/skills/*.md`, and `docs/timelines/*.md`
 through `perl scripts/preprocess.pl` (converts Docusaurus admonitions to blockquotes) → `pandoc`
 (Markdown → AsciiDoc, one `.adoc` per source file under `pdf/tmp/`) → `asciidoctor-pdf`, which
-assembles them via the `include::` directives in `pdf/all.adoc` using the theme
+assembles them via the `include::` directives in `pdf/index.adoc` using the theme
 `pdf/eng-theme.yml` (Noto Sans base font, with Noto Emoji registered as a font fallback so the
-timeline class emoji render). A CJK theme (`pdf/cjk-theme.yml`, Noto Serif JP based) exists but
-its Makefile target is currently commented out. Fonts are gitignored — run
+timeline class emoji render). `make pdf-ja` does the same for the Japanese translations under
+`i18n/ja/docusaurus-plugin-content-docs/current/`, assembled via `pdf/index-jp.adoc` using the CJK
+theme `pdf/cjk-theme.yml` (Noto Sans JP base font and headings, Noto Emoji fallback)
+and asciidoctor-pdf's `scripts=cjk` attribute for CJK line-wrapping. Fonts are gitignored — run
 `scripts/download-fonts.sh` first, which pulls static (non-variable) TTF instances from Google
 Fonts' CSS API; asciidoctor-pdf's font embedding does not reliably support variable-font tables.
 

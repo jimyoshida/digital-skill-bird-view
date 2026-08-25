@@ -310,7 +310,6 @@
 - [LiteLLM](https://docs.litellm.ai) - 統一された OpenAI 入出力形式を使用して 100 以上の大規模言語モデル(LLM)を呼び出すことができる Python SDK および AI ゲートウェイ(プロキシ)です
 - [RedCandle](https://github.com/scientist-labs/red-candle) - Rust の Candle を使用してローカルで最先端の言語モデルを実行するための Ruby Gem です
 - [Unsloth AI](https://unsloth.ai/) - 大規模言語モデル(LLM)を簡単にファインチューニングおよびトレーニングして、より速く、より効率的な AI トレーニングを実現するためのツールおよびサービスを提供するプラットフォームです
-- [LLM](https://llm.datasette.io/en/stable/) - 大規模言語モデルと相互作用するための CLI ユーティリティと Python ライブラリです
 
 ### ベンチマークと分析
 

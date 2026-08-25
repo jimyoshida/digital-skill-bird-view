@@ -1,6 +1,6 @@
 # Docusaurus site build
 .PHONY: all
-all: pdf markmap graphmap
+all: pdf pdf-ja markmap graphmap
 	yarn build
 
 # Cleanup
@@ -17,7 +17,7 @@ pdf/tmp/%.adoc: %.md
 	perl scripts/preprocess.pl < $< | pandoc --from=markdown-smart --to=asciidoc --wrap=none > $@
 
 # PDF Dest Files 
-ALLPDF := static/usr/docs/all.pdf
+ALLPDF := static/usr/docs/index.pdf
 PDFDATE := $(shell date +%F)
 
 .PHONY: pdf
@@ -26,21 +26,34 @@ pdf: $(ALLPDF)
 # Source Files
 ALLPAGES := $(wildcard docs/*.md docs/skills/*.md docs/timelines/*.md)
 
-# Asciidoc Sections Dest Files 
+# Asciidoc Sections Dest Files
 ALLADOCS := $(addprefix pdf/tmp/,$(ALLPAGES:.md=.adoc))
 
-$(ALLPDF): pdf/all.adoc $(ALLADOCS)
+$(ALLPDF): pdf/index.adoc $(ALLADOCS)
 	asciidoctor-pdf -v -o $@ \
 	-a pdfdate=$(PDFDATE) \
 	-a pdf-theme=pdf/eng-theme.yml \
 	-a pdf-fontsdir=fonts $<
 
-# $(ALLPDFJP): pdf/alljp.adoc $(ALLADOCSJP)
-# 	asciidoctor-pdf -v -o $@ \
-# 	-a pdfdate=$(PDFDATE) \
-# 	-a pdf-theme=pdf/cjk-theme.yml \
-# 	-a pdf-fontsdir=fonts \
-# 	-a scripts=cjk $<
+# Japanese PDF Dest File
+ALLPDFJP := static/usr/docs/index-jp.pdf
+
+.PHONY: pdf-ja
+pdf-ja: $(ALLPDFJP)
+
+# Japanese (i18n) Source Files
+I18NJADIR := i18n/ja/docusaurus-plugin-content-docs/current
+ALLPAGESJP := $(wildcard $(I18NJADIR)/*.md $(I18NJADIR)/skills/*.md $(I18NJADIR)/timelines/*.md)
+
+# Japanese Asciidoc Sections Dest Files
+ALLADOCSJP := $(addprefix pdf/tmp/,$(ALLPAGESJP:.md=.adoc))
+
+$(ALLPDFJP): pdf/index-jp.adoc $(ALLADOCSJP)
+	asciidoctor-pdf -v -o $@ \
+	-a pdfdate=$(PDFDATE) \
+	-a pdf-theme=pdf/cjk-theme.yml \
+	-a pdf-fontsdir=fonts \
+	-a scripts=cjk $<
 
 # Markmap Dest File
 MAPHTML := static/usr/docs/map.html

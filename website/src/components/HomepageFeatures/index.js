@@ -57,7 +57,8 @@ export default function HomepageFeatures() {
       Svg: require('@site/static/img/pdf-document.svg').default,
       description: (
         <>
-          A comprehensive, <a href={useBaseUrl('/usr/docs/all.pdf')}>single PDF document</a> containing all site contents,
+          A comprehensive, <a href={useBaseUrl('/usr/docs/index.pdf')}>single PDF document</a> containing all site contents
+          (also available in a <a href={useBaseUrl('/usr/docs/index-jp.pdf')}>Japanese edition</a>),
           compiled from the Markdown sources using Pandoc and Asciidoctor PDF.
         </>
       ),

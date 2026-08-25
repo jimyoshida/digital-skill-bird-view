@@ -292,6 +292,7 @@
 - ターミナル & UI ツール
   - [Informative git prompt for bash and fish](https://github.com/magicmonty/bash-git-prompt) - 現在の git リポジトリに関する情報を表示する bash プロンプトです
   - [lazygit](https://github.com/jesseduffield/lazygit) - git コマンド向けのシンプルなターミナル UI です
+  - [gitui](https://github.com/gitui-org/gitui#readme) - git GUI の快適さを、そのままターミナルで提供するツールです
   - [giff](https://github.com/bahdotsh/giff) - ブランチ間の変更を表示・管理できる、対話的なリベース機能を備えたターミナルベースの Git 差分ビューアーです
   - [Git Interactive Rebase Tool](https://gitrebasetool.mitmaro.ca/) - Git 向けの改良されたシーケンスエディターです
 - 履歴とメンテナンスツール
@@ -306,6 +307,7 @@
   - [pre-commit](https://pre-commit.com/) - 多言語対応の pre-commit フックを管理・保守するためのフレームワークです
   - [Lefthook](https://lefthook.dev/) - あらゆる種類のプロジェクト向けの、高速で多言語対応の Git フックマネージャーです
   - [Husky](https://typicode.github.io/husky/) - 超高速でモダンなネイティブ git フックです
+  - [lint-staged](https://github.com/lint-staged/lint-staged#readme) - ステージされた Git ファイルに対して、フォーマッタやリンターなどのタスクを実行するツールです
 
 ### Git ホスティングサービス
 
@@ -321,6 +323,7 @@
 
 ### ブランチングモデル
 
+- [Git Flow](https://nvie.com/posts/a-successful-git-branching-model/) - プロジェクトのリリースを中心に構築されたブランチモデルで、長期間存続する develop ブランチと main ブランチに加え、feature・release・hotfix ブランチを用いて並行開発を整理します
 - [Trunk Based Development](https://trunkbaseddevelopment.com/) - 開発者が「trunk」と呼ばれる単一のブランチでコードを協業し、文書化されたテクニックを用いて他の長期的な開発ブランチを作成する圧力に抵抗する、ソースコード管理のブランチングモデルです
 - [GitHub Flow](https://docs.github.com/en/get-started/using-github/github-flow) - 頻繁にデプロイするチーム向けに設計された軽量なブランチベースのワークフローです
 - [GitLab Flow](https://docs.gitlab.co.jp/ee/topics/gitlab_flow.html) - 機能駆動開発と機能ブランチを Issue トラッキングと組み合わせた、GitFlow に代わるよりシンプルな方法です
@@ -330,6 +333,7 @@
 - [Google Engineering Practices Documentation](https://google.github.io/eng-practices/) - レビュアーと変更作成者の両方に向けた、Google のコードレビュープロセスとポリシーの包括的なガイドです
 - [Conventional Comments](https://conventionalcomments.org/) - 明瞭性の向上、誤解の低減、コメントの機械可読化のために、コードレビューフィードバックの構造化されたフォーマットを提供する標準です
 - [Danger](https://github.com/danger/danger) - コードレビューにおけるチームの規範を自動化するツールです
+- [Gerrit](https://www.gerritcodereview.com/) - Git ベースの開発のための、オープンソースのパッチセット単位のコードレビュープラットフォームです
 
 ## 統合開発環境 (IDE)
 
@@ -340,6 +344,7 @@
 :::
 
 - GUI ベース
+  - [Eclipse IDE](https://www.eclipseide.org/) - 業界に支えられコミュニティ主導で開発され、豊富なプラットフォームプラグインによる高い拡張性を備えた、無料でオープンソースの IDE です
   - [Visual Studio Code](https://code.visualstudio.com/) - デスクトップ上で動作し、Windows、macOS、Linux で利用できる、軽量ながら強力なソースコードエディターです
     - [Awesome VS Code](https://viatsko.github.io/awesome-vscode/) - 素晴らしい VS Code パッケージとリソースの厳選リストです
     - [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens) - Visual Studio Code に組み込まれた Git 機能を強化する拡張機能です
@@ -395,6 +400,7 @@
 - [Gopls](https://go.dev/gopls/) - Go 言語向けの公式言語サーバーです
 - [rust-analyzer](https://rust-analyzer.github.io/) - Rust プログラミング言語向けの言語サーバーです
 - [Eclipse JDT Language Server](https://github.com/eclipse-jdtls/eclipse.jdt.ls) - Eclipse JDT に基づいた Java 言語サーバーです
+- [clangd](https://clangd.llvm.org/) - C++ のコードを理解し、コード補完、コンパイルエラーの表示、定義へのジャンプなどのスマートな機能をエディターに追加する言語サーバーです
 
 ## コード品質とリファクタリング
 
@@ -407,6 +413,8 @@
 - 概念
   - [SQALE method](https://en.wikipedia.org/wiki/SQALE) - ソフトウェアソースコードの品質評価を支援するための手法です
   - [Cyclomatic complexity](https://en.wikipedia.org/wiki/Cyclomatic_complexity) - プログラムの複雑さを示すために使用されるソフトウェアメトリクスです
+  - [Code refactoring](https://en.wikipedia.org/wiki/Code_refactoring) - 外部から見た動作を変えることなく、既存のソースコードを再構成するプロセスです
+  - [Code smell](https://en.wikipedia.org/wiki/Code_smell) - より深い問題を示唆するソースコードの特徴です
 - コードメトリクスツール
   - [scc](https://github.com/boyter/scc/) - 多くのプログラミング言語でコード行数をカウントするツールです
   - [cloc](https://github.com/AlDanial/cloc) - 多くのプログラミング言語で空白行、コメント行、ソースコードの物理行をカウントするツールです
@@ -414,6 +422,8 @@
 ### 分析プラットフォーム
 
 - [SonarQube Server](https://www.sonarsource.com/products/sonarqube/) - 30 以上の言語、フレームワーク、IaC プラットフォームでコーディング上の問題を検出するために設計された、オンプレミスの分析ツールです
+- [CodeScene](https://codescene.com/) - 静的解析にとどまらず、Code Health メトリクスとチームのコードへの関わり方に関する行動分析を通じてソフトウェアの品質を可視化するコード分析プラットフォームです
+- [Codecov](https://about.codecov.io/) - コードカバレッジを測定し、あらゆる段階でコード品質の向上を支援するツールです
 - [GitLab Code Coverage](https://docs.gitlab.com/ee/ci/testing/code_coverage.html) - テストでカバーされているコードの割合を示すレポートです
 - [GitLab Code Quality](https://docs.gitlab.com/ee/ci/testing/code_quality.html) - CodeClimate Engines を使用してプロジェクトのコード品質分析を提供する機能です
 
@@ -423,6 +433,8 @@
 - [Prettier](https://prettier.io/) - 独自の意見を持ったコードフォーマッターです
 - [Ruff](https://docs.astral.sh/ruff/) - Rust で書かれた、非常に高速な Python リンター兼コードフォーマッターです
 - [Biome](https://biomejs.dev/) - JavaScript、TypeScript、JSX、JSON、HTML、CSS、GraphQL 向けの高速なフォーマッターと高性能なリンターを提供する Web 向けツールチェーンです
+- [gofmt](https://pkg.go.dev/cmd/gofmt) - タブでインデントを行い、空白で位置を揃えて Go プログラムを整形するツールです
+- [clang-format](https://clang.llvm.org/docs/ClangFormat.html) - C/C++/Java/JavaScript/JSON/Objective-C/Protobuf/C# のコードを整形するツールです
 
 ### リンター
 
@@ -448,6 +460,7 @@
 - [Google Style Guides](https://google.github.io/styleguide/) - さまざまなプログラミング言語でソースコードを書くための一連の規約を提供する文書のコレクションです
 - [Style Guide for Python](https://peps.python.org/pep-0008/) - メインの Python ディストリビューションの標準ライブラリを構成する Python コードのコーディング規約を示す文書です
 - [Ruby Style Guide](https://rubystyle.guide/) - Ruby プログラミング言語向けのコミュニティ主導のスタイルガイドです
+- [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript) - JavaScript に対する、おおむね理にかなったアプローチです
 
 ## 開発者 AI と生産性
 
@@ -462,6 +475,8 @@
 - [Mods](https://github.com/charmbracelet/mods) - AI の助けを借りてプログラムを書く手助けをするシンプルなツールです
 - [gptcli](https://github.com/evilpan/gptcli) - ChatGPT 向けのコマンドラインインターフェイスです
 - [ShellGPT](https://github.com/TheR1D/shell_gpt) - AI 大規模言語モデル (LLM) を活用したコマンドライン生産性ツールです
+- [LLM](https://llm.datasette.io/en/stable/) - 大規模言語モデルと相互作用するための CLI ユーティリティと Python ライブラリです
+- [Fabric](https://github.com/danielmiessler/fabric) - AI を使って人間を拡張するためのオープンソースフレームワークです
 - [OpenCommit](https://github.com/di-sukharev/opencommit) - 意味のあるコミットを一瞬で自動生成します
 - [AI Commits](https://github.com/Nutlope/aicommits) - AI であなたに代わって git コミットメッセージを書く CLI です
 - [lootbox](https://github.com/jx-codes/lootbox) - 「Code Mode」に着想を得た CLI で、LLM がツール呼び出しを使う代わりに TypeScript コードを書いて API を呼び出します
@@ -479,6 +494,9 @@
     - [Conductor](https://github.com/gemini-cli-extensions/conductor) - Gemini CLI 向けの公式プロジェクトマネジメントツールです
     - [Sandboxing](https://geminicli.com/docs/cli/sandbox/) - 潜在的に危険な操作をホストシステムから分離する機能で、macOS Seatbelt またはコンテナベースの分離手法を使用して、AI 操作と環境の間にセキュリティバリアを提供します
   - [Antigravity CLI](https://github.com/google-antigravity/antigravity-cli) - コードベースを理解し、許可を得て編集を行い、ターミナルから直接コマンドを実行する、ターミナルベースの AI コーディングエージェントです
+  - [GitHub Copilot CLI](https://github.com/github/copilot-cli) - Copilot コーディングエージェントの力を直接ターミナルにもたらすツールです
+  - [Cursor CLI](https://cursor.com/cli) - ターミナルから直接開発を進められるよう構築されたツールで、どの環境でも同じコマンドを使用できます
+  - [Amp](https://ampcode.com/) - あらゆる場所で動作するコーディングエージェント兼開発環境です
   - [Aider](https://aider.chat/) - 新しいプロジェクトを始めたり、既存のコードベース上に構築したりできる、ターミナル内の AI ペアプログラミングツールです
   - [Letta Code](https://docs.letta.com/letta-code) - ターミナルに常駐する、メモリファーストのコーディングエージェントです
   - [Deep Agents CLI](https://docs.langchain.com/oss/python/deepagents/cli/overview) - Deep Agents SDK 上に構築されたターミナルコーディングエージェントです
@@ -505,10 +523,7 @@
   - [OpenHands](https://docs.all-hands.dev/) - AI を搭載したソフトウェア開発エージェント向けのプラットフォームです
   - [Port](https://www.getport.io/) - エンジニアリングのあらゆる側面を加速する自律的なワークフローを構築するためのエージェント的な開発者ポータルです
   - [Antigravity](https://antigravity.google/) - エージェント的な開発プラットフォームです
-- エージェントオーケストレーション
-  - [TAKT (TAKT Agent Koordination Topology)](https://github.com/nrslib/takt) - 構造化された YAML 定義のワークフローを使用して AI コーディングエージェントをオーケストレーション・管理するために設計されたオープンソースフレームワークです
-  - [KIRA](https://github.com/krafton-ai/KIRA) - ネイティブなツール呼び出し、マルチモーダル入力、マーカーベースの完了検証を活用して Terminal-Bench で最先端のパフォーマンスを達成する、ターミナルベースの AI タスク向けエージェントフレームワークです
-  - [Ultralight](https://burkeholland.github.io/ultralight/) - コードベースを調査し、段階的な計画を立て、専門のサブエージェントに作業を委任する、VS Code 向けのマルチエージェントオーケストレーションフレームワークです
+  - [Warp](https://www.warp.dev/) - 開発を自動化するためのオープンプラットフォームです
 - ベンチマーク
   - [SWE-bench](https://www.swebench.com/SWE-bench/) - GitHub から収集された実世界のソフトウェア問題で大規模言語モデルを評価するためのベンチマークです
   - [Terminal-Bench](https://www.tbench.ai/) - ソフトウェアエンジニアリング、機械学習、セキュリティ、データサイエンスをカバーする、AI エージェントのターミナル習熟度を定量化するための harbor ネイティブなベンチマークタスクのコレクションです

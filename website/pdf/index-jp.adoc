@@ -1,0 +1,51 @@
+= DX スキル・ランドスケープとタイムライン - {pdfdate}
+Hajime Yoshida <jimyoshida@dummy.com>
+:pdfdate: {docdate}
+:doctype: article
+:toc: macro
+:toclevels: 3
+:sectanchors:
+
+toc::[]
+
+<<<
+
+include::tmp/i18n/ja/docusaurus-plugin-content-docs/current/intro.adoc[]
+
+include::tmp/i18n/ja/docusaurus-plugin-content-docs/current/skills/section01.adoc[]
+
+include::tmp/i18n/ja/docusaurus-plugin-content-docs/current/skills/section02.adoc[]
+
+include::tmp/i18n/ja/docusaurus-plugin-content-docs/current/skills/section03.adoc[]
+
+include::tmp/i18n/ja/docusaurus-plugin-content-docs/current/skills/section04.adoc[]
+
+include::tmp/i18n/ja/docusaurus-plugin-content-docs/current/skills/section05.adoc[]
+
+include::tmp/i18n/ja/docusaurus-plugin-content-docs/current/skills/section06.adoc[]
+
+include::tmp/i18n/ja/docusaurus-plugin-content-docs/current/skills/section07.adoc[]
+
+include::tmp/i18n/ja/docusaurus-plugin-content-docs/current/skills/section08.adoc[]
+
+include::tmp/i18n/ja/docusaurus-plugin-content-docs/current/skills/section09.adoc[]
+
+include::tmp/i18n/ja/docusaurus-plugin-content-docs/current/skills/section10.adoc[]
+
+include::tmp/i18n/ja/docusaurus-plugin-content-docs/current/skills/section11.adoc[]
+
+include::tmp/i18n/ja/docusaurus-plugin-content-docs/current/skills/section12.adoc[]
+
+include::tmp/i18n/ja/docusaurus-plugin-content-docs/current/timelines/1930-89.adoc[]
+
+include::tmp/i18n/ja/docusaurus-plugin-content-docs/current/timelines/1990-99.adoc[]
+
+include::tmp/i18n/ja/docusaurus-plugin-content-docs/current/timelines/2000-09.adoc[]
+
+include::tmp/i18n/ja/docusaurus-plugin-content-docs/current/timelines/2010-14.adoc[]
+
+include::tmp/i18n/ja/docusaurus-plugin-content-docs/current/timelines/2015-19.adoc[]
+
+include::tmp/i18n/ja/docusaurus-plugin-content-docs/current/timelines/2020-24.adoc[]
+
+include::tmp/i18n/ja/docusaurus-plugin-content-docs/current/timelines/2025-present.adoc[]

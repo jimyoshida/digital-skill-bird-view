@@ -12,7 +12,7 @@ header:
   border_color: CCCCCCC
   border_style: solid # solid, dashed, dotted
   font_size: 9
-  font_family: Helvetica
+  font_family: NotoSansJP
   font_color: "666666"
 
   # Content for right-hand pages (recto)
@@ -41,19 +41,20 @@ font:
       bold: NotoSansJP-Bold.ttf
       italic: NotoSansJP-Regular.ttf
       bold_italic: NotoSansJP-Bold.ttf
-    NotoSerifJP:
-      normal: NotoSerifJP-Regular.ttf
-      bold: NotoSerifJP-Bold.ttf
-      italic: NotoSerifJP-Regular.ttf
-      bold_italic: NotoSerifJP-Bold.ttf
+    Noto Emoji:
+      normal: NotoEmoji-Regular.ttf
+      bold: NotoEmoji-Regular.ttf
+      italic: NotoEmoji-Regular.ttf
+      bold_italic: NotoEmoji-Regular.ttf
   fallbacks:
     - NotoSansJP
+    - Noto Emoji
 
 base:
-  font_family: NotoSerifJP
+  font_family: NotoSansJP
   font_size: 11 # Default font size in points (pt)
   font_color: "333333" # Hex color for default text
-  line_height_length: 16 # Absolute line height in points
+  line_height: 1.5 # Line-height multiplier (line_height_length alone has no effect under extends: default)
 
 heading:
   font_family: NotoSansJP

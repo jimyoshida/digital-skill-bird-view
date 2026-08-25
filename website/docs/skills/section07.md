@@ -292,6 +292,7 @@
 - Terminal & UI Tools
   - [Informative git prompt for bash and fish](https://github.com/magicmonty/bash-git-prompt) - A bash prompt that displays information about the current git repository
   - [lazygit](https://github.com/jesseduffield/lazygit) - A simple terminal UI for git commands
+  - [gitui](https://github.com/gitui-org/gitui#readme) - A tool that provides the comfort of a git GUI but right in your terminal
   - [giff](https://github.com/bahdotsh/giff) - A terminal-based Git diff viewer with interactive rebase capabilities that allows you to view and manage changes between branches
   - [Git Interactive Rebase Tool](https://gitrebasetool.mitmaro.ca/) - An improved sequence editor for Git
 - History & Maintenance Tools
@@ -306,6 +307,7 @@
   - [pre-commit](https://pre-commit.com/) - A framework for managing and maintaining multi-language pre-commit hooks
   - [Lefthook](https://lefthook.dev/) - A fast, polyglot Git hooks manager for any type of project
   - [Husky](https://typicode.github.io/husky/) - Ultra-fast modern native git hooks
+  - [lint-staged](https://github.com/lint-staged/lint-staged#readme) - A tool that runs tasks like formatters and linters against staged git files
 
 ### Git Hosting Services
 
@@ -321,6 +323,7 @@
 
 ### Branching Models
 
+- [Git Flow](https://nvie.com/posts/a-successful-git-branching-model/) - A branching model built around project releases, using long-lived develop and main branches alongside feature, release, and hotfix branches to keep parallel development organized
 - [Trunk Based Development](https://trunkbaseddevelopment.com/) - A source-control branching model, where developers collaborate on code in a single branch called 'trunk', resist any pressure to create other long-lived development branches by employing documented techniques
 - [GitHub Flow](https://docs.github.com/en/get-started/using-github/github-flow) - A lightweight, branch-based workflow designed for teams that deploy frequently
 - [GitLab Flow](https://docs.gitlab.co.jp/ee/topics/gitlab_flow.html) - A simpler alternative to GitFlow that combines feature driven development and feature branches with issue tracking
@@ -330,6 +333,7 @@
 - [Google Engineering Practices Documentation](https://google.github.io/eng-practices/) - A comprehensive guide to Google's code review processes and policies for both reviewers and change authors
 - [Conventional Comments](https://conventionalcomments.org/) - A standard that provides a structured format for code review feedback to improve clarity, reduce misunderstandings, and make comments machine-readable
 - [Danger](https://github.com/danger/danger) - A tool to automate team norms in code review
+- [Gerrit](https://www.gerritcodereview.com/) - The open source, patchset-based code review platform for Git-based development
 
 ## Integrated Development Environment (IDE)
 
@@ -340,6 +344,7 @@
 :::
 
 - GUI-based
+  - [Eclipse IDE](https://www.eclipseide.org/) - A free and open source IDE that is industry-backed and community driven, offering proven extensibility through a wide variety of platform plugins
   - [Visual Studio Code](https://code.visualstudio.com/) - A lightweight but powerful source code editor which runs on your desktop and is available for Windows, macOS and Linux
     - [Awesome VS Code](https://viatsko.github.io/awesome-vscode/) - A curated list of delightful VS Code packages and resources
     - [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens) - An extension that supercharges the Git capabilities built into Visual Studio Code
@@ -395,6 +400,7 @@
 - [Gopls](https://go.dev/gopls/) - The official language server for the Go language
 - [rust-analyzer](https://rust-analyzer.github.io/) - A language server for the Rust programming language
 - [Eclipse JDT Language Server](https://github.com/eclipse-jdtls/eclipse.jdt.ls) - A Java language server based on the Eclipse JDT
+- [clangd](https://clangd.llvm.org/) - A language server that understands C++ code and adds smart features to your editor, including code completion, compile errors, and go-to-definition
 
 ## Code Quality & Refactoring
 
@@ -407,6 +413,8 @@
 - Concepts
   - [SQALE method](https://en.wikipedia.org/wiki/SQALE) - A method to support the evaluation of the quality of a software source code
   - [Cyclomatic complexity](https://en.wikipedia.org/wiki/Cyclomatic_complexity) - A software metric used to indicate the complexity of a program
+  - [Code refactoring](https://en.wikipedia.org/wiki/Code_refactoring) - The process of restructuring existing source code without changing its external behavior
+  - [Code smell](https://en.wikipedia.org/wiki/Code_smell) - A characteristic of source code that hints at a deeper problem
 - Code Metrics Tools
   - [scc](https://github.com/boyter/scc/) - A tool that counts lines of code in many programming languages
   - [cloc](https://github.com/AlDanial/cloc) - A tool that counts blank lines, comment lines, and physical lines of source code in many programming languages
@@ -414,6 +422,8 @@
 ### Analysis Platform
 
 - [SonarQube Server](https://www.sonarsource.com/products/sonarqube/) - An on-premise analysis tool designed to detect coding issues in 30+ languages, frameworks, and IaC platform
+- [CodeScene](https://codescene.com/) - A code analysis platform that goes beyond static analysis, visualizing software quality through Code Health metrics and behavioral analysis of how teams work with code
+- [Codecov](https://about.codecov.io/) - A tool that measures code coverage and helps improve code quality at every step
 - [GitLab Code Coverage](https://docs.gitlab.com/ee/ci/testing/code_coverage.html) - A report that shows the percentage of your code that is covered by tests
 - [GitLab Code Quality](https://docs.gitlab.com/ee/ci/testing/code_quality.html) - A feature that uses CodeClimate Engines to provide code quality analysis for your projects
 
@@ -423,6 +433,8 @@
 - [Prettier](https://prettier.io/) - An opinionated code formatter
 - [Ruff](https://docs.astral.sh/ruff/) - An extremely fast Python linter and code formatter, written in Rust
 - [Biome](https://biomejs.dev/) - A toolchain of the web that provides a fast formatter and performant linter for JavaScript, TypeScript, JSX, JSON, HTML, CSS, and GraphQL
+- [gofmt](https://pkg.go.dev/cmd/gofmt) - A tool that formats Go programs, using tabs for indentation and blanks for alignment
+- [clang-format](https://clang.llvm.org/docs/ClangFormat.html) - A tool to format C/C++/Java/JavaScript/JSON/Objective-C/Protobuf/C# code
 
 ### Linters
 
@@ -448,6 +460,7 @@
 - [Google Style Guides](https://google.github.io/styleguide/) - A collection of documents that provide a set of conventions for writing source code in various programming languages
 - [Style Guide for Python](https://peps.python.org/pep-0008/) - A document that gives coding conventions for the Python code comprising the standard library in the main Python distribution
 - [Ruby Style Guide](https://rubystyle.guide/) - A community-driven style guide for the Ruby programming language
+- [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript) - A mostly reasonable approach to JavaScript
 
 ## Developer AI & Productivity
 
@@ -462,6 +475,8 @@
 - [Mods](https://github.com/charmbracelet/mods) - A simple tool that helps you write programs with the assistance of AI
 - [gptcli](https://github.com/evilpan/gptcli) - A command-line interface for ChatGPT
 - [ShellGPT](https://github.com/TheR1D/shell_gpt) - A command-line productivity tool powered by AI large language models (LLM)
+- [LLM](https://llm.datasette.io/en/stable/) - A CLI utility and Python library for interacting with Large Language Models
+- [Fabric](https://github.com/danielmiessler/fabric) - An open-source framework for augmenting humans using AI
 - [OpenCommit](https://github.com/di-sukharev/opencommit) - Auto-generate meaningful commits in a second
 - [AI Commits](https://github.com/Nutlope/aicommits) - A CLI that writes your git commit messages for you with AI
 - [lootbox](https://github.com/jx-codes/lootbox) - A CLI which is inspired by "Code Mode" - LLMs write TypeScript code to call APIs rather than using tool invocation
@@ -479,6 +494,9 @@
     - [Conductor](https://github.com/gemini-cli-extensions/conductor) - The official project management tool for Gemini CLI
     - [Sandboxing](https://geminicli.com/docs/cli/sandbox/) - A feature that isolates potentially dangerous operations from your host system, providing a security barrier between AI operations and your environment, using macOS Seatbelt or container-based methods for isolation
   - [Antigravity CLI](https://github.com/google-antigravity/antigravity-cli) - A terminal-based AI coding agent that understands codebases, makes edits with permission, and executes commands directly from the terminal
+  - [GitHub Copilot CLI](https://github.com/github/copilot-cli) - A tool that brings the power of Copilot coding agent directly to your terminal
+  - [Cursor CLI](https://cursor.com/cli) - A tool built to help you ship right from your terminal, with the same commands in any environment
+  - [Amp](https://ampcode.com/) - The coding agent and development environment that runs anywhere and everywhere
   - [Aider](https://aider.chat/) - An AI pair programming tool in your terminal that lets you start a new project or build on your existing codebase
   - [Letta Code](https://docs.letta.com/letta-code) - A memory-first coding agent that lives in your terminal
   - [Deep Agents CLI](https://docs.langchain.com/oss/python/deepagents/cli/overview) - A terminal coding agent built on the Deep Agents SDK
@@ -505,10 +523,7 @@
   - [OpenHands](https://docs.all-hands.dev/) - A platform for software development agents powered by AI
   - [Port](https://www.getport.io/) - An agentic developer portal to build autonomous workflows to accelerate every aspect of engineering
   - [Antigravity](https://antigravity.google/) - An agentic development platform
-- Agent Orchestration
-  - [TAKT (TAKT Agent Koordination Topology)](https://github.com/nrslib/takt) - An open-source framework designed to orchestrate and manage AI coding agents using structured, YAML-defined workflows
-  - [KIRA](https://github.com/krafton-ai/KIRA) - An agent framework for terminal-based AI tasks that leverages native tool calling, multimodal input, and marker-based completion verification to achieve state-of-the-art performance on Terminal-Bench
-  - [Ultralight](https://burkeholland.github.io/ultralight/) - A multi-agent orchestration framework for VS Code that researches your codebase, builds a phased plan, and delegates work to specialist subagents
+  - [Warp](https://www.warp.dev/) - The open platform for automating development
 - Benchmarks
   - [SWE-bench](https://www.swebench.com/SWE-bench/) - A benchmark for evaluating large language models on real world software issues collected from GitHub
   - [Terminal-Bench](https://www.tbench.ai/) - A collection of harbor-native benchmark tasks for quantifying AI agents' terminal mastery, covering software engineering, machine learning, security, and data science
