@@ -41,6 +41,8 @@ jobs:
       - uses: actions/checkout@v4
       - name: Build
         working-directory: website
+        env:
+          GTAG_ID: ${{ vars.GTAG_ID }}
         run: |
           yarn install
           ./scripts/download-fonts.sh

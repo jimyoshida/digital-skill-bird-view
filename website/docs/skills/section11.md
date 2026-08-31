@@ -430,10 +430,15 @@
 
 ### Communication Standards
 
-- [Wi-Fi](https://en.wikipedia.org/wiki/Wi-Fi) - A family of wireless network protocols, based on the IEEE 802.11 family of standards, which are commonly used for local area networking of devices and Internet access
-- [Bluetooth Low Energy](https://en.wikipedia.org/wiki/Bluetooth_Low_Energy) - A wireless personal area network technology designed to provide considerably reduced power consumption and cost while maintaining a similar communication range to classic Bluetooth
-- [Zigbee](https://en.wikipedia.org/wiki/Zigbee) - An IEEE 802.15.4-based specification for a suite of high-level communication protocols used to create personal area networks with small, low-power digital radios
-- [Near-field communication](https://en.wikipedia.org/wiki/Near-field_communication) - A set of communication protocols that enables communication between two electronic devices over a distance of 4 cm (1+1⁄2 in) or less
+- Wireless Connectivity
+  - [Wi-Fi](https://en.wikipedia.org/wiki/Wi-Fi) - A family of wireless network protocols, based on the IEEE 802.11 family of standards, which are commonly used for local area networking of devices and Internet access
+  - [Bluetooth Low Energy](https://en.wikipedia.org/wiki/Bluetooth_Low_Energy) - A wireless personal area network technology designed to provide considerably reduced power consumption and cost while maintaining a similar communication range to classic Bluetooth
+  - [Zigbee](https://en.wikipedia.org/wiki/Zigbee) - An IEEE 802.15.4-based specification for a suite of high-level communication protocols used to create personal area networks with small, low-power digital radios
+  - [Near-field communication](https://en.wikipedia.org/wiki/Near-field_communication) - A set of communication protocols that enables communication between two electronic devices over a distance of 4 cm (1+1⁄2 in) or less
+- Device Messaging Protocols
+  - [MQTT](https://mqtt.org/) - A lightweight, publish-subscribe, machine to machine network protocol for message queue/message queuing service
+  - [CoAP](https://coap.space/) - A specialized web transfer protocol for use with constrained nodes and constrained networks in the Internet of Things, designed for machine-to-machine applications such as smart energy and building automation
+  - [LwM2M](https://www.openmobilealliance.org/specifications/lwm2m/) - A lightweight, scalable, and secure protocol designed for efficient IoT device management, providing a standardized framework for remote monitoring, configuration, and control of connected devices
 
 ### IoT Hardware Platforms
 

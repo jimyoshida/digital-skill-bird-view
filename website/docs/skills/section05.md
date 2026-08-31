@@ -488,6 +488,8 @@
 - Concepts
   - [Message Brokers](https://en.wikipedia.org/wiki/Message_broker) - An intermediary computer program module that translates a message from the formal messaging protocol of the sender to the formal messaging protocol of the receiver
   - [Dead-letter queue](https://en.wikipedia.org/wiki/Dead_letter_queue) - A specialized queue used in message queuing systems to store messages that could not be delivered or processed successfully
+- Protocols
+  - [AMQP](https://www.amqp.org/) - An open standard application layer protocol for message-oriented middleware
 - Messaging & Streaming Platforms (Software)
   - [Apache Kafka](https://kafka.apache.org/) - An open-source distributed event streaming platform
     - Apache Kafka Ecosystem

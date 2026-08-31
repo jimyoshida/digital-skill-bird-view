@@ -62,6 +62,27 @@ The table below shows the primary DSS-P category covered by each skill section:
 | 11 - Specialized Development Domains | 3. Technology |
 | 12 - Personal Skills | 5. Personal Skill |
 
+## Motivation
+
+Two kinds of resources already exist for engineers deciding what to learn next, and neither is
+sufficient on its own. Curated lists enumerate tools but map to no external standard, so it is
+hard to tell what role a given tool plays in an organization. Skill standards define which
+capabilities matter but stop at abstract skill names, so they never say which technology to
+actually pick up.
+
+This site was created to close that gap by connecting the two directions:
+
+- **From the standard to concrete technologies** — starting from a DSS-P skill item, the
+  corresponding section leads to the tools, platforms, and frameworks that realize it.
+- **From a technology to its place in the standard** — starting from a tool, the "Relevant
+  DSS-P Skills" admonition on the enclosing subsection shows which organizational capability
+  it serves.
+
+The timelines add a third dimension. Knowing when and why a technology emerged explains why
+today's practices took their current shape — context that matters more, not less, as AI agents
+take over the mechanical parts of development and the remaining human work shifts toward
+judgement and direction.
+
 ## Principles
 
 This site is built on the following principles:
@@ -71,20 +92,6 @@ This site is built on the following principles:
 **Prioritizing Openness:** Open Source Software (OSS) and open formats are favored over proprietary alternatives. This minimizes restrictions and vendor lock-in, which can impede agile decision-making. Furthermore, the availability of source code significantly aids in troubleshooting. Cloud services are included where essential.
 
 **Language Agnosticism:** Programming languages are treated primarily as tools. Since modern developers can easily work with multiple languages, multi-language workflows have become routine. The focus is on selecting the most suitable language for a specific problem domain or cultural context.
-
-## Primary References
-
-These resources serve as the primary references for the content on this site.
-
-- [Level Up Coding](https://levelup.gitconnected.com/) - A Medium publication covering software engineering, DevOps, and cloud topics
-- [ITNEXT](https://itnext.io/) - A Medium publication focused on IT, web development, and DevOps practitioners
-- [FAUN](https://faun.pub/) - A Medium publication dedicated to cloud native, DevOps, and developer content
-- [Thoughtworks Technology Radar](https://www.thoughtworks.com/radar) - A curated guide to techniques, tools, platforms, and languages worth adopting, trialing, or avoiding
-- [Developer Roadmaps](https://roadmap.sh) - Community-driven roadmaps and learning paths for various engineering roles
-- [Golang Weekly](https://golangweekly.com/) - A weekly newsletter covering Go language news, articles, and projects
-- [Ruby Weekly](https://rubyweekly.com/) - A weekly newsletter covering Ruby language news, articles, and projects
-- [Postgres Weekly](https://postgresweekly.com/) - A weekly newsletter covering PostgreSQL news, articles, and tools
-- [Tony Lixu](https://medium.com/@tonylixu) on Medium - Articles on cloud infrastructure, Kubernetes, and DevOps engineering
 
 <!--/Introduction-->
 

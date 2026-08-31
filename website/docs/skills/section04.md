@@ -138,6 +138,9 @@
     - [Steganography](https://en.wikipedia.org/wiki/Steganography) - The practice of concealing a file, message, image, or video within another file, message, image, or video
     - [Digital watermarking](https://en.wikipedia.org/wiki/Digital_watermarking) - A kind of marker covertly embedded in a noise-tolerant signal such as an audio, video or image data
 
+- Content Provenance & Authenticity
+  - [C2PA (Coalition for Content Provenance and Authenticity)](https://c2pa.org/) - An open technical standard for publishers, creators and consumers to establish the origin and edits of digital content
+
 - End-to-end Encryption Tools
   - [age](https://github.com/FiloSottile/age) - A simple, modern and secure file encryption tool, format, and Go library
   - [Pretty Good Privacy (PGP)](https://en.wikipedia.org/wiki/Pretty_Good_Privacy) - A data encryption and decryption computer program that provides cryptographic privacy and authentication for data communication
@@ -521,6 +524,7 @@
   - [PCI-DSS](https://www.pcisecuritystandards.org/document_library/) - The global standard for payment card data security
   - [SOC 2](https://soc2.co.uk/) - A voluntary compliance standard for service organizations which specifies how organizations should manage customer data
   - [FIPS 140-2](https://en.wikipedia.org/wiki/FIPS_140-2) - A U.S. government computer security standard used to approve cryptographic modules
+  - [EUCS (European Cybersecurity Certification Scheme for Cloud Services)](https://www.enisa.europa.eu/publications/eucs-cloud-service-scheme) - A candidate scheme drafted by ENISA under the Cybersecurity Act that looks into the certification of the cybersecurity of cloud services
 - Hardening & Implementation Guides
   - [Security Technical Implementation Guides (STIGs)](https://www.cyber.mil/stigs/) - The configuration standards for DOD IA and IA-enabled devices/systems
   - [CIS Controls and Benchmarks](https://www.cisecurity.org/) - A publication of best practice guidelines for computer security
@@ -538,6 +542,7 @@
   - [EPSS (Exploit Prediction Scoring System)](https://www.first.org/epss/) - A data-driven framework for estimating the probability that a software vulnerability will be exploited in the wild
   - [KEV (Known Exploited Vulnerabilities)](https://www.cisa.gov/known-exploited-vulnerabilities-catalog) - A catalog that contains vulnerabilities that have been exploited in the wild
   - [SSVC (Stakeholder-Specific Vulnerability Categorization)](https://www.cisa.gov/stakeholder-specific-vulnerability-categorization-ssvc) - A vulnerability management methodology that assesses the risk a vulnerability poses to an organization and provides a corresponding decision-making process
+  - [BOD 26-04 (Prioritizing Security Updates Based on Risk)](https://www.cisa.gov/news-events/directives/bod-26-04-prioritizing-security-updates-based-risk) - A CISA binding operational directive that requires federal civilian agencies to prioritize remediation by public exposure, known exploitation, automatability, and technical impact, superseding BOD 22-01 and BOD 19-02
 - Protocols & Databases
   - [Security Content Automation Protocol (SCAP)](https://csrc.nist.gov/projects/security-content-automation-protocol/) - A multi-purpose framework of specifications that supports automated configuration, vulnerability and patch checking
   - [NVD (U.S. National Vulnerability Database)](https://nvd.nist.gov/) - The U.S. government repository of standards based vulnerability management data

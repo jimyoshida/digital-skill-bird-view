@@ -430,10 +430,15 @@
 
 ### 通信規格
 
-- [Wi-Fi](https://en.wikipedia.org/wiki/Wi-Fi) - IEEE 802.11 系の規格に基づく無線ネットワークプロトコル群で、デバイスのローカルエリアネットワーキングやインターネットアクセスに広く使われています
-- [Bluetooth Low Energy](https://en.wikipedia.org/wiki/Bluetooth_Low_Energy) - 従来の Bluetooth と同程度の通信範囲を維持しながら、消費電力とコストを大幅に削減するよう設計された無線パーソナルエリアネットワーク技術です
-- [Zigbee](https://en.wikipedia.org/wiki/Zigbee) - 小型で低電力なデジタル無線を使ったパーソナルエリアネットワークを構築するために使われる、IEEE 802.15.4 をベースとした高レベル通信プロトコル群の仕様です
-- [Near-field communication](https://en.wikipedia.org/wiki/Near-field_communication) - 4 cm (1+1⁄2 in) 以下の距離で 2 つの電子機器間の通信を可能にする通信プロトコル群です
+- 無線接続
+  - [Wi-Fi](https://en.wikipedia.org/wiki/Wi-Fi) - IEEE 802.11 系の規格に基づく無線ネットワークプロトコル群で、デバイスのローカルエリアネットワーキングやインターネットアクセスに広く使われています
+  - [Bluetooth Low Energy](https://en.wikipedia.org/wiki/Bluetooth_Low_Energy) - 従来の Bluetooth と同程度の通信範囲を維持しながら、消費電力とコストを大幅に削減するよう設計された無線パーソナルエリアネットワーク技術です
+  - [Zigbee](https://en.wikipedia.org/wiki/Zigbee) - 小型で低電力なデジタル無線を使ったパーソナルエリアネットワークを構築するために使われる、IEEE 802.15.4 をベースとした高レベル通信プロトコル群の仕様です
+  - [Near-field communication](https://en.wikipedia.org/wiki/Near-field_communication) - 4 cm (1+1⁄2 in) 以下の距離で 2 つの電子機器間の通信を可能にする通信プロトコル群です
+- デバイスメッセージングプロトコル
+  - [MQTT](https://mqtt.org/) - メッセージキューイングサービス向けの軽量な publish-subscribe 型の machine-to-machine ネットワークプロトコルです
+  - [CoAP](https://coap.space/) - モノのインターネットにおける制約のあるノードや制約のあるネットワーク向けに特化した Web 転送プロトコルで、スマートエネルギーやビルオートメーションといった machine-to-machine アプリケーション向けに設計されています
+  - [LwM2M](https://www.openmobilealliance.org/specifications/lwm2m/) - 効率的な IoT デバイス管理のために設計された軽量でスケーラブルかつセキュアなプロトコルで、接続されたデバイスのリモート監視、設定、制御のための標準化されたフレームワークを提供します
 
 ### IoT ハードウェアプラットフォーム
 

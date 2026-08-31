@@ -24,8 +24,6 @@
   - [WebSockets](https://websockets.spec.whatwg.org/) - A technology that makes it possible to open a two-way interactive communication session between the user's browser and a server
   - [WebRTC](https://webrtc.org/) - A free and open-source project providing web browsers and mobile applications with real-time communication (RTC)
   - [Server-sent events](https://html.spec.whatwg.org/multipage/server-sent-events.html#server-sent-events) - A technology to enable servers to push data to web pages over HTTP or using dedicated server-push protocols
-  - [MQTT](https://mqtt.org/) - A lightweight, publish-subscribe, machine to machine network protocol for message queue/message queuing service
-  - [AMQP](https://www.amqp.org/) - An open standard application layer protocol for message-oriented middleware
 - Data & Event Specifications
   - [CloudEvents](https://cloudevents.io/) - A specification for describing event data in a common way
   - [JSON Merge Patch](https://datatracker.ietf.org/doc/html/rfc7396) - A JSON format that describes changes to be made to a target JSON document
@@ -33,6 +31,8 @@
   - [TypeSpec](https://typespec.io/) - A minimal language that helps developers describe API shapes in a familiar way
   - API Tooling
     - [Redocly CLI](https://redocly.com/) - An open-source command-line tool that helps you lint, bundle, and preview OpenAPI definitions
+- Crawler & Indexing Controls
+  - [robots.txt](https://en.wikipedia.org/wiki/Robots.txt) - A standard used by websites to indicate to visiting web crawlers and other web robots which portions of the website they are allowed to visit
 - Web Performance Concepts
   - [DNS Prefetching](https://developer.mozilla.org/en-US/docs/Web/Performance/Guides/dns-prefetch) - A mechanism to resolve domain names before a user tries to follow a link
 - Web Application Types

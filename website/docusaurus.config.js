@@ -6,6 +6,10 @@
 
 import {themes as prismThemes} from 'prism-react-renderer';
 
+// Google Analytics measurement ID. Only the GitHub Pages deploy sets this, so
+// the private GitLab Pages deploy and local builds emit no tracking tag.
+const gtagId = process.env.GTAG_ID;
+
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'DX Skill Landscape & Timeline',
@@ -46,6 +50,7 @@ const config = {
           routeBasePath: 'docs/', // Serve the docs at the site's root
         },
         blog: false, // Optional: disable the blog plugin
+        ...(gtagId ? {gtag: {trackingID: gtagId, anonymizeIP: true}} : {}),
         theme: {
           customCss: './src/css/custom.css',
         },
