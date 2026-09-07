@@ -157,6 +157,7 @@
   - [Native WebP for Go](https://github.com/HugoSmits86/nativewebp) - libwebp などの外部ライブラリに依存しない、Go で完全にネイティブに書かれた WebP エンコーダーです
   - [Pillow](https://python-pillow.github.io/) - Python インタープリタに画像処理機能を追加する、親しみやすい PIL (Python Imaging Library) のフォークです
   - [RMagick](https://rmagick.github.io/) - Ruby から ImageMagick 画像操作ライブラリへのバインディングです
+  - [MiniMagick](https://github.com/minimagick/minimagick) - ImageMagick コマンドライン向けの Ruby ラッパーです
   - [pure_jpeg](https://github.com/peterc/pure_jpeg) - ネイティブ依存のない純粋な Ruby 製 JPEG エンコーダー・デコーダーライブラリです
 
 ### 圧縮・アーカイブ
@@ -203,6 +204,7 @@
   - [pdfcpu](https://pdfcpu.io/) - Go で書かれた PDF プロセッサです
   - [MinerU](https://mineru.net/) - PDF を Markdown や JSON へ変換する高品質なツールです
   - [Nano-PDF](https://github.com/gavrielc/Nano-PDF) - AI ビジョンモデルを利用し、マルチページの並行編集と OCR による非破壊的なテキストレイヤー保持を備えた、自然言語の指示で PDF スライドを編集できるコマンドラインツールです
+  - [sghtmltopdf](https://github.com/waka/sghtmltopdf) - Chromium、WebKit、Gecko に依存せず Rust で書かれた、wkhtmltopdf のような HTML から PDF へのレンダラーです
 - ライブラリ
   - [Folio](https://github.com/carlos7ags/folio) - レイアウトエンジン、HTML から PDF への変換、フォーム、電子署名、バーコード、PDF/A 準拠のサポートを含む、Go 向けのモダンな PDF ライブラリです
   - [Poppler](https://poppler.freedesktop.org/) - xpdf-3.0 のコードベースを基にした PDF レンダリングライブラリです
@@ -311,7 +313,7 @@
 
 - Windows 環境
   - パッケージ管理と運用管理
-    - [Chocolatey](https://chocolatey.org) - Windows 向けのパッケージマネージャーです
+    - 🔒 [Chocolatey](https://chocolatey.org) - Windows 向けのパッケージマネージャーです
     - [Scoop](https://scoop.sh/) - Windows 向けのコマンドラインインストーラーです
     - [WinGet](https://learn.microsoft.com/en-us/windows/package-manager/winget/) - Windows 上でアプリケーションの検索、インストール、アップグレード、削除、設定を可能にするコマンドラインツールです
     - [gsudo](https://gerardog.github.io/gsudo/) - オリジナルの Sudo と似たユーザー体験を持つ、Windows 向けの Sudo です
@@ -406,9 +408,9 @@
     - [Pure python QR Code generator](https://github.com/lincolnloop/python-qrcode) - Python で QR コードを簡単に作成できるライブラリです
     - [QR code payment](https://en.wikipedia.org/wiki/QR_code_payment) - モバイルアプリから QR コードをスキャンして決済を行う非接触型の決済方法です
 - Backend-as-a-Service (BaaS)
-  - [Firebase](https://firebase.google.com/) - ユーザーに愛されるアプリやゲームの構築・成長を支援するアプリ開発プラットフォームです
+  - 🪙 [Firebase](https://firebase.google.com/) - ユーザーに愛されるアプリやゲームの構築・成長を支援するアプリ開発プラットフォームです
   - [Supabase](https://supabase.com/) - データベース、認証、インスタント API、エッジ関数、リアルタイムサブスクリプション、ストレージ、ベクトル埋め込みを提供する Postgres 開発プラットフォームです
-  - [AWS Amplify](https://aws.amazon.com/amplify/) - フロントエンドの Web・モバイル開発者が AWS 上でフルスタックアプリケーションを簡単に構築、出荷、ホストできる完全なソリューションです
+  - 🪙 [AWS Amplify](https://aws.amazon.com/amplify/) - フロントエンドの Web・モバイル開発者が AWS 上でフルスタックアプリケーションを簡単に構築、出荷、ホストできる完全なソリューションです
 
 ## モノのインターネット (IoT)
 
@@ -449,24 +451,24 @@
 - [BeagleBone](https://www.beagleboard.org/boards/beaglebone-black) - 1 GHz の ARM Cortex-A8 プロセッサを搭載し、10 秒未満で Linux を起動する、低コストでコミュニティに支えられた開発プラットフォームです
 - [STM32](https://www.st.com/en/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus.html) - 高性能、リアルタイム性能、低消費電力動作を提供するよう設計された、Arm Cortex-M プロセッサをベースにした 32 ビットマイクロコントローラファミリーです
 - [Nordic nRF52](https://www.nordicsemi.com/Products/nRF52840) - マルチプロトコル無線接続をサポートする 64 MHz の ARM Cortex-M4 プロセッサを中心に構築された、Bluetooth Low Energy System-on-Chip ファミリーです
-- [Particle](https://www.particle.io/) - インテリジェントなデバイスの開発、接続、管理のためのエッジからクラウドまでのインフラを提供する、統合 IoT プラットフォームアズアサービスです
+- 🪙 [Particle](https://www.particle.io/) - インテリジェントなデバイスの開発、接続、管理のためのエッジからクラウドまでのインフラを提供する、統合 IoT プラットフォームアズアサービスです
 - [BBC micro:bit](https://microbit.org/) - 実践的なコーディングと創造的なテクノロジープロジェクトを通じて、子どもたちが最高のデジタルな未来を作り出すよう促すために設計された、ポケットサイズのプログラム可能なコンピュータです
 - [Teensy](https://www.pjrc.com/teensy/) - Arduino ソフトウェアと互換性があり、多くの種類のプロジェクトを実装できる、コンパクトな USB ベースのマイクロコントローラ開発ボードです
 - [Adafruit Feather](https://www.adafruit.com/category/943) - 内蔵バッテリーコネクタとモジュール式の拡張機能を備えた、組み込みプロジェクト向けの標準として設計されたコンパクトで携帯性の高いマイクロコントローラボードのファミリーです
 
 ### IoT クラウドプラットフォーム
 
-- [Azure IoT Hub](https://azure.microsoft.com/en-us/products/iot-hub) - IoT アプリケーションと接続されたデバイス間の通信のための中央メッセージハブとして機能する、マネージドクラウドベースサービスです
-- [AWS IoT Core](https://aws.amazon.com/iot-core/) - デバイスをクラウドへ簡単かつ安全に接続し、デバイス群を大規模に管理できるマネージドクラウドサービスです
+- 💲 [Azure IoT Hub](https://azure.microsoft.com/en-us/products/iot-hub) - IoT アプリケーションと接続されたデバイス間の通信のための中央メッセージハブとして機能する、マネージドクラウドベースサービスです
+- 💲 [AWS IoT Core](https://aws.amazon.com/iot-core/) - デバイスをクラウドへ簡単かつ安全に接続し、デバイス群を大規模に管理できるマネージドクラウドサービスです
 - [AWS IoT Greengrass](https://aws.amazon.com/greengrass/) - デバイスソフトウェアの構築、デプロイ、管理を行う、オープンソースのエッジランタイムおよびクラウドサービスです
-- [ThingWorx](https://www.ptc.com/en/products/thingworx/) - 組織がデバイスを接続し、データを分析し、カスタマイズ可能なアプリケーションを通じてリアルタイムの洞察を提供できるよう支援する、包括的な産業用 IoT アプリケーション開発プラットフォームです
-- [Balena](https://balena.io/) - セキュアな OTA アップデートとリモートアクセスを備え、開発者が Linux デバイスの群れを構築、デプロイ、管理、拡張できるコンテナベースの IoT デバイス管理プラットフォームです
-- [Arduino Cloud](https://cloud.arduino.cc/) - ダッシュボードとリモートアクセスを使い、どこからでも接続されたプロジェクトを構築、制御、監視できるオールインワンの IoT プラットフォームです
-- [ThingSpeak](https://thingspeak.mathworks.com/) - MATLAB との連携により、ライブデータストリームをクラウド上で集約、可視化、分析できる IoT 分析プラットフォームサービスです
-- [Losant](https://www.losant.com/) - デバイスやシステムからのデータをリアルタイムに収集、統合、可視化することで、組織がスケーラブルな接続ソリューションを構築できるようにするエンタープライズ IoT プラットフォームです
-- [Adafruit IO](https://io.adafruit.com/) - あなたのプロジェクトをモノのインターネットに乗せる最も簡単な方法で、Web ベースのマイクロコントローラ操作とデータロギングのプラットフォームとして機能します
-- [ThingsBoard](https://thingsboard.io/) - 業界標準プロトコルを介したデバイス接続を可能にする、データ収集、処理、可視化、デバイス管理のためのオープンソース IoT プラットフォームです
-- [Ubidots](https://ubidots.com/) - 企業がカスタマイズ可能なダッシュボードと自動化されたワークフローを通じて、センサーデータをリアルタイムで接続、監視、可視化、対応できるようにするクラウドベースの産業用 IoT プラットフォームです
+- 💲 [ThingWorx](https://www.ptc.com/en/products/thingworx/) - 組織がデバイスを接続し、データを分析し、カスタマイズ可能なアプリケーションを通じてリアルタイムの洞察を提供できるよう支援する、包括的な産業用 IoT アプリケーション開発プラットフォームです
+- 🪙 [Balena](https://balena.io/) - セキュアな OTA アップデートとリモートアクセスを備え、開発者が Linux デバイスの群れを構築、デプロイ、管理、拡張できるコンテナベースの IoT デバイス管理プラットフォームです
+- 🪙 [Arduino Cloud](https://cloud.arduino.cc/) - ダッシュボードとリモートアクセスを使い、どこからでも接続されたプロジェクトを構築、制御、監視できるオールインワンの IoT プラットフォームです
+- 🪙 [ThingSpeak](https://thingspeak.mathworks.com/) - MATLAB との連携により、ライブデータストリームをクラウド上で集約、可視化、分析できる IoT 分析プラットフォームサービスです
+- 💲 [Losant](https://www.losant.com/) - デバイスやシステムからのデータをリアルタイムに収集、統合、可視化することで、組織がスケーラブルな接続ソリューションを構築できるようにするエンタープライズ IoT プラットフォームです
+- 🪙 [Adafruit IO](https://io.adafruit.com/) - あなたのプロジェクトをモノのインターネットに乗せる最も簡単な方法で、Web ベースのマイクロコントローラ操作とデータロギングのプラットフォームとして機能します
+- 🔒 [ThingsBoard](https://thingsboard.io/) - 業界標準プロトコルを介したデバイス接続を可能にする、データ収集、処理、可視化、デバイス管理のためのオープンソース IoT プラットフォームです
+- 💲 [Ubidots](https://ubidots.com/) - 企業がカスタマイズ可能なダッシュボードと自動化されたワークフローを通じて、センサーデータをリアルタイムで接続、監視、可視化、対応できるようにするクラウドベースの産業用 IoT プラットフォームです
 
 ## ローコード・ノーコード開発
 
@@ -478,18 +480,18 @@
 
 ### ビジネスアプリケーションプラットフォーム
 
-- [Microsoft Power Apps](https://www.microsoft.com/en-us/power-platform/products/power-apps) - あらゆるデバイス向けのプロフェッショナルグレードのアプリを迅速かつ効率的に構築するプラットフォームです
-- [AppSheet](https://about.appsheet.com/home/) - 生産性を高める強力なアプリケーションと自動化の構築を支援する、ノーコードプラットフォームです
-- [OutSystems](https://www.outsystems.com/) - 重要なエンタープライズアプリケーションの開発を加速する、高性能なローコードプラットフォームです
+- 💲 [Microsoft Power Apps](https://www.microsoft.com/en-us/power-platform/products/power-apps) - あらゆるデバイス向けのプロフェッショナルグレードのアプリを迅速かつ効率的に構築するプラットフォームです
+- 💲 [AppSheet](https://about.appsheet.com/home/) - 生産性を高める強力なアプリケーションと自動化の構築を支援する、ノーコードプラットフォームです
+- 💲 [OutSystems](https://www.outsystems.com/) - 重要なエンタープライズアプリケーションの開発を加速する、高性能なローコードプラットフォームです
 
 ### ワークフロー・連携自動化
 
-- [n8n](https://n8n.io/) - AI 機能とビジネスプロセス自動化を組み合わせた、フェアコードライセンスのワークフロー自動化ツールです
-- [Microsoft Power Automate](https://www.microsoft.com/en-us/power-platform/products/power-automate) - ビジネスプロセスを最適化するために構築された、企業向けのエンドツーエンド自動化ソリューションです
-- [Zapier](https://zapier.com/) - コーディングの知識なしにアプリを連携させ、ワークフローを自動化できるツールです
-- [Microsoft Copilot Studio](https://copilotstudio.microsoft.com/) - 生成 AI と、事前構築済みコネクタ・アクションのライブラリを使って Copilot を作成・保守するグラフィカルなローコードツールです
+- 🔒 [n8n](https://n8n.io/) - AI 機能とビジネスプロセス自動化を組み合わせた、フェアコードライセンスのワークフロー自動化ツールです
+- 💲 [Microsoft Power Automate](https://www.microsoft.com/en-us/power-platform/products/power-automate) - ビジネスプロセスを最適化するために構築された、企業向けのエンドツーエンド自動化ソリューションです
+- 🪙 [Zapier](https://zapier.com/) - コーディングの知識なしにアプリを連携させ、ワークフローを自動化できるツールです
+- 💲 [Microsoft Copilot Studio](https://copilotstudio.microsoft.com/) - 生成 AI と、事前構築済みコネクタ・アクションのライブラリを使って Copilot を作成・保守するグラフィカルなローコードツールです
 
 ### Web コンテンツ・ポータルビルダー
 
-- [Microsoft Power Pages](https://www.microsoft.com/en-us/power-platform/products/power-pages) - 組み込みエージェントを備えたエンタープライズグレードの AI 駆動ビジネスポータルを素早く作成するプラットフォームです
-- [Webflow](https://webflow.com/) - コーディングなしで本番運用可能な Web サイトを構築する力を与える、ブラウザベースのデザインツールです
+- 💲 [Microsoft Power Pages](https://www.microsoft.com/en-us/power-platform/products/power-pages) - 組み込みエージェントを備えたエンタープライズグレードの AI 駆動ビジネスポータルを素早く作成するプラットフォームです
+- 🪙 [Webflow](https://webflow.com/) - コーディングなしで本番運用可能な Web サイトを構築する力を与える、ブラウザベースのデザインツールです

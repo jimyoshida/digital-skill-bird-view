@@ -17,6 +17,16 @@ This site aims to provide a comprehensive overview of concepts, techniques, tool
 - [11 - Specialized Development Domains](website/docs/skills/section11.md)
 - [12 - Personal Skills](website/docs/skills/section12.md)
 
+## Monetization Markers
+
+A marker before an item's name flags it as a commercial product and shows how it is monetized:
+
+- 🔒 Open source or source-available, but most of the value is gated behind a paid tier (e.g. n8n, Odoo, Metabase)
+- 💲 Proprietary commercial product or SaaS with no meaningful free use
+- 🪙 Freemium: genuinely usable for free, with paid tiers or otherwise peripheral monetization
+
+An unmarked item is free and open source without a significant paywall, or is not a product at all — a concept, standard, or protocol. This complements the "Prioritizing Openness" principle below.
+
 ## Timelines
 
 In addition to the skill categories above, this site provides [chronological timelines](website/docs/timelines/2025-present.md) documenting significant technology events, product releases, and industry milestones from 1930 to the present. Each entry is categorized by domain using emojis:
@@ -61,27 +71,6 @@ The table below shows the primary DSS-P category covered by each skill section:
 | 10 - Advanced Programming | 3. Technology |
 | 11 - Specialized Development Domains | 3. Technology |
 | 12 - Personal Skills | 5. Personal Skill |
-
-## Motivation
-
-Two kinds of resources already exist for engineers deciding what to learn next, and neither is
-sufficient on its own. Curated lists enumerate tools but map to no external standard, so it is
-hard to tell what role a given tool plays in an organization. Skill standards define which
-capabilities matter but stop at abstract skill names, so they never say which technology to
-actually pick up.
-
-This site was created to close that gap by connecting the two directions:
-
-- **From the standard to concrete technologies** — starting from a DSS-P skill item, the
-  corresponding section leads to the tools, platforms, and frameworks that realize it.
-- **From a technology to its place in the standard** — starting from a tool, the "Relevant
-  DSS-P Skills" admonition on the enclosing subsection shows which organizational capability
-  it serves.
-
-The timelines add a third dimension. Knowing when and why a technology emerged explains why
-today's practices took their current shape — context that matters more, not less, as AI agents
-take over the mechanical parts of development and the remaining human work shifts toward
-judgement and direction.
 
 ## Principles
 

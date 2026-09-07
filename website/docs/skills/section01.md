@@ -36,31 +36,31 @@
 ### Work & Issue Tracking
 
 - Issue Tracking & Task Boards
-  - [Jira](https://www.atlassian.com/software/jira) - A software application used for issue tracking and project management that helps teams plan, assign, track, report, and manage work
+  - 💲 [Jira](https://www.atlassian.com/software/jira) - A software application used for issue tracking and project management that helps teams plan, assign, track, report, and manage work
     - [JiraCLI](https://github.com/ankitpokhrel/jira-cli) - An interactive command line tool for Atlassian Jira that will help you avoid Jira UI to some extent
-  - [Linear](https://linear.app/) - A purposeful tool for product development, featuring issues, cycles, and product roadmaps
-  - [Fizzy](https://www.fizzy.do/) - A modern spin on kanban for tracking anything such as bugs, issues, ideas, and small projects
+  - 💲 [Linear](https://linear.app/) - A purposeful tool for product development, featuring issues, cycles, and product roadmaps
+  - 💲 [Fizzy](https://www.fizzy.do/) - A modern spin on kanban for tracking anything such as bugs, issues, ideas, and small projects
   - [GitLab Issue Board](https://docs.gitlab.com/ee/user/project/issue_board.html) - A user interface that displays issues in columns that correspond to their workflow statuses
   - [GitLab Service Desk](https://docs.gitlab.com/ee/user/project/service_desk/) - A feature that enables you to connect with users through email, without requiring them to have a GitLab account
-  - [Azure Boards](https://learn.microsoft.com/en-us/azure/devops/boards/) - A service that provides a customizable platform for managing work items, allowing teams to collaborate effectively and streamline their workflow
-  - [GitHub Issues](https://github.com/features/issues) - A tracking tool that helps you manage your work on GitHub
+  - 💲 [Azure Boards](https://learn.microsoft.com/en-us/azure/devops/boards/) - A service that provides a customizable platform for managing work items, allowing teams to collaborate effectively and streamline their workflow
+  - 🪙 [GitHub Issues](https://github.com/features/issues) - A tracking tool that helps you manage your work on GitHub
   - [Redmine](https://www.redmine.org/) - A free and open source, web-based project management and issue tracking tool
-  - [OpenProject](https://www.openproject.org/) - The open source project management software for classic, agile or hybrid project management
+  - 🔒 [OpenProject](https://www.openproject.org/) - The open source project management software for classic, agile or hybrid project management
 - Collaborative Work Management
-  - [Asana](https://asana.com/) - The platform for human and AI collaboration that helps teams coordinate work and keep projects moving
-  - [monday.com](https://monday.com/) - A secure work platform where people and agents drive results together across departments and use cases
-  - [ClickUp](https://clickup.com/) - An all-in-one productivity platform that brings apps, AI, projects, and chat together to replace all software
-  - [Trello](https://trello.com/) - A visual collaboration tool that creates a shared perspective on any project using boards, lists, and cards to organize tasks
-  - [Airtable](https://www.airtable.com/) - A platform that combines the flexibility of a spreadsheet with the power of a database to help teams manage their work
+  - 🪙 [Asana](https://asana.com/) - The platform for human and AI collaboration that helps teams coordinate work and keep projects moving
+  - 💲 [monday.com](https://monday.com/) - A secure work platform where people and agents drive results together across departments and use cases
+  - 🪙 [ClickUp](https://clickup.com/) - An all-in-one productivity platform that brings apps, AI, projects, and chat together to replace all software
+  - 🪙 [Trello](https://trello.com/) - A visual collaboration tool that creates a shared perspective on any project using boards, lists, and cards to organize tasks
+  - 🪙 [Airtable](https://www.airtable.com/) - A platform that combines the flexibility of a spreadsheet with the power of a database to help teams manage their work
 
 ### Team Collaboration
 
 - Messaging & Meetings
-  - [Slack](https://slack.com/) - A cloud-based team collaboration platform that brings conversations, tools, and files together in one place
-  - [Microsoft Teams](https://www.microsoft.com/en-us/microsoft-teams/group-chat-software) - A collaboration platform that combines workplace chat, meetings, file storage, and application integration
-  - [Discord](https://discord.com/) - A voice, video, and text communication service used by communities, friend groups, and businesses to stay connected
-  - [Mattermost](https://mattermost.com/) - An open source collaboration platform for developers, offering secure messaging, project management, and workflow orchestration
-  - [Zoom](https://zoom.us/) - A video communications platform that provides video meetings, voice calls, webinars, and chat
+  - 🪙 [Slack](https://slack.com/) - A cloud-based team collaboration platform that brings conversations, tools, and files together in one place
+  - 💲 [Microsoft Teams](https://www.microsoft.com/en-us/microsoft-teams/group-chat-software) - A collaboration platform that combines workplace chat, meetings, file storage, and application integration
+  - 🪙 [Discord](https://discord.com/) - A voice, video, and text communication service used by communities, friend groups, and businesses to stay connected
+  - 🔒 [Mattermost](https://mattermost.com/) - An open source collaboration platform for developers, offering secure messaging, project management, and workflow orchestration
+  - 🪙 [Zoom](https://zoom.us/) - A video communications platform that provides video meetings, voice calls, webinars, and chat
 
 ### Process Maturity & Quality Standards
 
@@ -93,7 +93,7 @@
   - [Business model canvas](https://en.wikipedia.org/wiki/Business_model_canvas) - A strategic management template for developing new or documenting existing business models
   - [Lean Canvas](https://www.leanfoundry.com/tools/lean-canvas) - A one-page business modeling tool for entrepreneurs to quickly outline their business idea
 - [Technology roadmap](https://en.wikipedia.org/wiki/Technology_roadmap) - A flexible planning schedule to support strategic and long-range planning, by matching short-term and long-term goals with specific technology solutions
-  - [Aha!](https://www.aha.io/) - A suite of product development software that helps teams build and market products customers love
+  - 💲 [Aha!](https://www.aha.io/) - A suite of product development software that helps teams build and market products customers love
 
 ### Requirements Analysis
 
@@ -129,26 +129,26 @@
 ### Marketing Technology
 
 - Tag Management
-  - [Google Tag Manager](https://marketingplatform.google.com/about/tag-manager/) - A tag management system that allows you to quickly and easily update measurement codes and related code fragments known as tags on your website or mobile app
+  - 🪙 [Google Tag Manager](https://marketingplatform.google.com/about/tag-manager/) - A tag management system that allows you to quickly and easily update measurement codes and related code fragments known as tags on your website or mobile app
 - Web Analytics
-  - [Google Analytics](https://developers.google.com/analytics) - The go-to platform for millions of website and app owners seeking to gain a deeper understanding of their website and app performance
+  - 🪙 [Google Analytics](https://developers.google.com/analytics) - The go-to platform for millions of website and app owners seeking to gain a deeper understanding of their website and app performance
   - [Plausible](https://plausible.io/) - Intuitive, lightweight and open source web analytics
   - [Umami](https://umami.is/) - A simple, fast, privacy-focused alternative to Google Analytics
   - [Ackee](https://ackee.electerious.com/) - Self-hosted, privacy-focused analytics tool for those who care about privacy
 - Customer Data Platforms
   - [Customer data platform](https://en.wikipedia.org/wiki/Customer_data_platform) - A software system that aggregates and organizes customer data from various touchpoints to build a unified customer profile
-  - [Twilio Segment](https://www.twilio.com/en-us/segment) - A customer data platform that enables businesses to collect, unify, and activate customer data across multiple sources and destinations to create personalized experiences
+  - 💲 [Twilio Segment](https://www.twilio.com/en-us/segment) - A customer data platform that enables businesses to collect, unify, and activate customer data across multiple sources and destinations to create personalized experiences
 - Marketing Automation
   - [Marketing automation](https://en.wikipedia.org/wiki/Marketing_automation) - Software platforms and technologies designed for marketing departments and organizations to automate repetitive tasks
-  - [Klaviyo](https://en.wikipedia.org/wiki/Klaviyo) - An American marketing automation platform and email marketing service
+  - 💲 [Klaviyo](https://en.wikipedia.org/wiki/Klaviyo) - An American marketing automation platform and email marketing service
 - Advertising Platforms
-  - [Google Ads](https://ads.google.com/home/) - An online advertising platform where advertisers bid to display brief advertisements, service offerings, product listings, or videos to web users
+  - 🪙 [Google Ads](https://ads.google.com/home/) - An online advertising platform where advertisers bid to display brief advertisements, service offerings, product listings, or videos to web users
   - [Google AdSense](https://adsense.google.com/start/) - A program run by Google through which website publishers in the Google Network of content sites serve text, images, video, or interactive media advertisements that are targeted to the site content and audience
 - Experimentation & Optimization
-  - [Optimizely](https://www.optimizely.com/) - A leading digital experience platform (DXP) that provides a single, unified platform that offers you the scalability and security you need to drive your business into the future
+  - 💲 [Optimizely](https://www.optimizely.com/) - A leading digital experience platform (DXP) that provides a single, unified platform that offers you the scalability and security you need to drive your business into the future
 - Email Marketing & Delivery
-  - [SendGrid](https://sendgrid.com/) - A cloud-based email delivery platform that provides reliable transactional and marketing email delivery at scale
-  - [Mailchimp](https://mailchimp.com/) - An all-in-one marketing platform for small businesses that helps manage and talk to clients, customers, and audiences with email marketing
+  - 💲 [SendGrid](https://sendgrid.com/) - A cloud-based email delivery platform that provides reliable transactional and marketing email delivery at scale
+  - 💲 [Mailchimp](https://mailchimp.com/) - An all-in-one marketing platform for small businesses that helps manage and talk to clients, customers, and audiences with email marketing
   - [listmonk](https://listmonk.app/) - Self-hosted newsletter and mailing list manager
   - [BillionMail](https://www.billionmail.com/) - An open-source MailServer and email marketing solution that is fully self-hosted and dev-friendly
 
@@ -213,23 +213,23 @@
 ### Enterprise Applications
 
 - [Enterprise resource planning](https://en.wikipedia.org/wiki/Enterprise_resource_planning) - The integrated management of main business processes, often in real time and mediated by software and technology
-  - [SAP ERP](http://www.sap.com/products/erp.html) - A comprehensive software system that streamlines processes, improves productivity, and provides real-time insights across your entire organization
-  - [Odoo](https://www.odoo.com/) - A suite of open source business applications covering areas such as CRM, ERP, accounting, and more
+  - 💲 [SAP ERP](http://www.sap.com/products/erp.html) - A comprehensive software system that streamlines processes, improves productivity, and provides real-time insights across your entire organization
+  - 🔒 [Odoo](https://www.odoo.com/) - A suite of open source business applications covering areas such as CRM, ERP, accounting, and more
   - [ERPNext](https://frappe.io/erpnext) - A 100% open-source ERP with a modern, comprehensive, and user-friendly enterprise resource planning solution
 - [Customer relationship management](https://en.wikipedia.org/wiki/Customer_relationship_management) - A strategic process that organizations use to manage, analyze, and improve their interactions with customers
-  - [EspoCRM](https://www.espocrm.com/) - An open-source web application for managing and evaluating all company relationships
-  - [HubSpot](https://www.hubspot.com/) - A customer platform that helps businesses grow by connecting their marketing, sales, and service tools to a shared database
-  - [Salesforce](https://www.salesforce.com/) - A customer relationship management solution that brings companies and customers together, providing one integrated CRM platform for all departments
-  - [Zendesk](https://www.zendesk.com/) - A customer service software and support ticket system that helps businesses build better customer relationships through multi-channel support
-  - [Atlas](https://atlas.so/) - A bespoke AI for customer support that delivers fast, accurate, and measurable support tailored to tools and workflows
+  - 🔒 [EspoCRM](https://www.espocrm.com/) - An open-source web application for managing and evaluating all company relationships
+  - 🪙 [HubSpot](https://www.hubspot.com/) - A customer platform that helps businesses grow by connecting their marketing, sales, and service tools to a shared database
+  - 💲 [Salesforce](https://www.salesforce.com/) - A customer relationship management solution that brings companies and customers together, providing one integrated CRM platform for all departments
+  - 💲 [Zendesk](https://www.zendesk.com/) - A customer service software and support ticket system that helps businesses build better customer relationships through multi-channel support
+  - 💲 [Atlas](https://atlas.so/) - A bespoke AI for customer support that delivers fast, accurate, and measurable support tailored to tools and workflows
   - [SuiteCRM](https://suitecrm.com/) - A free and open-source Customer Relationship Management (CRM) software solution providing a 360-degree view of customers and business
 - [Supply chain management](https://en.wikipedia.org/wiki/Supply_chain_management) - The management of the flow of goods and services, between businesses and locations, including the movement and storage of raw materials, work-in-process inventory, and finished goods from point of origin to point of consumption
 - [Human resource management](https://en.wikipedia.org/wiki/Human_resource_management) - The strategic and coherent approach to the effective and efficient management of people in a company or organization such that they help their business gain a competitive advantage
   - [Competence](https://en.wikipedia.org/wiki/Competence_(human_resources)) - The set of demonstrable characteristics and skills that enable and improve the efficiency or performance of a job
 - [Contract management](https://en.wikipedia.org/wiki/Contract_management) - The process of systematically and efficiently managing contract creation, execution, and analysis for the purpose of maximizing financial and operational performance and minimizing risk
 - [E-commerce](https://en.wikipedia.org/wiki/E-commerce) - The activity of electronically buying or selling products on online services or over the Internet
-  - [Shopify](https://www.shopify.com/) - A Canadian multinational e-commerce company that provides a proprietary e-commerce platform for online stores and retail point-of-sale systems
-  - [Stripe](https://stripe.com/) - A financial infrastructure platform for businesses that provides payment processing software and APIs for e-commerce websites and mobile applications
+  - 💲 [Shopify](https://www.shopify.com/) - A Canadian multinational e-commerce company that provides a proprietary e-commerce platform for online stores and retail point-of-sale systems
+  - 🪙 [Stripe](https://stripe.com/) - A financial infrastructure platform for businesses that provides payment processing software and APIs for e-commerce websites and mobile applications
 
 ### Organizational Change Management
 
@@ -246,12 +246,12 @@
   - [PEST analysis](https://en.wikipedia.org/wiki/PEST_analysis) - A framework of external macro-environmental factors (political, economic, social and technological) used in strategic management and market research
   - [Porter's five forces analysis](https://en.wikipedia.org/wiki/Porter%27s_five_forces_analysis) - A method of analyzing the competitive environment of a business, rooted in industrial organization economics, that identifies five forces determining competitive intensity and industry attractiveness
 - Business Intelligence Platforms
-  - [Tableau](https://www.tableau.com/) - The visual analytics platform that helps people see, understand, and act on data to solve problems
-  - [Metabase](https://www.metabase.com/) - The querying and visualization layer for your database, made to fit startup's production DB to massive data warehouses
-  - [Power BI](https://www.microsoft.com/en-us/power-platform/products/power-bi/) - A unified, scalable platform for self-service and enterprise business intelligence
+  - 💲 [Tableau](https://www.tableau.com/) - The visual analytics platform that helps people see, understand, and act on data to solve problems
+  - 🔒 [Metabase](https://www.metabase.com/) - The querying and visualization layer for your database, made to fit startup's production DB to massive data warehouses
+  - 💲 [Power BI](https://www.microsoft.com/en-us/power-platform/products/power-bi/) - A unified, scalable platform for self-service and enterprise business intelligence
     - [DAX](https://learn.microsoft.com/en-us/dax/) - A programming language that is used throughout Microsoft Power BI for creating calculated columns, measures, and custom tables
-  - [Looker Studio](https://cloud.google.com/looker-studio) - A business intelligence and data visualization platform, formerly known as Google Data Studio, that turns your data into customizable, informative reports and dashboards
-  - [Exploratory Desktop](https://exploratory.io/) - A Simple and Easy-to-Use UI experience to access various data sources, clean and transform data, visualize and analyze data
+  - 🪙 [Looker Studio](https://cloud.google.com/looker-studio) - A business intelligence and data visualization platform, formerly known as Google Data Studio, that turns your data into customizable, informative reports and dashboards
+  - 💲 [Exploratory Desktop](https://exploratory.io/) - A Simple and Easy-to-Use UI experience to access various data sources, clean and transform data, visualize and analyze data
 
 ### Risk Management
 
@@ -268,7 +268,7 @@
 - [IT service management](https://en.wikipedia.org/wiki/IT_service_management) - The activities that are performed by an organization to design, build, deliver, operate and control information technology (IT) services offered to customers
   - [ITIL (Information Technology Infrastructure Library)](https://en.wikipedia.org/wiki/ITIL) - A set of detailed practices for IT service management (ITSM) that focuses on aligning IT services with the needs of business
   - [ISO/IEC 20000 (Service management)](https://en.wikipedia.org/wiki/ISO/IEC_20000) - The international standard for IT service management that specifies the requirements for establishing, implementing, maintaining, and continually improving a service management system
-  - [ServiceNow](https://www.servicenow.com/) - A cloud-based, AI-powered platform for digital workflows that connects people, functions, and systems across the enterprise
+  - 💲 [ServiceNow](https://www.servicenow.com/) - A cloud-based, AI-powered platform for digital workflows that connects people, functions, and systems across the enterprise
 
 ## Knowledge & Content Management
 
@@ -282,7 +282,7 @@
 
 - [Zettelkasten](https://en.wikipedia.org/wiki/Zettelkasten) - A system of note-taking and personal knowledge management for research, study, and writing, consisting of small, interconnected items of information stored on slips or cards
 - Note-Taking Tools
-  - [Obsidian](https://obsidian.md/) - A free and flexible application for private thoughts, allowing users to store notes on their device, connect ideas, and organize knowledge with a customizable interface through plugins and themes
+  - 🪙 [Obsidian](https://obsidian.md/) - A free and flexible application for private thoughts, allowing users to store notes on their device, connect ideas, and organize knowledge with a customizable interface through plugins and themes
   - [Memos](https://github.com/usememos/memos) - An open-source, self-hosted note-taking tool built for quick capture that is markdown-native and lightweight
 - Feed Aggregation
   - [FreshRSS](https://freshrss.org/index.html) - A free, self-hostable aggregator for RSS and Atom feeds
@@ -294,9 +294,9 @@
   - [Ibis](https://ibis.wiki/) - A federated encyclopedia which uses the ActivityPub protocol, just like Mastodon or Lemmy
   - [LeafWiki](https://leafwiki.com/) - A real wiki app without the heavy stack, storing Markdown files on disk without requiring a database server
 - Team Workspaces
-  - [Notion](https://www.notion.so/) - An all-in-one workspace for notes, docs, wikis, projects, and collaboration that combines knowledge management with task and project tracking
-  - [Coda](https://coda.io/) - An all-in-one collaborative workspace that brings teams and tools together for a more organized work day
-  - [Confluence](https://www.atlassian.com/software/confluence) - One place for all your ideas, docs, knowledge, and teammates
+  - 🪙 [Notion](https://www.notion.so/) - An all-in-one workspace for notes, docs, wikis, projects, and collaboration that combines knowledge management with task and project tracking
+  - 🪙 [Coda](https://coda.io/) - An all-in-one collaborative workspace that brings teams and tools together for a more organized work day
+  - 💲 [Confluence](https://www.atlassian.com/software/confluence) - One place for all your ideas, docs, knowledge, and teammates
   - [Outline](https://www.getoutline.com/) - The knowledge base platform that helps teams organize documents, collaborate in real-time, and search across their workspace with AI-powered question answering
 
 ### Content Management Systems
@@ -307,10 +307,10 @@
 
 ### Content Collaboration & File Sync
 
-- [SharePoint](https://www.microsoft.com/en-us/microsoft-365/sharepoint/collaboration) - A web-based collaboration and document management platform that enables organizations to securely store, share, and manage content
+- 💲 [SharePoint](https://www.microsoft.com/en-us/microsoft-365/sharepoint/collaboration) - A web-based collaboration and document management platform that enables organizations to securely store, share, and manage content
 - [Nextcloud](https://nextcloud.com/) - The industry-leading, fully open-source, on-premise content collaboration platform
-- [Box](https://www.box.com/) - An enterprise cloud content management platform that enables organizations to securely manage and share content while collaborating with internal and external users
-- [Dropbox](https://www.dropbox.com/) - A file hosting service that offers cloud storage, file synchronization, personal cloud, and client software
+- 💲 [Box](https://www.box.com/) - An enterprise cloud content management platform that enables organizations to securely manage and share content while collaborating with internal and external users
+- 💲 [Dropbox](https://www.dropbox.com/) - A file hosting service that offers cloud storage, file synchronization, personal cloud, and client software
 
 ## Enterprise AI & Productivity
 
@@ -323,34 +323,34 @@
 
 ### Autonomous AI Workers
 
-- [Claude Cowork](https://claude.com/product/cowork) - An agentic AI system for knowledge work that autonomously plans and executes multi-step tasks across files, documents, and web applications directly on your computer
+- 💲 [Claude Cowork](https://claude.com/product/cowork) - An agentic AI system for knowledge work that autonomously plans and executes multi-step tasks across files, documents, and web applications directly on your computer
 - [claw-empire](https://github.com/GreenSheep01201/claw-empire) - A local-first AI agent office simulator that orchestrates CLI, OAuth, and API-connected agents as a virtual autonomous company
-- [Sistava](https://sistava.com/en/) - An AI employee platform for managing teams of AI workers collaborating through structured sprints, OKRs, and KPIs with persistent memory and real tool access
+- 💲 [Sistava](https://sistava.com/en/) - An AI employee platform for managing teams of AI workers collaborating through structured sprints, OKRs, and KPIs with persistent memory and real tool access
 
 ### Enterprise AI Assistants
 
-- [Amazon Q Business](https://aws.amazon.com/q/business/) - A generative AI-powered assistant for enterprises to find information, gain insights, and take action at work, integrating with company data and applications
-- [Microsoft 365 Copilot](https://www.microsoft.com/en-us/microsoft-365-copilot/enterprise) - An AI assistant for work that supercharges productivity and creativity, reengineers business processes, and empowers you to securely transform your business into an AI-powered organization
-- [Notion AI](https://www.notion.so/product/ai) - An integrated AI assistant for workspaces that provides writing assistance, workspace Q&A, and autonomous agents for task automation
-- [Gemini for Google Workspace](https://workspace.google.com/solutions/ai/) - An AI-powered assistant for Docs, Gmail, Sheets, and Slides that helps you write, visualize, and organize your work across the platform
-- [Claude for Enterprise](https://claude.com/pricing/enterprise) - A secure and scalable way for organizations to use AI with administrative controls, single sign-on (SSO), and role-based access to Claude's latest models
-- [ChatGPT Enterprise](https://chatgpt.com/business/enterprise) - An enterprise-grade AI assistant with unlimited higher-speed access to GPT-4, longer context windows, and advanced data analysis capabilities
-- [Glean](https://www.glean.com/) - An AI-powered search and assistant for the enterprise that connects to all of your company's apps and data to find exactly what you need
+- 💲 [Amazon Q Business](https://aws.amazon.com/q/business/) - A generative AI-powered assistant for enterprises to find information, gain insights, and take action at work, integrating with company data and applications
+- 💲 [Microsoft 365 Copilot](https://www.microsoft.com/en-us/microsoft-365-copilot/enterprise) - An AI assistant for work that supercharges productivity and creativity, reengineers business processes, and empowers you to securely transform your business into an AI-powered organization
+- 💲 [Notion AI](https://www.notion.so/product/ai) - An integrated AI assistant for workspaces that provides writing assistance, workspace Q&A, and autonomous agents for task automation
+- 💲 [Gemini for Google Workspace](https://workspace.google.com/solutions/ai/) - An AI-powered assistant for Docs, Gmail, Sheets, and Slides that helps you write, visualize, and organize your work across the platform
+- 💲 [Claude for Enterprise](https://claude.com/pricing/enterprise) - A secure and scalable way for organizations to use AI with administrative controls, single sign-on (SSO), and role-based access to Claude's latest models
+- 💲 [ChatGPT Enterprise](https://chatgpt.com/business/enterprise) - An enterprise-grade AI assistant with unlimited higher-speed access to GPT-4, longer context windows, and advanced data analysis capabilities
+- 💲 [Glean](https://www.glean.com/) - An AI-powered search and assistant for the enterprise that connects to all of your company's apps and data to find exactly what you need
 
 ### Self-Hosted AI Platforms
 
 - [AnythingLLM](https://anythingllm.com/) - The all-in-one AI application for everyone
-- [Dify](https://dify.ai/) - An open-source LLM app development platform
+- 🔒 [Dify](https://dify.ai/) - An open-source LLM app development platform
 - [Flowise](https://flowiseai.com/) - An open source generative AI development platform for building AI agents, LLM orchestration, and more
 - [LibreChat](https://www.librechat.ai/) - The open-source AI platform that brings together all your AI conversations in one unified, customizable interface
 - [OpenWebUI](https://openwebui.com/) - An extensible, feature-rich, and user-friendly self-hosted AI platform designed to operate entirely offline
 
 ### AI Content & Document Generation
 
-- [Beautiful.ai](https://www.beautiful.ai/) - The AI presentation platform built for enterprise teams that keeps every deck on-brand and ready to share across the whole company
-- [Gamma](https://gamma.app/) - A new medium for presenting ideas, powered by AI
-- [Napkin AI](https://www.napkin.ai/) - The visual AI for business storytelling that turns your text into visuals so sharing your ideas is quick and effective
-- [NotebookLM](https://notebooklm.google/) - The AI research tool and thinking partner that can analyze your sources, turn complexity into clarity and transform your content
+- 💲 [Beautiful.ai](https://www.beautiful.ai/) - The AI presentation platform built for enterprise teams that keeps every deck on-brand and ready to share across the whole company
+- 🪙 [Gamma](https://gamma.app/) - A new medium for presenting ideas, powered by AI
+- 💲 [Napkin AI](https://www.napkin.ai/) - The visual AI for business storytelling that turns your text into visuals so sharing your ideas is quick and effective
+- 🪙 [NotebookLM](https://notebooklm.google/) - The AI research tool and thinking partner that can analyze your sources, turn complexity into clarity and transform your content
 
 ### AI Agent Registries
 
@@ -452,12 +452,12 @@
 ### Design Systems & Design Tools
 
 - Visual Design Tools
-  - [Claude Design](https://claude.ai/design) - A visual design tool that lets users collaborate with Claude to create polished designs, prototypes, slides, and marketing materials through natural conversation and iterative refinement
-  - [Figma Design](https://www.figma.com/) - A powerful, collaborative design tool for teams
-  - [Locofy.ai](https://www.locofy.ai/) - Design to code in a flash
-  - [Uizard](https://uizard.io/) - An AI-powered design tool that lets you generate prototypes, screens, and themes from text prompts
-  - [Anything](https://www.create.xyz/) - An AI app builder that turns your words into mobile apps, sites, tools, and products built with code
-  - [v0](https://v0.app/) - An AI-powered full-stack web application builder that generates working applications in minutes and publishes them as live websites in seconds
+  - 💲 [Claude Design](https://claude.ai/design) - A visual design tool that lets users collaborate with Claude to create polished designs, prototypes, slides, and marketing materials through natural conversation and iterative refinement
+  - 🪙 [Figma Design](https://www.figma.com/) - A powerful, collaborative design tool for teams
+  - 💲 [Locofy.ai](https://www.locofy.ai/) - Design to code in a flash
+  - 💲 [Uizard](https://uizard.io/) - An AI-powered design tool that lets you generate prototypes, screens, and themes from text prompts
+  - 💲 [Anything](https://www.create.xyz/) - An AI app builder that turns your words into mobile apps, sites, tools, and products built with code
+  - 💲 [v0](https://v0.app/) - An AI-powered full-stack web application builder that generates working applications in minutes and publishes them as live websites in seconds
 - Design Systems & Guidelines
   - [Material Design](https://m3.material.io/) - Google's open-source design system for building beautiful, usable products
   - [Apple HIG](https://developer.apple.com/design/human-interface-guidelines) - A set of recommendations to help you create apps that look and behave consistently across all Apple platforms

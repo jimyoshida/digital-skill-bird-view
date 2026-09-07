@@ -368,6 +368,7 @@
   - [SQLite](https://www.sqlite.org/index.html) - 小型で高速、自己完結型、高信頼性、フル機能のデータベースエンジンを実装した C 言語ライブラリです
   - [PGlite](https://pglite.dev/) - TypeScript/JavaScript クライアントライブラリにパッケージ化された WASM ビルドであり、ブラウザ、Node.js、Bun でデータベースを実行できるようにします
   - [DuckDB](https://duckdb.org/) - インプロセスで動作する SQL OLAP データベース管理システムです
+  - [H2 Database Engine](https://www.h2database.com/html/main.html) - 組み込みモードとサーバーモード、インメモリデータベース、約 2.5 MB という小さな jar ファイルサイズを備えた、非常に高速なオープンソースの Java SQL データベースです
 - ストレージエンジン
   - [Storage Engine](https://en.wikipedia.org/wiki/Storage_engine) - データベース管理システムがデータベースに対してデータの作成、読み取り、更新、削除 (CRUD) を行うために使用するソフトウェアコンポーネントです
   - [InnoDB](https://dev.mysql.com/doc/refman/8.0/en/innodb-storage-engine.html) - MySQL と MariaDB 向けのトランザクション対応ストレージエンジンです

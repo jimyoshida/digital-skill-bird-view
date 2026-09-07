@@ -36,31 +36,31 @@
 ### 作業＆課題トラッキング
 
 - 課題トラッキング＆タスクボード
-  - [Jira](https://www.atlassian.com/software/jira) - チームが作業の計画、割り当て、追跡、報告、管理を行うのに役立つ、課題トラッキングとプロジェクトマネジメントのためのソフトウェアアプリケーションです
+  - 💲 [Jira](https://www.atlassian.com/software/jira) - チームが作業の計画、割り当て、追跡、報告、管理を行うのに役立つ、課題トラッキングとプロジェクトマネジメントのためのソフトウェアアプリケーションです
     - [JiraCLI](https://github.com/ankitpokhrel/jira-cli) - Atlassian Jira 向けの対話型コマンドラインツールで、ある程度 Jira の UI を避ける助けとなります
-  - [Linear](https://linear.app/) - 課題、サイクル、プロダクトロードマップを備えた、目的志向のプロダクト開発ツールです
-  - [Fizzy](https://www.fizzy.do/) - バグ、課題、アイデア、小規模プロジェクトなど何でも追跡できる、かんばんの現代的な発展形です
+  - 💲 [Linear](https://linear.app/) - 課題、サイクル、プロダクトロードマップを備えた、目的志向のプロダクト開発ツールです
+  - 💲 [Fizzy](https://www.fizzy.do/) - バグ、課題、アイデア、小規模プロジェクトなど何でも追跡できる、かんばんの現代的な発展形です
   - [GitLab Issue Board](https://docs.gitlab.com/ee/user/project/issue_board.html) - ワークフローのステータスに対応する列に課題を表示するユーザーインターフェースです
   - [GitLab Service Desk](https://docs.gitlab.com/ee/user/project/service_desk/) - GitLab アカウントを持っていないユーザーとも、メールを通じてつながることができる機能です
-  - [Azure Boards](https://learn.microsoft.com/en-us/azure/devops/boards/) - 作業項目を管理するためのカスタマイズ可能なプラットフォームを提供し、チームが効果的に協力してワークフローを効率化できるようにするサービスです
-  - [GitHub Issues](https://github.com/features/issues) - GitHub 上での作業管理に役立つトラッキングツールです
+  - 💲 [Azure Boards](https://learn.microsoft.com/en-us/azure/devops/boards/) - 作業項目を管理するためのカスタマイズ可能なプラットフォームを提供し、チームが効果的に協力してワークフローを効率化できるようにするサービスです
+  - 🪙 [GitHub Issues](https://github.com/features/issues) - GitHub 上での作業管理に役立つトラッキングツールです
   - [Redmine](https://www.redmine.org/) - 無料でオープンソースの、Web ベースのプロジェクトマネジメントおよび課題トラッキングツールです
-  - [OpenProject](https://www.openproject.org/) - クラシック、アジャイル、ハイブリッドのプロジェクトマネジメント向けのオープンソースプロジェクトマネジメントソフトウェアです
+  - 🔒 [OpenProject](https://www.openproject.org/) - クラシック、アジャイル、ハイブリッドのプロジェクトマネジメント向けのオープンソースプロジェクトマネジメントソフトウェアです
 - 協働的な作業管理
-  - [Asana](https://asana.com/) - チームが作業を調整しプロジェクトを前進させ続けるのに役立つ、人と AI の協働のためのプラットフォームです
-  - [monday.com](https://monday.com/) - 人とエージェントが部門やユースケースを横断して共に成果を上げる、セキュアな作業プラットフォームです
-  - [ClickUp](https://clickup.com/) - アプリ、AI、プロジェクト、チャットを 1 つにまとめ、あらゆるソフトウェアを置き換えるオールインワンの生産性プラットフォームです
-  - [Trello](https://trello.com/) - ボード、リスト、カードを使ってタスクを整理し、あらゆるプロジェクトについて共有の視点を作り出すビジュアルコラボレーションツールです
-  - [Airtable](https://www.airtable.com/) - スプレッドシートの柔軟性とデータベースの力を組み合わせ、チームの作業管理を支援するプラットフォームです
+  - 🪙 [Asana](https://asana.com/) - チームが作業を調整しプロジェクトを前進させ続けるのに役立つ、人と AI の協働のためのプラットフォームです
+  - 💲 [monday.com](https://monday.com/) - 人とエージェントが部門やユースケースを横断して共に成果を上げる、セキュアな作業プラットフォームです
+  - 🪙 [ClickUp](https://clickup.com/) - アプリ、AI、プロジェクト、チャットを 1 つにまとめ、あらゆるソフトウェアを置き換えるオールインワンの生産性プラットフォームです
+  - 🪙 [Trello](https://trello.com/) - ボード、リスト、カードを使ってタスクを整理し、あらゆるプロジェクトについて共有の視点を作り出すビジュアルコラボレーションツールです
+  - 🪙 [Airtable](https://www.airtable.com/) - スプレッドシートの柔軟性とデータベースの力を組み合わせ、チームの作業管理を支援するプラットフォームです
 
 ### チームコラボレーション
 
 - メッセージング＆ミーティング
-  - [Slack](https://slack.com/) - 会話、ツール、ファイルを 1 か所にまとめる、クラウドベースのチームコラボレーションプラットフォームです
-  - [Microsoft Teams](https://www.microsoft.com/en-us/microsoft-teams/group-chat-software) - 職場でのチャット、ミーティング、ファイルストレージ、アプリケーション統合を組み合わせたコラボレーションプラットフォームです
-  - [Discord](https://discord.com/) - コミュニティ、友人グループ、企業がつながりを保つために使用する音声・ビデオ・テキストのコミュニケーションサービスです
-  - [Mattermost](https://mattermost.com/) - セキュアなメッセージング、プロジェクトマネジメント、ワークフローオーケストレーションを提供する、開発者向けのオープンソースコラボレーションプラットフォームです
-  - [Zoom](https://zoom.us/) - ビデオミーティング、音声通話、ウェビナー、チャットを提供するビデオコミュニケーションプラットフォームです
+  - 🪙 [Slack](https://slack.com/) - 会話、ツール、ファイルを 1 か所にまとめる、クラウドベースのチームコラボレーションプラットフォームです
+  - 💲 [Microsoft Teams](https://www.microsoft.com/en-us/microsoft-teams/group-chat-software) - 職場でのチャット、ミーティング、ファイルストレージ、アプリケーション統合を組み合わせたコラボレーションプラットフォームです
+  - 🪙 [Discord](https://discord.com/) - コミュニティ、友人グループ、企業がつながりを保つために使用する音声・ビデオ・テキストのコミュニケーションサービスです
+  - 🔒 [Mattermost](https://mattermost.com/) - セキュアなメッセージング、プロジェクトマネジメント、ワークフローオーケストレーションを提供する、開発者向けのオープンソースコラボレーションプラットフォームです
+  - 🪙 [Zoom](https://zoom.us/) - ビデオミーティング、音声通話、ウェビナー、チャットを提供するビデオコミュニケーションプラットフォームです
 
 ### プロセス成熟度＆品質標準
 
@@ -93,7 +93,7 @@
   - [Business model canvas](https://en.wikipedia.org/wiki/Business_model_canvas) - 新しいビジネスモデルの開発や既存のビジネスモデルの文書化のための、戦略マネジメントのテンプレートです
   - [Lean Canvas](https://www.leanfoundry.com/tools/lean-canvas) - 起業家がビジネスアイデアを素早く概説するための、1 ページのビジネスモデリングツールです
 - [Technology roadmap](https://en.wikipedia.org/wiki/Technology_roadmap) - 短期・長期の目標を具体的な技術ソリューションと組み合わせることで、戦略的かつ長期的な計画立案を支援する柔軟な計画スケジュールです
-  - [Aha!](https://www.aha.io/) - チームが顧客に愛されるプロダクトを構築しマーケティングするのに役立つ、プロダクト開発ソフトウェアのスイートです
+  - 💲 [Aha!](https://www.aha.io/) - チームが顧客に愛されるプロダクトを構築しマーケティングするのに役立つ、プロダクト開発ソフトウェアのスイートです
 
 ### 要求分析
 
@@ -129,26 +129,26 @@
 ### マーケティングテクノロジー
 
 - タグマネジメント
-  - [Google Tag Manager](https://marketingplatform.google.com/about/tag-manager/) - Web サイトやモバイルアプリ上の測定コードや、タグと呼ばれる関連コードフラグメントを素早く簡単に更新できるタグマネジメントシステムです
+  - 🪙 [Google Tag Manager](https://marketingplatform.google.com/about/tag-manager/) - Web サイトやモバイルアプリ上の測定コードや、タグと呼ばれる関連コードフラグメントを素早く簡単に更新できるタグマネジメントシステムです
 - Web 分析
-  - [Google Analytics](https://developers.google.com/analytics) - Web サイトやアプリのパフォーマンスをより深く理解したいと考える何百万もの Web サイト・アプリ所有者にとって頼りになるプラットフォームです
+  - 🪙 [Google Analytics](https://developers.google.com/analytics) - Web サイトやアプリのパフォーマンスをより深く理解したいと考える何百万もの Web サイト・アプリ所有者にとって頼りになるプラットフォームです
   - [Plausible](https://plausible.io/) - 直感的で軽量な、オープンソースの Web 分析です
   - [Umami](https://umami.is/) - シンプルかつ高速で、プライバシーを重視した Google Analytics の代替です
   - [Ackee](https://ackee.electerious.com/) - プライバシーを気にかける人のための、セルフホスト型でプライバシー重視の分析ツールです
 - カスタマーデータプラットフォーム
   - [Customer data platform](https://en.wikipedia.org/wiki/Customer_data_platform) - さまざまな接点から顧客データを集約・整理し、統一された顧客プロファイルを構築するソフトウェアシステムです
-  - [Twilio Segment](https://www.twilio.com/en-us/segment) - 複数のソースやデスティネーションにまたがる顧客データを収集、統合、活用し、パーソナライズされた体験を生み出せるようにする、企業向けのカスタマーデータプラットフォームです
+  - 💲 [Twilio Segment](https://www.twilio.com/en-us/segment) - 複数のソースやデスティネーションにまたがる顧客データを収集、統合、活用し、パーソナライズされた体験を生み出せるようにする、企業向けのカスタマーデータプラットフォームです
 - マーケティングオートメーション
   - [Marketing automation](https://en.wikipedia.org/wiki/Marketing_automation) - マーケティング部門や組織が反復的なタスクを自動化できるように設計された、ソフトウェアプラットフォームおよびテクノロジーです
-  - [Klaviyo](https://en.wikipedia.org/wiki/Klaviyo) - アメリカのマーケティングオートメーションプラットフォームおよびメールマーケティングサービスです
+  - 💲 [Klaviyo](https://en.wikipedia.org/wiki/Klaviyo) - アメリカのマーケティングオートメーションプラットフォームおよびメールマーケティングサービスです
 - 広告プラットフォーム
-  - [Google Ads](https://ads.google.com/home/) - 広告主が入札を行い、Web ユーザーに短い広告、サービス案内、商品リスティング、動画を表示するオンライン広告プラットフォームです
+  - 🪙 [Google Ads](https://ads.google.com/home/) - 広告主が入札を行い、Web ユーザーに短い広告、サービス案内、商品リスティング、動画を表示するオンライン広告プラットフォームです
   - [Google AdSense](https://adsense.google.com/start/) - Google コンテンツサイトネットワークの Web サイトパブリッシャーが、サイトのコンテンツやオーディエンスをターゲットにしたテキスト、画像、動画、インタラクティブメディアの広告を配信できる、Google が運営するプログラムです
 - 実験＆最適化
-  - [Optimizely](https://www.optimizely.com/) - ビジネスを未来へと推進するために必要なスケーラビリティとセキュリティを提供する単一の統合プラットフォームである、大手デジタルエクスペリエンスプラットフォーム (DXP) です
+  - 💲 [Optimizely](https://www.optimizely.com/) - ビジネスを未来へと推進するために必要なスケーラビリティとセキュリティを提供する単一の統合プラットフォームである、大手デジタルエクスペリエンスプラットフォーム (DXP) です
 - メールマーケティング＆配信
-  - [SendGrid](https://sendgrid.com/) - 信頼性の高いトランザクションメールやマーケティングメールの配信を大規模に提供する、クラウドベースのメール配信プラットフォームです
-  - [Mailchimp](https://mailchimp.com/) - メールマーケティングを通じてクライアント、顧客、オーディエンスとの管理やコミュニケーションを支援する、小規模ビジネス向けのオールインワンマーケティングプラットフォームです
+  - 💲 [SendGrid](https://sendgrid.com/) - 信頼性の高いトランザクションメールやマーケティングメールの配信を大規模に提供する、クラウドベースのメール配信プラットフォームです
+  - 💲 [Mailchimp](https://mailchimp.com/) - メールマーケティングを通じてクライアント、顧客、オーディエンスとの管理やコミュニケーションを支援する、小規模ビジネス向けのオールインワンマーケティングプラットフォームです
   - [listmonk](https://listmonk.app/) - セルフホスト型のニュースレター・メーリングリスト管理ツールです
   - [BillionMail](https://www.billionmail.com/) - 完全にセルフホスト可能で開発者にやさしい、オープンソースのメールサーバーおよびメールマーケティングソリューションです
 
@@ -213,23 +213,23 @@
 ### エンタープライズアプリケーション
 
 - [Enterprise resource planning](https://en.wikipedia.org/wiki/Enterprise_resource_planning) - 主要なビジネスプロセスの統合管理で、多くの場合リアルタイムかつソフトウェアとテクノロジーを介して行われます
-  - [SAP ERP](http://www.sap.com/products/erp.html) - プロセスを合理化し、生産性を向上させ、組織全体にわたるリアルタイムの洞察を提供する、包括的なソフトウェアシステムです
-  - [Odoo](https://www.odoo.com/) - CRM、ERP、会計など多岐にわたる領域をカバーする、オープンソースビジネスアプリケーションのスイートです
+  - 💲 [SAP ERP](http://www.sap.com/products/erp.html) - プロセスを合理化し、生産性を向上させ、組織全体にわたるリアルタイムの洞察を提供する、包括的なソフトウェアシステムです
+  - 🔒 [Odoo](https://www.odoo.com/) - CRM、ERP、会計など多岐にわたる領域をカバーする、オープンソースビジネスアプリケーションのスイートです
   - [ERPNext](https://frappe.io/erpnext) - モダンで包括的、かつユーザーフレンドリーなエンタープライズリソースプランニングソリューションを備えた、100% オープンソースの ERP です
 - [Customer relationship management](https://en.wikipedia.org/wiki/Customer_relationship_management) - 組織が顧客とのやり取りを管理、分析、改善するために用いる戦略的プロセスです
-  - [EspoCRM](https://www.espocrm.com/) - 企業のあらゆる関係性を管理・評価するための、オープンソースの Web アプリケーションです
-  - [HubSpot](https://www.hubspot.com/) - マーケティング、営業、サービスのツールを共有データベースに接続することで、企業の成長を支援するカスタマープラットフォームです
-  - [Salesforce](https://www.salesforce.com/) - 企業と顧客を結びつけ、すべての部門に統合された 1 つの CRM プラットフォームを提供する、顧客関係管理ソリューションです
-  - [Zendesk](https://www.zendesk.com/) - マルチチャネルサポートを通じて企業がより良い顧客関係を築くのに役立つ、カスタマーサービスソフトウェアおよびサポートチケットシステムです
-  - [Atlas](https://atlas.so/) - ツールやワークフローに合わせて調整された、迅速、正確、測定可能なサポートを提供する、カスタマーサポート向けの専用 AI です
+  - 🔒 [EspoCRM](https://www.espocrm.com/) - 企業のあらゆる関係性を管理・評価するための、オープンソースの Web アプリケーションです
+  - 🪙 [HubSpot](https://www.hubspot.com/) - マーケティング、営業、サービスのツールを共有データベースに接続することで、企業の成長を支援するカスタマープラットフォームです
+  - 💲 [Salesforce](https://www.salesforce.com/) - 企業と顧客を結びつけ、すべての部門に統合された 1 つの CRM プラットフォームを提供する、顧客関係管理ソリューションです
+  - 💲 [Zendesk](https://www.zendesk.com/) - マルチチャネルサポートを通じて企業がより良い顧客関係を築くのに役立つ、カスタマーサービスソフトウェアおよびサポートチケットシステムです
+  - 💲 [Atlas](https://atlas.so/) - ツールやワークフローに合わせて調整された、迅速、正確、測定可能なサポートを提供する、カスタマーサポート向けの専用 AI です
   - [SuiteCRM](https://suitecrm.com/) - 顧客とビジネスの 360 度ビューを提供する、無料でオープンソースの顧客関係管理 (CRM) ソフトウェアソリューションです
 - [Supply chain management](https://en.wikipedia.org/wiki/Supply_chain_management) - 発生地点から消費地点まで、原材料、仕掛品在庫、完成品の移動と保管を含む、企業と拠点の間での商品やサービスの流れの管理です
 - [Human resource management](https://en.wikipedia.org/wiki/Human_resource_management) - 企業や組織における人材の効果的かつ効率的な管理により、ビジネスが競争優位性を獲得するのを助ける、戦略的で一貫したアプローチです
   - [Competence](https://en.wikipedia.org/wiki/Competence_(human_resources)) - 職務の効率やパフォーマンスを可能にし、向上させる、実証可能な特性とスキルの集合です
 - [Contract management](https://en.wikipedia.org/wiki/Contract_management) - 財務・業務パフォーマンスの最大化とリスクの最小化を目的として、契約の作成、実行、分析を体系的かつ効率的に管理するプロセスです
 - [E-commerce](https://en.wikipedia.org/wiki/E-commerce) - オンラインサービスやインターネットを通じてプロダクトを電子的に売買する活動です
-  - [Shopify](https://www.shopify.com/) - オンラインストアや小売の POS システム向けに、独自の e コマースプラットフォームを提供するカナダの多国籍 e コマース企業です
-  - [Stripe](https://stripe.com/) - e コマース Web サイトやモバイルアプリケーション向けの決済処理ソフトウェアと API を提供する、企業向けの金融インフラストラクチャプラットフォームです
+  - 💲 [Shopify](https://www.shopify.com/) - オンラインストアや小売の POS システム向けに、独自の e コマースプラットフォームを提供するカナダの多国籍 e コマース企業です
+  - 🪙 [Stripe](https://stripe.com/) - e コマース Web サイトやモバイルアプリケーション向けの決済処理ソフトウェアと API を提供する、企業向けの金融インフラストラクチャプラットフォームです
 
 ### 組織の変革管理
 
@@ -246,12 +246,12 @@
   - [PEST analysis](https://en.wikipedia.org/wiki/PEST_analysis) - 戦略マネジメントや市場調査で使用される、外部のマクロ環境要因 (政治的、経済的、社会的、技術的) のフレームワークです
   - [Porter's five forces analysis](https://en.wikipedia.org/wiki/Porter%27s_five_forces_analysis) - 産業組織論に根ざした、競争の激しさと業界の魅力度を決定する 5 つの力を特定する、ビジネスの競争環境を分析する手法です
 - ビジネスインテリジェンスプラットフォーム
-  - [Tableau](https://www.tableau.com/) - 問題解決のためにデータを見て、理解し、行動することを人々に助けるビジュアル分析プラットフォームです
-  - [Metabase](https://www.metabase.com/) - スタートアップの本番データベースから大規模なデータウェアハウスまで対応するように作られた、データベースのためのクエリおよび可視化レイヤーです
-  - [Power BI](https://www.microsoft.com/en-us/power-platform/products/power-bi/) - セルフサービスとエンタープライズのビジネスインテリジェンスのための、統合されたスケーラブルなプラットフォームです
+  - 💲 [Tableau](https://www.tableau.com/) - 問題解決のためにデータを見て、理解し、行動することを人々に助けるビジュアル分析プラットフォームです
+  - 🔒 [Metabase](https://www.metabase.com/) - スタートアップの本番データベースから大規模なデータウェアハウスまで対応するように作られた、データベースのためのクエリおよび可視化レイヤーです
+  - 💲 [Power BI](https://www.microsoft.com/en-us/power-platform/products/power-bi/) - セルフサービスとエンタープライズのビジネスインテリジェンスのための、統合されたスケーラブルなプラットフォームです
     - [DAX](https://learn.microsoft.com/en-us/dax/) - 計算列、メジャー、カスタムテーブルを作成するために Microsoft Power BI 全体で使用されるプログラミング言語です
-  - [Looker Studio](https://cloud.google.com/looker-studio) - データをカスタマイズ可能で情報豊富なレポートやダッシュボードに変える、旧 Google Data Studio として知られるビジネスインテリジェンスおよびデータ可視化プラットフォームです
-  - [Exploratory Desktop](https://exploratory.io/) - さまざまなデータソースへのアクセス、データのクレンジングと変換、データの可視化と分析を実現する、シンプルで使いやすい UI 体験です
+  - 🪙 [Looker Studio](https://cloud.google.com/looker-studio) - データをカスタマイズ可能で情報豊富なレポートやダッシュボードに変える、旧 Google Data Studio として知られるビジネスインテリジェンスおよびデータ可視化プラットフォームです
+  - 💲 [Exploratory Desktop](https://exploratory.io/) - さまざまなデータソースへのアクセス、データのクレンジングと変換、データの可視化と分析を実現する、シンプルで使いやすい UI 体験です
 
 ### リスクマネジメント
 
@@ -268,7 +268,7 @@
 - [IT service management](https://en.wikipedia.org/wiki/IT_service_management) - 顧客に提供される情報技術 (IT) サービスを設計、構築、提供、運用、制御するために、組織が実行する活動です
   - [ITIL (Information Technology Infrastructure Library)](https://en.wikipedia.org/wiki/ITIL) - IT サービスをビジネスのニーズに合わせることに重点を置いた、IT サービスマネジメント (ITSM) のための詳細な実践のセットです
   - [ISO/IEC 20000 (Service management)](https://en.wikipedia.org/wiki/ISO/IEC_20000) - サービスマネジメントシステムの確立、実装、維持、継続的改善のための要求事項を規定する、IT サービスマネジメントの国際標準です
-  - [ServiceNow](https://www.servicenow.com/) - エンタープライズ全体で人、機能、システムをつなぐ、デジタルワークフローのためのクラウドベースかつ AI 駆動のプラットフォームです
+  - 💲 [ServiceNow](https://www.servicenow.com/) - エンタープライズ全体で人、機能、システムをつなぐ、デジタルワークフローのためのクラウドベースかつ AI 駆動のプラットフォームです
 
 ## ナレッジ＆コンテンツマネジメント
 
@@ -282,7 +282,7 @@
 
 - [Zettelkasten](https://en.wikipedia.org/wiki/Zettelkasten) - 研究、学習、執筆のためのノート術およびパーソナルナレッジマネジメントの手法で、スリップやカードに保存された、相互に結びついた小さな情報項目で構成されます
 - ノート術ツール
-  - [Obsidian](https://obsidian.md/) - プラグインやテーマによってカスタマイズ可能なインターフェースを通じて、デバイス上にノートを保存し、アイデアを結びつけ、ナレッジを整理できる、個人の思考のための無料で柔軟なアプリケーションです
+  - 🪙 [Obsidian](https://obsidian.md/) - プラグインやテーマによってカスタマイズ可能なインターフェースを通じて、デバイス上にノートを保存し、アイデアを結びつけ、ナレッジを整理できる、個人の思考のための無料で柔軟なアプリケーションです
   - [Memos](https://github.com/usememos/memos) - 素早いキャプチャのために構築された、Markdown ネイティブで軽量な、オープンソースのセルフホスト型ノート術ツールです
 - フィード集約
   - [FreshRSS](https://freshrss.org/index.html) - RSS および Atom フィード用の、無料でセルフホスト可能なアグリゲーターです
@@ -294,9 +294,9 @@
   - [Ibis](https://ibis.wiki/) - Mastodon や Lemmy と同様に ActivityPub プロトコルを使用する、フェデレーテッドな百科事典です
   - [LeafWiki](https://leafwiki.com/) - 重厚なスタックを持たない本物の Wiki アプリで、データベースサーバーを必要とせずディスク上に Markdown ファイルを保存します
 - チームワークスペース
-  - [Notion](https://www.notion.so/) - ナレッジマネジメントとタスク・プロジェクトのトラッキングを組み合わせた、ノート、ドキュメント、Wiki、プロジェクト、コラボレーションのためのオールインワンワークスペースです
-  - [Coda](https://coda.io/) - チームとツールをまとめて、より整理された 1 日の仕事を実現するオールインワンの協働ワークスペースです
-  - [Confluence](https://www.atlassian.com/software/confluence) - あらゆるアイデア、ドキュメント、ナレッジ、チームメイトのための 1 つの場所です
+  - 🪙 [Notion](https://www.notion.so/) - ナレッジマネジメントとタスク・プロジェクトのトラッキングを組み合わせた、ノート、ドキュメント、Wiki、プロジェクト、コラボレーションのためのオールインワンワークスペースです
+  - 🪙 [Coda](https://coda.io/) - チームとツールをまとめて、より整理された 1 日の仕事を実現するオールインワンの協働ワークスペースです
+  - 💲 [Confluence](https://www.atlassian.com/software/confluence) - あらゆるアイデア、ドキュメント、ナレッジ、チームメイトのための 1 つの場所です
   - [Outline](https://www.getoutline.com/) - チームがドキュメントを整理し、リアルタイムで協働し、AI 駆動の質問応答でワークスペース全体を横断検索できるようにする、ナレッジベースプラットフォームです
 
 ### コンテンツマネジメントシステム
@@ -307,10 +307,10 @@
 
 ### コンテンツコラボレーション＆ファイル同期
 
-- [SharePoint](https://www.microsoft.com/en-us/microsoft-365/sharepoint/collaboration) - 組織がコンテンツを安全に保存、共有、管理できるようにする、Web ベースのコラボレーションおよびドキュメント管理プラットフォームです
+- 💲 [SharePoint](https://www.microsoft.com/en-us/microsoft-365/sharepoint/collaboration) - 組織がコンテンツを安全に保存、共有、管理できるようにする、Web ベースのコラボレーションおよびドキュメント管理プラットフォームです
 - [Nextcloud](https://nextcloud.com/) - 業界をリードする、完全にオープンソースなオンプレミスのコンテンツコラボレーションプラットフォームです
-- [Box](https://www.box.com/) - 組織が社内外のユーザーと協働しながら、コンテンツを安全に管理・共有できるようにするエンタープライズクラウドコンテンツ管理プラットフォームです
-- [Dropbox](https://www.dropbox.com/) - クラウドストレージ、ファイル同期、パーソナルクラウド、クライアントソフトウェアを提供するファイルホスティングサービスです
+- 💲 [Box](https://www.box.com/) - 組織が社内外のユーザーと協働しながら、コンテンツを安全に管理・共有できるようにするエンタープライズクラウドコンテンツ管理プラットフォームです
+- 💲 [Dropbox](https://www.dropbox.com/) - クラウドストレージ、ファイル同期、パーソナルクラウド、クライアントソフトウェアを提供するファイルホスティングサービスです
 
 ## エンタープライズ AI ＆生産性
 
@@ -323,34 +323,34 @@
 
 ### 自律型 AI ワーカー
 
-- [Claude Cowork](https://claude.com/product/cowork) - コンピューター上で直接、ファイル、ドキュメント、Web アプリケーションにまたがる複数ステップのタスクを自律的に計画・実行する、ナレッジワーク向けのエージェント型 AI システムです
+- 💲 [Claude Cowork](https://claude.com/product/cowork) - コンピューター上で直接、ファイル、ドキュメント、Web アプリケーションにまたがる複数ステップのタスクを自律的に計画・実行する、ナレッジワーク向けのエージェント型 AI システムです
 - [claw-empire](https://github.com/GreenSheep01201/claw-empire) - CLI、OAuth、API 接続のエージェントを仮想の自律企業としてオーケストレーションする、ローカルファーストの AI エージェントオフィスシミュレーターです
-- [Sistava](https://sistava.com/en/) - 永続的なメモリと実際のツールアクセスを備え、構造化されたスプリント、OKR、KPI を通じて協働する AI ワーカーのチームを管理するための AI 従業員プラットフォームです
+- 💲 [Sistava](https://sistava.com/en/) - 永続的なメモリと実際のツールアクセスを備え、構造化されたスプリント、OKR、KPI を通じて協働する AI ワーカーのチームを管理するための AI 従業員プラットフォームです
 
 ### エンタープライズ AI アシスタント
 
-- [Amazon Q Business](https://aws.amazon.com/q/business/) - 会社のデータやアプリケーションと統合し、企業が情報を見つけ、洞察を得て、職場で行動を起こせるようにする、生成 AI 駆動のアシスタントです
-- [Microsoft 365 Copilot](https://www.microsoft.com/en-us/microsoft-365-copilot/enterprise) - 生産性と創造性を大幅に高め、ビジネスプロセスを再構築し、ビジネスを安全に AI 駆動の組織へと変革できるようにする、仕事のための AI アシスタントです
-- [Notion AI](https://www.notion.so/product/ai) - ライティング支援、ワークスペース Q&A、タスク自動化のための自律エージェントを提供する、ワークスペース向けの統合 AI アシスタントです
-- [Gemini for Google Workspace](https://workspace.google.com/solutions/ai/) - プラットフォーム全体で執筆、可視化、作業の整理を助ける、Docs、Gmail、Sheets、Slides のための AI 駆動アシスタントです
-- [Claude for Enterprise](https://claude.com/pricing/enterprise) - 管理者による制御、シングルサインオン (SSO)、Claude の最新モデルへのロールベースアクセスを備えた、組織が AI を利用するための安全でスケーラブルな方法です
-- [ChatGPT Enterprise](https://chatgpt.com/business/enterprise) - GPT-4 への無制限の高速アクセス、より長いコンテキストウィンドウ、高度なデータ分析機能を備えた、エンタープライズグレードの AI アシスタントです
-- [Glean](https://www.glean.com/) - 会社のすべてのアプリとデータに接続し、必要なものを的確に見つけ出す、企業向けの AI 駆動の検索およびアシスタントです
+- 💲 [Amazon Q Business](https://aws.amazon.com/q/business/) - 会社のデータやアプリケーションと統合し、企業が情報を見つけ、洞察を得て、職場で行動を起こせるようにする、生成 AI 駆動のアシスタントです
+- 💲 [Microsoft 365 Copilot](https://www.microsoft.com/en-us/microsoft-365-copilot/enterprise) - 生産性と創造性を大幅に高め、ビジネスプロセスを再構築し、ビジネスを安全に AI 駆動の組織へと変革できるようにする、仕事のための AI アシスタントです
+- 💲 [Notion AI](https://www.notion.so/product/ai) - ライティング支援、ワークスペース Q&A、タスク自動化のための自律エージェントを提供する、ワークスペース向けの統合 AI アシスタントです
+- 💲 [Gemini for Google Workspace](https://workspace.google.com/solutions/ai/) - プラットフォーム全体で執筆、可視化、作業の整理を助ける、Docs、Gmail、Sheets、Slides のための AI 駆動アシスタントです
+- 💲 [Claude for Enterprise](https://claude.com/pricing/enterprise) - 管理者による制御、シングルサインオン (SSO)、Claude の最新モデルへのロールベースアクセスを備えた、組織が AI を利用するための安全でスケーラブルな方法です
+- 💲 [ChatGPT Enterprise](https://chatgpt.com/business/enterprise) - GPT-4 への無制限の高速アクセス、より長いコンテキストウィンドウ、高度なデータ分析機能を備えた、エンタープライズグレードの AI アシスタントです
+- 💲 [Glean](https://www.glean.com/) - 会社のすべてのアプリとデータに接続し、必要なものを的確に見つけ出す、企業向けの AI 駆動の検索およびアシスタントです
 
 ### セルフホスト型 AI プラットフォーム
 
 - [AnythingLLM](https://anythingllm.com/) - すべての人のためのオールインワン AI アプリケーションです
-- [Dify](https://dify.ai/) - オープンソースの LLM アプリ開発プラットフォームです
+- 🔒 [Dify](https://dify.ai/) - オープンソースの LLM アプリ開発プラットフォームです
 - [Flowise](https://flowiseai.com/) - AI エージェントの構築、LLM オーケストレーションなどのための、オープンソースの生成 AI 開発プラットフォームです
 - [LibreChat](https://www.librechat.ai/) - あらゆる AI との会話を、1 つの統一されたカスタマイズ可能なインターフェースにまとめる、オープンソースの AI プラットフォームです
 - [OpenWebUI](https://openwebui.com/) - 完全にオフラインで動作するように設計された、拡張可能で機能豊富、ユーザーフレンドリーなセルフホスト型 AI プラットフォームです
 
 ### AI コンテンツ＆ドキュメント生成
 
-- [Beautiful.ai](https://www.beautiful.ai/) - すべてのデッキをブランドに沿った状態に保ち、全社で共有できるようにする、エンタープライズチーム向けに構築された AI プレゼンテーションプラットフォームです
-- [Gamma](https://gamma.app/) - AI を活用した、アイデアを提示するための新しいメディアです
-- [Napkin AI](https://www.napkin.ai/) - テキストをビジュアルに変換し、アイデアの共有を迅速かつ効果的にする、ビジネスストーリーテリング向けのビジュアル AI です
-- [NotebookLM](https://notebooklm.google/) - ソースを分析し、複雑さを明快さに変え、コンテンツを変換できる、AI リサーチツールおよび思考パートナーです
+- 💲 [Beautiful.ai](https://www.beautiful.ai/) - すべてのデッキをブランドに沿った状態に保ち、全社で共有できるようにする、エンタープライズチーム向けに構築された AI プレゼンテーションプラットフォームです
+- 🪙 [Gamma](https://gamma.app/) - AI を活用した、アイデアを提示するための新しいメディアです
+- 💲 [Napkin AI](https://www.napkin.ai/) - テキストをビジュアルに変換し、アイデアの共有を迅速かつ効果的にする、ビジネスストーリーテリング向けのビジュアル AI です
+- 🪙 [NotebookLM](https://notebooklm.google/) - ソースを分析し、複雑さを明快さに変え、コンテンツを変換できる、AI リサーチツールおよび思考パートナーです
 
 ### AI エージェントレジストリ
 
@@ -452,12 +452,12 @@
 ### デザインシステム＆デザインツール
 
 - ビジュアルデザインツール
-  - [Claude Design](https://claude.ai/design) - 自然な会話と反復的な洗練を通じて、Claude と協働して洗練されたデザイン、プロトタイプ、スライド、マーケティング資料を作成できるようにする、ビジュアルデザインツールです
-  - [Figma Design](https://www.figma.com/) - チームのための、強力で協働的なデザインツールです
-  - [Locofy.ai](https://www.locofy.ai/) - デザインを瞬時にコードへと変換します
-  - [Uizard](https://uizard.io/) - テキストプロンプトからプロトタイプ、画面、テーマを生成できる、AI 駆動のデザインツールです
-  - [Anything](https://www.create.xyz/) - あなたの言葉を、コードで構築されたモバイルアプリ、サイト、ツール、プロダクトへと変える AI アプリビルダーです
-  - [v0](https://v0.app/) - 数分で動作するアプリケーションを生成し、数秒でライブの Web サイトとして公開する、AI 駆動のフルスタック Web アプリケーションビルダーです
+  - 💲 [Claude Design](https://claude.ai/design) - 自然な会話と反復的な洗練を通じて、Claude と協働して洗練されたデザイン、プロトタイプ、スライド、マーケティング資料を作成できるようにする、ビジュアルデザインツールです
+  - 🪙 [Figma Design](https://www.figma.com/) - チームのための、強力で協働的なデザインツールです
+  - 💲 [Locofy.ai](https://www.locofy.ai/) - デザインを瞬時にコードへと変換します
+  - 💲 [Uizard](https://uizard.io/) - テキストプロンプトからプロトタイプ、画面、テーマを生成できる、AI 駆動のデザインツールです
+  - 💲 [Anything](https://www.create.xyz/) - あなたの言葉を、コードで構築されたモバイルアプリ、サイト、ツール、プロダクトへと変える AI アプリビルダーです
+  - 💲 [v0](https://v0.app/) - 数分で動作するアプリケーションを生成し、数秒でライブの Web サイトとして公開する、AI 駆動のフルスタック Web アプリケーションビルダーです
 - デザインシステム＆ガイドライン
   - [Material Design](https://m3.material.io/) - 美しく使いやすいプロダクトを構築するための、Google のオープンソースデザインシステムです
   - [Apple HIG](https://developer.apple.com/design/human-interface-guidelines) - すべての Apple プラットフォームで一貫した見た目と動作をするアプリを作成するのに役立つ、推奨事項のセットです

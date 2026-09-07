@@ -1,5 +1,6 @@
 import clsx from 'clsx';
 import Link from '@docusaurus/Link';
+import Translate, {translate} from '@docusaurus/Translate';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import useBaseUrl from '@docusaurus/useBaseUrl';
 import Layout from '@theme/Layout';
@@ -20,12 +21,16 @@ function HomepageHeader() {
         <Heading as="h1" className="hero__title">
           {siteConfig.title}
         </Heading>
-        <p className="hero__subtitle">{siteConfig.tagline}</p>
+        <p className="hero__subtitle">
+          <Translate id="homepage.hero.tagline">
+            A comprehensive skill reference for the age of AI-driven development
+          </Translate>
+        </p>
         <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
             to="/docs/intro">
-            Go to the intro page
+            <Translate id="homepage.hero.cta">Go to the intro page</Translate>
           </Link>
         </div>
       </div>
@@ -34,11 +39,17 @@ function HomepageHeader() {
 }
 
 export default function Home() {
-  const {siteConfig} = useDocusaurusContext();
   return (
     <Layout
-      title={siteConfig.tagline}
-      description="An open, curated landscape and timeline of the concepts, tools, and platforms behind modern software development, DevOps, and AI-driven DX.">
+      title={translate({
+        id: 'homepage.hero.tagline',
+        message: 'A comprehensive skill reference for the age of AI-driven development',
+      })}
+      description={translate({
+        id: 'homepage.metaDescription',
+        message:
+          'An open, curated landscape and timeline of the concepts, tools, and platforms behind modern software development, DevOps, and AI-driven DX.',
+      })}>
       <HomepageHeader />
       <main>
         <HomepageMotivation />

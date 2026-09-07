@@ -103,6 +103,19 @@ The description string should be quoted from the linked site as much as possible
 The description string should start with "A" or "The", and must omit the trailing period.
 Don't repeat the item name in the description string.
 
+A skill item may carry a leading monetization marker emoji, placed immediately after the
+list marker and before the link (`- 🔒 [n8n](https://n8n.io/) - ...`):
+
+- 🔒 — open-source or source-available, but most of the value is gated behind a paid tier
+  (e.g. n8n, Odoo, Metabase, Mattermost, OpenProject)
+- 💲 — proprietary commercial product or SaaS with no meaningful free use
+- 🪙 — freemium: genuinely usable for free, with paid tiers or otherwise peripheral monetization
+
+Items with no marker are either not products (concepts, standards) or are free/open-source
+tools without a significant paywall. Markers are mirrored verbatim into the `i18n/ja`
+translations. The build tooling ignores item lines, so markers do not affect the mindmap,
+dependency graph, or `data/` scripts; the PDF renders them via the Noto Emoji font fallback.
+
 Make sure the markdown code meets the following markdownlint rules (there is no linter config in
 this repo enforcing them in CI — follow them by convention):
 

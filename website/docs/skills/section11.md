@@ -157,6 +157,7 @@
   - [Native WebP for Go](https://github.com/HugoSmits86/nativewebp) - A native WebP encoder written entirely in Go, with no dependencies on libwebp or other external libraries
   - [Pillow](https://python-pillow.github.io/) - The friendly PIL (Python Imaging Library) fork that adds image processing capabilities to your Python interpreter
   - [RMagick](https://rmagick.github.io/) - A binding from Ruby to the ImageMagick image manipulation library
+  - [MiniMagick](https://github.com/minimagick/minimagick) - A ruby wrapper for ImageMagick command line
   - [pure_jpeg](https://github.com/peterc/pure_jpeg) - A pure Ruby JPEG encoder and decoder library with no native dependencies
 
 ### Compression & Archiving
@@ -203,6 +204,7 @@
   - [pdfcpu](https://pdfcpu.io/) - A PDF processor written in Go
   - [MinerU](https://mineru.net/) - A high-quality tool for convert PDF to Markdown and JSON
   - [Nano-PDF](https://github.com/gavrielc/Nano-PDF) - A command-line tool that enables users to edit PDF slides using natural language instructions, powered by AI vision models, with multi-page parallel editing and non-destructive text-layer preservation through OCR
+  - [sghtmltopdf](https://github.com/waka/sghtmltopdf) - An HTML-to-PDF renderer like wkhtmltopdf written in Rust that does not depend on Chromium, WebKit, or Gecko
 - Libraries
   - [Folio](https://github.com/carlos7ags/folio) - A modern PDF library for Go that includes a layout engine, HTML-to-PDF conversion, support for forms, digital signatures, barcodes, and PDF/A compliance
   - [Poppler](https://poppler.freedesktop.org/) - A PDF rendering library based on the xpdf-3.0 code base
@@ -311,7 +313,7 @@
 
 - Windows Environment
   - Package Management & Administration
-    - [Chocolatey](https://chocolatey.org) - The package manager for Windows
+    - 🔒 [Chocolatey](https://chocolatey.org) - The package manager for Windows
     - [Scoop](https://scoop.sh/) - A command-line installer for Windows
     - [WinGet](https://learn.microsoft.com/en-us/windows/package-manager/winget/) - A command line tool enabling users to discover, install, upgrade, remove and configure applications on Windows
     - [gsudo](https://gerardog.github.io/gsudo/) - A Sudo for Windows, with a similar user-experience to the original Sudo
@@ -406,9 +408,9 @@
     - [Pure python QR Code generator](https://github.com/lincolnloop/python-qrcode) - A library that provides a simple way to create QR codes in Python
     - [QR code payment](https://en.wikipedia.org/wiki/QR_code_payment) - A contactless payment method where a payment is performed by scanning a QR code from a mobile app
 - Backend-as-a-Service (BaaS)
-  - [Firebase](https://firebase.google.com/) - An app development platform that helps you build and grow apps and games users love
+  - 🪙 [Firebase](https://firebase.google.com/) - An app development platform that helps you build and grow apps and games users love
   - [Supabase](https://supabase.com/) - A Postgres development platform that provides a database, authentication, instant APIs, edge functions, real-time subscriptions, storage, and vector embeddings
-  - [AWS Amplify](https://aws.amazon.com/amplify/) - A complete solution that lets frontend web and mobile developers easily build, ship, and host full-stack applications on AWS
+  - 🪙 [AWS Amplify](https://aws.amazon.com/amplify/) - A complete solution that lets frontend web and mobile developers easily build, ship, and host full-stack applications on AWS
 
 ## Internet of Things (IoT)
 
@@ -449,24 +451,24 @@
 - [BeagleBone](https://www.beagleboard.org/boards/beaglebone-black) - A low-cost, community-supported development platform featuring a 1GHz ARM Cortex-A8 processor that boots Linux in under 10 seconds
 - [STM32](https://www.st.com/en/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus.html) - A family of 32-bit microcontrollers based on Arm Cortex-M processors designed to offer high performance, real-time capabilities, and low-power operation
 - [Nordic nRF52](https://www.nordicsemi.com/Products/nRF52840) - A family of Bluetooth Low Energy System-on-Chips built around 64 MHz ARM Cortex-M4 processors that support multiprotocol wireless connectivity
-- [Particle](https://www.particle.io/) - An integrated IoT platform-as-a-service that provides edge-to-cloud infrastructure for developing, connecting, and managing intelligent devices
+- 🪙 [Particle](https://www.particle.io/) - An integrated IoT platform-as-a-service that provides edge-to-cloud infrastructure for developing, connecting, and managing intelligent devices
 - [BBC micro:bit](https://microbit.org/) - A pocket-sized programmable computer designed to inspire children to create their best digital future through hands-on coding and creative technology projects
 - [Teensy](https://www.pjrc.com/teensy/) - A compact USB-based microcontroller development board compatible with Arduino software and capable of implementing many project types
 - [Adafruit Feather](https://www.adafruit.com/category/943) - A family of compact, portable microcontroller boards designed as a standard for embedded projects with built-in battery connectors and modular expansion capabilities
 
 ### IoT Cloud Platforms
 
-- [Azure IoT Hub](https://azure.microsoft.com/en-us/products/iot-hub) - A managed cloud-based service that serves as a central message hub for communication between an IoT application and its connected devices
-- [AWS IoT Core](https://aws.amazon.com/iot-core/) - A managed cloud service that enables you to easily and securely connect devices to the cloud and manage device fleets at scale
+- 💲 [Azure IoT Hub](https://azure.microsoft.com/en-us/products/iot-hub) - A managed cloud-based service that serves as a central message hub for communication between an IoT application and its connected devices
+- 💲 [AWS IoT Core](https://aws.amazon.com/iot-core/) - A managed cloud service that enables you to easily and securely connect devices to the cloud and manage device fleets at scale
 - [AWS IoT Greengrass](https://aws.amazon.com/greengrass/) - An open-source edge runtime and cloud service for building, deploying, and managing device software
-- [ThingWorx](https://www.ptc.com/en/products/thingworx/) - A comprehensive industrial IoT application development platform designed to help organizations connect devices, analyze data, and deliver real-time insights through customizable applications
-- [Balena](https://balena.io/) - A container-based IoT device management platform that enables developers to build, deploy, manage, and scale fleets of Linux devices with secure OTA updates and remote access
-- [Arduino Cloud](https://cloud.arduino.cc/) - An all-in-one IoT platform that enables users to build, control, and monitor connected projects from anywhere with dashboards and remote access
-- [ThingSpeak](https://thingspeak.mathworks.com/) - An IoT analytics platform service that allows you to aggregate, visualize, and analyze live data streams in the cloud with MATLAB integration
-- [Losant](https://www.losant.com/) - An enterprise IoT platform that enables organizations to build scalable connected solutions by collecting, integrating, and visualizing data from devices and systems in real-time
-- [Adafruit IO](https://io.adafruit.com/) - The easiest way to get your projects onto the Internet of Things, serving as a platform for web-based microcontroller interaction and datalogging
-- [ThingsBoard](https://thingsboard.io/) - An open-source IoT platform for data collection, processing, visualization, and device management that enables device connectivity via industry standard protocols
-- [Ubidots](https://ubidots.com/) - A cloud-based Industrial IoT platform that enables businesses to connect, monitor, visualize, and act on sensor data in real-time through customizable dashboards and automated workflows
+- 💲 [ThingWorx](https://www.ptc.com/en/products/thingworx/) - A comprehensive industrial IoT application development platform designed to help organizations connect devices, analyze data, and deliver real-time insights through customizable applications
+- 🪙 [Balena](https://balena.io/) - A container-based IoT device management platform that enables developers to build, deploy, manage, and scale fleets of Linux devices with secure OTA updates and remote access
+- 🪙 [Arduino Cloud](https://cloud.arduino.cc/) - An all-in-one IoT platform that enables users to build, control, and monitor connected projects from anywhere with dashboards and remote access
+- 🪙 [ThingSpeak](https://thingspeak.mathworks.com/) - An IoT analytics platform service that allows you to aggregate, visualize, and analyze live data streams in the cloud with MATLAB integration
+- 💲 [Losant](https://www.losant.com/) - An enterprise IoT platform that enables organizations to build scalable connected solutions by collecting, integrating, and visualizing data from devices and systems in real-time
+- 🪙 [Adafruit IO](https://io.adafruit.com/) - The easiest way to get your projects onto the Internet of Things, serving as a platform for web-based microcontroller interaction and datalogging
+- 🔒 [ThingsBoard](https://thingsboard.io/) - An open-source IoT platform for data collection, processing, visualization, and device management that enables device connectivity via industry standard protocols
+- 💲 [Ubidots](https://ubidots.com/) - A cloud-based Industrial IoT platform that enables businesses to connect, monitor, visualize, and act on sensor data in real-time through customizable dashboards and automated workflows
 
 ## Low-Code & No-Code Development
 
@@ -478,18 +480,18 @@
 
 ### Business Application Platforms
 
-- [Microsoft Power Apps](https://www.microsoft.com/en-us/power-platform/products/power-apps) - A platform to rapidly and efficiently build professional-grade apps for any device
-- [AppSheet](https://about.appsheet.com/home/) - The no-code platform that helps build powerful applications and automations to boost productivity
-- [OutSystems](https://www.outsystems.com/) - A high-performance low-code platform that accelerates the development of critical enterprise applications
+- 💲 [Microsoft Power Apps](https://www.microsoft.com/en-us/power-platform/products/power-apps) - A platform to rapidly and efficiently build professional-grade apps for any device
+- 💲 [AppSheet](https://about.appsheet.com/home/) - The no-code platform that helps build powerful applications and automations to boost productivity
+- 💲 [OutSystems](https://www.outsystems.com/) - A high-performance low-code platform that accelerates the development of critical enterprise applications
 
 ### Workflow & Integration Automation
 
-- [n8n](https://n8n.io/) - A fair-code licensed workflow automation tool that combines AI capabilities with business process automation
-- [Microsoft Power Automate](https://www.microsoft.com/en-us/power-platform/products/power-automate) - An end-to-end automation solution built for enterprise to optimize business processes
-- [Zapier](https://zapier.com/) - A tool that allows you to connect your apps and automate workflows without any coding knowledge
-- [Microsoft Copilot Studio](https://copilotstudio.microsoft.com/) - A graphical low-code tool for creating and maintaining copilots using generative AI and a library of prebuilt connectors and actions
+- 🔒 [n8n](https://n8n.io/) - A fair-code licensed workflow automation tool that combines AI capabilities with business process automation
+- 💲 [Microsoft Power Automate](https://www.microsoft.com/en-us/power-platform/products/power-automate) - An end-to-end automation solution built for enterprise to optimize business processes
+- 🪙 [Zapier](https://zapier.com/) - A tool that allows you to connect your apps and automate workflows without any coding knowledge
+- 💲 [Microsoft Copilot Studio](https://copilotstudio.microsoft.com/) - A graphical low-code tool for creating and maintaining copilots using generative AI and a library of prebuilt connectors and actions
 
 ### Web Content & Portal Builders
 
-- [Microsoft Power Pages](https://www.microsoft.com/en-us/power-platform/products/power-pages) - A platform to quickly create enterprise-grade AI-driven business portals with built-in agents
-- [Webflow](https://webflow.com/) - A browser-based design tool that gives you the power to build production-ready websites without coding
+- 💲 [Microsoft Power Pages](https://www.microsoft.com/en-us/power-platform/products/power-pages) - A platform to quickly create enterprise-grade AI-driven business portals with built-in agents
+- 🪙 [Webflow](https://webflow.com/) - A browser-based design tool that gives you the power to build production-ready websites without coding

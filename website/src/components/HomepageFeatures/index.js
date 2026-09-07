@@ -1,5 +1,6 @@
 import clsx from 'clsx';
 import Heading from '@theme/Heading';
+import Translate from '@docusaurus/Translate';
 import useBaseUrl from '@docusaurus/useBaseUrl';
 import styles from './styles.module.css';
 
@@ -22,45 +23,85 @@ function Feature({Svg, title, description}) {
 export default function HomepageFeatures() {
   const FeatureList = [
     {
-      title: 'Skills Collection',
+      title: <Translate id="homepage.features.skills.title">Skills Collection</Translate>,
       Svg: require('@site/static/img/skills.svg').default,
       description: (
-        <>
-          A <a href={useBaseUrl('/docs/category/skills')}>curated collection of concepts, techniques, tools, and platforms across 12 categories</a>,
-          ranging from software development and cloud to AI, security, and data engineering.
-        </>
+        <Translate
+          id="homepage.features.skills.description"
+          values={{
+            link: (
+              <a href={useBaseUrl('/docs/category/skills')}>
+                <Translate id="homepage.features.skills.description.linkText">
+                  curated collection of concepts, techniques, tools, and platforms across 12 categories
+                </Translate>
+              </a>
+            ),
+          }}>
+          {'A {link}, ranging from software development and cloud to AI, security, and data engineering.'}
+        </Translate>
       ),
     },
     {
-      title: 'Timeline',
+      title: <Translate id="homepage.features.timeline.title">Timeline</Translate>,
       Svg: require('@site/static/img/timeline.svg').default,
       description: (
-        <>
-          <a href={useBaseUrl('/docs/category/timelines')}>Major historical events</a> related to the curated skill items, arranged chronologically
-          from the 1930s to the present, with descriptions sourced from Wikipedia.
-        </>
+        <Translate
+          id="homepage.features.timeline.description"
+          values={{
+            link: (
+              <a href={useBaseUrl('/docs/category/timelines')}>
+                <Translate id="homepage.features.timeline.description.linkText">
+                  Major historical events
+                </Translate>
+              </a>
+            ),
+          }}>
+          {'{link} related to the curated skill items, arranged chronologically from the 1930s to the present, with descriptions sourced from Wikipedia.'}
+        </Translate>
       ),
     },
     {
-      title: 'Mind Map & Graph Map',
+      title: <Translate id="homepage.features.maps.title">Mind Map & Graph Map</Translate>,
       Svg: require('@site/static/img/mindmap.svg').default,
       description: (
-        <>
-          Interactive <a href={useBaseUrl('/usr/docs/map.html')}>mind maps</a> (markmap)
-          and force-directed <a href={useBaseUrl('/usr/docs/graphmap.pdf')}>graph maps</a> (Graphviz sfdp) to visualize skill relationships,
-          both generated dynamically from the Markdown sources.
-        </>
+        <Translate
+          id="homepage.features.maps.description"
+          values={{
+            mindmap: (
+              <a href={useBaseUrl('/usr/docs/map.html')}>
+                <Translate id="homepage.features.maps.description.mindmapText">mind maps</Translate>
+              </a>
+            ),
+            graphmap: (
+              <a href={useBaseUrl('/usr/docs/graphmap.pdf')}>
+                <Translate id="homepage.features.maps.description.graphmapText">graph maps</Translate>
+              </a>
+            ),
+          }}>
+          {'Interactive {mindmap} (markmap) and force-directed {graphmap} (Graphviz sfdp) to visualize skill relationships, both generated dynamically from the Markdown sources.'}
+        </Translate>
       ),
     },
     {
-      title: 'PDF Edition',
+      title: <Translate id="homepage.features.pdf.title">PDF Edition</Translate>,
       Svg: require('@site/static/img/pdf-document.svg').default,
       description: (
-        <>
-          A comprehensive, <a href={useBaseUrl('/usr/docs/index.pdf')}>single PDF document</a> containing all site contents
-          (also available in a <a href={useBaseUrl('/usr/docs/index-jp.pdf')}>Japanese edition</a>),
-          compiled from the Markdown sources using Pandoc and Asciidoctor PDF.
-        </>
+        <Translate
+          id="homepage.features.pdf.description"
+          values={{
+            pdf: (
+              <a href={useBaseUrl('/usr/docs/index.pdf')}>
+                <Translate id="homepage.features.pdf.description.pdfText">single PDF document</Translate>
+              </a>
+            ),
+            pdfJa: (
+              <a href={useBaseUrl('/usr/docs/index-jp.pdf')}>
+                <Translate id="homepage.features.pdf.description.pdfJaText">Japanese edition</Translate>
+              </a>
+            ),
+          }}>
+          {'A comprehensive, {pdf} containing all site contents (also available in a {pdfJa}), compiled from the Markdown sources using Pandoc and Asciidoctor PDF.'}
+        </Translate>
       ),
     },
   ];

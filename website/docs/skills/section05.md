@@ -368,6 +368,7 @@
   - [SQLite](https://www.sqlite.org/index.html) - A C-language library that implements a small, fast, self-contained, high-reliability, and full-featured database engine
   - [PGlite](https://pglite.dev/) - A WASM build packaged into a TypeScript/JavaScript client library, that enables you to run the database in the browser, Node.js and Bun
   - [DuckDB](https://duckdb.org/) - An in-process SQL OLAP database management system
+  - [H2 Database Engine](https://www.h2database.com/html/main.html) - A very fast, open source Java SQL database offering embedded and server modes, in-memory databases, and a small footprint of around 2.5 MB jar file size
 - Storage Engines
   - [Storage Engine](https://en.wikipedia.org/wiki/Storage_engine) - A software component that a database management system uses to create, read, update and delete (CRUD) data from a database
   - [InnoDB](https://dev.mysql.com/doc/refman/8.0/en/innodb-storage-engine.html) - A transactional storage engine for MySQL and MariaDB
