@@ -10,29 +10,29 @@
 
 ### コンピューティング & ストレージ (IaaS)
 
-- [Amazon EC2](https://aws.amazon.com/ec2/) - クラウド上で安全かつサイズ変更可能なコンピューティングキャパシティを提供するウェブサービスです
-- [Amazon EBS](https://aws.amazon.com/ebs/) - Amazon Elastic Compute Cloud との併用を想定して設計された、使いやすく高性能なブロックストレージサービスです
-- [Azure Virtual Machines](https://azure.microsoft.com/en-us/services/virtual-machines/) - Windows および Linux の仮想マシンを数秒でプロビジョニングできるサービスです
-- [Azure Disk Storage](https://azure.microsoft.com/en-us/services/storage/disks/) - Azure Virtual Machines 向けの高性能で耐久性のあるブロックストレージです
-- [Google Cloud Compute Engine](https://cloud.google.com/products/compute) - Google のインフラストラクチャ上で仮想マシンを作成・実行できるカスタマイズ可能なコンピューティングサービスです
+- 💲 [Amazon EC2](https://aws.amazon.com/ec2/) - クラウド上で安全かつサイズ変更可能なコンピューティングキャパシティを提供するウェブサービスです
+- 💲 [Amazon EBS](https://aws.amazon.com/ebs/) - Amazon Elastic Compute Cloud との併用を想定して設計された、使いやすく高性能なブロックストレージサービスです
+- 💲 [Azure Virtual Machines](https://azure.microsoft.com/en-us/services/virtual-machines/) - Windows および Linux の仮想マシンを数秒でプロビジョニングできるサービスです
+- 💲 [Azure Disk Storage](https://azure.microsoft.com/en-us/services/storage/disks/) - Azure Virtual Machines 向けの高性能で耐久性のあるブロックストレージです
+- 💲 [Google Cloud Compute Engine](https://cloud.google.com/products/compute) - Google のインフラストラクチャ上で仮想マシンを作成・実行できるカスタマイズ可能なコンピューティングサービスです
 
 ### ネットワーキング
 
-- [Amazon VPC](https://aws.amazon.com/vpc/) - 自分で定義した論理的に分離された仮想ネットワーク内で AWS リソースを起動できるサービスです
-- [Amazon ELB](https://aws.amazon.com/elasticloadbalancing/) - 受信するアプリケーショントラフィックを、Amazon EC2 インスタンス、コンテナ、IP アドレス、Lambda 関数などの複数のターゲットに自動的に分散するサービスです
-- [Azure Virtual Network](https://azure.microsoft.com/en-us/services/virtual-network/) - 高パフォーマンスなネットワーキングを利用できる、Azure 上のプライベートネットワークの基本的な構成要素です
-- [Azure Load Balancer](https://azure.microsoft.com/en-us/products/load-balancer) - バックエンドの仮想マシンにトラフィックを分散できるサービスです
-- [Azure Application Gateway](https://azure.microsoft.com/en-us/products/application-gateway) - プラットフォームが管理する、スケーラブルで高可用性なサービス型アプリケーションデリバリーコントローラーです
-- [Google Cloud VPC](https://cloud.google.com/vpc/docs/vpc) - Andromeda を使用して Google の本番ネットワーク内に実装された、物理ネットワークの仮想版です
-- [Cloud Load Balancing](https://cloud.google.com/load-balancing/docs/load-balancing-overview) - あらゆるトラフィックに対応する、完全分散型でソフトウェア定義のマネージドサービスです
+- 💲 [Amazon VPC](https://aws.amazon.com/vpc/) - 自分で定義した論理的に分離された仮想ネットワーク内で AWS リソースを起動できるサービスです
+- 💲 [Amazon ELB](https://aws.amazon.com/elasticloadbalancing/) - 受信するアプリケーショントラフィックを、Amazon EC2 インスタンス、コンテナ、IP アドレス、Lambda 関数などの複数のターゲットに自動的に分散するサービスです
+- 💲 [Azure Virtual Network](https://azure.microsoft.com/en-us/services/virtual-network/) - 高パフォーマンスなネットワーキングを利用できる、Azure 上のプライベートネットワークの基本的な構成要素です
+- 💲 [Azure Load Balancer](https://azure.microsoft.com/en-us/products/load-balancer) - バックエンドの仮想マシンにトラフィックを分散できるサービスです
+- 💲 [Azure Application Gateway](https://azure.microsoft.com/en-us/products/application-gateway) - プラットフォームが管理する、スケーラブルで高可用性なサービス型アプリケーションデリバリーコントローラーです
+- 💲 [Google Cloud VPC](https://cloud.google.com/vpc/docs/vpc) - Andromeda を使用して Google の本番ネットワーク内に実装された、物理ネットワークの仮想版です
+- 💲 [Cloud Load Balancing](https://cloud.google.com/load-balancing/docs/load-balancing-overview) - あらゆるトラフィックに対応する、完全分散型でソフトウェア定義のマネージドサービスです
 
 ### アプリケーションホスティングプラットフォーム (PaaS)
 
-- [Azure App Service](https://azure.microsoft.com/en-us/services/app-service/) - ウェブアプリケーション、REST API、モバイルバックエンドをホストするための HTTP ベースのサービスです
-- [AWS Elastic Beanstalk](https://aws.amazon.com/elasticbeanstalk/) - ウェブアプリケーションやサービスのデプロイとスケーリングを簡単に行えるサービスです
-- [Google Cloud App Engine](https://cloud.google.com/appengine/) - ウェブアプリケーションを大規模に開発・ホストするためのフルマネージドなサーバーレスプラットフォームです
-- [Vercel](https://vercel.com/) - ウェブの構築、デプロイ、スケーリングのための開発者体験とインフラストラクチャを提供するフロントエンドクラウドプラットフォームです
-- [Netlify](https://www.netlify.com/) - 企業やチームがグローバルなエッジネットワーク上でモダンなウェブ体験を構築、デプロイ、スケールできるようにするコンポーザブルなウェブプラットフォームです
+- 🪙 [Azure App Service](https://azure.microsoft.com/en-us/services/app-service/) - ウェブアプリケーション、REST API、モバイルバックエンドをホストするための HTTP ベースのサービスです
+- 💲 [AWS Elastic Beanstalk](https://aws.amazon.com/elasticbeanstalk/) - ウェブアプリケーションやサービスのデプロイとスケーリングを簡単に行えるサービスです
+- 🪙 [Google Cloud App Engine](https://cloud.google.com/appengine/) - ウェブアプリケーションを大規模に開発・ホストするためのフルマネージドなサーバーレスプラットフォームです
+- 🪙 [Vercel](https://vercel.com/) - ウェブの構築、デプロイ、スケーリングのための開発者体験とインフラストラクチャを提供するフロントエンドクラウドプラットフォームです
+- 🪙 [Netlify](https://www.netlify.com/) - 企業やチームがグローバルなエッジネットワーク上でモダンなウェブ体験を構築、デプロイ、スケールできるようにするコンポーザブルなウェブプラットフォームです
 - [Coolify](https://coolify.io/) - Vercel、Heroku、Netlify、Railway に代わる、オープンソース & セルフホスト可能な代替手段です
 
 ### クラウドコマンドラインインターフェース
@@ -46,7 +46,7 @@
 
 ### クラウドエミュレーター
 
-- [LocalStack](https://www.localstack.cloud/) - オフラインでクラウドおよびサーバーレスアプリを開発・テストできる、完全に機能するローカルクラウドスタックです
+- 🔒 [LocalStack](https://www.localstack.cloud/) - オフラインでクラウドおよびサーバーレスアプリを開発・テストできる、完全に機能するローカルクラウドスタックです
 
 ### プライベートクラウド & オンプレミス IaaS
 
@@ -69,24 +69,24 @@
 
 ### Infrastructure as Code (IaC)
 
-- [Hashicorp Terraform](https://www.terraform.io/) - インフラストラクチャを安全かつ効率的に構築、変更、バージョン管理できる Infrastructure as Code ツールです
+- 🔒 [Hashicorp Terraform](https://www.terraform.io/) - インフラストラクチャを安全かつ効率的に構築、変更、バージョン管理できる Infrastructure as Code ツールです
 - [OpenTofu](https://opentofu.org/) - インフラストラクチャの構築と管理のための安定したドロップイン代替を提供する、オープンソースでコミュニティ主導の Terraform フォークです
-- [Pulumi](https://www.pulumi.com/) - 使い慣れたプログラミング言語とツールを使ってクラウドインフラストラクチャを構築、デプロイ、管理できる Infrastructure as Code プラットフォームです
+- 🔒 [Pulumi](https://www.pulumi.com/) - 使い慣れたプログラミング言語とツールを使ってクラウドインフラストラクチャを構築、デプロイ、管理できる Infrastructure as Code プラットフォームです
 
 ### AI 駆動インフラ
 
-- [Spacelift Intent](https://spacelift.io/platform/intent) - 自然言語を使ってクラウドインフラストラクチャをプロビジョニング・管理できる AI 搭載ツールです
+- 💲 [Spacelift Intent](https://spacelift.io/platform/intent) - 自然言語を使ってクラウドインフラストラクチャをプロビジョニング・管理できる AI 搭載ツールです
 
 ### 構成管理 & 自動化
 
 - [Ansible](https://www.ansible.com/) - プロビジョニング、構成管理、アプリケーションデプロイ、オーケストレーションなど、多くの IT プロセスを自動化するオープンソースの IT 自動化エンジンです
 - [SaltStack](https://saltproject.io/) - イベント駆動の IT 自動化、リモートタスク実行、構成管理のための Python ベースのオープンソースソフトウェアです
-- [Rudder](https://www.rudder.io/) - IT インフラストラクチャの自動化のための、オープンソースの継続的な構成・コンプライアンスプラットフォームです
+- 🔒 [Rudder](https://www.rudder.io/) - IT インフラストラクチャの自動化のための、オープンソースの継続的な構成・コンプライアンスプラットフォームです
 - [cloud-init](https://cloud-init.io/) - クラウドインスタンスをカスタマイズするための標準規格です
 
 ### イメージビルド
 
-- [Hashicorp Packer](https://packer.io/) - 単一のソース構成から複数のプラットフォーム向けに同一のマシンイメージを作成するツールです
+- 🔒 [Hashicorp Packer](https://packer.io/) - 単一のソース構成から複数のプラットフォーム向けに同一のマシンイメージを作成するツールです
 
 ### エコシステム & ベンダーツール
 
@@ -95,7 +95,7 @@
   - [Terragrunt](https://terragrunt.gruntwork.io/) - 構成を DRY に保ち、複数の Terraform モジュールを扱い、リモートステートを管理するための追加ツールを提供するシンラッパーです
   - [TerraTest](https://terratest.gruntwork.io/) - インフラストラクチャのテストのためのパターンとヘルパー関数を提供する Go ライブラリです
   - [Atmos](https://atmos.tools/) - ワークフローをオーケストレーションし、インフラストラクチャの管理を簡素化する、DevOps とクラウドエンジニアリングのためのユニバーサルツールです
-  - [GitLab-managed Terraform/OpenTofu state](https://docs.gitlab.com/ee/user/infrastructure/iac/terraform_state.html) - Terraform のステートファイルを GitLab に保存できる機能です
+  - 🪙 [GitLab-managed Terraform/OpenTofu state](https://docs.gitlab.com/ee/user/infrastructure/iac/terraform_state.html) - Terraform のステートファイルを GitLab に保存できる機能です
   - [tf.libsonnet](https://docs.tflibsonnet.com/) - Terraform コードを生成するための Jsonnet ライブラリのコレクションです
   - [terraform-docs](https://terraform-docs.io/) - さまざまな出力フォーマットで Terraform モジュールからドキュメントを生成するユーティリティです
   - [Terraformer](https://github.com/GoogleCloudPlatform/terraformer) - 既存のインフラストラクチャから Terraform ファイルを生成する CLI ツールです
@@ -161,11 +161,11 @@
   - [dive](https://github.com/wagoodman/dive) - Docker イメージとレイヤーの内容を調べ、Docker/OCI イメージのサイズを縮小する方法を見つけるためのツールです
   - [regclient](https://github.com/regclient/regclient) - マルチプラットフォームイメージやミラーリングなどの高度な機能をサポートする、OCI レジストリとイメージの管理・検査のためのコマンドラインツール群 (regctl、regsync、regbot) です
 - コンテナレジストリ
-  - [GitLab Container Registry](https://docs.gitlab.com/ee/user/packages/container_registry/index.html) - Docker イメージのための安全なプライベートレジストリです
+  - 🪙 [GitLab Container Registry](https://docs.gitlab.com/ee/user/packages/container_registry/index.html) - Docker イメージのための安全なプライベートレジストリです
   - [Project Quay](https://www.projectquay.io/) - コンテナの構築、整理、配布、デプロイのために設計された、オープンソースのコンテナネイティブなイメージレジストリです
-  - [Docker Hub](https://docs.docker.com/docker-hub/) - 開発者やチームが Docker コンテナイメージを保存、共有、配布できるクラウドベースのレジストリサービスです
-  - [Amazon ECR](https://aws.amazon.com/ecr/) - コンテナイメージとアーティファクトの保存、管理、共有、デプロイを簡単に行えるフルマネージドのコンテナレジストリです
-  - [Azure Container Registry](https://azure.microsoft.com/en-us/services/container-registry/) - コンテナイメージと関連アーティファクトを管理するためのプライベートレジストリです
+  - 🪙 [Docker Hub](https://docs.docker.com/docker-hub/) - 開発者やチームが Docker コンテナイメージを保存、共有、配布できるクラウドベースのレジストリサービスです
+  - 💲 [Amazon ECR](https://aws.amazon.com/ecr/) - コンテナイメージとアーティファクトの保存、管理、共有、デプロイを簡単に行えるフルマネージドのコンテナレジストリです
+  - 💲 [Azure Container Registry](https://azure.microsoft.com/en-us/services/container-registry/) - コンテナイメージと関連アーティファクトを管理するためのプライベートレジストリです
   - [Harbor](https://goharbor.io/) - ポリシーとロールベースのアクセス制御でアーティファクトを保護する、オープンソースのレジストリです
 
 ### 環境 & 管理
@@ -176,7 +176,7 @@
   - [Docker Compose](https://docs.docker.com/compose/) - マルチコンテナの Docker アプリケーションを定義・実行するためのツールです
 - 開発環境プロビジョニング
   - [devcontainers CLI](https://github.com/devcontainers/cli) - devcontainer.json から開発コンテナを作成・設定できる仕様のリファレンス実装で、さまざまなインフラストラクチャにわたって開発コンテナの構築、実行、管理を行うためのコマンドを提供します
-  - [DevPod](https://devpod.sh/) - オープン標準の devcontainer.json フォーマットを使って dev-environments-as-code を実現するクライアントのみのツールで、ローカルマシン、Kubernetes クラスター、クラウドプロバイダーなど、あらゆるインフラストラクチャをサポートします
+  - 🔒 [DevPod](https://devpod.sh/) - オープン標準の devcontainer.json フォーマットを使って dev-environments-as-code を実現するクライアントのみのツールで、ローカルマシン、Kubernetes クラスター、クラウドプロバイダーなど、あらゆるインフラストラクチャをサポートします
 - ローカル環境プロビジョナー (Mac 向け)
   - [Colima](https://github.com/abiosoft/colima) - 最小限のセットアップで macOS (および Linux) 上にコンテナランタイムを提供するツールです
   - [Lima](https://lima-vm.io/) - 自動的なファイル共有とポートフォワーディングを備えた Linux 仮想マシンを起動するツールです
@@ -268,7 +268,7 @@
     - [kube-prometheus](https://github.com/prometheus-operator/kube-prometheus) - エンドツーエンドの Kubernetes クラスター監視を簡単に運用できるようにする、Kubernetes マニフェスト、Grafana ダッシュボード、Prometheus ルールとドキュメントおよびスクリプトを組み合わせたコレクションです
   - [Grafana Operator](https://grafana.github.io/grafana-operator/) - Kubernetes と OpenShift 環境においてカスタムリソースを通じて Grafana インスタンス、ダッシュボード、データソースの管理を効率化する Kubernetes オペレーターです
   - [OpenTelemetry Operator](https://opentelemetry.io/docs/kubernetes/operator/) - OpenTelemetry のための Kubernetes Operator の実装です
-  - [Elastic Cloud on Kubernetes (ECK)](https://www.elastic.co/elastic-cloud-kubernetes) - Kubernetes 上で Elastic Stack を運用するための公式オペレーターです
+  - 🔒 [Elastic Cloud on Kubernetes (ECK)](https://www.elastic.co/elastic-cloud-kubernetes) - Kubernetes 上で Elastic Stack を運用するための公式オペレーターです
   - [Rook](https://rook.io/) - Kubernetes 向けのオープンソースのクラウドネイティブストレージオーケストレーターです
 - ダッシュボード
   - [k9s](https://k9scli.io/) - Kubernetes クラスターを操作するためのターミナルベースの UI です
@@ -325,21 +325,21 @@
 ### Container as a Service (CaaS)
 
 - マネージド Kubernetes
-  - [Google Kubernetes Engine (GKE)](https://cloud.google.com/kubernetes-engine) - コンテナ化されたアプリケーションを実行するための、マネージドで本番運用対応の環境です
-  - [Amazon Elastic Kubernetes Service](https://aws.amazon.com/eks/) - AWS およびオンプレミスで Kubernetes を簡単に実行できるようにするマネージドサービスです
-  - [Azure Kubernetes Service (AKS)](https://azure.microsoft.com/en-us/products/kubernetes-service/) - コンテナ化されたアプリケーションのデプロイと管理のための、フルマネージドの Kubernetes サービスです
+  - 💲 [Google Kubernetes Engine (GKE)](https://cloud.google.com/kubernetes-engine) - コンテナ化されたアプリケーションを実行するための、マネージドで本番運用対応の環境です
+  - 💲 [Amazon Elastic Kubernetes Service](https://aws.amazon.com/eks/) - AWS およびオンプレミスで Kubernetes を簡単に実行できるようにするマネージドサービスです
+  - 💲 [Azure Kubernetes Service (AKS)](https://azure.microsoft.com/en-us/products/kubernetes-service/) - コンテナ化されたアプリケーションのデプロイと管理のための、フルマネージドの Kubernetes サービスです
 - シンプルなコンテナホスティング
-  - [Amazon Elastic Container Service](https://aws.amazon.com/ecs/) - コンテナ化されたアプリケーションのデプロイ、管理、スケーリングを容易にする、フルマネージドのコンテナオーケストレーションサービスです
-  - [AWS Fargate](https://aws.amazon.com/fargate/) - ECS と EKS の両方で動作する、コンテナ向けのサーバーレスコンピューティングエンジンです
-  - [AWS App Runner](https://aws.amazon.com/apprunner/) - インフラストラクチャの事前経験がなくても、開発者がコンテナ化されたウェブアプリケーションや API を大規模かつ迅速にデプロイできるようにする、フルマネージドサービスです
-  - [Azure Container Apps](https://azure.microsoft.com/en-us/products/container-apps/) - マイクロサービスとイベント駆動ワークロード向けに KEDA、Dapr、Envoy を統合した、Kubernetes 上に構築されたフルマネージドのサーバーレスコンテナサービスです
-  - [Google Cloud Run](https://cloud.google.com/run) - 自動的にスケールされるコンテナを実行できるマネージドコンピューティングプラットフォームです
+  - 💲 [Amazon Elastic Container Service](https://aws.amazon.com/ecs/) - コンテナ化されたアプリケーションのデプロイ、管理、スケーリングを容易にする、フルマネージドのコンテナオーケストレーションサービスです
+  - 💲 [AWS Fargate](https://aws.amazon.com/fargate/) - ECS と EKS の両方で動作する、コンテナ向けのサーバーレスコンピューティングエンジンです
+  - 💲 [AWS App Runner](https://aws.amazon.com/apprunner/) - インフラストラクチャの事前経験がなくても、開発者がコンテナ化されたウェブアプリケーションや API を大規模かつ迅速にデプロイできるようにする、フルマネージドサービスです
+  - 🪙 [Azure Container Apps](https://azure.microsoft.com/en-us/products/container-apps/) - マイクロサービスとイベント駆動ワークロード向けに KEDA、Dapr、Envoy を統合した、Kubernetes 上に構築されたフルマネージドのサーバーレスコンテナサービスです
+  - 🪙 [Google Cloud Run](https://cloud.google.com/run) - 自動的にスケールされるコンテナを実行できるマネージドコンピューティングプラットフォームです
 
 ### Function as a Service (FaaS)
 
-- [AWS Lambda](https://aws.amazon.com/lambda/) - サーバーのプロビジョニングや管理を行うことなく、事実上あらゆる種類のアプリケーションやバックエンドサービスのコードを実行できる、サーバーレスでイベント駆動型のコンピューティングサービスです
-- [Azure Functions](https://azure.microsoft.com/en-us/services/functions/) - 好みのプログラミング言語を使ってより効率的に開発できるようにする、イベント駆動型のサーバーレスコンピューティングプラットフォームです
-- [Google Cloud Run Functions](https://cloud.google.com/functions) - クラウドサービスの構築と接続のためのサーバーレス実行環境です
+- 🪙 [AWS Lambda](https://aws.amazon.com/lambda/) - サーバーのプロビジョニングや管理を行うことなく、事実上あらゆる種類のアプリケーションやバックエンドサービスのコードを実行できる、サーバーレスでイベント駆動型のコンピューティングサービスです
+- 🪙 [Azure Functions](https://azure.microsoft.com/en-us/services/functions/) - 好みのプログラミング言語を使ってより効率的に開発できるようにする、イベント駆動型のサーバーレスコンピューティングプラットフォームです
+- 🪙 [Google Cloud Run Functions](https://cloud.google.com/functions) - クラウドサービスの構築と接続のためのサーバーレス実行環境です
 
 ### 高度なランタイム & 分離
 
@@ -350,11 +350,11 @@
   - [Microsoft eXecution Container (MXC)](https://github.com/microsoft/mxc) - Windows、Linux、macOS にまたがり、複数の封じ込めバックエンドとポリシー駆動のセキュリティ制御を用いて信頼できないコードを実行する、クロスプラットフォームのサンドボックス化コード実行システムです
   - [Cloud Hypervisor](https://www.cloudhypervisor.org/) - 最小限のハードウェアエミュレーションでモダンなクラウドワークロードの実行に重点を置いた、Rust で実装されたオープンソースの Virtual Machine Monitor (VMM) です
   - [Firecracker](https://firecracker-microvm.github.io/) - セキュアなマルチテナントのコンテナおよびファンクションベースのサービスの作成・管理を目的として設計された、オープンソースの仮想化技術です
-  - [AWS Lambda MicroVMs](https://aws.amazon.com/lambda/lambda-microvms/) - Firecracker 仮想化技術を基盤に、ほぼ瞬時の起動と再開機能を備えた VM レベルの分離を提供する、サーバーレスコンピューティングサービスです
+  - 💲 [AWS Lambda MicroVMs](https://aws.amazon.com/lambda/lambda-microvms/) - Firecracker 仮想化技術を基盤に、ほぼ瞬時の起動と再開機能を備えた VM レベルの分離を提供する、サーバーレスコンピューティングサービスです
   - [QEMU microvm](https://www.qemu.org/docs/master/system/i386/microvm.html) - PCI も ACPI もサポートしないミニマルなマシンタイプで、短命なゲスト向けに設計され、起動時間とフットプリントの両方に最適化されています
   - [Docker Sandboxes](https://github.com/docker/sandboxes-releases) - セキュリティとシステム保護を強化するために、軽量な microVM 内で AI コーディングエージェントを実行するように設計された、隔離された使い捨て環境です
-  - [Daytona](https://www.daytona.io/) - 90 ミリ秒未満の作成時間で、隔離されたサンドボックス環境において AI 生成コードを実行するための、セキュアなインフラストラクチャプラットフォームです
-  - [Modal](https://modal.com/) - エンジニアが数千の隔離されたサンドボックスの中で計算負荷の高いアプリケーションを構築・スケールできるサーバーレスクラウドを提供する、AI インフラストラクチャプラットフォームです
+  - 💲 [Daytona](https://www.daytona.io/) - 90 ミリ秒未満の作成時間で、隔離されたサンドボックス環境において AI 生成コードを実行するための、セキュアなインフラストラクチャプラットフォームです
+  - 🪙 [Modal](https://modal.com/) - エンジニアが数千の隔離されたサンドボックスの中で計算負荷の高いアプリケーションを構築・スケールできるサーバーレスクラウドを提供する、AI インフラストラクチャプラットフォームです
 - 仮想化 & コンテナストレージ
   - [virtiofs](https://virtio-fs.gitlab.io/) - 仮想マシンがホスト上のディレクトリツリーにアクセスできるようにする共有ファイルシステムです
 - イメージサービス & 配布
@@ -372,8 +372,8 @@
   - [Gateway API](https://gateway-api.sigs.k8s.io/) - Kubernetes の Ingress、ロードバランシング、サービスメッシュ API の次世代版です
   - [Istio](https://istio.io/) - 既存の分散アプリケーションに透過的にレイヤーされる、オープンソースのサービスメッシュです
     - [Kiali](https://kiali.io/) - Istio 向けのサービスメッシュオブザーバビリティ・構成ツールです
-  - [Linkerd](https://linkerd.io/) - Kubernetes 向けの超軽量でセキュリティ重視のサービスメッシュです
-  - [Hashicorp Consul](https://www.consul.io/) - あらゆるランタイムプラットフォームおよびパブリック/プライベートクラウドにわたってサービスを接続・保護する、サービスネットワーキングソリューションです
+  - 🔒 [Linkerd](https://linkerd.io/) - Kubernetes 向けの超軽量でセキュリティ重視のサービスメッシュです
+  - 🔒 [Hashicorp Consul](https://www.consul.io/) - あらゆるランタイムプラットフォームおよびパブリック/プライベートクラウドにわたってサービスを接続・保護する、サービスネットワーキングソリューションです
 - エッジプロキシ & Ingress
   - [Envoy Proxy](https://www.envoyproxy.io/) - オープンソースのエッジ・サービスプロキシです
   - [Traefik proxy](https://traefik.io/traefik/) - 主要なモダンオープンソースのリバースプロキシ兼 Ingress コントローラーです
@@ -395,16 +395,16 @@
 ### デリバリー & デプロイメント
 
 - 継続的デリバリーツール
-  - [Harness](https://harness.io/) - AI と自動化を使って CI/CD、GitOps、クラウドコスト管理を効率化する、モダンなソフトウェアデリバリープラットフォームです
+  - 💲 [Harness](https://harness.io/) - AI と自動化を使って CI/CD、GitOps、クラウドコスト管理を効率化する、モダンなソフトウェアデリバリープラットフォームです
   - [Jenkins](https://www.jenkins.io/) - 世界中の開発者がソフトウェアを確実に構築、テスト、デプロイできるようにする、オープンソースの自動化サーバーです
     - [Blue Ocean for Jenkins Pipelines](https://www.jenkins.io/projects/blueocean/) - Jenkins のユーザー体験を再考するプロジェクトです
     - [Python Jenkins](https://opendev.org/jjb/python-jenkins) - Jenkins REST API の Python ラッパーです
     - [JenkinsPipelineUnit](https://github.com/jenkinsci/JenkinsPipelineUnit) - Groovy または Declarative で記述された Jenkins パイプラインをユニットテストするためのテストフレームワークです
-  - [GitLab CI/CD](https://docs.gitlab.com/ee/ci/) - ソースコードのビルド、統合、検証を自動化するために使用できる、GitLab の一部です
-  - [GitHub Actions](https://github.com/features/actions) - あらゆるソフトウェアワークフローを簡単に自動化できるようにする機能です
+  - 🪙 [GitLab CI/CD](https://docs.gitlab.com/ee/ci/) - ソースコードのビルド、統合、検証を自動化するために使用できる、GitLab の一部です
+  - 🪙 [GitHub Actions](https://github.com/features/actions) - あらゆるソフトウェアワークフローを簡単に自動化できるようにする機能です
     - [actionlint](https://github.com/rhysd/actionlint) - GitHub Actions のワークフローファイル向けの静的チェッカーです
     - [act](https://github.com/nektos/act) - GitHub Actions をローカルで実行するためのツールです
-  - [Azure Pipelines](https://learn.microsoft.com/en-us/azure/devops/pipelines/) - コードプロジェクトを自動的にビルド・テストし、他のユーザーが利用できるようにするために使用できるクラウドサービスです
+  - 💲 [Azure Pipelines](https://learn.microsoft.com/en-us/azure/devops/pipelines/) - コードプロジェクトを自動的にビルド・テストし、他のユーザーが利用できるようにするために使用できるクラウドサービスです
 - アプリケーションデプロイ
   - [Kamal](https://kamal-deploy.org/) - どこにでもウェブアプリをデプロイできるツールです
 
@@ -421,11 +421,11 @@
 ### インテグレーション & レジストリ
 
 - プライベートパッケージレジストリ
-  - [JFrog Artifactory](https://jfrog.com/artifactory/) - ソフトウェアアーティファクトとその依存関係を保存、管理、配布できる、ユニバーサルな DevOps リポジトリマネージャーです
-  - [GitLab Package Registry](https://docs.gitlab.com/ee/user/packages/package_registry/index.html) - さまざまなサポート対象パッケージマネージャー向けにパッケージを公開・共有できる機能です
-  - [GitHub Packages](https://github.com/features/packages) - ソフトウェアパッケージをプライベートまたはパブリックにホストできる、ソフトウェアパッケージホスティングサービスです
-  - [Nexus Repository Manager 3](https://help.sonatype.com/repomanager3) - 高度なリポジトリマネージャーです
-  - [Azure Artifacts](https://learn.microsoft.com/en-us/azure/devops/artifacts/) - パブリックおよびプライベートのソースから Maven、npm、NuGet、Python のパッケージフィードを作成・共有できるサービスです
+  - 💲 [JFrog Artifactory](https://jfrog.com/artifactory/) - ソフトウェアアーティファクトとその依存関係を保存、管理、配布できる、ユニバーサルな DevOps リポジトリマネージャーです
+  - 🪙 [GitLab Package Registry](https://docs.gitlab.com/ee/user/packages/package_registry/index.html) - さまざまなサポート対象パッケージマネージャー向けにパッケージを公開・共有できる機能です
+  - 🪙 [GitHub Packages](https://github.com/features/packages) - ソフトウェアパッケージをプライベートまたはパブリックにホストできる、ソフトウェアパッケージホスティングサービスです
+  - 🔒 [Nexus Repository Manager 3](https://help.sonatype.com/repomanager3) - 高度なリポジトリマネージャーです
+  - 💲 [Azure Artifacts](https://learn.microsoft.com/en-us/azure/devops/artifacts/) - パブリックおよびプライベートのソースから Maven、npm、NuGet、Python のパッケージフィードを作成・共有できるサービスです
 
 ## システムオブザーバビリティ
 
@@ -446,19 +446,19 @@
 - モニタリングツール
   - [Uptime Kuma](https://uptime.kuma.pet/) - 使いやすいセルフホスト型のモニタリングツールです
 - マネージドプラットフォーム
-  - [Azure Monitor](https://docs.microsoft.com/en-us/azure/azure-monitor/overview) - クラウドおよびオンプレミス環境からのテレメトリを収集、分析し、それに基づいて対応するための包括的なソリューションです
+  - 💲 [Azure Monitor](https://docs.microsoft.com/en-us/azure/azure-monitor/overview) - クラウドおよびオンプレミス環境からのテレメトリを収集、分析し、それに基づいて対応するための包括的なソリューションです
     - [Kusto Query Language](https://docs.microsoft.com/en-us/azure/data-explorer/kusto/query/) - データを探索してパターンを発見し、異常値や外れ値を特定し、統計モデルを作成するなど、さまざまなことができる強力なツールです
-    - [App Insights](https://docs.microsoft.com/en-us/azure/azure-monitor/app/app-insights-overview) - 開発者と DevOps プロフェッショナル向けの拡張可能な Application Performance Management (APM) サービスである、Azure Monitor の機能です
-  - [AWS CloudWatch](https://aws.amazon.com/cloudwatch/) - DevOps エンジニア、開発者、サイトリライアビリティエンジニア (SRE)、IT マネージャー向けに構築された、モニタリング・オブザーバビリティサービスです
-  - [Datadog](https://www.datadoghq.com/) - モニタリング & セキュリティのための統合プラットフォームです
-  - [Sentry](https://sentry.io/) - 開発者が重要な情報を把握し、問題をより迅速に解決できるよう、エラートラッキングとパフォーマンスモニタリングを提供するアプリケーションモニタリングプラットフォームです
+    - 💲 [App Insights](https://docs.microsoft.com/en-us/azure/azure-monitor/app/app-insights-overview) - 開発者と DevOps プロフェッショナル向けの拡張可能な Application Performance Management (APM) サービスである、Azure Monitor の機能です
+  - 💲 [AWS CloudWatch](https://aws.amazon.com/cloudwatch/) - DevOps エンジニア、開発者、サイトリライアビリティエンジニア (SRE)、IT マネージャー向けに構築された、モニタリング・オブザーバビリティサービスです
+  - 💲 [Datadog](https://www.datadoghq.com/) - モニタリング & セキュリティのための統合プラットフォームです
+  - 🪙 [Sentry](https://sentry.io/) - 開発者が重要な情報を把握し、問題をより迅速に解決できるよう、エラートラッキングとパフォーマンスモニタリングを提供するアプリケーションモニタリングプラットフォームです
 - セルフホスト型 (上級者向け)
-  - [SigNoz](https://signoz.io/) - ログ、メトリクス、トレース、ダッシュボード、アラートなどのための、オープンソースの Datadog または New Relic の代替です
+  - 🔒 [SigNoz](https://signoz.io/) - ログ、メトリクス、トレース、ダッシュボード、アラートなどのための、オープンソースの Datadog または New Relic の代替です
 - 可視化ツール
   - [Grafana](https://grafana.com/oss/grafana/) - オープンソースのデータ可視化・モニタリングソリューションです
     - [Grafonnet](https://grafana.github.io/grafonnet/) - Grafana ダッシュボードを生成するための Jsonnet ライブラリです
     - [gcx](https://github.com/grafana/gcx) - ダッシュボード、アラート、SLO、メトリクス、ログ、トレースといった Grafana リソースへの構造化されたアクセスを提供し、Grafana Cloud、Enterprise、セルフホストの各インスタンスにわたるオブザーバビリティ主導の開発ワークフローのために AI コーディングエージェントと統合する CLI ツールです
-  - [Kibana](https://www.elastic.co/kibana) - Elasticsearch のデータを可視化し、Elastic Stack をナビゲートできる、無料でオープンなユーザーインターフェースです
+  - 🔒 [Kibana](https://www.elastic.co/kibana) - Elasticsearch のデータを可視化し、Elastic Stack をナビゲートできる、無料でオープンなユーザーインターフェースです
 
 ### テレメトリ送信
 
@@ -487,7 +487,7 @@
     - [Awesome Prometheus Alerts](https://samber.github.io/awesome-prometheus-alerts/) - 90 を超えるサービスとエクスポーターにわたる、コピー & ペーストで使える Prometheus アラートルールのコレクションです
   - [Alertmanager](https://prometheus.io/docs/alerting/latest/alertmanager/) - Prometheus サーバーなどのクライアントアプリケーションから送信されるアラートを処理するツールです
     - [amtool](https://github.com/prometheus/alertmanager/tree/main?tab=readme-ov-file#amtool) - Alertmanager API とやり取りするための CLI ツールです
-  - [InfluxDB](https://www.influxdata.com/products/influxdb-overview/) - 高い書き込み・クエリ負荷を扱えるようゼロから構築された時系列データベースです
+  - 🔒 [InfluxDB](https://www.influxdata.com/products/influxdb-overview/) - 高い書き込み・クエリ負荷を扱えるようゼロから構築された時系列データベースです
     - [InfluxQL](https://docs.influxdata.com/influxdb/v1/query_language/) - InfluxDB 内のデータとやり取りするための、SQL に似たクエリ言語です
     - [influx cli](https://docs.influxdata.com/influxdb/cloud/reference/cli/influx/) - InfluxDB 2.0 のコマンドラインインターフェースです
   - [Grafana Mimir](https://grafana.com/oss/mimir/) - Prometheus のための、オープンソースで水平スケーラブル、高可用性、マルチテナントな長期ストレージです
@@ -496,13 +496,13 @@
       - [LogCLI](https://grafana.com/docs/loki/latest/query/logcli/) - Loki のコマンドラインインターフェースです
   - [Grafana Tempo](https://grafana.com/oss/tempo/) - オープンソースで使いやすく、大規模にスケールする分散トレーシングバックエンドです
     - [TraceQL](https://grafana.com/docs/tempo/latest/traceql/) - トレースを選択するために設計されたクエリ言語です
-  - [ElasticSearch](https://www.elastic.co/elasticsearch/) - オープンソースの分散型 RESTful 検索・分析エンジンであり、スケーラブルなデータストアかつベクターデータベースです
+  - 🔒 [ElasticSearch](https://www.elastic.co/elasticsearch/) - オープンソースの分散型 RESTful 検索・分析エンジンであり、スケーラブルなデータストアかつベクターデータベースです
     - [Elastic Common Schema](https://www.elastic.co/guide/en/ecs/current/index.html) - Elastic ユーザーコミュニティのサポートを受けて開発された、オープンソースの仕様です
     - [Ingest pipelines](https://www.elastic.co/guide/en/elasticsearch/reference/current/ingest.html) - インデックス作成前にデータに対して一般的な変換処理を行える機能です
     - [Dissect and Grok](https://www.elastic.co/guide/en/elasticsearch/reference/current/esql-process-data-with-dissect-and-grok.html) - 単一のテキストフィールドから構造化されたフィールドを抽出できるプロセッサーです
   - [Graphite](https://grafana.com/oss/graphite/) - 高いスケーラビリティを備えたリアルタイムグラフ化システムです
   - [Grafana Alerting](https://grafana.com/docs/grafana/latest/alerting/) - データに対するアラートを作成・管理できる機能です
-  - [OpenObserve](https://openobserve.ai/) - モダンなアプリケーション向けに設計された、オープンソースのオブザーバビリティプラットフォームです
+  - 🔒 [OpenObserve](https://openobserve.ai/) - モダンなアプリケーション向けに設計された、オープンソースのオブザーバビリティプラットフォームです
 
 ## SRE (サイトリライアビリティエンジニアリング)
 
@@ -521,22 +521,22 @@
 ### フリート管理 & 運用
 
 - フリート管理
-  - [AWS Systems Manager](https://aws.amazon.com/systems-manager/) - AWS、マルチクラウド、ハイブリッド環境上のリソースに対する、セキュアなエンドツーエンドの管理ソリューションです
-  - [Azure Automation](https://azure.microsoft.com/en-us/products/automation) - Azure 環境と非 Azure 環境全体にわたる一貫した管理をサポートする、クラウドベースの自動化・構成サービスです
-    - [Azure Update Manager](https://learn.microsoft.com/en-us/azure/update-manager/) - すべてのマシンの更新を管理・統制するための統合サービスです
+  - 💲 [AWS Systems Manager](https://aws.amazon.com/systems-manager/) - AWS、マルチクラウド、ハイブリッド環境上のリソースに対する、セキュアなエンドツーエンドの管理ソリューションです
+  - 💲 [Azure Automation](https://azure.microsoft.com/en-us/products/automation) - Azure 環境と非 Azure 環境全体にわたる一貫した管理をサポートする、クラウドベースの自動化・構成サービスです
+    - 💲 [Azure Update Manager](https://learn.microsoft.com/en-us/azure/update-manager/) - すべてのマシンの更新を管理・統制するための統合サービスです
 - バックアップ
   - ベンダー固有のツール
-    - [AWS Backup](https://aws.amazon.com/backup/) - AWS サービス、クラウド、オンプレミス全体にわたるデータ保護を一元化・自動化する、フルマネージドサービスです
-    - [Azure Backup](https://azure.microsoft.com/en-us/products/backup/) - データをバックアップし、Microsoft Azure クラウドから復旧するための、シンプルでセキュア、コスト効率の高いソリューションを提供するサービスです
+    - 💲 [AWS Backup](https://aws.amazon.com/backup/) - AWS サービス、クラウド、オンプレミス全体にわたるデータ保護を一元化・自動化する、フルマネージドサービスです
+    - 💲 [Azure Backup](https://azure.microsoft.com/en-us/products/backup/) - データをバックアップし、Microsoft Azure クラウドから復旧するための、シンプルでセキュア、コスト効率の高いソリューションを提供するサービスです
   - K8s 固有のツール
     - [Velero](https://velero.io/) - Kubernetes クラスターのリソースと永続ボリュームを安全にバックアップ・リストアし、ディザスタリカバリを実行し、移行するためのオープンソースツールです
   - 汎用ツール
     - [Barman](https://pgbarman.org/) - オンラインホットバックアップを簡素化することでビジネス継続性を確保するように設計された、PostgreSQL データベース向けのディザスタリカバリソリューションです
     - [Restic](https://restic.net/) - 高速、安全、効率的なバックアッププログラムです
 - ランブック自動化
-  - [RunDeck](https://www.rundeck.com/) - データセンターやクラウド環境における日常的な運用手順の自動化を支援する、オープンソースの自動化プラットフォームです
+  - 🔒 [RunDeck](https://www.rundeck.com/) - データセンターやクラウド環境における日常的な運用手順の自動化を支援する、オープンソースの自動化プラットフォームです
 - AIOps & 自律エージェント
-  - [Azure SRE Agent](https://aka.ms/sreagent) - 監視、診断、インシデント解決の支援を通じて SRE (サイトリライアビリティエンジニアリング) のプラクティスを自動化するように設計された、AI 搭載サービスです
+  - 💲 [Azure SRE Agent](https://aka.ms/sreagent) - 監視、診断、インシデント解決の支援を通じて SRE (サイトリライアビリティエンジニアリング) のプラクティスを自動化するように設計された、AI 搭載サービスです
   - [Mezmo Aura](https://www.mezmo.com/aura) - SRE (サイトリライアビリティエンジニアリング) と本番 AI 運用に特化して設計された、オープンソースのエージェント型ハーネスです
 
 ### カオスエンジニアリング
@@ -557,7 +557,7 @@
 - FinOps ツール
   - [FinOps toolkit](https://microsoft.github.io/finops-toolkit/) - 組織内で FinOps を実装するためのツール、リソース、ベストプラクティスのコレクションです
   - [AWS Cost Explorer](https://aws.amazon.com/aws-cost-management/aws-cost-explorer/) - コストと使用状況を表示・分析できるツールです
-  - [Infracost](https://www.infracost.io/) - Terraform、CloudFormation、その他の Infrastructure as Code プロジェクトのクラウドコスト見積もりを表示するツールです
+  - 🔒 [Infracost](https://www.infracost.io/) - Terraform、CloudFormation、その他の Infrastructure as Code プロジェクトのクラウドコスト見積もりを表示するツールです
   - [OpenCost](https://www.opencost.io/) - Kubernetes の支出を監視するためのオープンソースソリューションです
   - [Cloud Custodian](https://cloudcustodian.io/) - パブリッククラウドのアカウントとリソースを管理するためのルールエンジンです
 
@@ -576,7 +576,7 @@
 - [Hyperfine](https://github.com/sharkdp/hyperfine) - コマンドラインベンチマークツールです
 - [Locust](https://locust.io/) - 使いやすい分散型のユーザー負荷テストツールです
 - [Grafana k6](https://k6.io/) - エンジニアリングチームにとってパフォーマンステストを簡単かつ生産的にする、オープンソースの負荷テストツールです
-- [Gatling](https://gatling.io/) - エンジニアリングチームがパフォーマンスの懸念を早期にシフトするのを助ける、プログラマー向けの負荷テストツールです
+- 🔒 [Gatling](https://gatling.io/) - エンジニアリングチームがパフォーマンスの懸念を早期にシフトするのを助ける、プログラマー向けの負荷テストツールです
 - [Apache Jmeter](https://jmeter.apache.org/) - 機能的な動作の負荷テストとパフォーマンス測定のために設計された、純粋な Java アプリケーションです
 - [ab](https://httpd.apache.org/docs/2.4/programs/ab.html) - Apache Hypertext Transfer Protocol (HTTP) サーバーをベンチマークするためのツールです
 - [stress-ng](https://github.com/ColinIanKing/stress-ng) - 設定可能な量の CPU、メモリ、I/O、ディスクのストレスをシステムにかけるツールです

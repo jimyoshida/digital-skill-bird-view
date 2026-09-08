@@ -167,7 +167,7 @@
 ### Documentation Tooling
 
 - Typesetting Systems
-  - [Typst](https://typst.app/) - A new markup-based typesetting system that is designed to be as powerful as LaTeX while being much easier to learn and use
+  - 🪙 [Typst](https://typst.app/) - A new markup-based typesetting system that is designed to be as powerful as LaTeX while being much easier to learn and use
   - [Troff/Groff](https://www.gnu.org/software/groff/) - A typesetting system that reads plain text mixed with formatting commands and produces formatted output
   - [LaTeX](https://www.latex-project.org/) - A high-quality typesetting system; it includes features designed for the production of technical and scientific documentation
     - [TexLive](https://tug.org/texlive/) - A cross-platform, free software distribution for the TeX typesetting system

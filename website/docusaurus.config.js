@@ -49,7 +49,20 @@ const config = {
           sidebarPath: './sidebars.js',
           routeBasePath: 'docs/', // Serve the docs at the site's root
         },
-        blog: false, // Optional: disable the blog plugin
+        blog: {
+          routeBasePath: 'blog/',
+          blogTitle: 'Updates',
+          blogDescription:
+            'Release notes for the skill landscape, the timelines, and the site itself',
+          blogSidebarTitle: 'Recent updates',
+          blogSidebarCount: 10,
+          showReadingTime: true,
+          feedOptions: {
+            type: 'all',
+            title: 'DX Skill Landscape & Timeline updates',
+            copyright: 'This material is licensed under the CC-BY-SA-4.0.',
+          },
+        },
         ...(gtagId ? {gtag: {trackingID: gtagId, anonymizeIP: true}} : {}),
         theme: {
           customCss: './src/css/custom.css',
@@ -76,7 +89,7 @@ const config = {
             position: 'left',
             label: 'Docs',
           },
-          // {to: '/blog', label: 'Blog', position: 'left'},
+          {to: '/blog', label: 'Blog', position: 'left'},
           {
             type: 'localeDropdown',
             position: 'right',

@@ -78,8 +78,8 @@
   - [Crab](https://muricoca.github.io/crab/) - 推奨システムを構築するための Python ライブラリです
   - [mlxtend](https://rasbt.github.io/mlxtend/) - 日々のデータサイエンスタスクのための便利なツールの Python ライブラリです
   - [Prophet](https://facebook.github.io/prophet/) - 時系列データの予測手順で、高速で完全に自動化された予測を提供します
-  - [Azure Machine Learning](https://azure.microsoft.com/en-us/products/machine-learning/) - モデルをより速く構築してデプロイするためのエンタープライズグレードの機械学習サービスです
-  - [Amazon SageMaker](https://aws.amazon.com/sagemaker/) - 完全に管理されたインフラストラクチャ、ツール、およびワークフローを備えた任意のユースケースに対して機械学習(ML)モデルを構築、トレーニング、およびデプロイするサービスです
+  - 💲 [Azure Machine Learning](https://azure.microsoft.com/en-us/products/machine-learning/) - モデルをより速く構築してデプロイするためのエンタープライズグレードの機械学習サービスです
+  - 💲 [Amazon SageMaker](https://aws.amazon.com/sagemaker/) - 完全に管理されたインフラストラクチャ、ツール、およびワークフローを備えた任意のユースケースに対して機械学習(ML)モデルを構築、トレーニング、およびデプロイするサービスです
   - [Gradio](https://www.gradio.app/) - フレンドリーなウェブインターフェイスを備えた機械学習モデルのデモを作成する最速の方法で、誰でもどこでも使用できます
 
 ## ニューラルネットワークと深層学習
@@ -188,7 +188,7 @@
 
 ### 物体検出と認識
 
-- [YOLO (You Only Look Once)](https://docs.ultralytics.com/) - リアルタイム検出用に設計されたエンドツーエンドのオブジェクト検出モデルです
+- 🔒 [YOLO (You Only Look Once)](https://docs.ultralytics.com/) - リアルタイム検出用に設計されたエンドツーエンドのオブジェクト検出モデルです
 - [Detectron2](https://github.com/facebookresearch/detectron2) - Facebook の次世代ライブラリで、最先端の検出およびセグメンテーションアルゴリズムを提供します
 - [Mask R-CNN](https://github.com/matterport/Mask_RCNN) - Faster R-CNN の拡張で、バウンディングボックスと並行してオブジェクトマスク予測用のブランチを追加します
 
@@ -263,15 +263,15 @@
 
 ### モデルプロバイダーとアグリゲーター
 
-- [Anthropic](https://www.anthropic.com/api) - Anthropic の Claude モデルへのアクセスを提供する API です
-- [OpenAI](https://platform.openai.com/) - OpenAI のモデルでアプリケーションを構築するためのプラットフォームです
-- [Gemini Developer APIs](https://ai.google.dev/gemini-api/docs) - Google の最新 Gemini モデルへのアクセスを提供する API です
-- [Hugging Face Serverless Inference API](https://huggingface.co/docs/api-inference/index) - Hugging Face Hub でホストされているモデルで推論を許可する API です
-- [OpenRouter](https://openrouter.ai/) - LLM 向けの統合インターフェイスです
+- 💲 [Anthropic](https://www.anthropic.com/api) - Anthropic の Claude モデルへのアクセスを提供する API です
+- 💲 [OpenAI](https://platform.openai.com/) - OpenAI のモデルでアプリケーションを構築するためのプラットフォームです
+- 🪙 [Gemini Developer APIs](https://ai.google.dev/gemini-api/docs) - Google の最新 Gemini モデルへのアクセスを提供する API です
+- 🪙 [Hugging Face Serverless Inference API](https://huggingface.co/docs/api-inference/index) - Hugging Face Hub でホストされているモデルで推論を許可する API です
+- 🪙 [OpenRouter](https://openrouter.ai/) - LLM 向けの統合インターフェイスです
 - オープンモデル
   - [Llama](https://www.llama.com/) - どこでもファインチューニング、蒸留、デプロイできるオープンソース AI モデルです
   - [Gemma](https://deepmind.google/models/gemma/) - Gemini モデルの作成に使用されたのと同じ研究と技術から構築された軽量で最先端のオープンモデルのファミリーです
-  - [Mistral](https://mistral.ai/models) - オープンソースおよび商用の生成 AI モデルのファミリーです
+  - 🪙 [Mistral](https://mistral.ai/models) - オープンソースおよび商用の生成 AI モデルのファミリーです
   - [OLMo](https://allenai.org/olmo) - 最先端で本当にオープンな言語モデルと言語モデルの科学を構築および研究するためのフレームワークです
   - [Kimi K3](https://github.com/MoonshotAI/Kimi-K3) - 2.8 兆パラメータと 100 万トークンのコンテキストウィンドウを備えた、オープンウェイトのネイティブマルチモーダルエージェントモデルです
   - [DeepSeek V4-Pro](https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro) - 1.6 兆パラメータ (アクティブ 490 億) と 100 万トークンのコンテキストウィンドウを備えた、MIT ライセンスでオープンウェイトの Mixture-of-Experts (MoE) 言語モデルです
@@ -307,9 +307,9 @@
 
 ### 開発ツール & ユーティリティ
 
-- [LiteLLM](https://docs.litellm.ai) - 統一された OpenAI 入出力形式を使用して 100 以上の大規模言語モデル(LLM)を呼び出すことができる Python SDK および AI ゲートウェイ(プロキシ)です
+- 🔒 [LiteLLM](https://docs.litellm.ai) - 統一された OpenAI 入出力形式を使用して 100 以上の大規模言語モデル(LLM)を呼び出すことができる Python SDK および AI ゲートウェイ(プロキシ)です
 - [RedCandle](https://github.com/scientist-labs/red-candle) - Rust の Candle を使用してローカルで最先端の言語モデルを実行するための Ruby Gem です
-- [Unsloth AI](https://unsloth.ai/) - 大規模言語モデル(LLM)を簡単にファインチューニングおよびトレーニングして、より速く、より効率的な AI トレーニングを実現するためのツールおよびサービスを提供するプラットフォームです
+- 🔒 [Unsloth AI](https://unsloth.ai/) - 大規模言語モデル(LLM)を簡単にファインチューニングおよびトレーニングして、より速く、より効率的な AI トレーニングを実現するためのツールおよびサービスを提供するプラットフォームです
 
 ### ベンチマークと分析
 
@@ -364,7 +364,7 @@
   - [Genkit](https://genkit.dev/) - エージェント、RAG、ツール使用の統合サポートを備えた、フルスタックアプリケーション構築用の AI フレームワークです
   - [LangChain](https://www.langchain.com/) - 大規模言語モデルを使用したアプリケーション開発のためのフレームワークです
   - [LlamaIndex](https://www.llamaindex.ai/) - 信頼できる低および高レベルの抽象化を備えた GenAI アプリケーションの本番投入までの時間を急速に加速する開発者優先のエージェントフレームワークです
-    - [LlamaParse](https://www.llamaindex.ai/llamaparse) - 複雑なレイアウト、表、グラフ、手書き、チェックボックス、および画像をきれいな markdown に変換するドキュメントパーサーです
+    - 🪙 [LlamaParse](https://www.llamaindex.ai/llamaparse) - 複雑なレイアウト、表、グラフ、手書き、チェックボックス、および画像をきれいな markdown に変換するドキュメントパーサーです
   - [PydanticAI](https://pydantic.dev/pydantic-ai) - 型安全性と構造化出力を強調する生成 AI を使用した本番グレードアプリケーション構築用の Python エージェントフレームワークです
 
 ### エージェント開発キット (ADK)
@@ -381,20 +381,20 @@
 ### サポートサービス & プラットフォーム
 
 - エージェントプラットフォームとサービス
-  - [Foundry Agent Service](https://azure.microsoft.com/en-us/products/ai-foundry/agent-service) - エンタープライズ変革のためのガバナンスと可観測性を備えた AI エージェントを安全に設計、デプロイ、スケールするためのプラットフォームです
+  - 💲 [Foundry Agent Service](https://azure.microsoft.com/en-us/products/ai-foundry/agent-service) - エンタープライズ変革のためのガバナンスと可観測性を備えた AI エージェントを安全に設計、デプロイ、スケールするためのプラットフォームです
   - [Moltbook](https://www.moltbook.com/) - AI エージェントが共有、議論、投票するソーシャルネットワークです
 - 相互運用性
   - [FastMCP](https://github.com/jlowin/fastmcp) - Model Context Protocol(MCP)サーバーとクライアントをビルドするための Python フレームワークです
 - 事前構築済みエージェント & コレクション
   - [agency-agents](https://github.com/msitarzewski/agency-agents) - ユニークな音声、証明されたワークフロー、測定可能な成果物を持つ特殊な専門家として機能するように設計された、精密に作成された AI エージェント個性の成長するコレクションです
 - メモリシステム
-  - [Mem0](https://mem0.ai/) - LLM アプリケーション向けの AI メモリレイヤーで、パーソナライズされた AI エクスペリエンスの提供を目指しています
+  - 🪙 [Mem0](https://mem0.ai/) - LLM アプリケーション向けの AI メモリレイヤーで、パーソナライズされた AI エクスペリエンスの提供を目指しています
   - [Graphiti](https://www.getzep.com/product/open-source/) - 時間認識コンテキストグラフを構築するためのオープンソース Python フレームワークです
   - [Hindsight](https://hindsight.vectorize.io/) - AI エージェント専用に設計されたメモリシステムで、マルチ戦略検索と自動知識統合を使用して複数のセッション全体で情報を保持、リコール、および推論できるようにしています
 - 検索とデータ抽出
-  - [Firecrawl](https://www.firecrawl.dev/) - URL を取得し、クロールして、クリーンな markdown または構造化データに変換する API サービスです
-  - [Tavily Search](https://tavily.com/) - LLM 向けに最適化された検索エンジンで、効率的で迅速で永続的な検索結果を目的としています
-  - [SWIRL AI Search](https://swirlaiconnect.com/) - 100 以上のエンタープライズプラットフォームに接続し、コストのかかるデータ変換や移行を必要とせずに、データおよびドキュメントサイロ全体でリアルタイムの可視性を提供するフェデレーション AI 検索ソリューションです
+  - 🪙 [Firecrawl](https://www.firecrawl.dev/) - URL を取得し、クロールして、クリーンな markdown または構造化データに変換する API サービスです
+  - 🪙 [Tavily Search](https://tavily.com/) - LLM 向けに最適化された検索エンジンで、効率的で迅速で永続的な検索結果を目的としています
+  - 🔒 [SWIRL AI Search](https://swirlaiconnect.com/) - 100 以上のエンタープライズプラットフォームに接続し、コストのかかるデータ変換や移行を必要とせずに、データおよびドキュメントサイロ全体でリアルタイムの可視性を提供するフェデレーション AI 検索ソリューションです
 - セキュリティツール
   - [skill-scanner](https://github.com/cisco-ai-defense/skill-scanner) - AI Agent Skills 向けのベストエフォート型セキュリティスキャナーで、プロンプトインジェクション、データ流出、悪意あるコードパターンを検出します
   - [Toxic Flow Analysis (TFA)](https://invariantlabs.ai/blog/toxic-flow-analysis) - AI アプリケーションの攻撃面を削減し、間接的なプロンプトインジェクションおよびその他の MCP 攻撃ベクトルを軽減するための初の原理的アプローチです
@@ -415,14 +415,14 @@
   - [CML](https://cml.dev/) - 機械学習プロジェクトで継続的インテグレーション & デリバリー(CI/CD)を実装するためのオープンソースツールです
   - [MLFlow](https://mlflow.org/) - ML ライフサイクル管理のためのオープンソースプラットフォームで、実験、再現性、デプロイメント、および中央モデルレジストリを含みます
   - [KubeFlow](https://www.kubeflow.org/) - Kubernetes 用機械学習ツールキットで、Kubernetes 上の ML ワークフローのデプロイメントをシンプル、ポータブル、スケーラブルにすることに専念しています
-  - [Weights & Biases](https://wandb.ai/site) - AI エージェント、アプリケーション、モデルを自信を持って構築するための AI 開発者プラットフォームです
-  - [ZenML](https://www.zenml.io/) - トレーニングパイプラインからエージェント評価まで、ローカルから Kubernetes へのオーケストレーション、バージョン管理、ガバナンス用のオープンソースフレームワークです
+  - 🪙 [Weights & Biases](https://wandb.ai/site) - AI エージェント、アプリケーション、モデルを自信を持って構築するための AI 開発者プラットフォームです
+  - 🔒 [ZenML](https://www.zenml.io/) - トレーニングパイプラインからエージェント評価まで、ローカルから Kubernetes へのオーケストレーション、バージョン管理、ガバナンス用のオープンソースフレームワークです
   - [BentoML](https://www.bentoml.com/) - 任意のモデルを任意の場所にデプロイするためのオープンソースフレームワークで、カスタマイズされた最適化、効率的なスケーリング、および合理化された操作を備えています
 - 管理対象 MLOps プラットフォーム
-  - [Microsoft Foundry](https://ai.azure.com/) - AI アプリケーションとエージェントを構築、最適化、管理するための統合された相互運用可能なプラットフォームで、ビジネスコンテキストを理解し、ビジネスインパクトを提供します
-  - [Vertex AI](https://cloud.google.com/vertex-ai) - ML モデルと AI アプリケーションをトレーニングしてデプロイするための機械学習(ML)プラットフォームです
-  - [Nebius](https://nebius.com/) - AI および機械学習ワークロード向けの目的別インフラストラクチャを提供する専門 AI クラウドプラットフォームです
-  - [Amazon SageMaker](https://aws.amazon.com/sagemaker/) - データ、分析、AI を一堂に集め、スケールでモデルを構築、トレーニング、デプロイするための完全管理型サービスです
+  - 💲 [Microsoft Foundry](https://ai.azure.com/) - AI アプリケーションとエージェントを構築、最適化、管理するための統合された相互運用可能なプラットフォームで、ビジネスコンテキストを理解し、ビジネスインパクトを提供します
+  - 💲 [Vertex AI](https://cloud.google.com/vertex-ai) - ML モデルと AI アプリケーションをトレーニングしてデプロイするための機械学習(ML)プラットフォームです
+  - 💲 [Nebius](https://nebius.com/) - AI および機械学習ワークロード向けの目的別インフラストラクチャを提供する専門 AI クラウドプラットフォームです
+  - 💲 [Amazon SageMaker](https://aws.amazon.com/sagemaker/) - データ、分析、AI を一堂に集め、スケールでモデルを構築、トレーニング、デプロイするための完全管理型サービスです
 
 ### LLM サービングとランタイム
 
@@ -437,21 +437,21 @@
   - [Hugging Face TGI](https://github.com/huggingface/text-generation-inference) - テキスト生成推論用の Rust、Python、gRPC サーバーで、Hugging Chat と Inference API を強力にするために本番環境で使用されます
   - [SGLang](https://github.com/sgl-project/sglang) - 大規模言語モデルとマルチモーダルモデル向けの高パフォーマンスサービングフレームワークです
   - [KServe](https://kserve.github.io/website/) - Kubernetes 上での機械学習モデルの標準化された分散推論プラットフォームで、スケーラブルな、マルチフレームワークデプロイメント用です
-  - [Modular MAX](https://www.modular.com/) - GPU カーネルから API エンドポイントまで、多様なハードウェア全体で完全な最適化を提供する統合 AI 推論プラットフォームです
+  - 🪙 [Modular MAX](https://www.modular.com/) - GPU カーネルから API エンドポイントまで、多様なハードウェア全体で完全な最適化を提供する統合 AI 推論プラットフォームです
 
 ### LLMOps & 可観測性
 
 - 管理対象モデルサービス
-  - [Amazon Bedrock](https://aws.amazon.com/bedrock/) - 高パフォーマンスな基盤モデルの選択肢を提供する完全管理型サービスです
-    - [Amazon Bedrock Agents](https://aws.amazon.com/bedrock/agents/) - 基盤モデルの推論、API、およびデータを使用してユーザーリクエストを分割し、関連情報を収集し、タスクを効率的に完了するサービスです
+  - 💲 [Amazon Bedrock](https://aws.amazon.com/bedrock/) - 高パフォーマンスな基盤モデルの選択肢を提供する完全管理型サービスです
+    - 💲 [Amazon Bedrock Agents](https://aws.amazon.com/bedrock/agents/) - 基盤モデルの推論、API、およびデータを使用してユーザーリクエストを分割し、関連情報を収集し、タスクを効率的に完了するサービスです
 - エージェント可観測性
   - [Mission Control](https://mc.builderz.dev/) - AI エージェントのフリートを管理、監視、調整するための中央オペレーションコントロールプレーンです
 - LLM 可観測性 & 評価
-  - [Langfuse](https://langfuse.com/) - LLM アプリケーションをデバッグおよび改善するためのトレース、評価、プロンプト管理、メトリクスを提供するオープンソース LLM エンジニアリングプラットフォームです
+  - 🔒 [Langfuse](https://langfuse.com/) - LLM アプリケーションをデバッグおよび改善するためのトレース、評価、プロンプト管理、メトリクスを提供するオープンソース LLM エンジニアリングプラットフォームです
   - [OpenLIT](https://openlit.io/) - LLM および GenAI 可観測性のためのオープンソース OpenTelemetry ネイティブツールです
-  - [LangSmith](https://www.langchain.com/langsmith) - LLM アプリケーションの開発、協調、テスト、デプロイメント、監視のための統合 DevOps プラットフォームです
-  - [Helicone](https://www.helicone.ai/) - 開発者が生成 AI アプリケーションを監視および最適化するための、オープンソース LLM 可観測性プラットフォームです
+  - 🪙 [LangSmith](https://www.langchain.com/langsmith) - LLM アプリケーションの開発、協調、テスト、デプロイメント、監視のための統合 DevOps プラットフォームです
+  - 🔒 [Helicone](https://www.helicone.ai/) - 開発者が生成 AI アプリケーションを監視および最適化するための、オープンソース LLM 可観測性プラットフォームです
   - [Arize Phoenix](https://phoenix.arize.com/) - LLM 向けのオープンソース AI 可観測性および評価プラットフォームです
-  - [Braintrust](https://www.braintrust.dev/) - LLM でビルドする開発者向けの評価および可観測性プラットフォームを提供するエンタープライズ AI プラットフォームです
+  - 🪙 [Braintrust](https://www.braintrust.dev/) - LLM でビルドする開発者向けの評価および可観測性プラットフォームを提供するエンタープライズ AI プラットフォームです
   - [Ragas](https://docs.ragas.io/) - AI アプリケーションの体感チェックから体系的な評価ループへの移行を支援するライブラリです
   - [DeepEval](https://www.deepeval.com/) - 研究を支持するメトリクスを備えた LLM 評価フレームワークで、CI/CD で実行される pytest ネイティブ評価です

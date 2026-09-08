@@ -78,8 +78,8 @@
   - [Crab](https://muricoca.github.io/crab/) - A Python library for building recommender systems
   - [mlxtend](https://rasbt.github.io/mlxtend/) - A Python library of useful tools for the day-to-day data science tasks
   - [Prophet](https://facebook.github.io/prophet/) - A forecasting procedure for time series data that is fast and provides completely automated forecasts
-  - [Azure Machine Learning](https://azure.microsoft.com/en-us/products/machine-learning/) - An enterprise-grade machine learning service to build and deploy models faster
-  - [Amazon SageMaker](https://aws.amazon.com/sagemaker/) - The service to build, train, and deploy machine learning (ML) models for any use case with fully managed infrastructure, tools, and workflows
+  - 💲 [Azure Machine Learning](https://azure.microsoft.com/en-us/products/machine-learning/) - An enterprise-grade machine learning service to build and deploy models faster
+  - 💲 [Amazon SageMaker](https://aws.amazon.com/sagemaker/) - The service to build, train, and deploy machine learning (ML) models for any use case with fully managed infrastructure, tools, and workflows
   - [Gradio](https://www.gradio.app/) - The fastest way to demo your machine learning model with a friendly web interface so that anyone can use it, anywhere
 
 ## Neural Networks and Deep Learning
@@ -188,7 +188,7 @@
 
 ### Object Detection & Recognition
 
-- [YOLO (You Only Look Once)](https://docs.ultralytics.com/) - An end-to-end object detection model designed for real-time detection
+- 🔒 [YOLO (You Only Look Once)](https://docs.ultralytics.com/) - An end-to-end object detection model designed for real-time detection
 - [Detectron2](https://github.com/facebookresearch/detectron2) - Facebook's next generation library that provides state-of-the-art detection and segmentation algorithms
 - [Mask R-CNN](https://github.com/matterport/Mask_RCNN) - An extension of Faster R-CNN that adds a branch for predicting object masks in parallel with bounding boxes
 
@@ -263,15 +263,15 @@
 
 ### Model Providers & Aggregators
 
-- [Anthropic](https://www.anthropic.com/api) - The API providing access to Anthropic's Claude models
-- [OpenAI](https://platform.openai.com/) - The platform for building applications with OpenAI's models
-- [Gemini Developer APIs](https://ai.google.dev/gemini-api/docs) - The API that gives you access to the latest Gemini models from Google
-- [Hugging Face Serverless Inference API](https://huggingface.co/docs/api-inference/index) - The API allowing inference on models hosted on the Hugging Face Hub
-- [OpenRouter](https://openrouter.ai/) - A unified interface for LLMs
+- 💲 [Anthropic](https://www.anthropic.com/api) - The API providing access to Anthropic's Claude models
+- 💲 [OpenAI](https://platform.openai.com/) - The platform for building applications with OpenAI's models
+- 🪙 [Gemini Developer APIs](https://ai.google.dev/gemini-api/docs) - The API that gives you access to the latest Gemini models from Google
+- 🪙 [Hugging Face Serverless Inference API](https://huggingface.co/docs/api-inference/index) - The API allowing inference on models hosted on the Hugging Face Hub
+- 🪙 [OpenRouter](https://openrouter.ai/) - A unified interface for LLMs
 - Open Models
   - [Llama](https://www.llama.com/) - The open-source AI models you can fine-tune, distill and deploy anywhere
   - [Gemma](https://deepmind.google/models/gemma/) - A family of lightweight, state-of-the-art open models built from the same research and technology used to create the Gemini models
-  - [Mistral](https://mistral.ai/models) - A family of open-source and commercial generative AI models
+  - 🪙 [Mistral](https://mistral.ai/models) - A family of open-source and commercial generative AI models
   - [OLMo](https://allenai.org/olmo) - A state-of-the-art, truly open language model and framework to build and study the science of language models
   - [Kimi K3](https://github.com/MoonshotAI/Kimi-K3) - An open-weight, native multimodal agentic model with 2.8 trillion parameters and a 1-million-token context window
   - [DeepSeek V4-Pro](https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro) - A Mixture-of-Experts (MoE) language model with 1.6T parameters (49B activated), a 1-million-token context window, and MIT-licensed open weights
@@ -307,9 +307,9 @@
 
 ### Development Tools & Utilities
 
-- [LiteLLM](https://docs.litellm.ai) - A Python SDK and AI Gateway (Proxy) that allows users to call over 100 Large Language Models (LLMs) using a unified OpenAI input/output format
+- 🔒 [LiteLLM](https://docs.litellm.ai) - A Python SDK and AI Gateway (Proxy) that allows users to call over 100 Large Language Models (LLMs) using a unified OpenAI input/output format
 - [RedCandle](https://github.com/scientist-labs/red-candle) - A Ruby gem for running state-of-the-art language models locally (via Rust's Candle)
-- [Unsloth AI](https://unsloth.ai/) - A platform providing tools and services for easily fine-tuning and training Large Language Models (LLMs) to achieve faster and more efficient AI training
+- 🔒 [Unsloth AI](https://unsloth.ai/) - A platform providing tools and services for easily fine-tuning and training Large Language Models (LLMs) to achieve faster and more efficient AI training
 
 ### Benchmarking & Analysis
 
@@ -364,7 +364,7 @@
   - [Genkit](https://genkit.dev/) - The AI framework for building full-stack applications with integrated support for agents, RAG, and tool use
   - [LangChain](https://www.langchain.com/) - A framework for developing applications powered by large language models
   - [LlamaIndex](https://www.llamaindex.ai/) - A developer-first agent framework that rapidly accelerates time-to-production of GenAI applications with trusted low and high-level abstractions
-    - [LlamaParse](https://www.llamaindex.ai/llamaparse) - A document parser that turns even the most complex layouts, tables, charts, handwriting, checkboxes, and images into clean markdown
+    - 🪙 [LlamaParse](https://www.llamaindex.ai/llamaparse) - A document parser that turns even the most complex layouts, tables, charts, handwriting, checkboxes, and images into clean markdown
   - [PydanticAI](https://pydantic.dev/pydantic-ai) - A Python agent framework for building production-grade applications with Generative AI, emphasizing type safety and structured outputs
 
 ### Agent Development Kits (ADK)
@@ -381,20 +381,20 @@
 ### Supporting Services & Platforms
 
 - Agent Platforms & Services
-  - [Foundry Agent Service](https://azure.microsoft.com/en-us/products/ai-foundry/agent-service) - A platform to securely design, deploy, and scale AI agents with governance and observability for enterprise transformation
+  - 💲 [Foundry Agent Service](https://azure.microsoft.com/en-us/products/ai-foundry/agent-service) - A platform to securely design, deploy, and scale AI agents with governance and observability for enterprise transformation
   - [Moltbook](https://www.moltbook.com/) - A social network for AI agents where AI agents share, discuss, and upvote
 - Interoperability
   - [FastMCP](https://github.com/jlowin/fastmcp) - A Pythonic framework for building Model Context Protocol (MCP) servers and clients
 - Pre-built Agents & Collections
   - [agency-agents](https://github.com/msitarzewski/agency-agents) - A growing collection of meticulously crafted AI agent personalities designed to act as specialized experts with unique voices, proven workflows, and measurable deliverables
 - Memory Systems
-  - [Mem0](https://mem0.ai/) - An AI memory layer for LLM applications that aims to provide personalized AI experiences
+  - 🪙 [Mem0](https://mem0.ai/) - An AI memory layer for LLM applications that aims to provide personalized AI experiences
   - [Graphiti](https://www.getzep.com/product/open-source/) - An open-source Python framework for building temporally-aware context graphs
   - [Hindsight](https://hindsight.vectorize.io/) - A memory system designed specifically for AI agents that enables them to retain, recall, and reason about information across multiple sessions using multi-strategy retrieval and automatic knowledge consolidation
 - Search & Data Extraction
-  - [Firecrawl](https://www.firecrawl.dev/) - An API service that takes a URL, crawls it, and converts it into clean markdown or structured data
-  - [Tavily Search](https://tavily.com/) - A search engine optimized for LLMs, aimed at efficient, quick and persistent search results
-  - [SWIRL AI Search](https://swirlaiconnect.com/) - A Federated AI Search solution that connects to over 100 enterprise platforms, providing real-time visibility across data and document silos without requiring costly data transformations or migrations
+  - 🪙 [Firecrawl](https://www.firecrawl.dev/) - An API service that takes a URL, crawls it, and converts it into clean markdown or structured data
+  - 🪙 [Tavily Search](https://tavily.com/) - A search engine optimized for LLMs, aimed at efficient, quick and persistent search results
+  - 🔒 [SWIRL AI Search](https://swirlaiconnect.com/) - A Federated AI Search solution that connects to over 100 enterprise platforms, providing real-time visibility across data and document silos without requiring costly data transformations or migrations
 - Security Tools
   - [skill-scanner](https://github.com/cisco-ai-defense/skill-scanner) - A best-effort security scanner for AI Agent Skills that detects prompt injection, data exfiltration, and malicious code patterns
   - [Toxic Flow Analysis (TFA)](https://invariantlabs.ai/blog/toxic-flow-analysis) - The first principled approach to reduce the attack surface of AI applications, mitigating indirect prompt injections and other MCP attack vectors
@@ -415,14 +415,14 @@
   - [CML](https://cml.dev/) - An open-source tool for implementing continuous integration & delivery (CI/CD) in machine learning projects
   - [MLFlow](https://mlflow.org/) - An open source platform to manage the ML lifecycle, including experimentation, reproducibility, deployment, and a central model registry
   - [KubeFlow](https://www.kubeflow.org/) - The Machine Learning Toolkit for Kubernetes, dedicated to making deployments of ML workflows on Kubernetes simple, portable and scalable
-  - [Weights & Biases](https://wandb.ai/site) - The AI developer platform to build AI agents, applications, and models with confidence
-  - [ZenML](https://www.zenml.io/) - An open-source framework for orchestration, versioning, and governance from training pipelines to agent evals, local to Kubernetes
+  - 🪙 [Weights & Biases](https://wandb.ai/site) - The AI developer platform to build AI agents, applications, and models with confidence
+  - 🔒 [ZenML](https://www.zenml.io/) - An open-source framework for orchestration, versioning, and governance from training pipelines to agent evals, local to Kubernetes
   - [BentoML](https://www.bentoml.com/) - An open-source framework to deploy any model anywhere, with tailored optimization, efficient scaling, and streamlined operations
 - Managed MLOps Platforms
-  - [Microsoft Foundry](https://ai.azure.com/) - A unified, interoperable platform for building, optimizing, and governing AI apps and agents that understand business context and deliver business impact
-  - [Vertex AI](https://cloud.google.com/vertex-ai) - A machine learning (ML) platform for training and deploying ML models and AI applications
-  - [Nebius](https://nebius.com/) - A specialized AI cloud platform offering purpose-built infrastructure for AI and machine learning workloads
-  - [Amazon SageMaker](https://aws.amazon.com/sagemaker/) - A fully managed service bringing together data, analytics, and AI to build, train, and deploy models at scale
+  - 💲 [Microsoft Foundry](https://ai.azure.com/) - A unified, interoperable platform for building, optimizing, and governing AI apps and agents that understand business context and deliver business impact
+  - 💲 [Vertex AI](https://cloud.google.com/vertex-ai) - A machine learning (ML) platform for training and deploying ML models and AI applications
+  - 💲 [Nebius](https://nebius.com/) - A specialized AI cloud platform offering purpose-built infrastructure for AI and machine learning workloads
+  - 💲 [Amazon SageMaker](https://aws.amazon.com/sagemaker/) - A fully managed service bringing together data, analytics, and AI to build, train, and deploy models at scale
 
 ### LLM Serving & Runtimes
 
@@ -437,21 +437,21 @@
   - [Hugging Face TGI](https://github.com/huggingface/text-generation-inference) - A Rust, Python and gRPC server for text generation inference, used in production to power Hugging Chat and the Inference API
   - [SGLang](https://github.com/sgl-project/sglang) - A high-performance serving framework for large language models and multimodal models
   - [KServe](https://kserve.github.io/website/) - A standardized distributed generative and predictive AI inference platform for scalable, multi-framework deployment on Kubernetes
-  - [Modular MAX](https://www.modular.com/) - A unified AI inference platform delivering full optimizations from GPU kernel to API endpoint across diverse hardware
+  - 🪙 [Modular MAX](https://www.modular.com/) - A unified AI inference platform delivering full optimizations from GPU kernel to API endpoint across diverse hardware
 
 ### LLMOps & Observability
 
 - Managed Model Services
-  - [Amazon Bedrock](https://aws.amazon.com/bedrock/) - A fully managed service offering a choice of high-performing foundation models
-    - [Amazon Bedrock Agents](https://aws.amazon.com/bedrock/agents/) - A service that uses the reasoning of foundation models, APIs, and data to break down user requests, gather relevant information, and efficiently complete tasks
+  - 💲 [Amazon Bedrock](https://aws.amazon.com/bedrock/) - A fully managed service offering a choice of high-performing foundation models
+    - 💲 [Amazon Bedrock Agents](https://aws.amazon.com/bedrock/agents/) - A service that uses the reasoning of foundation models, APIs, and data to break down user requests, gather relevant information, and efficiently complete tasks
 - Agent Observability
   - [Mission Control](https://mc.builderz.dev/) - A centralized operational control plane to manage, monitor, and coordinate fleets of AI agents
 - LLM Observability & Evals
-  - [Langfuse](https://langfuse.com/) - An open source LLM engineering platform providing traces, evals, prompt management, and metrics to debug and improve LLM applications
+  - 🔒 [Langfuse](https://langfuse.com/) - An open source LLM engineering platform providing traces, evals, prompt management, and metrics to debug and improve LLM applications
   - [OpenLIT](https://openlit.io/) - An open-source, OpenTelemetry-native tool for LLM and GenAI observability
-  - [LangSmith](https://www.langchain.com/langsmith) - A unified DevOps platform for developing, collaborating, testing, deploying, and monitoring LLM applications
-  - [Helicone](https://www.helicone.ai/) - An open-source LLM observability platform built for developers to monitor and optimize their generative AI applications
+  - 🪙 [LangSmith](https://www.langchain.com/langsmith) - A unified DevOps platform for developing, collaborating, testing, deploying, and monitoring LLM applications
+  - 🔒 [Helicone](https://www.helicone.ai/) - An open-source LLM observability platform built for developers to monitor and optimize their generative AI applications
   - [Arize Phoenix](https://phoenix.arize.com/) - An open-source AI observability and evaluation platform for LLMs
-  - [Braintrust](https://www.braintrust.dev/) - The enterprise AI platform that provides an evaluation and observability platform for developers building with LLMs
+  - 🪙 [Braintrust](https://www.braintrust.dev/) - The enterprise AI platform that provides an evaluation and observability platform for developers building with LLMs
   - [Ragas](https://docs.ragas.io/) - A library that helps you move from vibe checks to systematic evaluation loops for your AI applications
   - [DeepEval](https://www.deepeval.com/) - The LLM evaluation framework with research-backed metrics and pytest-native evaluations that run in CI/CD

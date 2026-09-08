@@ -10,29 +10,29 @@
 
 ### Computing & Storage (IaaS)
 
-- [Amazon EC2](https://aws.amazon.com/ec2/) - A web service that provides secure, resizable compute capacity in the cloud
-- [Amazon EBS](https://aws.amazon.com/ebs/) - An easy-to-use, high-performance block storage service designed for use with Amazon Elastic Compute Cloud
-- [Azure Virtual Machines](https://azure.microsoft.com/en-us/services/virtual-machines/) - A service to provision Windows and Linux virtual machines in seconds
-- [Azure Disk Storage](https://azure.microsoft.com/en-us/services/storage/disks/) - A high-performance, durable block storage for Azure Virtual Machines
-- [Google Cloud Compute Engine](https://cloud.google.com/products/compute) - A customizable compute service that lets you create and run virtual machines on Google's infrastructure
+- 💲 [Amazon EC2](https://aws.amazon.com/ec2/) - A web service that provides secure, resizable compute capacity in the cloud
+- 💲 [Amazon EBS](https://aws.amazon.com/ebs/) - An easy-to-use, high-performance block storage service designed for use with Amazon Elastic Compute Cloud
+- 💲 [Azure Virtual Machines](https://azure.microsoft.com/en-us/services/virtual-machines/) - A service to provision Windows and Linux virtual machines in seconds
+- 💲 [Azure Disk Storage](https://azure.microsoft.com/en-us/services/storage/disks/) - A high-performance, durable block storage for Azure Virtual Machines
+- 💲 [Google Cloud Compute Engine](https://cloud.google.com/products/compute) - A customizable compute service that lets you create and run virtual machines on Google's infrastructure
 
 ### Networking
 
-- [Amazon VPC](https://aws.amazon.com/vpc/) - A service that lets you launch AWS resources in a logically isolated virtual network that you define
-- [Amazon ELB](https://aws.amazon.com/elasticloadbalancing/) - A service that automatically distributes incoming application traffic across multiple targets, such as Amazon EC2 instances, containers, IP addresses, and Lambda functions
-- [Azure Virtual Network](https://azure.microsoft.com/en-us/services/virtual-network/) - The fundamental building block for your private network in Azure with access to high-performance networking
-- [Azure Load Balancer](https://azure.microsoft.com/en-us/products/load-balancer) - A service that allows you to distribute traffic to your backend virtual machines
-- [Azure Application Gateway](https://azure.microsoft.com/en-us/products/application-gateway) - A platform-managed, scalable, and highly available application delivery controller as a service
-- [Google Cloud VPC](https://cloud.google.com/vpc/docs/vpc) - A virtual version of a physical network that is implemented inside of Google's production network by using Andromeda
-- [Cloud Load Balancing](https://cloud.google.com/load-balancing/docs/load-balancing-overview) - A fully distributed, software-defined, managed service for all your traffic
+- 💲 [Amazon VPC](https://aws.amazon.com/vpc/) - A service that lets you launch AWS resources in a logically isolated virtual network that you define
+- 💲 [Amazon ELB](https://aws.amazon.com/elasticloadbalancing/) - A service that automatically distributes incoming application traffic across multiple targets, such as Amazon EC2 instances, containers, IP addresses, and Lambda functions
+- 💲 [Azure Virtual Network](https://azure.microsoft.com/en-us/services/virtual-network/) - The fundamental building block for your private network in Azure with access to high-performance networking
+- 💲 [Azure Load Balancer](https://azure.microsoft.com/en-us/products/load-balancer) - A service that allows you to distribute traffic to your backend virtual machines
+- 💲 [Azure Application Gateway](https://azure.microsoft.com/en-us/products/application-gateway) - A platform-managed, scalable, and highly available application delivery controller as a service
+- 💲 [Google Cloud VPC](https://cloud.google.com/vpc/docs/vpc) - A virtual version of a physical network that is implemented inside of Google's production network by using Andromeda
+- 💲 [Cloud Load Balancing](https://cloud.google.com/load-balancing/docs/load-balancing-overview) - A fully distributed, software-defined, managed service for all your traffic
 
 ### Application Hosting Platform (PaaS)
 
-- [Azure App Service](https://azure.microsoft.com/en-us/services/app-service/) - An HTTP-based service for hosting web applications, REST APIs, and mobile back ends
-- [AWS Elastic Beanstalk](https://aws.amazon.com/elasticbeanstalk/) - An easy-to-use service for deploying and scaling web applications and services
-- [Google Cloud App Engine](https://cloud.google.com/appengine/) - A fully managed, serverless platform for developing and hosting web applications at scale
-- [Vercel](https://vercel.com/) - A frontend cloud platform that provides the developer experience and infrastructure to build, deploy, and scale the web
-- [Netlify](https://www.netlify.com/) - A composable web platform that enables enterprises and teams to build, deploy, and scale modern web experiences on a global edge network
+- 🪙 [Azure App Service](https://azure.microsoft.com/en-us/services/app-service/) - An HTTP-based service for hosting web applications, REST APIs, and mobile back ends
+- 💲 [AWS Elastic Beanstalk](https://aws.amazon.com/elasticbeanstalk/) - An easy-to-use service for deploying and scaling web applications and services
+- 🪙 [Google Cloud App Engine](https://cloud.google.com/appengine/) - A fully managed, serverless platform for developing and hosting web applications at scale
+- 🪙 [Vercel](https://vercel.com/) - A frontend cloud platform that provides the developer experience and infrastructure to build, deploy, and scale the web
+- 🪙 [Netlify](https://www.netlify.com/) - A composable web platform that enables enterprises and teams to build, deploy, and scale modern web experiences on a global edge network
 - [Coolify](https://coolify.io/) - An open-source & self-hostable alternative to Vercel, Heroku, Netlify and Railway
 
 ### Cloud Command Line Interfaces
@@ -46,7 +46,7 @@
 
 ### Cloud Emulators
 
-- [LocalStack](https://www.localstack.cloud/) - A fully functional local cloud stack to develop and test your cloud and serverless apps offline
+- 🔒 [LocalStack](https://www.localstack.cloud/) - A fully functional local cloud stack to develop and test your cloud and serverless apps offline
 
 ### Private Cloud & On-Premises IaaS
 
@@ -69,24 +69,24 @@
 
 ### Infrastructure as Code (IaC)
 
-- [Hashicorp Terraform](https://www.terraform.io/) - An infrastructure as code tool that lets you build, change, and version infrastructure safely and efficiently
+- 🔒 [Hashicorp Terraform](https://www.terraform.io/) - An infrastructure as code tool that lets you build, change, and version infrastructure safely and efficiently
 - [OpenTofu](https://opentofu.org/) - An open-source, community-driven fork of Terraform that provides a stable, drop-in replacement for building and managing infrastructure
-- [Pulumi](https://www.pulumi.com/) - An infrastructure as code platform that allows you to use familiar programming languages and tools to build, deploy, and manage cloud infrastructure
+- 🔒 [Pulumi](https://www.pulumi.com/) - An infrastructure as code platform that allows you to use familiar programming languages and tools to build, deploy, and manage cloud infrastructure
 
 ### AI-driven Infrastructure
 
-- [Spacelift Intent](https://spacelift.io/platform/intent) - An AI-powered tool that allows users to provision and manage cloud infrastructure using natural language
+- 💲 [Spacelift Intent](https://spacelift.io/platform/intent) - An AI-powered tool that allows users to provision and manage cloud infrastructure using natural language
 
 ### Configuration Management & Automation
 
 - [Ansible](https://www.ansible.com/) - An open source IT automation engine that automates provisioning, configuration management, application deployment, orchestration, and many other IT processes
 - [SaltStack](https://saltproject.io/) - A Python-based, open-source software for event-driven IT automation, remote task execution, and configuration management
-- [Rudder](https://www.rudder.io/) - An open-source, continuous configuration and compliance platform for IT infrastructure automation
+- 🔒 [Rudder](https://www.rudder.io/) - An open-source, continuous configuration and compliance platform for IT infrastructure automation
 - [cloud-init](https://cloud-init.io/) - The standard for customising cloud instances
 
 ### Image Building
 
-- [Hashicorp Packer](https://packer.io/) - A tool for creating identical machine images for multiple platforms from a single source configuration
+- 🔒 [Hashicorp Packer](https://packer.io/) - A tool for creating identical machine images for multiple platforms from a single source configuration
 
 ### Ecosystem & Vendor Tools
 
@@ -95,7 +95,7 @@
   - [Terragrunt](https://terragrunt.gruntwork.io/) - A thin wrapper that provides extra tools for keeping your configurations DRY, working with multiple Terraform modules, and managing remote state
   - [TerraTest](https://terratest.gruntwork.io/) - A Go library that provides patterns and helper functions for testing infrastructure
   - [Atmos](https://atmos.tools/) - A universal tool for DevOps and Cloud Engineering that orchestrates workflows and simplifies the management of infrastructure
-  - [GitLab-managed Terraform/OpenTofu state](https://docs.gitlab.com/ee/user/infrastructure/iac/terraform_state.html) - A feature that allows you to store your Terraform state files in GitLab
+  - 🪙 [GitLab-managed Terraform/OpenTofu state](https://docs.gitlab.com/ee/user/infrastructure/iac/terraform_state.html) - A feature that allows you to store your Terraform state files in GitLab
   - [tf.libsonnet](https://docs.tflibsonnet.com/) - A collection of Jsonnet libraries for generating Terraform code
   - [terraform-docs](https://terraform-docs.io/) - A utility to generate documentation from Terraform modules in various output formats
   - [Terraformer](https://github.com/GoogleCloudPlatform/terraformer) - A CLI tool to generate terraform files from existing infrastructure
@@ -161,11 +161,11 @@
   - [dive](https://github.com/wagoodman/dive) - A tool for exploring a docker image, layer contents, and discovering ways to shrink the size of your Docker/OCI image
   - [regclient](https://github.com/regclient/regclient) - A suite of command-line tools (regctl, regsync, regbot) for managing and inspecting OCI registries and images, supporting advanced features like multi-platform images and mirroring
 - Container Registries
-  - [GitLab Container Registry](https://docs.gitlab.com/ee/user/packages/container_registry/index.html) - A secure and private registry for Docker images
+  - 🪙 [GitLab Container Registry](https://docs.gitlab.com/ee/user/packages/container_registry/index.html) - A secure and private registry for Docker images
   - [Project Quay](https://www.projectquay.io/) - An open-source, container-native image registry designed for building, organizing, distributing, and deploying containers
-  - [Docker Hub](https://docs.docker.com/docker-hub/) - A cloud-based registry service that allows developers and teams to store, share, and distribute Docker container images
-  - [Amazon ECR](https://aws.amazon.com/ecr/) - A fully managed container registry that makes it easy to store, manage, share, and deploy your container images and artifacts
-  - [Azure Container Registry](https://azure.microsoft.com/en-us/services/container-registry/) - A private registry for managing container images and related artifacts
+  - 🪙 [Docker Hub](https://docs.docker.com/docker-hub/) - A cloud-based registry service that allows developers and teams to store, share, and distribute Docker container images
+  - 💲 [Amazon ECR](https://aws.amazon.com/ecr/) - A fully managed container registry that makes it easy to store, manage, share, and deploy your container images and artifacts
+  - 💲 [Azure Container Registry](https://azure.microsoft.com/en-us/services/container-registry/) - A private registry for managing container images and related artifacts
   - [Harbor](https://goharbor.io/) - An open source registry that secures artifacts with policies and role-based access control
 
 ### Environment & Management
@@ -176,7 +176,7 @@
   - [Docker Compose](https://docs.docker.com/compose/) - A tool for defining and running multi-container Docker applications
 - Development Environment Provisioning
   - [devcontainers CLI](https://github.com/devcontainers/cli) - A reference implementation for the specification that can create and configure a dev container from a devcontainer.json, providing commands for building, running, and managing development containers across different infrastructures
-  - [DevPod](https://devpod.sh/) - A client-only tool that enables dev-environments-as-code using the open standard devcontainer.json format, supporting any infrastructure including local machines, Kubernetes clusters, and cloud providers
+  - 🔒 [DevPod](https://devpod.sh/) - A client-only tool that enables dev-environments-as-code using the open standard devcontainer.json format, supporting any infrastructure including local machines, Kubernetes clusters, and cloud providers
 - Local Environment Provisioners (for Mac)
   - [Colima](https://github.com/abiosoft/colima) - A tool that provides container runtimes on macOS (and Linux) with minimal setup
   - [Lima](https://lima-vm.io/) - A tool that launches Linux virtual machines with automatic file sharing and port forwarding
@@ -268,7 +268,7 @@
     - [kube-prometheus](https://github.com/prometheus-operator/kube-prometheus) - A collection of Kubernetes manifests, Grafana dashboards, and Prometheus rules combined with documentation and scripts to provide easy to operate end-to-end Kubernetes cluster monitoring
   - [Grafana Operator](https://grafana.github.io/grafana-operator/) - A Kubernetes operator that streamlines the management of Grafana instances, dashboards, and data sources through custom resources in Kubernetes and OpenShift environments
   - [OpenTelemetry Operator](https://opentelemetry.io/docs/kubernetes/operator/) - An implementation of a Kubernetes Operator for OpenTelemetry
-  - [Elastic Cloud on Kubernetes (ECK)](https://www.elastic.co/elastic-cloud-kubernetes) - The official operator for the Elastic Stack on Kubernetes
+  - 🔒 [Elastic Cloud on Kubernetes (ECK)](https://www.elastic.co/elastic-cloud-kubernetes) - The official operator for the Elastic Stack on Kubernetes
   - [Rook](https://rook.io/) - An open source cloud-native storage orchestrator for Kubernetes
 - Dashboards
   - [k9s](https://k9scli.io/) - A terminal based UI to interact with your Kubernetes cluster
@@ -325,21 +325,21 @@
 ### Container as a Service (CaaS)
 
 - Managed Kubernetes
-  - [Google Kubernetes Engine (GKE)](https://cloud.google.com/kubernetes-engine) - A managed, production-ready environment for running containerized applications
-  - [Amazon Elastic Kubernetes Service](https://aws.amazon.com/eks/) - A managed service that makes it easy to run Kubernetes on AWS and on-premises
-  - [Azure Kubernetes Service (AKS)](https://azure.microsoft.com/en-us/products/kubernetes-service/) - A fully managed Kubernetes service for deploying and managing containerized applications
+  - 💲 [Google Kubernetes Engine (GKE)](https://cloud.google.com/kubernetes-engine) - A managed, production-ready environment for running containerized applications
+  - 💲 [Amazon Elastic Kubernetes Service](https://aws.amazon.com/eks/) - A managed service that makes it easy to run Kubernetes on AWS and on-premises
+  - 💲 [Azure Kubernetes Service (AKS)](https://azure.microsoft.com/en-us/products/kubernetes-service/) - A fully managed Kubernetes service for deploying and managing containerized applications
 - Simplified Container Hosting
-  - [Amazon Elastic Container Service](https://aws.amazon.com/ecs/) - A fully managed container orchestration service that helps you easily deploy, manage, and scale containerized applications
-  - [AWS Fargate](https://aws.amazon.com/fargate/) - A serverless compute engine for containers that works with both ECS and EKS
-  - [AWS App Runner](https://aws.amazon.com/apprunner/) - A fully managed service that makes it easy for developers to quickly deploy containerized web applications and APIs, at scale and with no prior infrastructure experience required
-  - [Azure Container Apps](https://azure.microsoft.com/en-us/products/container-apps/) - A fully managed serverless container service built on Kubernetes, integrating KEDA, Dapr, and Envoy for microservices and event-driven workloads
-  - [Google Cloud Run](https://cloud.google.com/run) - A managed compute platform that lets you run containers that are automatically scaled
+  - 💲 [Amazon Elastic Container Service](https://aws.amazon.com/ecs/) - A fully managed container orchestration service that helps you easily deploy, manage, and scale containerized applications
+  - 💲 [AWS Fargate](https://aws.amazon.com/fargate/) - A serverless compute engine for containers that works with both ECS and EKS
+  - 💲 [AWS App Runner](https://aws.amazon.com/apprunner/) - A fully managed service that makes it easy for developers to quickly deploy containerized web applications and APIs, at scale and with no prior infrastructure experience required
+  - 🪙 [Azure Container Apps](https://azure.microsoft.com/en-us/products/container-apps/) - A fully managed serverless container service built on Kubernetes, integrating KEDA, Dapr, and Envoy for microservices and event-driven workloads
+  - 🪙 [Google Cloud Run](https://cloud.google.com/run) - A managed compute platform that lets you run containers that are automatically scaled
 
 ### Function as a Service (FaaS)
 
-- [AWS Lambda](https://aws.amazon.com/lambda/) - A serverless, event-driven compute service that lets you run code for virtually any type of application or backend service without provisioning or managing servers
-- [Azure Functions](https://azure.microsoft.com/en-us/services/functions/) - An event-driven, serverless compute platform that helps you develop more efficiently using the programming language of your choice
-- [Google Cloud Run Functions](https://cloud.google.com/functions) - A serverless execution environment for building and connecting cloud services
+- 🪙 [AWS Lambda](https://aws.amazon.com/lambda/) - A serverless, event-driven compute service that lets you run code for virtually any type of application or backend service without provisioning or managing servers
+- 🪙 [Azure Functions](https://azure.microsoft.com/en-us/services/functions/) - An event-driven, serverless compute platform that helps you develop more efficiently using the programming language of your choice
+- 🪙 [Google Cloud Run Functions](https://cloud.google.com/functions) - A serverless execution environment for building and connecting cloud services
 
 ### Advanced Runtimes & Isolation
 
@@ -350,11 +350,11 @@
   - [Microsoft eXecution Container (MXC)](https://github.com/microsoft/mxc) - A cross-platform sandboxed code execution system for running untrusted code with multiple containment backends and policy-driven security controls across Windows, Linux, and macOS
   - [Cloud Hypervisor](https://www.cloudhypervisor.org/) - An open source Virtual Machine Monitor (VMM) implemented in Rust that focuses on running modern, cloud workloads, with minimal hardware emulation
   - [Firecracker](https://firecracker-microvm.github.io/) - An open source virtualization technology that is purpose-built for creating and managing secure, multi-tenant container and function-based services
-  - [AWS Lambda MicroVMs](https://aws.amazon.com/lambda/lambda-microvms/) - A serverless compute service that provides VM-level isolation with near-instant startup and resume capabilities, built on Firecracker virtualization technology
+  - 💲 [AWS Lambda MicroVMs](https://aws.amazon.com/lambda/lambda-microvms/) - A serverless compute service that provides VM-level isolation with near-instant startup and resume capabilities, built on Firecracker virtualization technology
   - [QEMU microvm](https://www.qemu.org/docs/master/system/i386/microvm.html) - A minimalist machine type without PCI nor ACPI support, designed for short-lived guests, and optimized for both boot time and footprint
   - [Docker Sandboxes](https://github.com/docker/sandboxes-releases) - The isolated, disposable environments designed to run AI coding agents in lightweight microVMs for enhanced security and system protection
-  - [Daytona](https://www.daytona.io/) - The secure infrastructure platform for running AI-generated code in isolated sandbox environments with sub-90ms creation times
-  - [Modal](https://modal.com/) - An AI infrastructure platform that provides a serverless cloud for engineers to build and scale compute-intensive applications in thousands of isolated sandboxes
+  - 💲 [Daytona](https://www.daytona.io/) - The secure infrastructure platform for running AI-generated code in isolated sandbox environments with sub-90ms creation times
+  - 🪙 [Modal](https://modal.com/) - An AI infrastructure platform that provides a serverless cloud for engineers to build and scale compute-intensive applications in thousands of isolated sandboxes
 - Virtualization & Container Storage
   - [virtiofs](https://virtio-fs.gitlab.io/) - A shared file system that lets virtual machines access a directory tree on the host
 - Image Services & Distribution
@@ -372,8 +372,8 @@
   - [Gateway API](https://gateway-api.sigs.k8s.io/) - The next generation of Kubernetes Ingress, Load Balancing, and Service Mesh APIs
   - [Istio](https://istio.io/) - An open source service mesh that layers transparently onto existing distributed applications
     - [Kiali](https://kiali.io/) - The service mesh observability and configuration tool for Istio
-  - [Linkerd](https://linkerd.io/) - An ultralight, security-first service mesh for Kubernetes
-  - [Hashicorp Consul](https://www.consul.io/) - A service networking solution to connect and secure services across any runtime platform and public or private cloud
+  - 🔒 [Linkerd](https://linkerd.io/) - An ultralight, security-first service mesh for Kubernetes
+  - 🔒 [Hashicorp Consul](https://www.consul.io/) - A service networking solution to connect and secure services across any runtime platform and public or private cloud
 - Edge Proxies & Ingress
   - [Envoy Proxy](https://www.envoyproxy.io/) - An open source edge and service proxy
   - [Traefik proxy](https://traefik.io/traefik/) - A leading modern open source reverse proxy and ingress controller
@@ -395,16 +395,16 @@
 ### Delivery & Deployment
 
 - Continuous Delivery Tools
-  - [Harness](https://harness.io/) - A modern software delivery platform that uses AI and automation to streamline CI/CD, GitOps, and cloud cost management
+  - 💲 [Harness](https://harness.io/) - A modern software delivery platform that uses AI and automation to streamline CI/CD, GitOps, and cloud cost management
   - [Jenkins](https://www.jenkins.io/) - An open source automation server which enables developers around the world to reliably build, test, and deploy their software
     - [Blue Ocean for Jenkins Pipelines](https://www.jenkins.io/projects/blueocean/) - A project that rethinks the user experience of Jenkins
     - [Python Jenkins](https://opendev.org/jjb/python-jenkins) - A Python wrapper for the Jenkins REST API
     - [JenkinsPipelineUnit](https://github.com/jenkinsci/JenkinsPipelineUnit) - A testing framework to unit test Jenkins pipelines written in Groovy or Declarative
-  - [GitLab CI/CD](https://docs.gitlab.com/ee/ci/) - A part of GitLab that you can use to automate the builds, integration, and verification of your source code
-  - [GitHub Actions](https://github.com/features/actions) - A feature that makes it easy to automate all your software workflows
+  - 🪙 [GitLab CI/CD](https://docs.gitlab.com/ee/ci/) - A part of GitLab that you can use to automate the builds, integration, and verification of your source code
+  - 🪙 [GitHub Actions](https://github.com/features/actions) - A feature that makes it easy to automate all your software workflows
     - [actionlint](https://github.com/rhysd/actionlint) - A static checker for GitHub Actions workflow files
     - [act](https://github.com/nektos/act) - A tool to run your GitHub Actions locally
-  - [Azure Pipelines](https://learn.microsoft.com/en-us/azure/devops/pipelines/) - A cloud service that you can use to automatically build and test your code project and make it available to other users
+  - 💲 [Azure Pipelines](https://learn.microsoft.com/en-us/azure/devops/pipelines/) - A cloud service that you can use to automatically build and test your code project and make it available to other users
 - Application Deployment
   - [Kamal](https://kamal-deploy.org/) - A tool to deploy web apps anywhere
 
@@ -421,11 +421,11 @@
 ### Integrations & Registries
 
 - Private Package Registries
-  - [JFrog Artifactory](https://jfrog.com/artifactory/) - A universal DevOps repository manager that allows you to store, manage, and distribute your software artifacts and their dependencies
-  - [GitLab Package Registry](https://docs.gitlab.com/ee/user/packages/package_registry/index.html) - A feature that allows you to publish and share packages for a variety of supported package managers
-  - [GitHub Packages](https://github.com/features/packages) - A software package hosting service that allows you to host your software packages privately or publicly
-  - [Nexus Repository Manager 3](https://help.sonatype.com/repomanager3) - A sophisticated repository manager
-  - [Azure Artifacts](https://learn.microsoft.com/en-us/azure/devops/artifacts/) - A service that enables you to create and share Maven, npm, NuGet, and Python package feeds from public and private sources
+  - 💲 [JFrog Artifactory](https://jfrog.com/artifactory/) - A universal DevOps repository manager that allows you to store, manage, and distribute your software artifacts and their dependencies
+  - 🪙 [GitLab Package Registry](https://docs.gitlab.com/ee/user/packages/package_registry/index.html) - A feature that allows you to publish and share packages for a variety of supported package managers
+  - 🪙 [GitHub Packages](https://github.com/features/packages) - A software package hosting service that allows you to host your software packages privately or publicly
+  - 🔒 [Nexus Repository Manager 3](https://help.sonatype.com/repomanager3) - A sophisticated repository manager
+  - 💲 [Azure Artifacts](https://learn.microsoft.com/en-us/azure/devops/artifacts/) - A service that enables you to create and share Maven, npm, NuGet, and Python package feeds from public and private sources
 
 ## System Observability
 
@@ -446,19 +446,19 @@
 - Monitoring Tools
   - [Uptime Kuma](https://uptime.kuma.pet/) - An easy-to-use self-hosted monitoring tool
 - Managed Platforms
-  - [Azure Monitor](https://docs.microsoft.com/en-us/azure/azure-monitor/overview) - A comprehensive solution for collecting, analyzing, and acting on telemetry from your cloud and on-premises environments
+  - 💲 [Azure Monitor](https://docs.microsoft.com/en-us/azure/azure-monitor/overview) - A comprehensive solution for collecting, analyzing, and acting on telemetry from your cloud and on-premises environments
     - [Kusto Query Language](https://docs.microsoft.com/en-us/azure/data-explorer/kusto/query/) - A powerful tool to explore your data and discover patterns, identify anomalies and outliers, create statistical models, and more
-    - [App Insights](https://docs.microsoft.com/en-us/azure/azure-monitor/app/app-insights-overview) - A feature of Azure Monitor, is an extensible Application Performance Management (APM) service for developers and DevOps professionals
-  - [AWS CloudWatch](https://aws.amazon.com/cloudwatch/) - A monitoring and observability service built for DevOps engineers, developers, site reliability engineers (SREs), and IT managers
-  - [Datadog](https://www.datadoghq.com/) - The integrated platform for monitoring & security
-  - [Sentry](https://sentry.io/) - An application monitoring platform that provides error tracking and performance monitoring to help developers see what matters and solve issues faster
+    - 💲 [App Insights](https://docs.microsoft.com/en-us/azure/azure-monitor/app/app-insights-overview) - A feature of Azure Monitor, is an extensible Application Performance Management (APM) service for developers and DevOps professionals
+  - 💲 [AWS CloudWatch](https://aws.amazon.com/cloudwatch/) - A monitoring and observability service built for DevOps engineers, developers, site reliability engineers (SREs), and IT managers
+  - 💲 [Datadog](https://www.datadoghq.com/) - The integrated platform for monitoring & security
+  - 🪙 [Sentry](https://sentry.io/) - An application monitoring platform that provides error tracking and performance monitoring to help developers see what matters and solve issues faster
 - Self-hosted (advanced)
-  - [SigNoz](https://signoz.io/) - An open-source Datadog or New Relic alternative for logs, metrics, traces, dashboards, alerts, and more
+  - 🔒 [SigNoz](https://signoz.io/) - An open-source Datadog or New Relic alternative for logs, metrics, traces, dashboards, alerts, and more
 - Visualization Tools
   - [Grafana](https://grafana.com/oss/grafana/) - The open source data visualization and monitoring solution
     - [Grafonnet](https://grafana.github.io/grafonnet/) - A Jsonnet library for generating Grafana dashboards
     - [gcx](https://github.com/grafana/gcx) - A CLI tool that provides structured access to Grafana resources—dashboards, alerts, SLOs, metrics, logs, and traces—and integrates with AI coding agents for observability-driven development workflows across Grafana Cloud, Enterprise, and self-hosted instances
-  - [Kibana](https://www.elastic.co/kibana) - A free and open user interface that lets you visualize your Elasticsearch data and navigate the Elastic Stack
+  - 🔒 [Kibana](https://www.elastic.co/kibana) - A free and open user interface that lets you visualize your Elasticsearch data and navigate the Elastic Stack
 
 ### Telemetry Shipment
 
@@ -487,7 +487,7 @@
     - [Awesome Prometheus Alerts](https://samber.github.io/awesome-prometheus-alerts/) - A collection of copy-pasteable Prometheus alerting rules spanning over 90 services and exporters
   - [Alertmanager](https://prometheus.io/docs/alerting/latest/alertmanager/) - A tool that handles alerts sent by client applications such as the Prometheus server
     - [amtool](https://github.com/prometheus/alertmanager/tree/main?tab=readme-ov-file#amtool) - A CLI tool for interacting with the Alertmanager API
-  - [InfluxDB](https://www.influxdata.com/products/influxdb-overview/) - A time series database built from the ground up to handle high write and query loads
+  - 🔒 [InfluxDB](https://www.influxdata.com/products/influxdb-overview/) - A time series database built from the ground up to handle high write and query loads
     - [InfluxQL](https://docs.influxdata.com/influxdb/v1/query_language/) - An SQL-like query language for interacting with data in InfluxDB
     - [influx cli](https://docs.influxdata.com/influxdb/cloud/reference/cli/influx/) - The command line interface for InfluxDB 2.0
   - [Grafana Mimir](https://grafana.com/oss/mimir/) - An open source, horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus
@@ -496,13 +496,13 @@
       - [LogCLI](https://grafana.com/docs/loki/latest/query/logcli/) - The command line interface for Loki
   - [Grafana Tempo](https://grafana.com/oss/tempo/) - An open source, easy-to-use and high-scale distributed tracing backend
     - [TraceQL](https://grafana.com/docs/tempo/latest/traceql/) - A query language designed for selecting traces
-  - [ElasticSearch](https://www.elastic.co/elasticsearch/) - An open source distributed, RESTful search and analytics engine, scalable data store, and vector database
+  - 🔒 [ElasticSearch](https://www.elastic.co/elasticsearch/) - An open source distributed, RESTful search and analytics engine, scalable data store, and vector database
     - [Elastic Common Schema](https://www.elastic.co/guide/en/ecs/current/index.html) - An open source specification, developed with support from the Elastic user community
     - [Ingest pipelines](https://www.elastic.co/guide/en/elasticsearch/reference/current/ingest.html) - A feature that lets you perform common transformations on your data before indexing
     - [Dissect and Grok](https://www.elastic.co/guide/en/elasticsearch/reference/current/esql-process-data-with-dissect-and-grok.html) - The processors that let you extract structured fields out of a single text field
   - [Graphite](https://grafana.com/oss/graphite/) - A highly scalable real-time graphing system
   - [Grafana Alerting](https://grafana.com/docs/grafana/latest/alerting/) - A feature that allows you to create and manage alerts for your data
-  - [OpenObserve](https://openobserve.ai/) - An open-source observability platform designed for modern applications
+  - 🔒 [OpenObserve](https://openobserve.ai/) - An open-source observability platform designed for modern applications
 
 ## SRE (Site Reliability Engineering)
 
@@ -521,22 +521,22 @@
 ### Fleet Management & Operations
 
 - Fleet Management
-  - [AWS Systems Manager](https://aws.amazon.com/systems-manager/) - A secure end-to-end management solution for resources on AWS and in multicloud and hybrid environments
-  - [Azure Automation](https://azure.microsoft.com/en-us/products/automation) - A cloud-based automation and configuration service that supports consistent management across your Azure and non-Azure environments
-    - [Azure Update Manager](https://learn.microsoft.com/en-us/azure/update-manager/) - A unified service to help manage and govern updates for all your machines
+  - 💲 [AWS Systems Manager](https://aws.amazon.com/systems-manager/) - A secure end-to-end management solution for resources on AWS and in multicloud and hybrid environments
+  - 💲 [Azure Automation](https://azure.microsoft.com/en-us/products/automation) - A cloud-based automation and configuration service that supports consistent management across your Azure and non-Azure environments
+    - 💲 [Azure Update Manager](https://learn.microsoft.com/en-us/azure/update-manager/) - A unified service to help manage and govern updates for all your machines
 - Backup
   - Vendor-specific Tools
-    - [AWS Backup](https://aws.amazon.com/backup/) - A fully managed service that centralizes and automates data protection across AWS services, in the cloud, and on premises
-    - [Azure Backup](https://azure.microsoft.com/en-us/products/backup/) - A service that provides simple, secure, and cost-effective solutions to back up your data and recover it from the Microsoft Azure cloud
+    - 💲 [AWS Backup](https://aws.amazon.com/backup/) - A fully managed service that centralizes and automates data protection across AWS services, in the cloud, and on premises
+    - 💲 [Azure Backup](https://azure.microsoft.com/en-us/products/backup/) - A service that provides simple, secure, and cost-effective solutions to back up your data and recover it from the Microsoft Azure cloud
   - K8s-specific Tools
     - [Velero](https://velero.io/) - An open source tool to safely back up and restore, perform disaster recovery, and migrate Kubernetes cluster resources and persistent volumes
   - Generic
     - [Barman](https://pgbarman.org/) - A disaster recovery solution for PostgreSQL databases, designed to ensure business continuity by simplifying online hot backups
     - [Restic](https://restic.net/) - A fast, secure, efficient backup program
 - Runbook Automation
-  - [RunDeck](https://www.rundeck.com/) - An open source automation platform that helps you automate routine operational procedures in data center or cloud environments
+  - 🔒 [RunDeck](https://www.rundeck.com/) - An open source automation platform that helps you automate routine operational procedures in data center or cloud environments
 - AIOps & Autonomous Agents
-  - [Azure SRE Agent](https://aka.ms/sreagent) - An AI-powered service designed to automate Site Reliability Engineering practices by monitoring, diagnosing, and helping resolve incidents
+  - 💲 [Azure SRE Agent](https://aka.ms/sreagent) - An AI-powered service designed to automate Site Reliability Engineering practices by monitoring, diagnosing, and helping resolve incidents
   - [Mezmo Aura](https://www.mezmo.com/aura) - An open-source agentic harness designed specifically for Site Reliability Engineering (SRE) and production AI operations
 
 ### Chaos Engineering
@@ -557,7 +557,7 @@
 - FinOps Tools
   - [FinOps toolkit](https://microsoft.github.io/finops-toolkit/) - A collection of tools, resources, and best practices for implementing FinOps in your organization
   - [AWS Cost Explorer](https://aws.amazon.com/aws-cost-management/aws-cost-explorer/) - A tool that enables you to view and analyze your costs and usage
-  - [Infracost](https://www.infracost.io/) - A tool that shows cloud cost estimates for Terraform, CloudFormation, and other infrastructure-as-code projects
+  - 🔒 [Infracost](https://www.infracost.io/) - A tool that shows cloud cost estimates for Terraform, CloudFormation, and other infrastructure-as-code projects
   - [OpenCost](https://www.opencost.io/) - The open source solution for monitoring Kubernetes spend
   - [Cloud Custodian](https://cloudcustodian.io/) - A rules engine for managing public cloud accounts and resources
 
@@ -576,7 +576,7 @@
 - [Hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
 - [Locust](https://locust.io/) - An easy-to-use, distributed, user load testing tool
 - [Grafana k6](https://k6.io/) - The open-source load testing tool that makes performance testing easy and productive for engineering teams
-- [Gatling](https://gatling.io/) - The load testing tool for programmers that helps engineering teams shift performance concerns left
+- 🔒 [Gatling](https://gatling.io/) - The load testing tool for programmers that helps engineering teams shift performance concerns left
 - [Apache Jmeter](https://jmeter.apache.org/) - A pure Java application designed to load test functional behavior and measure performance
 - [ab](https://httpd.apache.org/docs/2.4/programs/ab.html) - A tool for benchmarking your Apache Hypertext Transfer Protocol (HTTP) server
 - [stress-ng](https://github.com/ColinIanKing/stress-ng) - A tool that imposes configurable amounts of CPU, memory, I/O, and disk stress on the system

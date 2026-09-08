@@ -116,7 +116,7 @@
 
 ### シークレット管理
 
-- [Vault](https://www.vaultproject.io/) - API キー、パスワード、証明書などのシークレットに安全にアクセスするためのツールです
+- 🔒 [Vault](https://www.vaultproject.io/) - API キー、パスワード、証明書などのシークレットに安全にアクセスするためのツールです
 - [OneCLI](https://www.onecli.sh/) - シークレットを暗号化されたボールトに保存し、キーを公開することなくエージェントのリクエストに注入する、AI エージェント向けのオープンソースの認証情報ボールトおよびプロキシゲートウェイです
 - [SOPS](https://github.com/mozilla/sops) - YAML、JSON、ENV、INI、BINARY 形式に対応した暗号化ファイルのエディタです
 - [git-secret](https://git-secret.io/) - 秘密のデータを git リポジトリ内に保存するための bash ツールです
@@ -125,10 +125,10 @@
   - [Secrets Store CSI Driver](https://secrets-store-csi-driver.sigs.k8s.io/) - エンタープライズグレードの外部シークレットストアに保存された複数のシークレット、鍵、証明書をボリュームとして Pod にマウントできるようにするドライバーです
   - [External Secrets Operator](https://external-secrets.io/latest/) - AWS Secrets Manager、HashiCorp Vault、Google Secrets Manager、Azure Key Vault、IBM Cloud Secrets Manager などの外部シークレット管理システムを統合する Kubernetes オペレーターです
 - ベンダーサービス
-  - [Azure Key Vault](https://azure.microsoft.com/en-us/products/key-vault/) - クラウドアプリやサービスで使用される暗号鍵やその他のシークレットを保護するクラウドサービスです
-  - [Google Cloud Secret Manager](https://cloud.google.com/security/products/secret-manager) - API キー、パスワード、証明書などの機密データのための安全で便利なストレージシステムです
-  - [AWS Key Management Service](https://aws.amazon.com/kms/) - 暗号鍵の作成と管理を容易にするサービスです
-  - [AWS Secrets Manager](https://aws.amazon.com/secrets-manager/) - アプリケーション、サービス、IT リソースへのアクセスを保護するシークレット管理サービスです
+  - 💲 [Azure Key Vault](https://azure.microsoft.com/en-us/products/key-vault/) - クラウドアプリやサービスで使用される暗号鍵やその他のシークレットを保護するクラウドサービスです
+  - 💲 [Google Cloud Secret Manager](https://cloud.google.com/security/products/secret-manager) - API キー、パスワード、証明書などの機密データのための安全で便利なストレージシステムです
+  - 💲 [AWS Key Management Service](https://aws.amazon.com/kms/) - 暗号鍵の作成と管理を容易にするサービスです
+  - 💲 [AWS Secrets Manager](https://aws.amazon.com/secrets-manager/) - アプリケーション、サービス、IT リソースへのアクセスを保護するシークレット管理サービスです
 
 ### 応用暗号技術とツール
 
@@ -168,14 +168,14 @@
 
 - [Identity management](https://en.wikipedia.org/wiki/Identity_management) - 企業内の適切な人物がテクノロジーリソースへの適切なアクセス権を持つことを保証するためのポリシーとテクノロジーの枠組みです
 - セルフホスト型 IAM プラットフォーム
-  - [FusionAuth CE](https://fusionauth.io/) - FusionAuth のセルフホスト型・コミュニティサポート版です
+  - 🔒 [FusionAuth CE](https://fusionauth.io/) - FusionAuth のセルフホスト型・コミュニティサポート版です
   - [KeyCloak](https://www.keycloak.org/) - オープンソースの ID・アクセス管理ソリューションです
   - [FreeIPA](https://www.freeipa.org/) - Linux、389 Directory Server、MIT Kerberos、NTP、DNS、証明書システムを組み合わせた統合セキュリティ情報管理ソリューションです
 - クラウド IAM サービス
-  - [Microsoft Entra ID](https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-id) - クラウドベースの ID・アクセス管理サービスです
+  - 🪙 [Microsoft Entra ID](https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-id) - クラウドベースの ID・アクセス管理サービスです
   - [AWS IAM](https://aws.amazon.com/iam/) - AWS リソースへのアクセスを安全に制御するサービスです
-  - [Amazon Cognito](https://aws.amazon.com/cognito/) - Web アプリやモバイルアプリにユーザー登録、サインイン、アクセス制御を追加できるサービスです
-  - [Auth0](https://auth0.com/) - アプリケーションに認証・認可サービスを追加できる柔軟な組み込み型ソリューションです
+  - 🪙 [Amazon Cognito](https://aws.amazon.com/cognito/) - Web アプリやモバイルアプリにユーザー登録、サインイン、アクセス制御を追加できるサービスです
+  - 🪙 [Auth0](https://auth0.com/) - アプリケーションに認証・認可サービスを追加できる柔軟な組み込み型ソリューションです
 - [Directory service](https://en.wikipedia.org/wiki/Directory_service) - ネットワークリソースの名前をそれぞれのネットワークアドレスに対応付けるサービスです
   - [LDAP](https://en.wikipedia.org/wiki/Lightweight_Directory_Access_Protocol) - 分散ディレクトリ情報サービスへのアクセスと維持のためのオープンでベンダーニュートラルな業界標準アプリケーションプロトコルです
   - [OpenLDAP](https://www.openldap.org/) - Lightweight Directory Access Protocol のオープンソース実装です
@@ -213,9 +213,9 @@
   - [AWS Signature Version 4 (SigV4)](https://docs.aws.amazon.com/IAM/latest/UserGuide/reference_sigv.html) - HTTP で送信される AWS API リクエストに認証情報を追加するプロセスです
 - プラットフォームとツール
   - [Dex](https://dexidp.io/) - フェデレーテッドな OpenID Connect プロバイダーです
-  - [Firebase Authentication](https://firebase.google.com/docs/auth) - アプリのユーザーを認証するためのバックエンドサービス、使いやすい SDK、既製の UI ライブラリを提供するサービスです
-  - [Supabase Auth](https://supabase.com/docs/guides/database/overview) - Supabase プロジェクトのユーザー管理とアクセス制御を提供するサービスです
-  - [ReCAPTCHA](https://en.wikipedia.org/wiki/ReCAPTCHA) - Web ホストがウェブサイトへの人間によるアクセスと自動化されたアクセスを区別できるようにする CAPTCHA システムです
+  - 🪙 [Firebase Authentication](https://firebase.google.com/docs/auth) - アプリのユーザーを認証するためのバックエンドサービス、使いやすい SDK、既製の UI ライブラリを提供するサービスです
+  - 🪙 [Supabase Auth](https://supabase.com/docs/guides/database/overview) - Supabase プロジェクトのユーザー管理とアクセス制御を提供するサービスです
+  - 🪙 [ReCAPTCHA](https://en.wikipedia.org/wiki/ReCAPTCHA) - Web ホストがウェブサイトへの人間によるアクセスと自動化されたアクセスを区別できるようにする CAPTCHA システムです
   - [Microsoft Authentication Library (MSAL)](https://learn.microsoft.com/en-us/azure/active-directory/develop/msal-overview) - 開発者がアプリケーションに認証・認可を統合するのを助けるライブラリです
   - [Application Default Credentials (ADC)](https://cloud.google.com/docs/authentication/provide-credentials-adc) - Google Cloud クライアントライブラリがアプリケーション環境に基づいて認証情報を自動的に検出するために使用する仕組みです
   - [Limen](https://limenauth.dev/) - セッション、パスワードハッシュ化、OAuth、CSRF 保護を提供する、Go 向けの軽量で組み合わせ可能な認証・認可ライブラリです
@@ -295,20 +295,20 @@
 ### アプリケーションセキュリティテスト (AST)
 
 - 統合セキュリティプラットフォーム
-  - [GitHub Advanced Security](https://github.com/security/advanced-security) - 漏えいを未然に防ぐ Secret Protection とコードの脆弱性を修正する Code Security を組み合わせたスイートで、開発速度に見合ったセキュリティを提供します
+  - 💲 [GitHub Advanced Security](https://github.com/security/advanced-security) - 漏えいを未然に防ぐ Secret Protection とコードの脆弱性を修正する Code Security を組み合わせたスイートで、開発速度に見合ったセキュリティを提供します
 - 静的解析 (SAST)
-  - [SonarQube Server](https://www.sonarsource.com/products/sonarqube/) - クリーンなコードを体系的に提供できるよう支援する、セルフマネージドの自動コードレビューツールです
-  - [GitLab SAST](https://docs.gitlab.com/ee/user/application_security/sast/index.html) - ソースコード内の既知の脆弱性をチェックするツールです
+  - 🔒 [SonarQube Server](https://www.sonarsource.com/products/sonarqube/) - クリーンなコードを体系的に提供できるよう支援する、セルフマネージドの自動コードレビューツールです
+  - 🪙 [GitLab SAST](https://docs.gitlab.com/ee/user/application_security/sast/index.html) - ソースコード内の既知の脆弱性をチェックするツールです
   - [Bandit](https://github.com/PyCQA/bandit) (for Python) - Python コード内の一般的なセキュリティ上の問題を見つけるよう設計されたツールです
   - [Semgrep OSS](https://github.com/semgrep/semgrep) - バグを見つけコード標準を強制するための、高速でオープンソースの静的解析ツールです
-  - [Fluid attacks](https://docs.fluidattacks.com/tech/scanner/plans/foss/) - ソースコード、コンテナ、依存関係の脆弱性を発見できるセキュリティツールです
-  - [CodeQL](https://codeql.github.com/) - コードをデータであるかのようにクエリして脆弱性やその亜種を見つけられるセマンティックコード解析エンジンです
+  - 🪙 [Fluid attacks](https://docs.fluidattacks.com/tech/scanner/plans/foss/) - ソースコード、コンテナ、依存関係の脆弱性を発見できるセキュリティツールです
+  - 🔒 [CodeQL](https://codeql.github.com/) - コードをデータであるかのようにクエリして脆弱性やその亜種を見つけられるセマンティックコード解析エンジンです
 - 動的解析 (DAST)
   - [ZAP](https://zaproxy.org/) - 世界で最も広く使われている Web アプリスキャナーで、無料かつオープンソースであり、誰もが貢献できるコミュニティベースの GitHub Top 1000 プロジェクトでもあります
   - [Nuclei](https://github.com/projectdiscovery/nuclei) - シンプルな YAML ベースの DSL 上に構築され、世界中のセキュリティコミュニティによって支えられている高速でカスタマイズ可能な脆弱性スキャナーです
   - [sqlmap](https://github.com/sqlmapproject/sqlmap) - SQL インジェクションの欠陥の検出・悪用とデータベースサーバーの乗っ取りを自動化するオープンソースのペネトレーションテストツールです
 - シークレット検出
-  - [GitLab Secret Detection](https://docs.gitlab.com/ee/user/application_security/secret_detection/) - リポジトリの履歴をスキャンしてシークレットを検出するツールです
+  - 🪙 [GitLab Secret Detection](https://docs.gitlab.com/ee/user/application_security/secret_detection/) - リポジトリの履歴をスキャンしてシークレットを検出するツールです
   - [Gitleaks](https://gitleaks.io/) - git リポジトリ内にハードコードされたパスワード、API キー、トークンなどのシークレットを検出・防止する SAST ツールです
   - [secretlint](https://github.com/secretlint/secretlint) - 認証情報のコミットを防止するプラガブルなリンティングツールです
   - [Talisman](https://thoughtworks.github.io/talisman/) - 潜在的なシークレットや機密情報がコミットされないようリポジトリにフックをインストールするツールです
@@ -326,7 +326,7 @@
 ### Infrastructure as Code (IaC) セキュリティ
 
 - [Trivy](https://aquasecurity.github.io/trivy/) - 包括的で汎用性の高いセキュリティスキャナーです
-- [Defender for Cloud CLI](https://learn.microsoft.com/en-us/azure/defender-for-cloud/defender-cli-overview) - CI/CD パイプラインでセキュリティスキャンをオーケストレーションし、結果を Microsoft Defender for Cloud にアップロードしてポスチャー管理と優先順位付けを行う、開発者ファーストのコマンドラインツールです
+- 💲 [Defender for Cloud CLI](https://learn.microsoft.com/en-us/azure/defender-for-cloud/defender-cli-overview) - CI/CD パイプラインでセキュリティスキャンをオーケストレーションし、結果を Microsoft Defender for Cloud にアップロードしてポスチャー管理と優先順位付けを行う、開発者ファーストのコマンドラインツールです
 - [checkov](https://www.checkov.io/) - Infrastructure as Code (IaC) ファイルの設定ミスをスキャンする静的コード解析ツールです
 - [Haskell Dockerfile Linter](https://github.com/hadolint/hadolint#readme) - ベストプラクティスに沿った Docker イメージの構築を支援する、よりスマートな Dockerfile リンターです
 - [kube-score](https://kube-score.com/) - Kubernetes オブジェクト定義の静的コード解析を実行するツールです
@@ -346,10 +346,10 @@
   - 脆弱性スキャン
     - [Grype](https://github.com/anchore/grype) - コンテナイメージとファイルシステム向けの脆弱性スキャナーです
     - [OSV-scanner](https://google.github.io/osv-scanner/) - OSV 公式の脆弱性スキャナーです
-    - [Safety](https://github.com/pyupio/safety/) - インストール済みの依存関係を既知のセキュリティ脆弱性についてチェックするツールです
+    - 🪙 [Safety](https://github.com/pyupio/safety/) - インストール済みの依存関係を既知のセキュリティ脆弱性についてチェックするツールです
     - [Clair](https://github.com/quay/clair) - アプリケーションコンテナ内の脆弱性を静的解析するオープンソースプロジェクトです
-    - [GitLab Container Scanning](https://docs.gitlab.com/ee/user/application_security/container_scanning/) - Docker イメージ内の既知の脆弱性をチェックするツールです
-    - [JFrog Xray](https://jfrog.com/xray/) - ソフトウェアサプライチェーン全体にわたって脆弱性とライセンスコンプライアンスの問題を特定するアプリケーションセキュリティツールです
+    - 🪙 [GitLab Container Scanning](https://docs.gitlab.com/ee/user/application_security/container_scanning/) - Docker イメージ内の既知の脆弱性をチェックするツールです
+    - 💲 [JFrog Xray](https://jfrog.com/xray/) - ソフトウェアサプライチェーン全体にわたって脆弱性とライセンスコンプライアンスの問題を特定するアプリケーションセキュリティツールです
   - ライセンスと依存関係の分析
     - [Feluda](https://github.com/anistark/feluda) - Python プロジェクト向けの非常に高速な依存関係グラフ生成ツールです
   - 依存関係の自動更新
@@ -379,12 +379,12 @@
 ### クラウドネイティブアプリケーション保護 (CNAPP)
 
 - [The 4 Cs of Cloud-Native Systems](https://www.trendmicro.com/vinfo/us/security/news/virtualization-and-cloud/securing-the-4-cs-of-cloud-native-systems-cloud-cluster-container-and-code) - クラウドネイティブアプリケーションに多層的な保護を提供するために、セキュリティ戦略を 4 つの層に分割する多層防御アプローチです
-- [Microsoft Defender for Cloud](https://azure.microsoft.com/en-us/services/defender-for-cloud/) - クラウドベースのアプリケーションを保護するために設計された一連のセキュリティ対策とプラクティスを備えたクラウドネイティブアプリケーション保護プラットフォーム (CNAPP) です
+- 💲 [Microsoft Defender for Cloud](https://azure.microsoft.com/en-us/services/defender-for-cloud/) - クラウドベースのアプリケーションを保護するために設計された一連のセキュリティ対策とプラクティスを備えたクラウドネイティブアプリケーション保護プラットフォーム (CNAPP) です
 - クラウドセキュリティポスチャー管理 (CSPM)
-  - [AWS Security Hub](https://aws.amazon.com/security-hub/) - セキュリティのベストプラクティスチェックを実行し、アラートを集約し、自動修復を可能にするクラウドセキュリティポスチャー管理 (CSPM) サービスです
-  - [cnquery](https://mondoo.com/cnquery) - インフラストラクチャ全体をデータとしてクエリできる、クラウドネイティブでグラフベースのセキュリティツールです
+  - 💲 [AWS Security Hub](https://aws.amazon.com/security-hub/) - セキュリティのベストプラクティスチェックを実行し、アラートを集約し、自動修復を可能にするクラウドセキュリティポスチャー管理 (CSPM) サービスです
+  - 🔒 [cnquery](https://mondoo.com/cnquery) - インフラストラクチャ全体をデータとしてクエリできる、クラウドネイティブでグラフベースのセキュリティツールです
 - クラウドワークロード保護プラットフォーム (CWPP)
-  - [Amazon Inspector](https://aws.amazon.com/inspector/) - AWS にデプロイされたアプリケーションのセキュリティとコンプライアンスの向上を支援する自動セキュリティ評価サービスです
+  - 💲 [Amazon Inspector](https://aws.amazon.com/inspector/) - AWS にデプロイされたアプリケーションのセキュリティとコンプライアンスの向上を支援する自動セキュリティ評価サービスです
   - [Falco](https://falco.org/) - クラウドネイティブランタイムセキュリティプロジェクトです
   - [Tracee](https://aquasecurity.github.io/tracee/latest/) - Linux 向けの強力なランタイムセキュリティ・フォレンジックツールです
   - [ClamAV](https://www.clamav.net/) - トロイの木馬、ウイルス、マルウェア、その他の悪意ある脅威を検出するオープンソースのアンチウイルスエンジンです
@@ -398,12 +398,12 @@
   - [Managed detection and response (MDR)](https://en.wikipedia.org/wiki/Managed_detection_and_response) - 組織に脅威ハンティングサービスを提供し、脅威が発見された後に対応するアウトソーシングサービスです
 - SIEM と SOAR
   - [Security orchestration, automation and response (SOAR)](https://en.wikipedia.org/wiki/Security_orchestration) - 組織がセキュリティ脅威に関するデータを収集できるようにする互換性のあるソフトウェアプログラム群です
-  - [Microsoft Sentinel](https://azure.microsoft.com/en-us/products/microsoft-sentinel) - スケーラブルでクラウドネイティブなセキュリティ情報イベント管理 (SIEM) およびセキュリティオーケストレーション・自動化・対応 (SOAR) ソリューションです
-  - [Amazon GuardDuty](https://aws.amazon.com/guardduty/) - 悪意ある活動や不正な挙動を継続的に監視する脅威検出サービスです
+  - 💲 [Microsoft Sentinel](https://azure.microsoft.com/en-us/products/microsoft-sentinel) - スケーラブルでクラウドネイティブなセキュリティ情報イベント管理 (SIEM) およびセキュリティオーケストレーション・自動化・対応 (SOAR) ソリューションです
+  - 💲 [Amazon GuardDuty](https://aws.amazon.com/guardduty/) - 悪意ある活動や不正な挙動を継続的に監視する脅威検出サービスです
 - 検出と監査
   - [Sigma Detection Format](https://sigmahq.io/) - 関連するログイベントを分かりやすく記述できる汎用的でオープンなシグネチャフォーマットです
-  - [AWS CloudTrail](https://aws.amazon.com/cloudtrail/) - AWS アカウントの運用・リスク監査、ガバナンス、コンプライアンスを実現する AWS サービスです
-  - [AWS Config](https://aws.amazon.com/config/) - AWS リソースの構成を評価、監査、査定できるサービスです
+  - 💲 [AWS CloudTrail](https://aws.amazon.com/cloudtrail/) - AWS アカウントの運用・リスク監査、ガバナンス、コンプライアンスを実現する AWS サービスです
+  - 💲 [AWS Config](https://aws.amazon.com/config/) - AWS リソースの構成を評価、監査、査定できるサービスです
 
 ### ポリシー適用
 
@@ -458,11 +458,11 @@
 ### ファイアウォールとネットワーク保護
 
 - Web アプリケーションファイアウォール (WAF)
-  - [AWS WAF](https://aws.amazon.com/waf/) - Web アプリケーションや API を一般的な Web エクスプロイトやボットから保護する Web アプリケーションファイアウォールです
-  - [Azure Web Application Firewall](https://azure.microsoft.com/en-us/products/web-application-firewall/) - 一般的な Web ハッキング手法や脆弱性から Web アプリを保護するクラウドネイティブサービスです
+  - 💲 [AWS WAF](https://aws.amazon.com/waf/) - Web アプリケーションや API を一般的な Web エクスプロイトやボットから保護する Web アプリケーションファイアウォールです
+  - 💲 [Azure Web Application Firewall](https://azure.microsoft.com/en-us/products/web-application-firewall/) - 一般的な Web ハッキング手法や脆弱性から Web アプリを保護するクラウドネイティブサービスです
 - ネットワークレベルの保護
-  - [AWS Shield](https://aws.amazon.com/shield/) - AWS 上で稼働するアプリケーションを保護するマネージド型の分散サービス拒否 (DDoS) 保護サービスです
-  - [Azure DDoS Protection](https://azure.microsoft.com/en-us/products/ddos-protection) - 最も高度な DDoS の脅威に対する対策を提供するサービスです
+  - 💲 [AWS Shield](https://aws.amazon.com/shield/) - AWS 上で稼働するアプリケーションを保護するマネージド型の分散サービス拒否 (DDoS) 保護サービスです
+  - 💲 [Azure DDoS Protection](https://azure.microsoft.com/en-us/products/ddos-protection) - 最も高度な DDoS の脅威に対する対策を提供するサービスです
   - [Fail2ban](https://github.com/fail2ban/fail2ban) - コンピュータサーバーをブルートフォース攻撃から保護する侵入防止ソフトウェアフレームワークです
   - [Snort](https://www.snort.org/) (IPS) - 世界を代表するオープンソースの侵入防止システム (IPS) です
 - ホストベースのファイアウォール
@@ -498,14 +498,14 @@
 ### データガバナンス
 
 - [Unity Catalog](https://unitycatalog.io/) - 様々な形式やプラットフォーム間で相互運用性、開放性、統一されたガバナンスを提供する、データと AI のための汎用カタログです
-- [Microsoft Purview](https://www.microsoft.com/en-us/security/business/microsoft-purview) - 組織が異種混在のデータ資産全体にわたってデータを保護・統治することを支援する統合的なアプローチです
-- [Amazon DataZone](https://aws.amazon.com/datazone/) - AWS、オンプレミス、サードパーティのソースに保存されたデータのカタログ化、発見、共有、統治を顧客がより迅速かつ簡単に行えるようにするデータ管理サービスです
+- 💲 [Microsoft Purview](https://www.microsoft.com/en-us/security/business/microsoft-purview) - 組織が異種混在のデータ資産全体にわたってデータを保護・統治することを支援する統合的なアプローチです
+- 💲 [Amazon DataZone](https://aws.amazon.com/datazone/) - AWS、オンプレミス、サードパーティのソースに保存されたデータのカタログ化、発見、共有、統治を顧客がより迅速かつ簡単に行えるようにするデータ管理サービスです
 
 ### AI ガバナンスとセキュリティ
 
 - [ISO/IEC 42001](https://www.iso.org/standard/42001) - 組織内で AI マネジメントシステム (AIMS) を確立、実装、維持、継続的に改善するための要件を規定する、世界初の AI マネジメントシステム標準です
 - [METR](https://metr.org/) - AI システムが社会に破滅的な害をもたらす脅威となるかどうか、またそれがいつになるかを科学的に測定する研究非営利団体です
-- [Microsoft Agent 365](https://www.microsoft.com/en-us/microsoft-agent-365) - 企業環境内の自律型 AI エージェントを監督するために設計された集中型のガバナンス・管理プラットフォームです
+- 💲 [Microsoft Agent 365](https://www.microsoft.com/en-us/microsoft-agent-365) - 企業環境内の自律型 AI エージェントを監督するために設計された集中型のガバナンス・管理プラットフォームです
 
 ### 規制と標準
 
@@ -576,7 +576,7 @@
 ### パーソナルセキュリティツール
 
 - パスワードマネージャー
-  - [1Password](https://1password.com/) - 人間と AI エージェントの両方にわたって ID、認証情報、シークレットを管理するパスワードマネージャーおよびセキュアボールトプラットフォームです
+  - 💲 [1Password](https://1password.com/) - 人間と AI エージェントの両方にわたって ID、認証情報、シークレットを管理するパスワードマネージャーおよびセキュアボールトプラットフォームです
   - [pass](https://www.passwordstore.org/) - 標準的な unix パスワードマネージャーです
   - [gokey](https://github.com/cloudflare/gokey) - Go で書かれたシンプルなボールトレスパスワードマネージャーです
   - [Buttercup](https://buttercup.pw/) - 無料、オープンソース、クロスプラットフォームのパスワードマネージャーです

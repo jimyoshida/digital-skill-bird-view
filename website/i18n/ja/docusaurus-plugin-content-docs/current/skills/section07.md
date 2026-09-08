@@ -112,8 +112,8 @@
 - 原則と格言
   - [Linus's law](https://en.wikipedia.org/wiki/Linus%27s_law) - 「十分な目玉があれば、すべてのバグは深刻ではない」という主張であり、オープンソース開発における重要な原則です
 - ソースリポジトリ
-  - [GitHub](https://github.com/) - 安全なソフトウェアを構築、拡張、提供するための AI 駆動の開発者プラットフォームです
-  - [GitLab.com](https://about.gitlab.com/) - 組織がソフトウェア開発の全体的な投資対効果を最大化できるようにする DevSecOps プラットフォームです
+  - 🪙 [GitHub](https://github.com/) - 安全なソフトウェアを構築、拡張、提供するための AI 駆動の開発者プラットフォームです
+  - 🪙 [GitLab.com](https://about.gitlab.com/) - 組織がソフトウェア開発の全体的な投資対効果を最大化できるようにする DevSecOps プラットフォームです
 - パッケージレジストリ
   - [CTAN](https://ctan.org/) - Comprehensive TEX Archive Network です
   - [CPAN](https://www.cpan.org/) - Comprehensive Perl Archive Network です
@@ -130,7 +130,7 @@
   - [NuGet Gallery](https://www.nuget.org/) - .NET 向けのパッケージマネージャーです
   - [Maven Central](https://central.sonatype.com/) - 世界最大かつ最古のコンポーネントリポジトリです
   - [ConanCenter](https://conan.io/center) - コミュニティによって作成されたすべてのオープンソースパッケージを見つけられる中心的なリポジトリです
-  - [Anaconda Hub](https://www.anaconda.com/products) - データサイエンスと AI コラボレーションのためのハブです
+  - 🪙 [Anaconda Hub](https://www.anaconda.com/products) - データサイエンスと AI コラボレーションのためのハブです
 
 ### オープンデータ
 
@@ -138,7 +138,7 @@
   - [Creative Commons](https://creativecommons.org/) - 世界の差し迫った課題に取り組むために、知識と創造性の共有に対する法的障壁を克服する手助けをする非営利団体です
   - [Open Data Commons](https://opendatacommons.org/) - オープンデータの公開、提供、利用を支援する一連の法的ツールとライセンスの拠点です
 - オープンデータレジストリ
-  - [Hugging Face Hub](https://huggingface.co/docs/hub/index) - 90 万を超えるモデル、20 万のデータセット、30 万のデモを備えたプラットフォームで、人々が ML ワークフローで簡単に協業できます
+  - 🪙 [Hugging Face Hub](https://huggingface.co/docs/hub/index) - 90 万を超えるモデル、20 万のデータセット、30 万のデモを備えたプラットフォームで、人々が ML ワークフローで簡単に協業できます
   - [Data.gov](https://data.gov/) - 米国政府のオープンデータの拠点です
   - [Kaggle](https://www.kaggle.com/) - データサイエンスの目標達成を支援する強力なツールとリソースを備えた、世界最大のデータサイエンスコミュニティです
   - [Registry of Open Data on AWS](https://registry.opendata.aws/) - AWS サービスを通じて公開されているデータセットを人々が簡単に見つけられるようにするサービスです
@@ -311,14 +311,14 @@
 
 ### Git ホスティングサービス
 
-- [GitLab SCM](https://about.gitlab.com/solutions/source-code-management/) - コードとプロジェクトの共同作業のための単一の信頼できる情報源です
+- 🪙 [GitLab SCM](https://about.gitlab.com/solutions/source-code-management/) - コードとプロジェクトの共同作業のための単一の信頼できる情報源です
   - [GitLab CLI](https://gitlab.com/gitlab-org/cli) - GitLab をターミナルにもたらすオープンソースツールで、すでに git やコードで作業している場所のすぐそばで使用できます
 - [Gitea](https://about.gitea.com/products/gitea/) - Git ホスティング、コードレビュー、チームコラボレーション、パッケージレジストリ、CI/CD を含む、手間のかからないセルフホスト型のオールインワンソフトウェア開発サービスです
 - [Codeberg](https://codeberg.org/) - フリー/オープンソースプロジェクト向けに Git ホスティングやその他のサービスを提供する、コミュニティ主導の取り組みです
 - [Forgejo](https://forgejo.org/) - セルフホスト型の軽量なソフトウェアフォージです
 - [Soft Serve](https://github.com/charmbracelet/soft-serve) - コマンドライン向けの、美味しくセルフホスト可能な Git サーバーです
-- [Azure Repos](https://learn.microsoft.com/en-us/azure/devops/repos/) - コードを管理するために使用できる一連のバージョン管理ツールです
-- [GitHub](https://github.com/) - 安全なソフトウェアを構築、拡張、提供するための AI 駆動の開発者プラットフォームです
+- 💲 [Azure Repos](https://learn.microsoft.com/en-us/azure/devops/repos/) - コードを管理するために使用できる一連のバージョン管理ツールです
+- 🪙 [GitHub](https://github.com/) - 安全なソフトウェアを構築、拡張、提供するための AI 駆動の開発者プラットフォームです
   - [GitHub CLI](https://cli.github.com/) - プルリクエスト、Issue、GitHub Actions、その他の GitHub 機能をターミナルにもたらすオープンソースツールで、すべての作業を一箇所で行えます
 
 ### ブランチングモデル
@@ -347,22 +347,22 @@
   - [Eclipse IDE](https://www.eclipseide.org/) - 業界に支えられコミュニティ主導で開発され、豊富なプラットフォームプラグインによる高い拡張性を備えた、無料でオープンソースの IDE です
   - [Visual Studio Code](https://code.visualstudio.com/) - デスクトップ上で動作し、Windows、macOS、Linux で利用できる、軽量ながら強力なソースコードエディターです
     - [Awesome VS Code](https://viatsko.github.io/awesome-vscode/) - 素晴らしい VS Code パッケージとリソースの厳選リストです
-    - [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens) - Visual Studio Code に組み込まれた Git 機能を強化する拡張機能です
+    - 🪙 [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens) - Visual Studio Code に組み込まれた Git 機能を強化する拡張機能です
     - [Git Graph](https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph) - リポジトリの Git グラフを表示し、そのグラフから Git アクションを実行するための拡張機能です
   - AI アシスタンスプラグイン
-    - [GitHub Copilot](https://github.com/features/copilot/) - より速く、より少ない労力でコードを書く手助けをする AI ペアプログラマーです
+    - 🪙 [GitHub Copilot](https://github.com/features/copilot/) - より速く、より少ない労力でコードを書く手助けをする AI ペアプログラマーです
       - [Awesome GitHub Copilot](https://awesome-copilot.github.com/) - 体験を向上させるための、コミュニティが貢献したエージェント、指示、スキル、フック、ワークフロー、プラグイン、キャンバス拡張機能、ツールのコレクションです
-    - [Gemini Code Assist](https://cloud.google.com/products/gemini/code-assist) - 開発ライフサイクル全体を対象とした AI 駆動のアシスタントです
-    - [Amazon Q Developer](https://aws.amazon.com/q/developer/) - ソフトウェア開発向けの、最も高性能な生成 AI 駆動のアシスタントです
+    - 🪙 [Gemini Code Assist](https://cloud.google.com/products/gemini/code-assist) - 開発ライフサイクル全体を対象とした AI 駆動のアシスタントです
+    - 🪙 [Amazon Q Developer](https://aws.amazon.com/q/developer/) - ソフトウェア開発向けの、最も高性能な生成 AI 駆動のアシスタントです
     - [Cline](https://cline.bot/) - 最先端の AI モデルを VS Code エディターに直接もたらすオープンソースの AI コーディングエージェントです
   - AI 統合 IDE
-    - [Cursor](https://www.cursor.com/) - プロプライエタリモデルおよび最先端モデルとのシームレスでエージェント的な統合のために設計された、VS Code の AI ネイティブなフォークです
-    - [Windsurf](https://codeium.com/windsurf) - 開発者と AI の作業が本当に一体となって流れ、まさに魔法のようなコーディング体験を可能にする場です
-    - [Zed](https://zed.dev/) - 人間と AI との高パフォーマンスな協業のために設計された次世代コードエディターです
+    - 🪙 [Cursor](https://www.cursor.com/) - プロプライエタリモデルおよび最先端モデルとのシームレスでエージェント的な統合のために設計された、VS Code の AI ネイティブなフォークです
+    - 🪙 [Windsurf](https://codeium.com/windsurf) - 開発者と AI の作業が本当に一体となって流れ、まさに魔法のようなコーディング体験を可能にする場です
+    - 🪙 [Zed](https://zed.dev/) - 人間と AI との高パフォーマンスな協業のために設計された次世代コードエディターです
 - Web ベース
   - [code-server](https://github.com/coder/code-server) - リモートサーバー上で動作し、あらゆる Web ブラウザーからアクセスできる VS Code インスタンスです
-  - [GitHub Codespaces](https://github.com/features/codespaces) - GitHub にネイティブな、完全に構成済みの安全なクラウド開発環境で、より速くコーディングを始められます
-  - [Replit](https://replit.com/) - コーディング不要で、アイデアを数分でアプリに変えるプラットフォームです
+  - 🪙 [GitHub Codespaces](https://github.com/features/codespaces) - GitHub にネイティブな、完全に構成済みの安全なクラウド開発環境で、より速くコーディングを始められます
+  - 🪙 [Replit](https://replit.com/) - コーディング不要で、アイデアを数分でアプリに変えるプラットフォームです
 - ターミナルベース
   - [Vim](https://www.vim.org/) - あらゆる種類のテキストの作成と変更を非常に効率的に行えるように構築された、高度に設定可能なテキストエディターです
     - [motion and operators](https://vimdoc.sourceforge.net/htmldoc/motion.html) - カーソルを移動するコマンドと、テキストを削除・変更するために使用されるコマンドです
@@ -387,7 +387,7 @@
     - [Spacemacs](https://www.spacemacs.org/#) - コミュニティ主導の Emacs ディストリビューションです
   - チュートリアルとチートシート
     - [OpenVim](https://openvim.com/) - インタラクティブな Vim チュートリアルです
-    - [Vim Adventures](https://vim-adventures.com/) - VIM のキーボードショートカットに基づいたオンラインゲームです
+    - 💲 [Vim Adventures](https://vim-adventures.com/) - VIM のキーボードショートカットに基づいたオンラインゲームです
     - [Vim Cheat Sheet](https://vim.rtorr.com/) - Vim コマンドのクイックリファレンスガイドです
 
 ### 言語サーバー
@@ -421,11 +421,11 @@
 
 ### 分析プラットフォーム
 
-- [SonarQube Server](https://www.sonarsource.com/products/sonarqube/) - 30 以上の言語、フレームワーク、IaC プラットフォームでコーディング上の問題を検出するために設計された、オンプレミスの分析ツールです
-- [CodeScene](https://codescene.com/) - 静的解析にとどまらず、Code Health メトリクスとチームのコードへの関わり方に関する行動分析を通じてソフトウェアの品質を可視化するコード分析プラットフォームです
-- [Codecov](https://about.codecov.io/) - コードカバレッジを測定し、あらゆる段階でコード品質の向上を支援するツールです
-- [GitLab Code Coverage](https://docs.gitlab.com/ee/ci/testing/code_coverage.html) - テストでカバーされているコードの割合を示すレポートです
-- [GitLab Code Quality](https://docs.gitlab.com/ee/ci/testing/code_quality.html) - CodeClimate Engines を使用してプロジェクトのコード品質分析を提供する機能です
+- 🔒 [SonarQube Server](https://www.sonarsource.com/products/sonarqube/) - 30 以上の言語、フレームワーク、IaC プラットフォームでコーディング上の問題を検出するために設計された、オンプレミスの分析ツールです
+- 💲 [CodeScene](https://codescene.com/) - 静的解析にとどまらず、Code Health メトリクスとチームのコードへの関わり方に関する行動分析を通じてソフトウェアの品質を可視化するコード分析プラットフォームです
+- 🪙 [Codecov](https://about.codecov.io/) - コードカバレッジを測定し、あらゆる段階でコード品質の向上を支援するツールです
+- 🪙 [GitLab Code Coverage](https://docs.gitlab.com/ee/ci/testing/code_coverage.html) - テストでカバーされているコードの割合を示すレポートです
+- 🪙 [GitLab Code Quality](https://docs.gitlab.com/ee/ci/testing/code_quality.html) - CodeClimate Engines を使用してプロジェクトのコード品質分析を提供する機能です
 
 ### フォーマッター
 
@@ -484,25 +484,25 @@
 ### 開発エージェント
 
 - CLI コーディングエージェント
-  - [Claude Code](https://code.claude.com/docs) - コードベースを読み取り、ファイルを編集し、コマンドを実行し、開発ツールと統合する、エージェント的なコーディングツールです
+  - 💲 [Claude Code](https://code.claude.com/docs) - コードベースを読み取り、ファイルを編集し、コマンドを実行し、開発ツールと統合する、エージェント的なコーディングツールです
     - [Plan Mode](https://code.claude.com/docs/en/common-workflows#use-plan-mode-for-safe-code-analysis) - 読み取り専用の操作でコードベースを分析して計画を立てるよう Claude に指示するモードで、コードベースの探索、複雑な変更の計画、安全なコードレビューに最適です
     - [Hooks](https://code.claude.com/docs/en/hooks) - エージェントのライフサイクルの特定のポイントで自動的に実行される、ユーザー定義のシェルコマンドまたは LLM プロンプトです
     - [Subagents](https://code.claude.com/docs/en/sub-agents) - 特定の種類のタスクを処理する専門化された AI アシスタントで、独自のコンテキストの中でカスタムプロンプトとツールアクセスを備えて実行されます
     - [Sandboxing](https://code.claude.com/docs/en/sandboxing) - より安全で自律的なエージェント実行のためにファイルシステムとネットワークの分離を提供する機能で、OS レベルのプリミティブを使用してこれらの分離を実施し、絶え間ない権限プロンプトを削減します
     - [Auto-memory](https://code.claude.com/docs/en/memory#auto-memory) - ビルドコマンド、デバッグの知見、アーキテクチャに関するメモ、ユーザーの好みに関するノートを手動介入なしで保存することで、エージェントがセッションをまたいで自動的に知識を蓄積できるようにする機能です
-  - [Gemini CLI](https://github.com/google-gemini/gemini-cli) - Gemini の力を直接ターミナルにもたらすオープンソースの AI エージェントです
+  - 🪙 [Gemini CLI](https://github.com/google-gemini/gemini-cli) - Gemini の力を直接ターミナルにもたらすオープンソースの AI エージェントです
     - [Conductor](https://github.com/gemini-cli-extensions/conductor) - Gemini CLI 向けの公式プロジェクトマネジメントツールです
     - [Sandboxing](https://geminicli.com/docs/cli/sandbox/) - 潜在的に危険な操作をホストシステムから分離する機能で、macOS Seatbelt またはコンテナベースの分離手法を使用して、AI 操作と環境の間にセキュリティバリアを提供します
-  - [Antigravity CLI](https://github.com/google-antigravity/antigravity-cli) - コードベースを理解し、許可を得て編集を行い、ターミナルから直接コマンドを実行する、ターミナルベースの AI コーディングエージェントです
-  - [GitHub Copilot CLI](https://github.com/github/copilot-cli) - Copilot コーディングエージェントの力を直接ターミナルにもたらすツールです
-  - [Cursor CLI](https://cursor.com/cli) - ターミナルから直接開発を進められるよう構築されたツールで、どの環境でも同じコマンドを使用できます
-  - [Amp](https://ampcode.com/) - あらゆる場所で動作するコーディングエージェント兼開発環境です
+  - 🪙 [Antigravity CLI](https://github.com/google-antigravity/antigravity-cli) - コードベースを理解し、許可を得て編集を行い、ターミナルから直接コマンドを実行する、ターミナルベースの AI コーディングエージェントです
+  - 🪙 [GitHub Copilot CLI](https://github.com/github/copilot-cli) - Copilot コーディングエージェントの力を直接ターミナルにもたらすツールです
+  - 🪙 [Cursor CLI](https://cursor.com/cli) - ターミナルから直接開発を進められるよう構築されたツールで、どの環境でも同じコマンドを使用できます
+  - 🪙 [Amp](https://ampcode.com/) - あらゆる場所で動作するコーディングエージェント兼開発環境です
   - [Aider](https://aider.chat/) - 新しいプロジェクトを始めたり、既存のコードベース上に構築したりできる、ターミナル内の AI ペアプログラミングツールです
   - [Letta Code](https://docs.letta.com/letta-code) - ターミナルに常駐する、メモリファーストのコーディングエージェントです
   - [Deep Agents CLI](https://docs.langchain.com/oss/python/deepagents/cli/overview) - Deep Agents SDK 上に構築されたターミナルコーディングエージェントです
   - [OpenCode.ai](https://opencode.ai/) - 実際のリポジトリ内でコードの理解、編集、出荷を支援する対話的な TUI を提供する、ターミナル向けのオープンソース AI コーディングエージェントです
-  - [OpenAI Codex](https://github.com/openai/codex) - ターミナルで動作する軽量なコーディングエージェントで、ローカルなコーディングアシスタントを提供します
-  - [Kimi Code](https://www.kimi.com/code) - あらゆる開発ワークフローに組み込めるよう設計された Moonshot AI 製の CLI コーディングエージェントで、コードベース分析、ファイル操作、Web 検索、並列サブエージェントタスク処理をサポートし、kimi-k2.6 モデルを搭載しています
+  - 💲 [OpenAI Codex](https://github.com/openai/codex) - ターミナルで動作する軽量なコーディングエージェントで、ローカルなコーディングアシスタントを提供します
+  - 💲 [Kimi Code](https://www.kimi.com/code) - あらゆる開発ワークフローに組み込めるよう設計された Moonshot AI 製の CLI コーディングエージェントで、コードベース分析、ファイル操作、Web 検索、並列サブエージェントタスク処理をサポートし、kimi-k2.6 モデルを搭載しています
   - [Crush](https://github.com/charmbracelet/crush) - お気に入りのターミナル向けの華やかな AI コーディングエージェントです 💘
   - [ForgeCode](https://forgecode.dev/) - 調査、計画、実行のためのマルチエージェントアーキテクチャを備えた ZSH 統合コーディングハーネスで、複数の LLM プロバイダーをサポートし、Terminal-Bench で最上位にランクされています
 - デスクトップコーディングエージェント
@@ -513,22 +513,22 @@
 - 自律型コーディングエージェント
   - [SWE-agent](https://swe-agent.com/latest/) - 一連の言語モデルを搭載した、GitHub リポジトリのバグや問題を修正するツールです
   - [mini-swe-agent](https://mini-swe-agent.com/latest/) - SWE-agent のより小型でアクセスしやすいバージョンです
-  - [Devin](https://devin.ai/) - 独自のサンドボックス環境内で複雑なエンジニアリングタスクを支援なしで処理できる自律型 AI ソフトウェアエンジニアです
-  - [Jules](https://jules.google/) - 自律型コーディングエージェントです
-  - [Replit Agent](https://replit.com/products/agent) - IDE 内であなたと共に学習し作業できる最初の開発者エージェントです
+  - 💲 [Devin](https://devin.ai/) - 独自のサンドボックス環境内で複雑なエンジニアリングタスクを支援なしで処理できる自律型 AI ソフトウェアエンジニアです
+  - 🪙 [Jules](https://jules.google/) - 自律型コーディングエージェントです
+  - 🪙 [Replit Agent](https://replit.com/products/agent) - IDE 内であなたと共に学習し作業できる最初の開発者エージェントです
 
 ### サポートツールとインフラストラクチャ
 
 - プラットフォーム
   - [OpenHands](https://docs.all-hands.dev/) - AI を搭載したソフトウェア開発エージェント向けのプラットフォームです
-  - [Port](https://www.getport.io/) - エンジニアリングのあらゆる側面を加速する自律的なワークフローを構築するためのエージェント的な開発者ポータルです
-  - [Antigravity](https://antigravity.google/) - エージェント的な開発プラットフォームです
-  - [Warp](https://www.warp.dev/) - 開発を自動化するためのオープンプラットフォームです
+  - 🪙 [Port](https://www.getport.io/) - エンジニアリングのあらゆる側面を加速する自律的なワークフローを構築するためのエージェント的な開発者ポータルです
+  - 🪙 [Antigravity](https://antigravity.google/) - エージェント的な開発プラットフォームです
+  - 🪙 [Warp](https://www.warp.dev/) - 開発を自動化するためのオープンプラットフォームです
 - ベンチマーク
   - [SWE-bench](https://www.swebench.com/SWE-bench/) - GitHub から収集された実世界のソフトウェア問題で大規模言語モデルを評価するためのベンチマークです
   - [Terminal-Bench](https://www.tbench.ai/) - ソフトウェアエンジニアリング、機械学習、セキュリティ、データサイエンスをカバーする、AI エージェントのターミナル習熟度を定量化するための harbor ネイティブなベンチマークタスクのコレクションです
 - コンテキストプロバイダー
-  - [Context7](https://context7.com/) - LLM と AI コードエディター向けに最新のドキュメントを提供するために設計された AI エージェント兼ツールです
+  - 🪙 [Context7](https://context7.com/) - LLM と AI コードエディター向けに最新のドキュメントを提供するために設計された AI エージェント兼ツールです
   - [LeanCTX](https://leanctx.com/) - ファイル読み取りとシェル出力を最大 99% 圧縮することで AI コーディングアシスタントのトークン使用量を削減する、オープンソースのコンテキスト圧縮ツールで、Cursor や Claude Code など 29 以上の AI ツールで動作します
   - [Context Mode](https://github.com/mksglu/context-mode) - AI コーディングエージェント向けのコンテキストウィンドウ最適化です。ツール出力をサンドボックス化し、98% の削減を実現します
   - [RTK](https://github.com/rtk-ai/rtk) - 一般的な開発コマンドで LLM のトークン消費を 60〜90% 削減する CLI プロキシです

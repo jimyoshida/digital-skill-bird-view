@@ -397,8 +397,8 @@
   - [Node.js](https://nodejs.org/) - A free, open-source, cross-platform JavaScript runtime environment
     - [libuv](https://libuv.org/) - A multi-platform support library with a focus on asynchronous I/O
   - [Deno](https://deno.com/) - A modern runtime for TypeScript and JavaScript
-    - [Deno Deploy](https://deno.com/deploy) - A distributed HTTP service that allows you to run JavaScript, TypeScript, and WebAssembly at the edge
-    - [Deno Subhosting](https://deno.com/subhosting) - A platform for SaaS providers to securely run untrusted customer code at scale using V8 isolates
+    - 🪙 [Deno Deploy](https://deno.com/deploy) - A distributed HTTP service that allows you to run JavaScript, TypeScript, and WebAssembly at the edge
+    - 💲 [Deno Subhosting](https://deno.com/subhosting) - A platform for SaaS providers to securely run untrusted customer code at scale using V8 isolates
   - [Bun](https://bun.sh/) - A fast, all-in-one toolkit for running, building, testing, and debugging JavaScript and TypeScript
   - [WinterJS](https://github.com/wasmerio/winterjs) - A blazingly fast JavaScript runtime built on Rust, using the SpiderMonkey engine and the Tokio runtime
 - Python
@@ -408,7 +408,7 @@
 - Ruby
   - CRuby (default)
   - [JRuby](https://www.jruby.org/) - An implementation of the Ruby programming language atop the Java Virtual Machine
-- [Java SE](https://www.oracle.com/java/technologies/java-se-glance.html) - The most proven, trusted, and secure development platform for modern application development
+- 🪙 [Java SE](https://www.oracle.com/java/technologies/java-se-glance.html) - The most proven, trusted, and secure development platform for modern application development
   - [Java HotSpot VM](https://docs.oracle.com/en/java/javase/22/vm/java-virtual-machine-technology-overview.html) - The primary Java Virtual Machine for desktops and servers, produced by Oracle Corporation
   - [JMX API](https://docs.oracle.com/en/java/javase/22/jmx/introduction-jmx-technology.html) - The Java Management Extensions technology which is a standard part of the Java Platform
   - [JDK tools](https://docs.oracle.com/en/java/javase/22/docs/specs/man/index.html) - The command-line tools to create and build applications

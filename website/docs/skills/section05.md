@@ -74,7 +74,7 @@
 - [R](https://www.r-project.org/) - A free software environment for statistical computing and graphics
   - [Tidyverse](https://www.tidyverse.org/) - An opinionated collection of R packages designed for data science
 - [GNU Octave](https://octave.org/) - A high-level language, primarily intended for numerical computations
-- [Wolfram Language](https://www.wolfram.com/language/) - A symbolic language, deliberately designed with the breadth and unity needed to develop powerful programs quickly
+- 💲 [Wolfram Language](https://www.wolfram.com/language/) - A symbolic language, deliberately designed with the breadth and unity needed to develop powerful programs quickly
 
 ### Specialized & Scientific Tools
 
@@ -85,15 +85,15 @@
 
 ### Data Sources & Geospatial
 
-- [GeoLite2](https://dev.maxmind.com/geoip/geolite2-free-geolocation-data) - A set of free geolocation and ASN data in downloadable database and web service formats
+- 🪙 [GeoLite2](https://dev.maxmind.com/geoip/geolite2-free-geolocation-data) - A set of free geolocation and ASN data in downloadable database and web service formats
 
 ### Spreadsheet & Collaborative Data Platforms
 
-- [Microsoft Excel](https://www.microsoft.com/en-us/microsoft-365/excel) - The industry-leading spreadsheet software program and a powerful data visualization and analysis tool
-- [Grist](https://www.getgrist.com/) - A relational spreadsheet that combines the familiar interface of a spreadsheet with the power and structure of a relational database
-- [NocoBase](https://www.nocobase.com/) - A scalability-first, open-source no-code platform designed for building complex business applications and internal tools
-- [NocoDB](https://nocodb.com/) - An open-source, no-code platform that turns any database into a smart spreadsheet, providing a collaborative interface for relational databases
-- [Airtable](https://www.airtable.com/) - A platform that combines the flexibility of a spreadsheet with the power of a database to help teams manage their work
+- 💲 [Microsoft Excel](https://www.microsoft.com/en-us/microsoft-365/excel) - The industry-leading spreadsheet software program and a powerful data visualization and analysis tool
+- 🪙 [Grist](https://www.getgrist.com/) - A relational spreadsheet that combines the familiar interface of a spreadsheet with the power and structure of a relational database
+- 🔒 [NocoBase](https://www.nocobase.com/) - A scalability-first, open-source no-code platform designed for building complex business applications and internal tools
+- 🔒 [NocoDB](https://nocodb.com/) - An open-source, no-code platform that turns any database into a smart spreadsheet, providing a collaborative interface for relational databases
+- 🪙 [Airtable](https://www.airtable.com/) - A platform that combines the flexibility of a spreadsheet with the power of a database to help teams manage their work
 
 ### Interactive Computing Environments
 
@@ -102,7 +102,7 @@
   - [VSCode Jupyter Extension](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter) - A VS Code extension that provides basic notebook support for language kernels supported in the environment
 - [nbviewer](https://nbviewer.org/) - A simple way to share Jupyter Notebooks
 - [R Markdown](https://rmarkdown.rstudio.com/) - An authoring framework that helps you create dynamic analysis documents combining code, rendered output, and prose
-- [Wolfram Notebooks](https://www.wolfram.com/notebooks/) - A powerful environment for exploration and communication, combining text, literate programming, graphics and custom interactive elements
+- 💲 [Wolfram Notebooks](https://www.wolfram.com/notebooks/) - A powerful environment for exploration and communication, combining text, literate programming, graphics and custom interactive elements
 - [Voila](https://voila.readthedocs.io/en/stable/) - A tool that turns Jupyter notebooks into standalone web applications
 
 ## Data Visualization
@@ -133,7 +133,7 @@
   - [WordCloud for Python](https://amueller.github.io/word_cloud/) - A little word cloud generator in Python
 - JavaScript Libraries
   - [D3](https://d3js.org/) - The JavaScript library for bespoke data visualization
-  - [GoJS](https://gojs.net/latest/) - A JavaScript library that lets you easily create interactive diagrams in web browsers
+  - 💲 [GoJS](https://gojs.net/latest/) - A JavaScript library that lets you easily create interactive diagrams in web browsers
   - [Chart.js](https://www.chartjs.org/) - A simple yet flexible JavaScript charting library for the modern web
   - [Recharts](https://recharts.org/) - A composable charting library built on React components
   - [Tabulator](https://tabulator.info/) - An easy to use, simple to code, fully featured, interactive JavaScript library for creating tables and data grids
@@ -191,15 +191,15 @@
   - [IPFS](https://en.wikipedia.org/wiki/InterPlanetary_File_System) - A peer-to-peer hypermedia protocol designed to make the web faster, safer, and more open
     - [Kubo](https://github.com/ipfs/kubo) - A Go implementation of IPFS
 - [Object storage](https://en.wikipedia.org/wiki/Object_storage) - A computer data storage architecture that manages data as objects
-  - [Amazon S3](https://aws.amazon.com/s3/) - An object storage service offering industry-leading scalability, data availability, security, and performance
-  - [Azure Blob Storage](https://azure.microsoft.com/en-us/services/storage/blobs/) - The Microsoft's object storage solution for the cloud, optimized for storing massive amounts of unstructured data
-  - [Azure Data Lake Storage (ADLS)](https://azure.microsoft.com/en-us/services/storage/data-lake-storage/) - A scalable and secure data lake for high-performance analytics workloads
-  - [Google Cloud Storage](https://cloud.google.com/storage/) - A RESTful online file storage web service for storing and accessing data on Google Cloud Platform infrastructure
-  - [Cloud Storage for Firebase](https://firebase.google.com/docs/storage) - The service letting you upload and share user generated content, such as images and video
-  - [Supabase Storage](https://supabase.com/docs/guides/storage) - The service making it simple to store and serve large files like photos and videos
+  - 💲 [Amazon S3](https://aws.amazon.com/s3/) - An object storage service offering industry-leading scalability, data availability, security, and performance
+  - 💲 [Azure Blob Storage](https://azure.microsoft.com/en-us/services/storage/blobs/) - The Microsoft's object storage solution for the cloud, optimized for storing massive amounts of unstructured data
+  - 💲 [Azure Data Lake Storage (ADLS)](https://azure.microsoft.com/en-us/services/storage/data-lake-storage/) - A scalable and secure data lake for high-performance analytics workloads
+  - 💲 [Google Cloud Storage](https://cloud.google.com/storage/) - A RESTful online file storage web service for storing and accessing data on Google Cloud Platform infrastructure
+  - 🪙 [Cloud Storage for Firebase](https://firebase.google.com/docs/storage) - The service letting you upload and share user generated content, such as images and video
+  - 🪙 [Supabase Storage](https://supabase.com/docs/guides/storage) - The service making it simple to store and serve large files like photos and videos
   - Self-hosted (advanced)
     - [Ceph](https://ceph.com/en/) - An open-source, distributed storage system
-    - [MinIO](https://min.io/) - A high-performance, S3 compatible object store
+    - 🔒 [MinIO](https://min.io/) - A high-performance, S3 compatible object store
   - Tooling
     - [s5cmd](https://github.com/peak/s5cmd) - A very fast S3 and local filesystem execution tool
     - [Rclone](https://rclone.org/) - A command-line program to manage files on cloud storage
@@ -312,19 +312,19 @@
 ### Data Governance & Metadata Management
 
 - [Apache Atlas](https://atlas.apache.org/) - A scalable and extensible set of core foundational governance services that enable enterprises to meet compliance requirements
-- [Collibra](https://www.collibra.com/) - An enterprise data governance platform providing a common language for data management
-- [Informatica Metadata Manager](https://www.informatica.com/products/data-integration/metadata-management.html) - A comprehensive metadata management solution for enterprise data governance
+- 💲 [Collibra](https://www.collibra.com/) - An enterprise data governance platform providing a common language for data management
+- 💲 [Informatica Metadata Manager](https://www.informatica.com/products/data-integration/metadata-management.html) - A comprehensive metadata management solution for enterprise data governance
 - [OpenMetadata](https://github.com/open-metadata/OpenMetadata) - An open-source metadata management platform for data discovery, governance, and collaboration
 
 ### Data Quality & Validation
 
 - [Great Expectations](https://greatexpectations.io/) - A Python library for defining, documenting, and testing data quality
 - [Apache Griffin](https://griffin.apache.org/) - A data quality solution built on Apache Spark and Apache Hadoop for distributed data quality measurement
-- [Soda](https://www.soda.co/) - A data quality monitoring solution that integrates with modern data stacks
+- 🔒 [Soda](https://www.soda.co/) - A data quality monitoring solution that integrates with modern data stacks
 
 ### Data Versioning & Schema Management
 
-- [Schema Registry](https://www.confluent.io/confluent-schema-registry/) - A hosted schema management service that centralizes schemas for Kafka topics
+- 🔒 [Schema Registry](https://www.confluent.io/confluent-schema-registry/) - A hosted schema management service that centralizes schemas for Kafka topics
 - Git-based Schema Management - Using Git repositories to version control database schemas
 - [DBT Contracts](https://docs.getdbt.com/docs/collaborate/govern/model-contracts) - Explicit data contracts defining input and output data requirements
 
@@ -376,13 +376,13 @@
 ### Cloud & Managed Services
 
 - Managed Database Services
-  - [Amazon RDS](https://aws.amazon.com/rds/) - A collection of managed services that makes it simple to set up, operate, and scale databases in the cloud
-  - [Amazon Aurora](https://aws.amazon.com/rds/aurora/) - A fully managed relational database engine offering high performance and availability at global scale for PostgreSQL, MySQL, and DSQL
-  - [Azure SQL Database](https://azure.microsoft.com/en-us/products/azure-sql/database/) - An intelligent, scalable, relational database service built for the cloud
-  - [Azure HorizonDB](https://azure.microsoft.com/en-us/products/horizondb) - A fully-managed, cloud-native PostgreSQL-compatible database service engineered for high-throughput, AI-powered applications with scale-out architecture supporting up to 3,072 vCores and 128 TB storage
-  - [Google Cloud SQL](https://cloud.google.com/sql) - A fully-managed database service that helps you set up, maintain, manage, and administer your relational databases on Google Cloud
-  - [Neon](https://neon.tech/) - A serverless, fault-tolerant, and scalable Postgres with a generous free tier
-  - [Turso](https://turso.tech/) - A SQLite-compatible database built on a ground-up rewrite of SQLite, lightweight enough to multiply and fast enough to run anywhere
+  - 💲 [Amazon RDS](https://aws.amazon.com/rds/) - A collection of managed services that makes it simple to set up, operate, and scale databases in the cloud
+  - 💲 [Amazon Aurora](https://aws.amazon.com/rds/aurora/) - A fully managed relational database engine offering high performance and availability at global scale for PostgreSQL, MySQL, and DSQL
+  - 💲 [Azure SQL Database](https://azure.microsoft.com/en-us/products/azure-sql/database/) - An intelligent, scalable, relational database service built for the cloud
+  - 💲 [Azure HorizonDB](https://azure.microsoft.com/en-us/products/horizondb) - A fully-managed, cloud-native PostgreSQL-compatible database service engineered for high-throughput, AI-powered applications with scale-out architecture supporting up to 3,072 vCores and 128 TB storage
+  - 💲 [Google Cloud SQL](https://cloud.google.com/sql) - A fully-managed database service that helps you set up, maintain, manage, and administer your relational databases on Google Cloud
+  - 🪙 [Neon](https://neon.tech/) - A serverless, fault-tolerant, and scalable Postgres with a generous free tier
+  - 🪙 [Turso](https://turso.tech/) - A SQLite-compatible database built on a ground-up rewrite of SQLite, lightweight enough to multiply and fast enough to run anywhere
 
 ### Connectivity & Tooling
 
@@ -407,7 +407,7 @@
   - [SSMS (SQL Server Management Studio)](https://learn.microsoft.com/en-us/sql/ssms/sql-server-management-studio-ssms) - An integrated environment for managing any SQL infrastructure, from SQL Server to Azure SQL Database
   - [DB Browser for SQLite](https://sqlitebrowser.org/) - A high quality, visual, open source tool to create, design, and edit database files compatible with SQLite
   - [Azure Data Studio](https://azure.microsoft.com/en-us/products/data-studio/) - A modern open-source, cross-platform hybrid data analytics tool designed to simplify the data landscape
-  - [Beekeeper Studio](https://www.beekeeperstudio.io/) - A modern, easy to use, and good looking SQL editor and database manager
+  - 🔒 [Beekeeper Studio](https://www.beekeeperstudio.io/) - A modern, easy to use, and good looking SQL editor and database manager
 - Command-Line & Deployment Utilities
   - [sqlcmd utility](https://learn.microsoft.com/en-us/sql/tools/sqlcmd/sqlcmd-utility) - A command-line utility for ad hoc, interactive execution of Transact-SQL statements and scripts and for automating T-SQL scripting tasks
   - [sqlpackage](https://learn.microsoft.com/en-us/sql/tools/sqlpackage/sqlpackage) - A command-line utility that automates several database development tasks
@@ -431,14 +431,14 @@
 
 - [Object-relational impedance mismatch](https://en.wikipedia.org/wiki/Object%E2%80%93relational_impedance_mismatch) - A set of conceptual and technical difficulties that are often encountered when a relational database management system (RDBMS) is being used by a program written in an object-oriented programming language or style
 - Document Databases
-  - [MongoDB](https://www.mongodb.com/) - A document database designed for ease of application development and scaling
+  - 🔒 [MongoDB](https://www.mongodb.com/) - A document database designed for ease of application development and scaling
   - [DocumentDB](https://documentdb.io/) - A powerful, scalable open-source document database built for modern applications
 - Key-value Stores
   - [etcd](https://etcd.io/) - A distributed, reliable key-value store for the most critical data of a distributed system
-  - [Redis](https://redis.io/) - An in-memory data store used by millions of developers as a cache, vector database, document database, streaming engine
-  - [Dragonfly](https://www.dragonflydb.io/) - A drop-in Redis replacement
+  - 🔒 [Redis](https://redis.io/) - An in-memory data store used by millions of developers as a cache, vector database, document database, streaming engine
+  - 🔒 [Dragonfly](https://www.dragonflydb.io/) - A drop-in Redis replacement
 - Graph Databases
-  - [Neo4j](https://neo4j.com/) - A high-speed graph database with unbounded scale, security, and data integrity
+  - 🔒 [Neo4j](https://neo4j.com/) - A high-speed graph database with unbounded scale, security, and data integrity
     - [Cypher](https://neo4j.com/docs/cypher-manual/current/introduction/) - A declarative query language for property graph databases
   - [LadybugDB](https://ladybugdb.com/) - An embedded columnar graph database built for highly regulated industries
 - Wide-columns Databases
@@ -451,9 +451,9 @@
 - Concepts
   - [HNSW (Hierarchical Navigable Small Worlds)](https://www.pinecone.io/learn/series/faiss/hnsw/) - A top-performing index for vector similarity search
 - Vector Databases
-  - [Pinecone](https://www.pinecone.io/) - A purpose-built vector database delivering relevant results at any scale
+  - 🪙 [Pinecone](https://www.pinecone.io/) - A purpose-built vector database delivering relevant results at any scale
   - [pgvector](https://github.com/pgvector/pgvector) - An open-source vector similarity search for Postgres
-  - [ElasticSearch vector database](https://www.elastic.co/elasticsearch/vector-database) - The world's most widely deployed, open source vector database
+  - 🔒 [ElasticSearch vector database](https://www.elastic.co/elasticsearch/vector-database) - The world's most widely deployed, open source vector database
   - [Weaviate](https://weaviate.io/) - An open-source vector database that simplifies the development of AI applications
   - [Milvus](https://zilliz.com/what-is-milvus) - A high-performance open-source vector database built to handle billions of vectors
   - [Chroma](https://www.trychroma.com/) - The AI-native open-source embedding database
@@ -462,14 +462,14 @@
 ### Cloud NoSQL Services
 
 - Multi-model Databases
-  - [Azure Cosmos DB](https://azure.microsoft.com/en-us/products/cosmos-db/) - A fully managed, serverless distributed database for modern app development
-  - [Amazon DynamoDB](https://aws.amazon.com/dynamodb/) - A fully managed, serverless, key-value NoSQL database designed to run high-performance applications at any scale
+  - 🪙 [Azure Cosmos DB](https://azure.microsoft.com/en-us/products/cosmos-db/) - A fully managed, serverless distributed database for modern app development
+  - 🪙 [Amazon DynamoDB](https://aws.amazon.com/dynamodb/) - A fully managed, serverless, key-value NoSQL database designed to run high-performance applications at any scale
 - Document Databases
-  - [Cloud Firestore](https://firebase.google.com/docs/firestore) - A cloud-hosted, NoSQL database that your Apple, Android, and web apps can access directly via native SDKs
+  - 🪙 [Cloud Firestore](https://firebase.google.com/docs/firestore) - A cloud-hosted, NoSQL database that your Apple, Android, and web apps can access directly via native SDKs
 - Graph Databases
-  - [Amazon Neptune](https://aws.amazon.com/neptune/) - A fast, reliable, and fully managed graph database service that makes it easy to build and run applications that work with highly connected datasets
+  - 💲 [Amazon Neptune](https://aws.amazon.com/neptune/) - A fast, reliable, and fully managed graph database service that makes it easy to build and run applications that work with highly connected datasets
 - Wide-columns Databases
-  - [Google Cloud Bigtable](https://cloud.google.com/bigtable/) - A NoSQL wide-column database service for large analytical and operational workloads
+  - 💲 [Google Cloud Bigtable](https://cloud.google.com/bigtable/) - A NoSQL wide-column database service for large analytical and operational workloads
 
 ## Data Processing & Messaging
 
@@ -497,9 +497,9 @@
       - [Kafbat UI](https://kafbat.io/) - A versatile, fast, lightweight, and flexible web interface designed to monitor and manage Apache Kafka clusters
   - [RabbitMQ](https://www.rabbitmq.com/) - A reliable and mature messaging and streaming broker
 - Cloud Services
-  - [Amazon Kinesis](https://aws.amazon.com/kinesis/) - A service making it easy to collect, process, and analyze real-time, streaming data
-  - [Azure Event Hubs](https://azure.microsoft.com/en-us/products/event-hubs/) - A highly scalable and reliable event streaming platform capable of ingesting millions of events per second
-  - [Azure Service Bus](https://azure.microsoft.com/en-us/products/service-bus/) - A fully managed enterprise message broker with message queues and publish-subscribe topics
+  - 💲 [Amazon Kinesis](https://aws.amazon.com/kinesis/) - A service making it easy to collect, process, and analyze real-time, streaming data
+  - 💲 [Azure Event Hubs](https://azure.microsoft.com/en-us/products/event-hubs/) - A highly scalable and reliable event streaming platform capable of ingesting millions of events per second
+  - 💲 [Azure Service Bus](https://azure.microsoft.com/en-us/products/service-bus/) - A fully managed enterprise message broker with message queues and publish-subscribe topics
 
 ### Batch Processing (ETL/ELT)
 
@@ -513,12 +513,12 @@
 - Workflow Orchestration & ETL Tools (Software)
   - [Apache NiFi](https://nifi.apache.org/) - An easy to use, powerful, and reliable system to process and distribute data
   - [Apache Airflow](https://airflow.apache.org/) - A platform to programmatically author, schedule, and monitor workflows
-  - [dbt](https://www.getdbt.com/) - A unified platform for delivering trusted data that empowers teams to deliver reliable, governed data at scale
+  - 🔒 [dbt](https://www.getdbt.com/) - A unified platform for delivering trusted data that empowers teams to deliver reliable, governed data at scale
   - [Dagu](https://docs.dagu.sh/) - A local-first workflow engine that provides a declarative, file-based, and self-contained platform to orchestrate tasks from a single binary that scales from a laptop to a distributed cluster
 - Managed ETL & Data Integration Services
-  - [Azure Data Factory](https://azure.microsoft.com/en-us/products/data-factory/) - The cloud ETL service for scale-out serverless data integration and data transformation
-  - [AWS Glue](https://aws.amazon.com/glue/) - A serverless data integration service that makes it easy to discover, prepare, move, and integrate data from multiple sources
-  - [Google Cloud Data Fusion](https://cloud.google.com/data-fusion) - A fully managed, cloud-native data integration service that helps users efficiently build and manage ETL/ELT data pipelines
+  - 💲 [Azure Data Factory](https://azure.microsoft.com/en-us/products/data-factory/) - The cloud ETL service for scale-out serverless data integration and data transformation
+  - 💲 [AWS Glue](https://aws.amazon.com/glue/) - A serverless data integration service that makes it easy to discover, prepare, move, and integrate data from multiple sources
+  - 💲 [Google Cloud Data Fusion](https://cloud.google.com/data-fusion) - A fully managed, cloud-native data integration service that helps users efficiently build and manage ETL/ELT data pipelines
 
 ### Stream Processing
 
@@ -527,7 +527,7 @@
   - [Apache Storm](https://storm.apache.org/) - A free and open source distributed realtime computation system
   - [Apache Flink](https://flink.apache.org/) - A framework and distributed processing engine for stateful computations over unbounded and bounded data streams
 - Cloud Services
-  - [Google Cloud Dataflow](https://cloud.google.com/products/dataflow) - A fully managed streaming analytics service that minimizes latency, processing time, and cost through autoscaling and batch processing
+  - 💲 [Google Cloud Dataflow](https://cloud.google.com/products/dataflow) - A fully managed streaming analytics service that minimizes latency, processing time, and cost through autoscaling and batch processing
 
 ## Data Analytics & Search
 
@@ -543,16 +543,16 @@
   - [Google Search](https://www.google.com/) - The search engine that allows you to search the world's information, including webpages, images, videos and more
   - [DuckDuckGo](https://duckduckgo.com/) - The search engine that doesn't track you
 - Answer Engines
-  - [Wolfram|Alpha](https://www.wolframalpha.com/) - A computational knowledge engine that computes expert-level answers using breakthrough algorithms, knowledgebase and AI technology
-  - [Perplexity AI](https://www.perplexity.ai/) - An AI-powered answer engine that provides accurate, trusted, and real-time answers to any question
+  - 🪙 [Wolfram|Alpha](https://www.wolframalpha.com/) - A computational knowledge engine that computes expert-level answers using breakthrough algorithms, knowledgebase and AI technology
+  - 🪙 [Perplexity AI](https://www.perplexity.ai/) - An AI-powered answer engine that provides accurate, trusted, and real-time answers to any question
 - Search Platforms and Tools
-  - [Azure AI Search](https://azure.microsoft.com/en-us/products/ai-services/ai-search) - A fully managed, cloud-hosted service that unifies access to enterprise and web content for AI-powered search and retrieval-augmented generation
+  - 💲 [Azure AI Search](https://azure.microsoft.com/en-us/products/ai-services/ai-search) - A fully managed, cloud-hosted service that unifies access to enterprise and web content for AI-powered search and retrieval-augmented generation
     - [Reciprocal Rank Fusion (RRF)](https://learn.microsoft.com/en-us/azure/search/hybrid-search-ranking) - An algorithm that evaluates the search scores from multiple, previously executed queries to produce a unified result set
     - [BM25 relevance scoring](https://learn.microsoft.com/en-us/azure/search/index-similarity-and-scoring) - The Okapi BM25 ranking function used to compute the relevance scores of matching documents in full text search
-  - [ElasticSearch](https://www.elastic.co/elasticsearch/) - An open source distributed, RESTful search and analytics engine, scalable data store, and vector database
+  - 🔒 [ElasticSearch](https://www.elastic.co/elasticsearch/) - An open source distributed, RESTful search and analytics engine, scalable data store, and vector database
     - [Painless](https://www.elastic.co/guide/en/elasticsearch/painless/current/index.html) - A simple, secure scripting language designed specifically for use with the engine
     - [ES|QL](https://www.elastic.co/docs/explore-analyze/query-filter/languages/esql) - A piped language that allows you to filter, transform, and analyze data stored in the engine
-    - [Kibana](https://www.elastic.co/kibana) - The open source interface to query, analyze, visualize, and manage your data stored in the engine
+    - 🔒 [Kibana](https://www.elastic.co/kibana) - The open source interface to query, analyze, visualize, and manage your data stored in the engine
     - [Kibana Query Language](https://www.elastic.co/guide/en/kibana/current/kuery-query.html) - A simple text-based query language for filtering data
   - [Apache Solr](https://solr.apache.org/) - The popular, blazing-fast, open source enterprise search platform built on Apache Lucene
     - [Apache Lucene](https://lucene.apache.org/) - A Java library providing powerful indexing and search features
@@ -566,22 +566,22 @@
   - [Apache Hive](https://hive.apache.org/) - A distributed, fault-tolerant data warehouse system that enables analytics at a massive scale
   - [Presto](https://prestodb.io/) - A distributed SQL query engine designed for fast, reliable, and efficient analytics at any scale
   - [Trino](https://trino.io/) - A distributed SQL query engine designed to query large data sets distributed over one or more heterogeneous data sources
-  - [Amazon EMR](https://aws.amazon.com/emr/) - A cloud big data platform for running large-scale distributed data processing jobs, interactive SQL queries, and machine learning applications
-  - [Amazon Redshift](https://aws.amazon.com/redshift/) - A fully managed, petabyte-scale data warehouse service in the cloud
-  - [Amazon Athena](https://aws.amazon.com/athena/) - An interactive query service that makes it easy to analyze data directly in Amazon S3 and other data stores using standard SQL
-  - [Databricks](https://www.databricks.com/product/data-intelligence-platform) - The platform that allows your entire organization to use data and AI
+  - 💲 [Amazon EMR](https://aws.amazon.com/emr/) - A cloud big data platform for running large-scale distributed data processing jobs, interactive SQL queries, and machine learning applications
+  - 💲 [Amazon Redshift](https://aws.amazon.com/redshift/) - A fully managed, petabyte-scale data warehouse service in the cloud
+  - 💲 [Amazon Athena](https://aws.amazon.com/athena/) - An interactive query service that makes it easy to analyze data directly in Amazon S3 and other data stores using standard SQL
+  - 💲 [Databricks](https://www.databricks.com/product/data-intelligence-platform) - The platform that allows your entire organization to use data and AI
     - [Declarative Automation Bundles](https://docs.databricks.com/aws/en/dev-tools/bundles/) - A tool to facilitate the adoption of software engineering best practices, including source control, code review, testing, and continuous integration and delivery (CI/CD), for data and AI projects, formerly known as Databricks Asset Bundles
-  - [Snowflake](https://www.snowflake.com/en/) - The AI Data Cloud that mobilizes data with near-unlimited scale to power analytics, applications, and AI in a single fully managed platform
-  - [Microsoft Fabric](https://www.microsoft.com/en-us/microsoft-fabric) - An end-to-end analytics solution with full-service capabilities including data movement, data lakes, data engineering, data integration, data science, real-time analytics, and business intelligence
+  - 💲 [Snowflake](https://www.snowflake.com/en/) - The AI Data Cloud that mobilizes data with near-unlimited scale to power analytics, applications, and AI in a single fully managed platform
+  - 💲 [Microsoft Fabric](https://www.microsoft.com/en-us/microsoft-fabric) - An end-to-end analytics solution with full-service capabilities including data movement, data lakes, data engineering, data integration, data science, real-time analytics, and business intelligence
     - [Microsoft OneLake](https://learn.microsoft.com/en-us/fabric/onelake/) - A single, unified, logical data lake for your whole organization
     - [Real-Time Intelligence](https://learn.microsoft.com/en-us/fabric/real-time-intelligence/overview) - A service that extracts insights from streaming data in motion with end-to-end solutions for ingestion, transformation, storage, analytics, visualization, and real-time actions on time-based events
     - [Rayfin CLI](https://learn.microsoft.com/en-us/fabric/apps/cli-reference) - A command-line tool for creating, deploying, and managing Fabric applications with project scaffolding, remote deployment, and configuration management capabilities
     - [Lakehouse vs Data Warehouse](https://learn.microsoft.com/en-us/fabric/fundamentals/decision-guide-lakehouse-warehouse) - A guide for choosing between a lakehouse and a data warehouse based on data volume, structure, and processing requirements
-  - [Azure Synapse Analytics](https://azure.microsoft.com/en-us/products/synapse-analytics/) - An enterprise analytics service that accelerates time to insight across data warehouses and big data systems
-  - [Google Cloud BigQuery](https://cloud.google.com/bigquery) - A fully managed, AI-ready data analytics platform that helps you maximize value from your data and is designed to be multi-engine, multi-format, and multi-cloud
-  - [Amazon QuickSight](https://aws.amazon.com/quicksight/) - An AI-powered business intelligence service that enables users to analyze data, create visualizations, and gain insights from various enterprise data sources
+  - 💲 [Azure Synapse Analytics](https://azure.microsoft.com/en-us/products/synapse-analytics/) - An enterprise analytics service that accelerates time to insight across data warehouses and big data systems
+  - 🪙 [Google Cloud BigQuery](https://cloud.google.com/bigquery) - A fully managed, AI-ready data analytics platform that helps you maximize value from your data and is designed to be multi-engine, multi-format, and multi-cloud
+  - 💲 [Amazon QuickSight](https://aws.amazon.com/quicksight/) - An AI-powered business intelligence service that enables users to analyze data, create visualizations, and gain insights from various enterprise data sources
 
 ### Semantic Layer
 
-- [Cube](https://cube.dev/) - The agentic analytics platform to deploy AI agents to model, analyze, and report on your data
+- 🔒 [Cube](https://cube.dev/) - The agentic analytics platform to deploy AI agents to model, analyze, and report on your data
 - [Open Semantic Interchange (OSI)](https://open-semantic-interchange.org/) - The universal standard for semantic model exchange enabling semantic metadata interchange across analytics, AI, and BI platforms

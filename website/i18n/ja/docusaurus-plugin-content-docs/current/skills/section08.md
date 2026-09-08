@@ -140,8 +140,8 @@
 - [Doggo](https://doggo.mrkaran.dev/docs/) - Go で書かれた、モダンなコマンドライン DNS クライアント (dig のようなもの) です
 
 - マネージド DNS サービス
-  - [Amazon Route53](https://aws.amazon.com/route53/) - 高可用性でスケーラブルなクラウド Domain Name System Web サービスです
-  - [Google Cloud DNS](https://cloud.google.com/dns/) - コスト効率よくドメイン名をグローバル DNS に公開する、高性能でレジリエントなグローバル Domain Name System サービスです
+  - 💲 [Amazon Route53](https://aws.amazon.com/route53/) - 高可用性でスケーラブルなクラウド Domain Name System Web サービスです
+  - 💲 [Google Cloud DNS](https://cloud.google.com/dns/) - コスト効率よくドメイン名をグローバル DNS に公開する、高性能でレジリエントなグローバル Domain Name System サービスです
 
 ## メールシステム
 
@@ -193,12 +193,12 @@
 
 ### スパムテストとレピュテーション
 
-- [mail-tester](https://www.mail-tester.com/) - スパム、不正な形式のコンテンツ、メールサーバー設定の問題についてメールをテストできる無料のオンラインサービスです
+- 🪙 [mail-tester](https://www.mail-tester.com/) - スパム、不正な形式のコンテンツ、メールサーバー設定の問題についてメールをテストできる無料のオンラインサービスです
 - [Spamhaus Project](https://www.spamhaus.org/) - スパムおよび関連するサイバー脅威を追跡する非営利組織です
 
 - クラウドサービス
-  - [Amazon SES](https://aws.amazon.com/ses/) - 開発者が任意のアプリケーション内からメールを送信できる、コスト効率が良く柔軟でスケーラブルなメールサービスです
-  - [SendGrid](https://sendgrid.com/) - 大規模なトランザクションメールおよびマーケティングメールの信頼性の高い配信を提供する、クラウドベースのメール配信プラットフォームです
+  - 💲 [Amazon SES](https://aws.amazon.com/ses/) - 開発者が任意のアプリケーション内からメールを送信できる、コスト効率が良く柔軟でスケーラブルなメールサービスです
+  - 💲 [SendGrid](https://sendgrid.com/) - 大規模なトランザクションメールおよびマーケティングメールの信頼性の高い配信を提供する、クラウドベースのメール配信プラットフォームです
 
 ## Unix 系オペレーティングシステム
 
@@ -278,7 +278,7 @@
 
 - [KVM](https://www.linux-kvm.org/page/Main_Page) - 仮想化拡張機能を備えた x86 ハードウェア上の Linux 向けの完全仮想化ソリューションです
 - [Hyper-V](https://learn.microsoft.com/en-us/windows-server/virtualization/hyper-v/overview) - Microsoft のハードウェア仮想化製品です
-- [Proxmox VE](https://www.proxmox.com/en/products/proxmox-virtual-environment/overview) - エンタープライズ仮想化向けの完全なオープンソースサーバー管理プラットフォームです
+- 🔒 [Proxmox VE](https://www.proxmox.com/en/products/proxmox-virtual-environment/overview) - エンタープライズ仮想化向けの完全なオープンソースサーバー管理プラットフォームです
 
 ### Type-2 ハイパーバイザー
 
@@ -421,7 +421,7 @@
   - [proxychains](https://github.com/haad/proxychains) - 任意のアプリケーションが行う TCP 接続を、TOR や他の SOCKS4、SOCKS5、HTTP(S) プロキシなどのプロキシ経由に強制するツールです
 - トンネリング
   - [cloudflared](https://github.com/cloudflare/cloudflared) - Cloudflare ネットワークからオリジンへトラフィックをプロキシするデーモンである Cloudflare Tunnel のコマンドラインクライアントです
-  - [ngrok](https://ngrok.com/) - ローカルアプリケーションをインターネットに公開するために、リバースプロキシ、API ゲートウェイ、セキュアなトンネルを提供する統合イングレスプラットフォームです
+  - 🪙 [ngrok](https://ngrok.com/) - ローカルアプリケーションをインターネットに公開するために、リバースプロキシ、API ゲートウェイ、セキュアなトンネルを提供する統合イングレスプラットフォームです
 
 ## ファイル共有とリモートアクセス
 
@@ -438,7 +438,7 @@
 - [FTP](https://en.wikipedia.org/wiki/File_Transfer_Protocol) - コンピュータネットワーク上でサーバーからクライアントへコンピュータファイルを転送するために使用される標準通信プロトコルです
   - [vsftpd](https://security.appspot.com/vsftpd.html) - Linux を含む UNIX 系システム向けの GPL ライセンスの FTP サーバーです
 - [SFTP](https://en.wikipedia.org/wiki/SSH_File_Transfer_Protocol) - 信頼性のあるデータストリーム越しにファイルアクセス、ファイル転送、ファイル管理を提供するネットワークプロトコルです
-  - [SFTPGo](https://sftpgo.com/) - フル機能で高度に設定可能な SFTP サーバーで、オプションで HTTP/S、FTP/S、WebDAV をサポートします
+  - 🔒 [SFTPGo](https://sftpgo.com/) - フル機能で高度に設定可能な SFTP サーバーで、オプションで HTTP/S、FTP/S、WebDAV をサポートします
 
 ### リモートアクセスサーバーとプロトコル
 
@@ -451,4 +451,4 @@
   - [TightVNC](https://www.tightvnc.com/) - 無料のリモートデスクトップアプリケーションです
 - [Mosh](https://mosh.org/) - 対話的な SSH ターミナルの代替です
 - メッシュ VPN
-  - [Tailscale](https://tailscale.com/) - レガシーな VPN、SASE、PAM を置き換え、リモートチーム、マルチクラウド環境、CI/CD パイプライン、エッジ・IoT デバイス、AI ワークロードを接続する、ID ベースのゼロトラスト接続プラットフォームです
+  - 🪙 [Tailscale](https://tailscale.com/) - レガシーな VPN、SASE、PAM を置き換え、リモートチーム、マルチクラウド環境、CI/CD パイプライン、エッジ・IoT デバイス、AI ワークロードを接続する、ID ベースのゼロトラスト接続プラットフォームです

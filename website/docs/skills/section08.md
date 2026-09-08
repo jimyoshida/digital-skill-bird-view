@@ -140,8 +140,8 @@
 - [Doggo](https://doggo.mrkaran.dev/docs/) - A modern command-line DNS client (like dig) written in Go
 
 - Managed DNS Services
-  - [Amazon Route53](https://aws.amazon.com/route53/) - A highly available and scalable cloud Domain Name System web service
-  - [Google Cloud DNS](https://cloud.google.com/dns/) - A high-performance, resilient, global Domain Name System service that publishes your domain names to the global DNS in a cost-effective way
+  - 💲 [Amazon Route53](https://aws.amazon.com/route53/) - A highly available and scalable cloud Domain Name System web service
+  - 💲 [Google Cloud DNS](https://cloud.google.com/dns/) - A high-performance, resilient, global Domain Name System service that publishes your domain names to the global DNS in a cost-effective way
 
 ## Email System
 
@@ -193,12 +193,12 @@
 
 ### Spam Test and Reputation
 
-- [mail-tester](https://www.mail-tester.com/) - A free online service that allows you to test your emails for Spam, Malformed Content and Mail Server Configuration problems
+- 🪙 [mail-tester](https://www.mail-tester.com/) - A free online service that allows you to test your emails for Spam, Malformed Content and Mail Server Configuration problems
 - [Spamhaus Project](https://www.spamhaus.org/) - A non-profit organization that tracks spam and related cyber threats
 
 - Cloud Services
-  - [Amazon SES](https://aws.amazon.com/ses/) - A cost-effective, flexible, and scalable email service that enables developers to send mail from within any application
-  - [SendGrid](https://sendgrid.com/) - A cloud-based email delivery platform that provides reliable transactional and marketing email delivery at scale
+  - 💲 [Amazon SES](https://aws.amazon.com/ses/) - A cost-effective, flexible, and scalable email service that enables developers to send mail from within any application
+  - 💲 [SendGrid](https://sendgrid.com/) - A cloud-based email delivery platform that provides reliable transactional and marketing email delivery at scale
 
 ## Unix-like Operating Systems
 
@@ -278,7 +278,7 @@
 
 - [KVM](https://www.linux-kvm.org/page/Main_Page) - A full virtualization solution for Linux on x86 hardware containing virtualization extensions
 - [Hyper-V](https://learn.microsoft.com/en-us/windows-server/virtualization/hyper-v/overview) - A hardware virtualization product from Microsoft
-- [Proxmox VE](https://www.proxmox.com/en/products/proxmox-virtual-environment/overview) - A complete, open-source server management platform for enterprise virtualization
+- 🔒 [Proxmox VE](https://www.proxmox.com/en/products/proxmox-virtual-environment/overview) - A complete, open-source server management platform for enterprise virtualization
 
 ### Type-2 Hypervisors
 
@@ -421,7 +421,7 @@
   - [proxychains](https://github.com/haad/proxychains) - A tool that forces any TCP connection made by any given application to follow through proxy like TOR or any other SOCKS4, SOCKS5 or HTTP(S) proxy
 - Tunneling
   - [cloudflared](https://github.com/cloudflare/cloudflared) - The command-line client for Cloudflare Tunnel, a daemon that proxies traffic from the Cloudflare network to your origins
-  - [ngrok](https://ngrok.com/) - A unified ingress platform that delivers reverse proxy, API gateway, and secure tunnels to expose local applications to the internet
+  - 🪙 [ngrok](https://ngrok.com/) - A unified ingress platform that delivers reverse proxy, API gateway, and secure tunnels to expose local applications to the internet
 
 ## File Sharing & Remote Access
 
@@ -438,7 +438,7 @@
 - [FTP](https://en.wikipedia.org/wiki/File_Transfer_Protocol) - A standard communication protocol used for the transfer of computer files from a server to a client on a computer network
   - [vsftpd](https://security.appspot.com/vsftpd.html) - A GPL licensed FTP server for UNIX-like systems, including Linux
 - [SFTP](https://en.wikipedia.org/wiki/SSH_File_Transfer_Protocol) - A network protocol that provides file access, file transfer, and file management over any reliable data stream
-  - [SFTPGo](https://sftpgo.com/) - A fully featured and highly configurable SFTP server with optional HTTP/S, FTP/S and WebDAV support
+  - 🔒 [SFTPGo](https://sftpgo.com/) - A fully featured and highly configurable SFTP server with optional HTTP/S, FTP/S and WebDAV support
 
 ### Remote Access Servers and Protocols
 
@@ -451,4 +451,4 @@
   - [TightVNC](https://www.tightvnc.com/) - A free remote desktop application
 - [Mosh](https://mosh.org/) - A replacement for interactive SSH terminals
 - Mesh VPN
-  - [Tailscale](https://tailscale.com/) - A Zero Trust identity-based connectivity platform that replaces your legacy VPN, SASE, and PAM and connects remote teams, multi-cloud environments, CI/CD pipelines, Edge & IoT devices, and AI workloads
+  - 🪙 [Tailscale](https://tailscale.com/) - A Zero Trust identity-based connectivity platform that replaces your legacy VPN, SASE, and PAM and connects remote teams, multi-cloud environments, CI/CD pipelines, Edge & IoT devices, and AI workloads

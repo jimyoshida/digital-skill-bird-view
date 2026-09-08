@@ -74,7 +74,7 @@
 - [R](https://www.r-project.org/) - 統計計算とグラフィックスのための無料のソフトウェア環境です
   - [Tidyverse](https://www.tidyverse.org/) - データサイエンス向けに設計された、思想の一貫した R パッケージ群です
 - [GNU Octave](https://octave.org/) - 主に数値計算を目的とした高水準言語です
-- [Wolfram Language](https://www.wolfram.com/language/) - 強力なプログラムを迅速に開発するために必要な広さと統一性を意図的に備えたシンボリック言語です
+- 💲 [Wolfram Language](https://www.wolfram.com/language/) - 強力なプログラムを迅速に開発するために必要な広さと統一性を意図的に備えたシンボリック言語です
 
 ### 専門 & 科学ツール
 
@@ -85,15 +85,15 @@
 
 ### データソース & 地理空間
 
-- [GeoLite2](https://dev.maxmind.com/geoip/geolite2-free-geolocation-data) - ダウンロード可能なデータベース形式や Web サービス形式で提供される、無料のジオロケーションおよび ASN データセットです
+- 🪙 [GeoLite2](https://dev.maxmind.com/geoip/geolite2-free-geolocation-data) - ダウンロード可能なデータベース形式や Web サービス形式で提供される、無料のジオロケーションおよび ASN データセットです
 
 ### スプレッドシート & コラボレーティブデータプラットフォーム
 
-- [Microsoft Excel](https://www.microsoft.com/en-us/microsoft-365/excel) - 業界をリードするスプレッドシートソフトウェアであり、強力なデータ可視化・分析ツールです
-- [Grist](https://www.getgrist.com/) - スプレッドシートの馴染みのあるインターフェースとリレーショナルデータベースの力・構造を組み合わせたリレーショナルスプレッドシートです
-- [NocoBase](https://www.nocobase.com/) - 複雑な業務アプリケーションや社内ツールの構築向けに設計された、拡張性を最優先するオープンソースのノーコードプラットフォームです
-- [NocoDB](https://nocodb.com/) - あらゆるデータベースをスマートなスプレッドシートに変え、リレーショナルデータベース向けのコラボレーティブなインターフェースを提供するオープンソースのノーコードプラットフォームです
-- [Airtable](https://www.airtable.com/) - スプレッドシートの柔軟性とデータベースの力を組み合わせ、チームの業務管理を支援するプラットフォームです
+- 💲 [Microsoft Excel](https://www.microsoft.com/en-us/microsoft-365/excel) - 業界をリードするスプレッドシートソフトウェアであり、強力なデータ可視化・分析ツールです
+- 🪙 [Grist](https://www.getgrist.com/) - スプレッドシートの馴染みのあるインターフェースとリレーショナルデータベースの力・構造を組み合わせたリレーショナルスプレッドシートです
+- 🔒 [NocoBase](https://www.nocobase.com/) - 複雑な業務アプリケーションや社内ツールの構築向けに設計された、拡張性を最優先するオープンソースのノーコードプラットフォームです
+- 🔒 [NocoDB](https://nocodb.com/) - あらゆるデータベースをスマートなスプレッドシートに変え、リレーショナルデータベース向けのコラボレーティブなインターフェースを提供するオープンソースのノーコードプラットフォームです
+- 🪙 [Airtable](https://www.airtable.com/) - スプレッドシートの柔軟性とデータベースの力を組み合わせ、チームの業務管理を支援するプラットフォームです
 
 ### インタラクティブコンピューティング環境
 
@@ -102,7 +102,7 @@
   - [VSCode Jupyter Extension](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter) - 環境でサポートされる言語カーネル向けに基本的なノートブックサポートを提供する VS Code 拡張機能です
 - [nbviewer](https://nbviewer.org/) - Jupyter Notebook を共有するためのシンプルな方法です
 - [R Markdown](https://rmarkdown.rstudio.com/) - コード、レンダリングされた出力、文章を組み合わせた動的な分析ドキュメントの作成を支援する執筆フレームワークです
-- [Wolfram Notebooks](https://www.wolfram.com/notebooks/) - テキスト、リテラルプログラミング、グラフィックス、カスタムのインタラクティブ要素を組み合わせた、探索とコミュニケーションのための強力な環境です
+- 💲 [Wolfram Notebooks](https://www.wolfram.com/notebooks/) - テキスト、リテラルプログラミング、グラフィックス、カスタムのインタラクティブ要素を組み合わせた、探索とコミュニケーションのための強力な環境です
 - [Voila](https://voila.readthedocs.io/en/stable/) - Jupyter Notebook をスタンドアロンの Web アプリケーションに変えるツールです
 
 ## データ可視化
@@ -133,7 +133,7 @@
   - [WordCloud for Python](https://amueller.github.io/word_cloud/) - Python でのちょっとしたワードクラウドジェネレータです
 - JavaScript ライブラリ
   - [D3](https://d3js.org/) - オーダーメイドのデータ可視化のための JavaScript ライブラリです
-  - [GoJS](https://gojs.net/latest/) - Web ブラウザ上でインタラクティブな図表を簡単に作成できる JavaScript ライブラリです
+  - 💲 [GoJS](https://gojs.net/latest/) - Web ブラウザ上でインタラクティブな図表を簡単に作成できる JavaScript ライブラリです
   - [Chart.js](https://www.chartjs.org/) - モダンな Web 向けのシンプルかつ柔軟な JavaScript チャートライブラリです
   - [Recharts](https://recharts.org/) - React コンポーネントをベースに構築された組み立て可能なチャートライブラリです
   - [Tabulator](https://tabulator.info/) - テーブルやデータグリッドを作成するための、使いやすくシンプルにコーディングでき、機能満載でインタラクティブな JavaScript ライブラリです
@@ -191,15 +191,15 @@
   - [IPFS](https://en.wikipedia.org/wiki/InterPlanetary_File_System) - Web をより速く、安全に、そしてよりオープンにすることを目的として設計された、ピアツーピアのハイパーメディアプロトコルです
     - [Kubo](https://github.com/ipfs/kubo) - IPFS の Go 言語による実装です
 - [Object storage](https://en.wikipedia.org/wiki/Object_storage) - データをオブジェクトとして管理するコンピュータデータストレージアーキテクチャです
-  - [Amazon S3](https://aws.amazon.com/s3/) - 業界最高水準のスケーラビリティ、データ可用性、セキュリティ、パフォーマンスを提供するオブジェクトストレージサービスです
-  - [Azure Blob Storage](https://azure.microsoft.com/en-us/services/storage/blobs/) - 大量の非構造化データの保存に最適化された、Microsoft のクラウド向けオブジェクトストレージソリューションです
-  - [Azure Data Lake Storage (ADLS)](https://azure.microsoft.com/en-us/services/storage/data-lake-storage/) - 高性能な分析ワークロード向けのスケーラブルで安全なデータレイクです
-  - [Google Cloud Storage](https://cloud.google.com/storage/) - Google Cloud Platform のインフラストラクチャ上でデータを保存・アクセスするための RESTful なオンラインファイルストレージ Web サービスです
-  - [Cloud Storage for Firebase](https://firebase.google.com/docs/storage) - 画像や動画などのユーザー生成コンテンツをアップロード・共有できるようにするサービスです
-  - [Supabase Storage](https://supabase.com/docs/guides/storage) - 写真や動画のような大容量ファイルの保存・配信をシンプルにするサービスです
+  - 💲 [Amazon S3](https://aws.amazon.com/s3/) - 業界最高水準のスケーラビリティ、データ可用性、セキュリティ、パフォーマンスを提供するオブジェクトストレージサービスです
+  - 💲 [Azure Blob Storage](https://azure.microsoft.com/en-us/services/storage/blobs/) - 大量の非構造化データの保存に最適化された、Microsoft のクラウド向けオブジェクトストレージソリューションです
+  - 💲 [Azure Data Lake Storage (ADLS)](https://azure.microsoft.com/en-us/services/storage/data-lake-storage/) - 高性能な分析ワークロード向けのスケーラブルで安全なデータレイクです
+  - 💲 [Google Cloud Storage](https://cloud.google.com/storage/) - Google Cloud Platform のインフラストラクチャ上でデータを保存・アクセスするための RESTful なオンラインファイルストレージ Web サービスです
+  - 🪙 [Cloud Storage for Firebase](https://firebase.google.com/docs/storage) - 画像や動画などのユーザー生成コンテンツをアップロード・共有できるようにするサービスです
+  - 🪙 [Supabase Storage](https://supabase.com/docs/guides/storage) - 写真や動画のような大容量ファイルの保存・配信をシンプルにするサービスです
   - セルフホスト型 (上級)
     - [Ceph](https://ceph.com/en/) - オープンソースの分散ストレージシステムです
-    - [MinIO](https://min.io/) - 高性能で S3 互換のオブジェクトストアです
+    - 🔒 [MinIO](https://min.io/) - 高性能で S3 互換のオブジェクトストアです
   - ツール
     - [s5cmd](https://github.com/peak/s5cmd) - 非常に高速な S3 およびローカルファイルシステム実行ツールです
     - [Rclone](https://rclone.org/) - クラウドストレージ上のファイルを管理するためのコマンドラインプログラムです
@@ -312,19 +312,19 @@
 ### データガバナンス & メタデータ管理
 
 - [Apache Atlas](https://atlas.apache.org/) - 企業がコンプライアンス要件を満たせるようにする、スケーラブルで拡張可能な中核的ガバナンスサービス群です
-- [Collibra](https://www.collibra.com/) - データ管理のための共通言語を提供するエンタープライズデータガバナンスプラットフォームです
-- [Informatica Metadata Manager](https://www.informatica.com/products/data-integration/metadata-management.html) - エンタープライズデータガバナンス向けの包括的なメタデータ管理ソリューションです
+- 💲 [Collibra](https://www.collibra.com/) - データ管理のための共通言語を提供するエンタープライズデータガバナンスプラットフォームです
+- 💲 [Informatica Metadata Manager](https://www.informatica.com/products/data-integration/metadata-management.html) - エンタープライズデータガバナンス向けの包括的なメタデータ管理ソリューションです
 - [OpenMetadata](https://github.com/open-metadata/OpenMetadata) - データ発見、ガバナンス、コラボレーションのためのオープンソースのメタデータ管理プラットフォームです
 
 ### データ品質 & 検証
 
 - [Great Expectations](https://greatexpectations.io/) - データ品質を定義、文書化、テストするための Python ライブラリです
 - [Apache Griffin](https://griffin.apache.org/) - Apache Spark と Apache Hadoop 上に構築された、分散データ品質測定のためのデータ品質ソリューションです
-- [Soda](https://www.soda.co/) - モダンなデータスタックと統合するデータ品質モニタリングソリューションです
+- 🔒 [Soda](https://www.soda.co/) - モダンなデータスタックと統合するデータ品質モニタリングソリューションです
 
 ### データバージョニング & スキーマ管理
 
-- [Schema Registry](https://www.confluent.io/confluent-schema-registry/) - Kafka トピック向けのスキーマを一元管理する、ホスト型のスキーマ管理サービスです
+- 🔒 [Schema Registry](https://www.confluent.io/confluent-schema-registry/) - Kafka トピック向けのスキーマを一元管理する、ホスト型のスキーマ管理サービスです
 - Git ベースのスキーマ管理 - Git リポジトリを使ってデータベーススキーマをバージョン管理することです
 - [DBT Contracts](https://docs.getdbt.com/docs/collaborate/govern/model-contracts) - 入力と出力のデータ要件を定義する明示的なデータ契約です
 
@@ -376,13 +376,13 @@
 ### クラウド & マネージドサービス
 
 - マネージドデータベースサービス
-  - [Amazon RDS](https://aws.amazon.com/rds/) - クラウド上でデータベースのセットアップ、運用、スケーリングをシンプルにするマネージドサービス群です
-  - [Amazon Aurora](https://aws.amazon.com/rds/aurora/) - PostgreSQL、MySQL、DSQL 向けにグローバル規模で高いパフォーマンスと可用性を提供する、フルマネージドなリレーショナルデータベースエンジンです
-  - [Azure SQL Database](https://azure.microsoft.com/en-us/products/azure-sql/database/) - クラウド向けに構築されたインテリジェントでスケーラブルなリレーショナルデータベースサービスです
-  - [Azure HorizonDB](https://azure.microsoft.com/en-us/products/horizondb) - 最大 3,072 vCore、128 TB のストレージをサポートするスケールアウトアーキテクチャを備え、高スループットで AI 駆動のアプリケーション向けに設計された、フルマネージドでクラウドネイティブな PostgreSQL 互換のデータベースサービスです
-  - [Google Cloud SQL](https://cloud.google.com/sql) - Google Cloud 上でリレーショナルデータベースのセットアップ、保守、管理、運用を支援するフルマネージドのデータベースサービスです
-  - [Neon](https://neon.tech/) - サーバーレスで耐障害性があり、寛大な無料枠を備えたスケーラブルな Postgres です
-  - [Turso](https://turso.tech/) - SQLite をゼロから書き直した上に構築された SQLite 互換のデータベースであり、複製しても軽量で、どこで実行しても十分に高速です
+  - 💲 [Amazon RDS](https://aws.amazon.com/rds/) - クラウド上でデータベースのセットアップ、運用、スケーリングをシンプルにするマネージドサービス群です
+  - 💲 [Amazon Aurora](https://aws.amazon.com/rds/aurora/) - PostgreSQL、MySQL、DSQL 向けにグローバル規模で高いパフォーマンスと可用性を提供する、フルマネージドなリレーショナルデータベースエンジンです
+  - 💲 [Azure SQL Database](https://azure.microsoft.com/en-us/products/azure-sql/database/) - クラウド向けに構築されたインテリジェントでスケーラブルなリレーショナルデータベースサービスです
+  - 💲 [Azure HorizonDB](https://azure.microsoft.com/en-us/products/horizondb) - 最大 3,072 vCore、128 TB のストレージをサポートするスケールアウトアーキテクチャを備え、高スループットで AI 駆動のアプリケーション向けに設計された、フルマネージドでクラウドネイティブな PostgreSQL 互換のデータベースサービスです
+  - 💲 [Google Cloud SQL](https://cloud.google.com/sql) - Google Cloud 上でリレーショナルデータベースのセットアップ、保守、管理、運用を支援するフルマネージドのデータベースサービスです
+  - 🪙 [Neon](https://neon.tech/) - サーバーレスで耐障害性があり、寛大な無料枠を備えたスケーラブルな Postgres です
+  - 🪙 [Turso](https://turso.tech/) - SQLite をゼロから書き直した上に構築された SQLite 互換のデータベースであり、複製しても軽量で、どこで実行しても十分に高速です
 
 ### 接続性 & ツール
 
@@ -407,7 +407,7 @@
   - [SSMS (SQL Server Management Studio)](https://learn.microsoft.com/en-us/sql/ssms/sql-server-management-studio-ssms) - SQL Server から Azure SQL Database まで、あらゆる SQL インフラストラクチャを管理するための統合環境です
   - [DB Browser for SQLite](https://sqlitebrowser.org/) - SQLite 互換のデータベースファイルを作成、設計、編集できる高品質でビジュアルなオープンソースツールです
   - [Azure Data Studio](https://azure.microsoft.com/en-us/products/data-studio/) - データランドスケープをシンプルにするために設計された、モダンでオープンソース、クロスプラットフォームのハイブリッドデータ分析ツールです
-  - [Beekeeper Studio](https://www.beekeeperstudio.io/) - モダンで使いやすく、見た目も良い SQL エディタ兼データベースマネージャーです
+  - 🔒 [Beekeeper Studio](https://www.beekeeperstudio.io/) - モダンで使いやすく、見た目も良い SQL エディタ兼データベースマネージャーです
 - コマンドライン & デプロイユーティリティ
   - [sqlcmd utility](https://learn.microsoft.com/en-us/sql/tools/sqlcmd/sqlcmd-utility) - Transact-SQL の文やスクリプトをアドホックかつインタラクティブに実行し、T-SQL スクリプティング作業を自動化するためのコマンドラインユーティリティです
   - [sqlpackage](https://learn.microsoft.com/en-us/sql/tools/sqlpackage/sqlpackage) - いくつかのデータベース開発タスクを自動化するコマンドラインユーティリティです
@@ -431,14 +431,14 @@
 
 - [Object-relational impedance mismatch](https://en.wikipedia.org/wiki/Object%E2%80%93relational_impedance_mismatch) - オブジェクト指向プログラミング言語やスタイルで書かれたプログラムがリレーショナルデータベース管理システム (RDBMS) を使用する際にしばしば直面する、概念上・技術上の一連の困難です
 - ドキュメントデータベース
-  - [MongoDB](https://www.mongodb.com/) - アプリケーション開発の容易さとスケーリングを念頭に設計されたドキュメントデータベースです
+  - 🔒 [MongoDB](https://www.mongodb.com/) - アプリケーション開発の容易さとスケーリングを念頭に設計されたドキュメントデータベースです
   - [DocumentDB](https://documentdb.io/) - モダンなアプリケーション向けに構築された、強力でスケーラブルなオープンソースのドキュメントデータベースです
 - キーバリューストア
   - [etcd](https://etcd.io/) - 分散システムにとって最も重要なデータのための、分散型で信頼性の高いキーバリューストアです
-  - [Redis](https://redis.io/) - キャッシュ、ベクトルデータベース、ドキュメントデータベース、ストリーミングエンジンとして何百万人もの開発者に使われているインメモリデータストアです
-  - [Dragonfly](https://www.dragonflydb.io/) - Redis のドロップイン代替品です
+  - 🔒 [Redis](https://redis.io/) - キャッシュ、ベクトルデータベース、ドキュメントデータベース、ストリーミングエンジンとして何百万人もの開発者に使われているインメモリデータストアです
+  - 🔒 [Dragonfly](https://www.dragonflydb.io/) - Redis のドロップイン代替品です
 - グラフデータベース
-  - [Neo4j](https://neo4j.com/) - 際限のないスケール、セキュリティ、データ整合性を備えた高速なグラフデータベースです
+  - 🔒 [Neo4j](https://neo4j.com/) - 際限のないスケール、セキュリティ、データ整合性を備えた高速なグラフデータベースです
     - [Cypher](https://neo4j.com/docs/cypher-manual/current/introduction/) - プロパティグラフデータベース向けの宣言型クエリ言語です
   - [LadybugDB](https://ladybugdb.com/) - 規制の厳しい業界向けに構築された組み込み型の列指向グラフデータベースです
 - ワイドカラムデータベース
@@ -451,9 +451,9 @@
 - コンセプト
   - [HNSW (Hierarchical Navigable Small Worlds)](https://www.pinecone.io/learn/series/faiss/hnsw/) - ベクトル類似検索のためのトップクラスのインデックスです
 - ベクトルデータベース
-  - [Pinecone](https://www.pinecone.io/) - あらゆる規模で関連性の高い結果を返すために特化して構築されたベクトルデータベースです
+  - 🪙 [Pinecone](https://www.pinecone.io/) - あらゆる規模で関連性の高い結果を返すために特化して構築されたベクトルデータベースです
   - [pgvector](https://github.com/pgvector/pgvector) - Postgres 向けのオープンソースのベクトル類似検索です
-  - [ElasticSearch vector database](https://www.elastic.co/elasticsearch/vector-database) - 世界で最も広く導入されているオープンソースのベクトルデータベースです
+  - 🔒 [ElasticSearch vector database](https://www.elastic.co/elasticsearch/vector-database) - 世界で最も広く導入されているオープンソースのベクトルデータベースです
   - [Weaviate](https://weaviate.io/) - AI アプリケーションの開発を簡素化するオープンソースのベクトルデータベースです
   - [Milvus](https://zilliz.com/what-is-milvus) - 数十億のベクトルを扱えるように構築された高性能なオープンソースのベクトルデータベースです
   - [Chroma](https://www.trychroma.com/) - AI ネイティブなオープンソースの埋め込みデータベースです
@@ -462,14 +462,14 @@
 ### クラウド NoSQL サービス
 
 - マルチモデルデータベース
-  - [Azure Cosmos DB](https://azure.microsoft.com/en-us/products/cosmos-db/) - モダンなアプリ開発向けのフルマネージドでサーバーレスな分散データベースです
-  - [Amazon DynamoDB](https://aws.amazon.com/dynamodb/) - あらゆる規模で高性能なアプリケーションを実行できるように設計された、フルマネージドでサーバーレスなキーバリュー型 NoSQL データベースです
+  - 🪙 [Azure Cosmos DB](https://azure.microsoft.com/en-us/products/cosmos-db/) - モダンなアプリ開発向けのフルマネージドでサーバーレスな分散データベースです
+  - 🪙 [Amazon DynamoDB](https://aws.amazon.com/dynamodb/) - あらゆる規模で高性能なアプリケーションを実行できるように設計された、フルマネージドでサーバーレスなキーバリュー型 NoSQL データベースです
 - ドキュメントデータベース
-  - [Cloud Firestore](https://firebase.google.com/docs/firestore) - Apple、Android、Web アプリからネイティブ SDK 経由で直接アクセスできるクラウドホスト型の NoSQL データベースです
+  - 🪙 [Cloud Firestore](https://firebase.google.com/docs/firestore) - Apple、Android、Web アプリからネイティブ SDK 経由で直接アクセスできるクラウドホスト型の NoSQL データベースです
 - グラフデータベース
-  - [Amazon Neptune](https://aws.amazon.com/neptune/) - 高度に接続されたデータセットを扱うアプリケーションを簡単に構築・実行できる、高速で信頼性が高くフルマネージドなグラフデータベースサービスです
+  - 💲 [Amazon Neptune](https://aws.amazon.com/neptune/) - 高度に接続されたデータセットを扱うアプリケーションを簡単に構築・実行できる、高速で信頼性が高くフルマネージドなグラフデータベースサービスです
 - ワイドカラムデータベース
-  - [Google Cloud Bigtable](https://cloud.google.com/bigtable/) - 大規模な分析・運用ワークロード向けの NoSQL ワイドカラムデータベースサービスです
+  - 💲 [Google Cloud Bigtable](https://cloud.google.com/bigtable/) - 大規模な分析・運用ワークロード向けの NoSQL ワイドカラムデータベースサービスです
 
 ## データ処理 & メッセージング
 
@@ -497,9 +497,9 @@
       - [Kafbat UI](https://kafbat.io/) - Apache Kafka クラスタのモニタリングと管理を目的として設計された、多機能で高速、軽量かつ柔軟な Web インターフェースです
   - [RabbitMQ](https://www.rabbitmq.com/) - 信頼性が高く成熟したメッセージング & ストリーミングブローカーです
 - クラウドサービス
-  - [Amazon Kinesis](https://aws.amazon.com/kinesis/) - リアルタイムのストリーミングデータを簡単に収集、処理、分析できるようにするサービスです
-  - [Azure Event Hubs](https://azure.microsoft.com/en-us/products/event-hubs/) - 毎秒数百万件のイベントを取り込める、高いスケーラビリティと信頼性を備えたイベントストリーミングプラットフォームです
-  - [Azure Service Bus](https://azure.microsoft.com/en-us/products/service-bus/) - メッセージキューとパブリッシュ・サブスクライブ型トピックを備えた、フルマネージドなエンタープライズメッセージブローカーです
+  - 💲 [Amazon Kinesis](https://aws.amazon.com/kinesis/) - リアルタイムのストリーミングデータを簡単に収集、処理、分析できるようにするサービスです
+  - 💲 [Azure Event Hubs](https://azure.microsoft.com/en-us/products/event-hubs/) - 毎秒数百万件のイベントを取り込める、高いスケーラビリティと信頼性を備えたイベントストリーミングプラットフォームです
+  - 💲 [Azure Service Bus](https://azure.microsoft.com/en-us/products/service-bus/) - メッセージキューとパブリッシュ・サブスクライブ型トピックを備えた、フルマネージドなエンタープライズメッセージブローカーです
 
 ### バッチ処理 (ETL/ELT)
 
@@ -513,12 +513,12 @@
 - ワークフローオーケストレーション & ETL ツール (ソフトウェア)
   - [Apache NiFi](https://nifi.apache.org/) - データを処理・配信するための使いやすく強力で信頼性の高いシステムです
   - [Apache Airflow](https://airflow.apache.org/) - ワークフローをプログラムによって作成、スケジュール、モニタリングするためのプラットフォームです
-  - [dbt](https://www.getdbt.com/) - チームが信頼性が高くガバナンスの効いたデータを大規模に提供できるようにする、信頼できるデータを届けるための統合プラットフォームです
+  - 🔒 [dbt](https://www.getdbt.com/) - チームが信頼性が高くガバナンスの効いたデータを大規模に提供できるようにする、信頼できるデータを届けるための統合プラットフォームです
   - [Dagu](https://docs.dagu.sh/) - 単一のバイナリからノートパソコンから分散クラスタまでスケールするタスクオーケストレーションを、宣言的でファイルベース、自己完結型のプラットフォームとして提供する、ローカルファーストなワークフローエンジンです
 - マネージド ETL & データ統合サービス
-  - [Azure Data Factory](https://azure.microsoft.com/en-us/products/data-factory/) - スケールアウト可能なサーバーレスのデータ統合・データ変換のためのクラウド ETL サービスです
-  - [AWS Glue](https://aws.amazon.com/glue/) - 複数のソースからのデータの発見、準備、移動、統合を容易にするサーバーレスのデータ統合サービスです
-  - [Google Cloud Data Fusion](https://cloud.google.com/data-fusion) - ユーザーが ETL/ELT データパイプラインを効率的に構築・管理できるよう支援する、フルマネージドでクラウドネイティブなデータ統合サービスです
+  - 💲 [Azure Data Factory](https://azure.microsoft.com/en-us/products/data-factory/) - スケールアウト可能なサーバーレスのデータ統合・データ変換のためのクラウド ETL サービスです
+  - 💲 [AWS Glue](https://aws.amazon.com/glue/) - 複数のソースからのデータの発見、準備、移動、統合を容易にするサーバーレスのデータ統合サービスです
+  - 💲 [Google Cloud Data Fusion](https://cloud.google.com/data-fusion) - ユーザーが ETL/ELT データパイプラインを効率的に構築・管理できるよう支援する、フルマネージドでクラウドネイティブなデータ統合サービスです
 
 ### ストリーム処理
 
@@ -527,7 +527,7 @@
   - [Apache Storm](https://storm.apache.org/) - 無料でオープンソースの分散リアルタイム計算システムです
   - [Apache Flink](https://flink.apache.org/) - 境界の有無を問わないデータストリームに対するステートフルな計算のためのフレームワーク兼分散処理エンジンです
 - クラウドサービス
-  - [Google Cloud Dataflow](https://cloud.google.com/products/dataflow) - オートスケーリングとバッチ処理により、レイテンシ、処理時間、コストを最小化するフルマネージドのストリーミング分析サービスです
+  - 💲 [Google Cloud Dataflow](https://cloud.google.com/products/dataflow) - オートスケーリングとバッチ処理により、レイテンシ、処理時間、コストを最小化するフルマネージドのストリーミング分析サービスです
 
 ## データ分析 & 検索
 
@@ -543,16 +543,16 @@
   - [Google Search](https://www.google.com/) - ウェブページ、画像、動画など、世界中の情報を検索できる検索エンジンです
   - [DuckDuckGo](https://duckduckgo.com/) - あなたを追跡しない検索エンジンです
 - 回答エンジン
-  - [Wolfram|Alpha](https://www.wolframalpha.com/) - 画期的なアルゴリズム、ナレッジベース、AI テクノロジーを使って専門家レベルの回答を計算する計算知識エンジンです
-  - [Perplexity AI](https://www.perplexity.ai/) - あらゆる質問に対して正確で信頼でき、リアルタイムな回答を提供する AI 駆動の回答エンジンです
+  - 🪙 [Wolfram|Alpha](https://www.wolframalpha.com/) - 画期的なアルゴリズム、ナレッジベース、AI テクノロジーを使って専門家レベルの回答を計算する計算知識エンジンです
+  - 🪙 [Perplexity AI](https://www.perplexity.ai/) - あらゆる質問に対して正確で信頼でき、リアルタイムな回答を提供する AI 駆動の回答エンジンです
 - 検索プラットフォームとツール
-  - [Azure AI Search](https://azure.microsoft.com/en-us/products/ai-services/ai-search) - AI を活用した検索と検索拡張生成のために、エンタープライズコンテンツと Web コンテンツへのアクセスを統一する、フルマネージドのクラウドホスト型サービスです
+  - 💲 [Azure AI Search](https://azure.microsoft.com/en-us/products/ai-services/ai-search) - AI を活用した検索と検索拡張生成のために、エンタープライズコンテンツと Web コンテンツへのアクセスを統一する、フルマネージドのクラウドホスト型サービスです
     - [Reciprocal Rank Fusion (RRF)](https://learn.microsoft.com/en-us/azure/search/hybrid-search-ranking) - 過去に実行された複数のクエリの検索スコアを評価し、統一された結果セットを生成するアルゴリズムです
     - [BM25 relevance scoring](https://learn.microsoft.com/en-us/azure/search/index-similarity-and-scoring) - 全文検索において一致するドキュメントの関連性スコアを計算するために使われる Okapi BM25 ランキング関数です
-  - [ElasticSearch](https://www.elastic.co/elasticsearch/) - オープンソースの分散型 RESTful 検索・分析エンジンであり、スケーラブルなデータストア兼ベクトルデータベースです
+  - 🔒 [ElasticSearch](https://www.elastic.co/elasticsearch/) - オープンソースの分散型 RESTful 検索・分析エンジンであり、スケーラブルなデータストア兼ベクトルデータベースです
     - [Painless](https://www.elastic.co/guide/en/elasticsearch/painless/current/index.html) - このエンジンでの利用を目的として特別に設計された、シンプルで安全なスクリプト言語です
     - [ES|QL](https://www.elastic.co/docs/explore-analyze/query-filter/languages/esql) - このエンジンに保存されたデータをフィルタリング、変換、分析できるパイプ形式の言語です
-    - [Kibana](https://www.elastic.co/kibana) - このエンジンに保存されたデータをクエリ、分析、可視化、管理するためのオープンソースのインターフェースです
+    - 🔒 [Kibana](https://www.elastic.co/kibana) - このエンジンに保存されたデータをクエリ、分析、可視化、管理するためのオープンソースのインターフェースです
     - [Kibana Query Language](https://www.elastic.co/guide/en/kibana/current/kuery-query.html) - データをフィルタリングするためのシンプルなテキストベースのクエリ言語です
   - [Apache Solr](https://solr.apache.org/) - Apache Lucene 上に構築された、人気の高い超高速オープンソースのエンタープライズ検索プラットフォームです
     - [Apache Lucene](https://lucene.apache.org/) - 強力なインデックス作成・検索機能を提供する Java ライブラリです
@@ -566,22 +566,22 @@
   - [Apache Hive](https://hive.apache.org/) - 大規模な分析を可能にする、分散型で耐障害性のあるデータウェアハウスシステムです
   - [Presto](https://prestodb.io/) - あらゆる規模で高速かつ信頼性が高く効率的な分析を実現するために設計された分散 SQL クエリエンジンです
   - [Trino](https://trino.io/) - 1 つまたは複数の異種データソースに分散した大規模データセットに問い合わせるために設計された分散 SQL クエリエンジンです
-  - [Amazon EMR](https://aws.amazon.com/emr/) - 大規模な分散データ処理ジョブ、インタラクティブな SQL クエリ、機械学習アプリケーションを実行するためのクラウドビッグデータプラットフォームです
-  - [Amazon Redshift](https://aws.amazon.com/redshift/) - クラウド上のペタバイト規模のフルマネージドデータウェアハウスサービスです
-  - [Amazon Athena](https://aws.amazon.com/athena/) - 標準的な SQL を使って Amazon S3 やその他のデータストア内のデータを直接簡単に分析できるインタラクティブなクエリサービスです
-  - [Databricks](https://www.databricks.com/product/data-intelligence-platform) - 組織全体でデータと AI を活用できるようにするプラットフォームです
+  - 💲 [Amazon EMR](https://aws.amazon.com/emr/) - 大規模な分散データ処理ジョブ、インタラクティブな SQL クエリ、機械学習アプリケーションを実行するためのクラウドビッグデータプラットフォームです
+  - 💲 [Amazon Redshift](https://aws.amazon.com/redshift/) - クラウド上のペタバイト規模のフルマネージドデータウェアハウスサービスです
+  - 💲 [Amazon Athena](https://aws.amazon.com/athena/) - 標準的な SQL を使って Amazon S3 やその他のデータストア内のデータを直接簡単に分析できるインタラクティブなクエリサービスです
+  - 💲 [Databricks](https://www.databricks.com/product/data-intelligence-platform) - 組織全体でデータと AI を活用できるようにするプラットフォームです
     - [Declarative Automation Bundles](https://docs.databricks.com/aws/en/dev-tools/bundles/) - データおよび AI プロジェクトにおいて、ソース管理、コードレビュー、テスト、継続的インテグレーション・デリバリー (CI/CD) といったソフトウェアエンジニアリングのベストプラクティスの採用を促進するツールであり、以前は Databricks Asset Bundles と呼ばれていました
-  - [Snowflake](https://www.snowflake.com/en/) - ほぼ無制限のスケールでデータを動員し、単一のフルマネージドプラットフォーム上で分析、アプリケーション、AI を強化する AI データクラウドです
-  - [Microsoft Fabric](https://www.microsoft.com/en-us/microsoft-fabric) - データ移動、データレイク、データエンジニアリング、データ統合、データサイエンス、リアルタイム分析、ビジネスインテリジェンスを含むフルサービスの機能を備えた、エンドツーエンドの分析ソリューションです
+  - 💲 [Snowflake](https://www.snowflake.com/en/) - ほぼ無制限のスケールでデータを動員し、単一のフルマネージドプラットフォーム上で分析、アプリケーション、AI を強化する AI データクラウドです
+  - 💲 [Microsoft Fabric](https://www.microsoft.com/en-us/microsoft-fabric) - データ移動、データレイク、データエンジニアリング、データ統合、データサイエンス、リアルタイム分析、ビジネスインテリジェンスを含むフルサービスの機能を備えた、エンドツーエンドの分析ソリューションです
     - [Microsoft OneLake](https://learn.microsoft.com/en-us/fabric/onelake/) - 組織全体のための単一の統一された論理データレイクです
     - [Real-Time Intelligence](https://learn.microsoft.com/en-us/fabric/real-time-intelligence/overview) - 取り込み、変換、保存、分析、可視化、時間ベースのイベントに対するリアルタイムアクションまでをエンドツーエンドでカバーするソリューションにより、動きのあるストリーミングデータからインサイトを抽出するサービスです
     - [Rayfin CLI](https://learn.microsoft.com/en-us/fabric/apps/cli-reference) - プロジェクトの雛形作成、リモートデプロイ、構成管理の機能を備え、Fabric アプリケーションの作成、デプロイ、管理を行うコマンドラインツールです
     - [Lakehouse vs Data Warehouse](https://learn.microsoft.com/en-us/fabric/fundamentals/decision-guide-lakehouse-warehouse) - データ量、構造、処理要件に基づいてレイクハウスとデータウェアハウスのどちらを選ぶべきかを判断するためのガイドです
-  - [Azure Synapse Analytics](https://azure.microsoft.com/en-us/products/synapse-analytics/) - データウェアハウスとビッグデータシステム全体にわたってインサイト獲得までの時間を短縮するエンタープライズ分析サービスです
-  - [Google Cloud BigQuery](https://cloud.google.com/bigquery) - データから最大限の価値を引き出すのに役立つ、マルチエンジン、マルチフォーマット、マルチクラウドを念頭に設計されたフルマネージドで AI 対応のデータ分析プラットフォームです
-  - [Amazon QuickSight](https://aws.amazon.com/quicksight/) - ユーザーがさまざまなエンタープライズデータソースからデータを分析し、可視化を作成し、インサイトを得られるようにする AI 駆動のビジネスインテリジェンスサービスです
+  - 💲 [Azure Synapse Analytics](https://azure.microsoft.com/en-us/products/synapse-analytics/) - データウェアハウスとビッグデータシステム全体にわたってインサイト獲得までの時間を短縮するエンタープライズ分析サービスです
+  - 🪙 [Google Cloud BigQuery](https://cloud.google.com/bigquery) - データから最大限の価値を引き出すのに役立つ、マルチエンジン、マルチフォーマット、マルチクラウドを念頭に設計されたフルマネージドで AI 対応のデータ分析プラットフォームです
+  - 💲 [Amazon QuickSight](https://aws.amazon.com/quicksight/) - ユーザーがさまざまなエンタープライズデータソースからデータを分析し、可視化を作成し、インサイトを得られるようにする AI 駆動のビジネスインテリジェンスサービスです
 
 ### セマンティックレイヤー
 
-- [Cube](https://cube.dev/) - データのモデリング、分析、レポーティングを行う AI エージェントをデプロイするエージェント型分析プラットフォームです
+- 🔒 [Cube](https://cube.dev/) - データのモデリング、分析、レポーティングを行う AI エージェントをデプロイするエージェント型分析プラットフォームです
 - [Open Semantic Interchange (OSI)](https://open-semantic-interchange.org/) - 分析、AI、BI プラットフォーム間でセマンティックメタデータを相互運用できるようにする、セマンティックモデル交換のための普遍的な標準です

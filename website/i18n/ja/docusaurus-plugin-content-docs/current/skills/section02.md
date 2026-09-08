@@ -61,7 +61,7 @@
   - [WebGL API](https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API) - プラグインを使わずに互換性のあるあらゆるウェブブラウザ内で高性能なインタラクティブ 3D および 2D グラフィックスをレンダリングするための JavaScript API です
   - [Web Neural Network API (WebNN)](https://www.w3.org/TR/webnn/) - GPU、CPU、NPU などのオンデバイスハードウェアを使ってウェブアプリやフレームワークがディープニューラルネットワークを高速化できるようにする、新しく登場したウェブ標準です
 - サイト分析ツール
-  - [Wappalyzer](https://www.wappalyzer.com/) - ウェブサイトが何で構築されているかを示すテクノロジープロファイラーです
+  - 🪙 [Wappalyzer](https://www.wappalyzer.com/) - ウェブサイトが何で構築されているかを示すテクノロジープロファイラーです
 
 ### ウェブアプリケーションアーキテクチャ
 
@@ -155,18 +155,18 @@
     - [CSS Transforms 1](https://www.w3.org/TR/css-transforms-1/) - 要素を 2 次元空間で変形できるようにする CSS モジュールです
     - [CSS Transforms 2](https://www.w3.org/TR/css-transforms-2/) - 要素を 3 次元空間で変形できるようにする CSS モジュールです
 - UI コンポーネントライブラリ
-  - [templUI](https://templui.io/) - Go と templ 向けの、美しくデザインされた UI コンポーネント集です
-  - [Material UI](https://mui.com/material-ui/) - Google の Material Design を実装したオープンソースの React コンポーネントライブラリです
+  - 🪙 [templUI](https://templui.io/) - Go と templ 向けの、美しくデザインされた UI コンポーネント集です
+  - 🪙 [Material UI](https://mui.com/material-ui/) - Google の Material Design を実装したオープンソースの React コンポーネントライブラリです
   - [Chakra UI](https://www.chakra-ui.com/) - スピーディーにプロダクトを構築するためのコンポーネントシステムです
   - [Vuetify](https://vuetifyjs.com/en/) - デザインスキルを必要としない、美しく作り込まれた Vue コンポーネントを備えたオープンソース UI ライブラリです
 - 特殊な UI ウィジェット
   - リッチテキストエディター
-    - [Tiptap](https://tiptap.dev/) - ウェブ開発者向けに設計された、ヘッドレスでオープンソースのエディターフレームワークです
+    - 🪙 [Tiptap](https://tiptap.dev/) - ウェブ開発者向けに設計された、ヘッドレスでオープンソースのエディターフレームワークです
   - インタラクションとメディア
     - [Swiper.js](https://swiperjs.com/) - ハードウェアアクセラレーションによるトランジションと優れたネイティブの挙動を備えた、最もモダンなモバイルタッチスライダーです
     - [Hammer.js](https://hammerjs.github.io/) - マルチタッチジェスチャーのための JavaScript ライブラリです
   - キャンバスとホワイトボード
-    - [tldraw](https://tldraw.dev/) - 高性能なウェブキャンバスでホワイトボードやダイアグラム、キャンバスツールを構築するための React ベースの SDK です
+    - 🔒 [tldraw](https://tldraw.dev/) - 高性能なウェブキャンバスでホワイトボードやダイアグラム、キャンバスツールを構築するための React ベースの SDK です
 
 ### ビルドと開発ツール
 
@@ -216,16 +216,16 @@
 - [Eleventy](https://www.11ty.dev/) - JavaScript で書かれたよりシンプルな静的サイトジェネレーターです
 - [Sphinx](http://www.sphinx-doc.org/en/master/) - 知的で美しいドキュメントを簡単に作成できるツールです
 - [MkDocs](https://www.mkdocs.org/) - プロジェクトドキュメントの構築に特化した、高速でシンプル、そして見た目にも美しい静的サイトジェネレーターです
-  - [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/) - MkDocs 静的サイトジェネレーターのための強力で美しいテーマです
+  - 🔒 [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/) - MkDocs 静的サイトジェネレーターのための強力で美しいテーマです
 - [Nanoc](https://nanoc.app/) - 小さな個人ブログから大規模な企業サイトまで何でも構築できる静的サイトジェネレーターです
 - [gitmal](https://github.com/antonmedv/gitmal) - Git リポジトリ向けに設計された静的ページジェネレーターです
 
 ### ヘッドレス CMS
 
 - クラウドネイティブかつ API ファーストの CMS
-  - [Contentful](https://www.contentful.com/) - コンテンツファーストのアプローチでデジタルプロダクトの構築を支えるヘッドレスコンテンツ管理システムです
-  - [Strapi](https://strapi.io/) - 業界をリードするオープンソースのヘッドレス CMS です
-  - [Sanity](https://www.sanity.io/) - より優れたデジタル体験を構築できるようにする、構造化コンテンツのためのプラットフォームです
+  - 💲 [Contentful](https://www.contentful.com/) - コンテンツファーストのアプローチでデジタルプロダクトの構築を支えるヘッドレスコンテンツ管理システムです
+  - 🔒 [Strapi](https://strapi.io/) - 業界をリードするオープンソースのヘッドレス CMS です
+  - 🪙 [Sanity](https://www.sanity.io/) - より優れたデジタル体験を構築できるようにする、構造化コンテンツのためのプラットフォームです
 
 ## バックエンド開発
 
@@ -276,7 +276,7 @@
     - [Puma](https://puma.io/) - Ruby と Rack のための高速で並行処理に対応したウェブサーバーです
     - [Falcon](https://socketry.github.io/falcon/) - async、async-container、async-http の上に構築された、マルチプロセス・マルチファイバーで Rack と互換性のある HTTP サーバーです
     - [Sinatra](https://sinatrarb.com/) - 最小限の手間で Ruby のウェブアプリケーションを素早く作成するための DSL です
-  - [Sidekiq](https://sidekiq.org/) - Ruby 向けのシンプルで効率的なバックグラウンド処理ツールです
+  - 🔒 [Sidekiq](https://sidekiq.org/) - Ruby 向けのシンプルで効率的なバックグラウンド処理ツールです
   - [Shrine](https://shrinerb.com/) - Ruby アプリケーションのためのファイル添付ツールキットです
 - Perl バックエンドフレームワーク (レガシー)
   - クラシック CGI
@@ -315,12 +315,12 @@
   - [nodejs http-server](https://github.com/http-party/http-server#readme) - シンプルな静的 HTTP サーバーです
   - [goshs](https://github.com/patrickhener/goshs) - HTTP/S、WebDAV、SFTP、SMB、LDAP/S、NTLM ハッシュキャプチャ、DNS/SMTP コールバック、TLS、認証、共有リンクをサポートする、レッドチームや開発者向けの機能豊富なシングルバイナリのファイルサーバーです
 - API 管理
-  - [Unkey](https://www.unkey.com/) - 開発者が API を保護、管理、拡張できるように支援するオープンソースの API 管理プラットフォームです
-  - [Kong API gateway](https://konghq.com/products/kong-gateway) - 軽量で高速、柔軟なクラウドネイティブ API ゲートウェイです
-  - [Azure API Management](https://azure.microsoft.com/en-us/services/api-management/) - あらゆる環境の API を管理するためのハイブリッドなマルチクラウド管理プラットフォームです
-  - [Amazon API Gateway](https://aws.amazon.com/api-gateway/) - 開発者があらゆる規模で API を作成、公開、保守、監視、保護しやすくするフルマネージドサービスです
-  - [Google Cloud Apigee](https://cloud.google.com/apigee) - API サービスの開発と管理のためのプラットフォームです
-  - [Gravitee](https://www.gravitee.io/) - あらゆるインフラストラクチャ上の API を単一のビューで管理・保護・統治できる、統合された API 可視化・ガバナンスプラットフォームです
+  - 🪙 [Unkey](https://www.unkey.com/) - 開発者が API を保護、管理、拡張できるように支援するオープンソースの API 管理プラットフォームです
+  - 🔒 [Kong API gateway](https://konghq.com/products/kong-gateway) - 軽量で高速、柔軟なクラウドネイティブ API ゲートウェイです
+  - 💲 [Azure API Management](https://azure.microsoft.com/en-us/services/api-management/) - あらゆる環境の API を管理するためのハイブリッドなマルチクラウド管理プラットフォームです
+  - 💲 [Amazon API Gateway](https://aws.amazon.com/api-gateway/) - 開発者があらゆる規模で API を作成、公開、保守、監視、保護しやすくするフルマネージドサービスです
+  - 💲 [Google Cloud Apigee](https://cloud.google.com/apigee) - API サービスの開発と管理のためのプラットフォームです
+  - 🔒 [Gravitee](https://www.gravitee.io/) - あらゆるインフラストラクチャ上の API を単一のビューで管理・保護・統治できる、統合された API 可視化・ガバナンスプラットフォームです
 
 ### CDN とエッジコンピューティング
 
@@ -331,16 +331,16 @@
 - フォワードプロキシサーバー
   - [Squid](http://www.squid-cache.org/) - HTTP、HTTPS、FTP などに対応したウェブ向けのキャッシングプロキシです
 - CDN プロバイダー
-  - [Cloudflare](https://www.cloudflare.com/) - インターネットに接続するあらゆるものを安全でプライベート、高速、信頼できるものにすることを目指すグローバルネットワークです
-    - [Cloudflare Workers](https://workers.cloudflare.com/) - インフラストラクチャの設定や保守を行うことなく、まったく新しいアプリケーションを作成したり既存のアプリケーションを拡張したりできるサーバーレス実行環境です
+  - 🪙 [Cloudflare](https://www.cloudflare.com/) - インターネットに接続するあらゆるものを安全でプライベート、高速、信頼できるものにすることを目指すグローバルネットワークです
+    - 🪙 [Cloudflare Workers](https://workers.cloudflare.com/) - インフラストラクチャの設定や保守を行うことなく、まったく新しいアプリケーションを作成したり既存のアプリケーションを拡張したりできるサーバーレス実行環境です
     - [Cloudflare Workers Bindings](https://developers.cloudflare.com/workers/runtime-apis/bindings/) - Worker が Cloudflare Developer Platform 上のリソースとやり取りできるようにする仕組みで、REST API 経由でリソースにアクセスするよりも高いパフォーマンスと少ない制約を提供します
-  - [Amazon CloudFront](https://aws.amazon.com/cloudfront/) - 高性能、セキュリティ、開発者の利便性のために構築されたコンテンツデリバリーネットワーク (CDN) サービスです
-    - [Lambda@Edge](https://aws.amazon.com/lambda/edge/) - アプリケーションの利用者に近い場所でコードを実行できるようにする Amazon CloudFront の機能です
-  - [Google Cloud CDN](https://cloud.google.com/cdn) - ウェブおよび動画コンテンツの配信を高速化するコンテンツデリバリーネットワーク (CDN) です
-  - [Azure Front Door](https://azure.microsoft.com/en-us/products/frontdoor/) - グローバルなウェブアプリケーションやコンテンツを高速に配信するための安全でスケーラブルなエントリポイントを提供する、モダンなクラウドコンテンツデリバリーネットワーク (CDN) です
+  - 🪙 [Amazon CloudFront](https://aws.amazon.com/cloudfront/) - 高性能、セキュリティ、開発者の利便性のために構築されたコンテンツデリバリーネットワーク (CDN) サービスです
+    - 💲 [Lambda@Edge](https://aws.amazon.com/lambda/edge/) - アプリケーションの利用者に近い場所でコードを実行できるようにする Amazon CloudFront の機能です
+  - 💲 [Google Cloud CDN](https://cloud.google.com/cdn) - ウェブおよび動画コンテンツの配信を高速化するコンテンツデリバリーネットワーク (CDN) です
+  - 💲 [Azure Front Door](https://azure.microsoft.com/en-us/products/frontdoor/) - グローバルなウェブアプリケーションやコンテンツを高速に配信するための安全でスケーラブルなエントリポイントを提供する、モダンなクラウドコンテンツデリバリーネットワーク (CDN) です
 - JAMstack ホスティング
-  - [GitLab Pages](https://docs.gitlab.com/ee/user/project/pages/) - GitLab のリポジトリから静的ウェブサイトを直接公開できるようにする機能です
-  - [Cloudflare Pages](https://pages.cloudflare.com/) - フロントエンド開発者が共同作業しながらウェブサイトをデプロイできる JAMstack プラットフォームです
+  - 🪙 [GitLab Pages](https://docs.gitlab.com/ee/user/project/pages/) - GitLab のリポジトリから静的ウェブサイトを直接公開できるようにする機能です
+  - 🪙 [Cloudflare Pages](https://pages.cloudflare.com/) - フロントエンド開発者が共同作業しながらウェブサイトをデプロイできる JAMstack プラットフォームです
 
 ## 分散型ウェブ
 
@@ -415,8 +415,8 @@
 - GraphQL ライブラリ
   - [URQL](https://commerce.nearform.com/open-source/urql/) - React、Svelte、Vue、あるいは素の JavaScript 向けの、高度にカスタマイズ可能で汎用性の高い GraphQL クライアントです
 - API テストプラットフォーム
-  - [Bruno](https://www.usebruno.com/) - Git と統合された、完全オフラインで動作するオープンソースの API クライアントです
-  - [Postman/Newman](https://www.postman.com/) - API の構築と利用のための API プラットフォームです
+  - 🪙 [Bruno](https://www.usebruno.com/) - Git と統合された、完全オフラインで動作するオープンソースの API クライアントです
+  - 🪙 [Postman/Newman](https://www.postman.com/) - API の構築と利用のための API プラットフォームです
 - クラシックなウェブオートメーション
   - [Mechanize](https://metacpan.org/pod/WWW::Mechanize) - ウェブサイトとのやり取りを自動化するのに役立つモジュールです
   - [Mechanize (Ruby)](https://github.com/sparklemotion/mechanize) - 自動化されたウェブ操作を簡単にする Ruby ライブラリです
@@ -429,10 +429,10 @@
 - [Vue.js devtools](https://devtools.vuejs.org/) - コンポーネントの検査や状態管理のデバッグを提供する、Vue.js アプリケーションをデバッグするためのブラウザ拡張機能です
 - [Redux DevTools](https://github.com/reduxjs/redux-devtools) - ホットリロード、アクションのリプレイ、カスタマイズ可能な UI など、Redux の開発ワークフローを強化する機能を提供する開発ツールです
 - [Lighthouse](https://developer.chrome.com/docs/lighthouse/overview/) - パフォーマンス、アクセシビリティ、SEO、ベストプラクティスを監査することでウェブページの品質向上を助ける、オープンソースの自動化ツールです
-- [Fiddler](https://www.telerik.com/fiddler) - あらゆるブラウザ、システム、プラットフォームで使える無料のウェブデバッグプロキシです
-- [Charles Proxy](https://www.charlesproxy.com/) - 開発者が自分のマシンとインターネットの間でやり取りされるすべての HTTP および SSL/HTTPS トラフィック (リクエスト、レスポンス、ヘッダーを含む) を確認できるようにする HTTP プロキシ兼モニターです
+- 🪙 [Fiddler](https://www.telerik.com/fiddler) - あらゆるブラウザ、システム、プラットフォームで使える無料のウェブデバッグプロキシです
+- 💲 [Charles Proxy](https://www.charlesproxy.com/) - 開発者が自分のマシンとインターネットの間でやり取りされるすべての HTTP および SSL/HTTPS トラフィック (リクエスト、レスポンス、ヘッダーを含む) を確認できるようにする HTTP プロキシ兼モニターです
 - [mitmproxy](https://mitmproxy.org/) - デバッグ、テスト、ペネトレーションテストの目的でウェブトラフィックを傍受、検査、変更、再生できる、無料でオープンソースのインタラクティブな HTTPS プロキシです
-- [Requestly](https://requestly.com/) - 開発者がデバッグやテストのために URL やヘッダー、API レスポンスをリアルタイムで変更できるようにする HTTP インターセプターです
+- 🪙 [Requestly](https://requestly.com/) - 開発者がデバッグやテストのために URL やヘッダー、API レスポンスをリアルタイムで変更できるようにする HTTP インターセプターです
 
 ### ウェブテスト自動化フレームワーク
 
@@ -440,7 +440,7 @@
   - [Puppeteer](https://developer.chrome.com/docs/puppeteer/) - DevTools プロトコル経由で Chrome/Chromium を制御するための高レベル API を提供する Node.js ライブラリです
   - [Playwright](https://playwright.dev/) - Chromium、Firefox、WebKit に対して単一の API でモダンなウェブアプリの信頼性の高いエンドツーエンドテストを行うためのフレームワークです
     - [Playwright for Go](https://playwright-community.github.io/playwright-go/) - 単一の API で Chromium、Firefox、WebKit を自動化する Go ライブラリです
-  - [Cypress](https://www.cypress.io/) - モダンなウェブアプリケーションに対して、ブラウザ内で直接エンドツーエンドテストやコンポーネントテストを記述、実行、デバッグできるようにする、オープンソースの JavaScript ベースのテストフレームワークです
+  - 🪙 [Cypress](https://www.cypress.io/) - モダンなウェブアプリケーションに対して、ブラウザ内で直接エンドツーエンドテストやコンポーネントテストを記述、実行、デバッグできるようにする、オープンソースの JavaScript ベースのテストフレームワークです
   - [WebDriver](https://www.w3.org/TR/webdriver2/) - ユーザーエージェントの内部調査と制御を可能にする、遠隔操作インターフェースです
     - [Selenium WebDriver](https://www.selenium.dev/documentation/webdriver/) - ローカルまたはリモートのマシン上で、ユーザーがするようにブラウザをネイティブに操作するツールです
     - [WebDriver BiDi](https://www.w3.org/TR/webdriver-bidi/) - 双方向 WebDriver プロトコルのことで、ユーザーエージェントを遠隔操作するための仕組みです

@@ -116,7 +116,7 @@
 
 ### Secrets Management
 
-- [Vault](https://www.vaultproject.io/) - A tool for securely accessing secrets like API keys, passwords, or certificates
+- 🔒 [Vault](https://www.vaultproject.io/) - A tool for securely accessing secrets like API keys, passwords, or certificates
 - [OneCLI](https://www.onecli.sh/) - An open-source credential vault and proxy gateway for AI agents that stores secrets in an encrypted vault and injects them into agent requests without exposing keys
 - [SOPS](https://github.com/mozilla/sops) - An editor of encrypted files that supports YAML, JSON, ENV, INI and BINARY formats
 - [git-secret](https://git-secret.io/) - A bash tool to store your private data inside a git repo
@@ -125,10 +125,10 @@
   - [Secrets Store CSI Driver](https://secrets-store-csi-driver.sigs.k8s.io/) - A driver that allows Kubernetes to mount multiple secrets, keys, and certs stored in enterprise-grade external secrets stores into pods as a volume
   - [External Secrets Operator](https://external-secrets.io/latest/) - A Kubernetes operator that integrates external secret management systems like AWS Secrets Manager, HashiCorp Vault, Google Secrets Manager, Azure Key Vault, and IBM Cloud Secrets Manager
 - Vendor Services
-  - [Azure Key Vault](https://azure.microsoft.com/en-us/products/key-vault/) - A cloud service to safeguard cryptographic keys and other secrets used by cloud apps and services
-  - [Google Cloud Secret Manager](https://cloud.google.com/security/products/secret-manager) - A secure and convenient storage system for API keys, passwords, certificates, and other sensitive data
-  - [AWS Key Management Service](https://aws.amazon.com/kms/) - A service that makes it easy for you to create and manage cryptographic keys
-  - [AWS Secrets Manager](https://aws.amazon.com/secrets-manager/) - A secrets management service that helps you protect access to your applications, services, and IT resources
+  - 💲 [Azure Key Vault](https://azure.microsoft.com/en-us/products/key-vault/) - A cloud service to safeguard cryptographic keys and other secrets used by cloud apps and services
+  - 💲 [Google Cloud Secret Manager](https://cloud.google.com/security/products/secret-manager) - A secure and convenient storage system for API keys, passwords, certificates, and other sensitive data
+  - 💲 [AWS Key Management Service](https://aws.amazon.com/kms/) - A service that makes it easy for you to create and manage cryptographic keys
+  - 💲 [AWS Secrets Manager](https://aws.amazon.com/secrets-manager/) - A secrets management service that helps you protect access to your applications, services, and IT resources
 
 ### Applied Cryptography & Tools
 
@@ -168,14 +168,14 @@
 
 - [Identity management](https://en.wikipedia.org/wiki/Identity_management) - A framework of policies and technologies for ensuring that the proper people in an enterprise have the appropriate access to technology resources
 - Self-hosted IAM Platforms
-  - [FusionAuth CE](https://fusionauth.io/) - The self-hosted, community supported version of FusionAuth
+  - 🔒 [FusionAuth CE](https://fusionauth.io/) - The self-hosted, community supported version of FusionAuth
   - [KeyCloak](https://www.keycloak.org/) - An open source identity and access management solution
   - [FreeIPA](https://www.freeipa.org/) - An integrated security information management solution combining Linux, 389 Directory Server, MIT Kerberos, NTP, DNS, and a certificate system
 - Cloud IAM Services
-  - [Microsoft Entra ID](https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-id) - A cloud-based identity and access management service
+  - 🪙 [Microsoft Entra ID](https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-id) - A cloud-based identity and access management service
   - [AWS IAM](https://aws.amazon.com/iam/) - A service that helps you securely control access to AWS resources
-  - [Amazon Cognito](https://aws.amazon.com/cognito/) - A service that lets you add user sign-up, sign-in, and access control to your web and mobile apps
-  - [Auth0](https://auth0.com/) - A flexible, drop-in solution to add authentication and authorization services to your applications
+  - 🪙 [Amazon Cognito](https://aws.amazon.com/cognito/) - A service that lets you add user sign-up, sign-in, and access control to your web and mobile apps
+  - 🪙 [Auth0](https://auth0.com/) - A flexible, drop-in solution to add authentication and authorization services to your applications
 - [Directory service](https://en.wikipedia.org/wiki/Directory_service) - A service that maps the names of network resources to their respective network addresses
   - [LDAP](https://en.wikipedia.org/wiki/Lightweight_Directory_Access_Protocol) - An open, vendor-neutral, industry standard application protocol for accessing and maintaining distributed directory information services
   - [OpenLDAP](https://www.openldap.org/) - An open source implementation of the Lightweight Directory Access Protocol
@@ -213,9 +213,9 @@
   - [AWS Signature Version 4 (SigV4)](https://docs.aws.amazon.com/IAM/latest/UserGuide/reference_sigv.html) - The process to add authentication information to AWS API requests sent by HTTP
 - Platforms & Tools
   - [Dex](https://dexidp.io/) - A Federated OpenID Connect Provider
-  - [Firebase Authentication](https://firebase.google.com/docs/auth) - A service that provides backend services, easy-to-use SDKs, and ready-made UI libraries to authenticate users to your app
-  - [Supabase Auth](https://supabase.com/docs/guides/database/overview) - A service that provides user management and access control for Supabase projects
-  - [ReCAPTCHA](https://en.wikipedia.org/wiki/ReCAPTCHA) - A CAPTCHA system that enables web hosts to distinguish between human and automated access to websites
+  - 🪙 [Firebase Authentication](https://firebase.google.com/docs/auth) - A service that provides backend services, easy-to-use SDKs, and ready-made UI libraries to authenticate users to your app
+  - 🪙 [Supabase Auth](https://supabase.com/docs/guides/database/overview) - A service that provides user management and access control for Supabase projects
+  - 🪙 [ReCAPTCHA](https://en.wikipedia.org/wiki/ReCAPTCHA) - A CAPTCHA system that enables web hosts to distinguish between human and automated access to websites
   - [Microsoft Authentication Library (MSAL)](https://learn.microsoft.com/en-us/azure/active-directory/develop/msal-overview) - A library that helps developers integrate authentication and authorization into applications
   - [Application Default Credentials (ADC)](https://cloud.google.com/docs/authentication/provide-credentials-adc) - A mechanism used by Google Cloud client libraries to automatically find credentials based on the application environment
   - [Limen](https://limenauth.dev/) - A lightweight, composable authentication and authorization library for Go that provides sessions, password hashing, OAuth, and CSRF protection
@@ -295,20 +295,20 @@
 ### Application Security Testing (AST)
 
 - Integrated Security Platforms
-  - [GitHub Advanced Security](https://github.com/security/advanced-security) - A suite combining Secret Protection to stop leaks before they start and Code Security to fix vulnerabilities in your code, delivering security that moves at the speed of development
+  - 💲 [GitHub Advanced Security](https://github.com/security/advanced-security) - A suite combining Secret Protection to stop leaks before they start and Code Security to fix vulnerabilities in your code, delivering security that moves at the speed of development
 - Static Analysis (SAST)
-  - [SonarQube Server](https://www.sonarsource.com/products/sonarqube/) - A self-managed, automatic code review tool that systematically helps you deliver clean code
-  - [GitLab SAST](https://docs.gitlab.com/ee/user/application_security/sast/index.html) - A tool that checks your source code for known vulnerabilities
+  - 🔒 [SonarQube Server](https://www.sonarsource.com/products/sonarqube/) - A self-managed, automatic code review tool that systematically helps you deliver clean code
+  - 🪙 [GitLab SAST](https://docs.gitlab.com/ee/user/application_security/sast/index.html) - A tool that checks your source code for known vulnerabilities
   - [Bandit](https://github.com/PyCQA/bandit) (for Python) - A tool designed to find common security issues in Python code
   - [Semgrep OSS](https://github.com/semgrep/semgrep) - A fast, open-source, static analysis tool for finding bugs and enforcing code standards
-  - [Fluid attacks](https://docs.fluidattacks.com/tech/scanner/plans/foss/) - A security tool that allows you to find vulnerabilities in your source code, containers and dependencies
-  - [CodeQL](https://codeql.github.com/) - A semantic code analysis engine that lets you query code as though it were data to find vulnerabilities and their variants
+  - 🪙 [Fluid attacks](https://docs.fluidattacks.com/tech/scanner/plans/foss/) - A security tool that allows you to find vulnerabilities in your source code, containers and dependencies
+  - 🔒 [CodeQL](https://codeql.github.com/) - A semantic code analysis engine that lets you query code as though it were data to find vulnerabilities and their variants
 - Dynamic Analysis (DAST)
   - [ZAP](https://zaproxy.org/) - The world's most widely used web app scanner, free and open source, and a community based GitHub Top 1000 project that anyone can contribute to
   - [Nuclei](https://github.com/projectdiscovery/nuclei) - A fast and customizable vulnerability scanner powered by the global security community and built on a simple YAML-based DSL
   - [sqlmap](https://github.com/sqlmapproject/sqlmap) - An open source penetration testing tool that automates the process of detecting and exploiting SQL injection flaws and taking over of database servers
 - Secret Detection
-  - [GitLab Secret Detection](https://docs.gitlab.com/ee/user/application_security/secret_detection/) - A tool that scans your repository's history for secrets
+  - 🪙 [GitLab Secret Detection](https://docs.gitlab.com/ee/user/application_security/secret_detection/) - A tool that scans your repository's history for secrets
   - [Gitleaks](https://gitleaks.io/) - A SAST tool for detecting and preventing hardcoded secrets like passwords, api keys, and tokens in git repos
   - [secretlint](https://github.com/secretlint/secretlint) - A pluggable linting tool to prevent committing credentials
   - [Talisman](https://thoughtworks.github.io/talisman/) - A tool that installs a hook to your repository to ensure that potential secrets or sensitive information do not get committed
@@ -326,7 +326,7 @@
 ### Infrastructure as Code (IaC) Security
 
 - [Trivy](https://aquasecurity.github.io/trivy/) - A comprehensive and versatile security scanner
-- [Defender for Cloud CLI](https://learn.microsoft.com/en-us/azure/defender-for-cloud/defender-cli-overview) - A developer-first command-line tool that orchestrates security scans in CI/CD pipelines and uploads results to Microsoft Defender for Cloud for posture management and prioritization
+- 💲 [Defender for Cloud CLI](https://learn.microsoft.com/en-us/azure/defender-for-cloud/defender-cli-overview) - A developer-first command-line tool that orchestrates security scans in CI/CD pipelines and uploads results to Microsoft Defender for Cloud for posture management and prioritization
 - [checkov](https://www.checkov.io/) - A static code analysis tool for scanning infrastructure as code (IaC) files for misconfigurations
 - [Haskell Dockerfile Linter](https://github.com/hadolint/hadolint#readme) - A smarter Dockerfile linter that helps you build best practice Docker images
 - [kube-score](https://kube-score.com/) - A tool that performs static code analysis of your Kubernetes object definitions
@@ -346,10 +346,10 @@
   - Vulnerability Scanning
     - [Grype](https://github.com/anchore/grype) - A vulnerability scanner for container images and filesystems
     - [OSV-scanner](https://google.github.io/osv-scanner/) - The official vulnerability scanner for OSV
-    - [Safety](https://github.com/pyupio/safety/) - A tool that checks your installed dependencies for known security vulnerabilities
+    - 🪙 [Safety](https://github.com/pyupio/safety/) - A tool that checks your installed dependencies for known security vulnerabilities
     - [Clair](https://github.com/quay/clair) - An open-source project for the static analysis of vulnerabilities in application containers
-    - [GitLab Container Scanning](https://docs.gitlab.com/ee/user/application_security/container_scanning/) - A tool that checks your Docker images for known vulnerabilities
-    - [JFrog Xray](https://jfrog.com/xray/) - An application security tool that identifies vulnerabilities and license compliance issues across the software supply chain
+    - 🪙 [GitLab Container Scanning](https://docs.gitlab.com/ee/user/application_security/container_scanning/) - A tool that checks your Docker images for known vulnerabilities
+    - 💲 [JFrog Xray](https://jfrog.com/xray/) - An application security tool that identifies vulnerabilities and license compliance issues across the software supply chain
   - License & Dependency Analysis
     - [Feluda](https://github.com/anistark/feluda) - A blazing fast dependency graph generator for Python projects
   - Automated Dependency Updates
@@ -379,12 +379,12 @@
 ### Cloud-Native Application Protection (CNAPP)
 
 - [The 4 Cs of Cloud-Native Systems](https://www.trendmicro.com/vinfo/us/security/news/virtualization-and-cloud/securing-the-4-cs-of-cloud-native-systems-cloud-cluster-container-and-code) - A defense-in-depth approach that divides security strategies into four distinct layers to provide multilayered protection for cloud-native applications
-- [Microsoft Defender for Cloud](https://azure.microsoft.com/en-us/services/defender-for-cloud/) - A cloud-native application protection platform (CNAPP) with a set of security measures and practices designed to protect cloud-based applications
+- 💲 [Microsoft Defender for Cloud](https://azure.microsoft.com/en-us/services/defender-for-cloud/) - A cloud-native application protection platform (CNAPP) with a set of security measures and practices designed to protect cloud-based applications
 - Cloud Security Posture Management (CSPM)
-  - [AWS Security Hub](https://aws.amazon.com/security-hub/) - A cloud security posture management (CSPM) service that performs security best practice checks, aggregates alerts, and enables automated remediation
-  - [cnquery](https://mondoo.com/cnquery) - A cloud-native, graph-based security tool that allows you to query your entire infrastructure as data
+  - 💲 [AWS Security Hub](https://aws.amazon.com/security-hub/) - A cloud security posture management (CSPM) service that performs security best practice checks, aggregates alerts, and enables automated remediation
+  - 🔒 [cnquery](https://mondoo.com/cnquery) - A cloud-native, graph-based security tool that allows you to query your entire infrastructure as data
 - Cloud Workload Protection Platform (CWPP)
-  - [Amazon Inspector](https://aws.amazon.com/inspector/) - An automated security assessment service that helps improve the security and compliance of applications deployed on AWS
+  - 💲 [Amazon Inspector](https://aws.amazon.com/inspector/) - An automated security assessment service that helps improve the security and compliance of applications deployed on AWS
   - [Falco](https://falco.org/) - The cloud-native runtime security project
   - [Tracee](https://aquasecurity.github.io/tracee/latest/) - A powerful runtime security and forensics tool for Linux
   - [ClamAV](https://www.clamav.net/) - An open source antivirus engine for detecting trojans, viruses, malware & other malicious threats
@@ -398,12 +398,12 @@
   - [Managed detection and response (MDR)](https://en.wikipedia.org/wiki/Managed_detection_and_response) - An outsourced service that provides organizations with threat hunting services and responds to threats once they are discovered
 - SIEM & SOAR
   - [Security orchestration, automation and response (SOAR)](https://en.wikipedia.org/wiki/Security_orchestration) - A stack of compatible software programs that allow an organization to collect data about security threats
-  - [Microsoft Sentinel](https://azure.microsoft.com/en-us/products/microsoft-sentinel) - A scalable, cloud-native, security information and event management (SIEM) and security orchestration, automation, and response (SOAR) solution
-  - [Amazon GuardDuty](https://aws.amazon.com/guardduty/) - A threat detection service that continuously monitors for malicious activity and unauthorized behavior
+  - 💲 [Microsoft Sentinel](https://azure.microsoft.com/en-us/products/microsoft-sentinel) - A scalable, cloud-native, security information and event management (SIEM) and security orchestration, automation, and response (SOAR) solution
+  - 💲 [Amazon GuardDuty](https://aws.amazon.com/guardduty/) - A threat detection service that continuously monitors for malicious activity and unauthorized behavior
 - Detections & Auditing
   - [Sigma Detection Format](https://sigmahq.io/) - A generic and open signature format that allows you to describe relevant log events in a straightforward manner
-  - [AWS CloudTrail](https://aws.amazon.com/cloudtrail/) - An AWS service that helps you enable operational and risk auditing, governance, and compliance of your AWS account
-  - [AWS Config](https://aws.amazon.com/config/) - A service that enables you to assess, audit, and evaluate the configurations of your AWS resources
+  - 💲 [AWS CloudTrail](https://aws.amazon.com/cloudtrail/) - An AWS service that helps you enable operational and risk auditing, governance, and compliance of your AWS account
+  - 💲 [AWS Config](https://aws.amazon.com/config/) - A service that enables you to assess, audit, and evaluate the configurations of your AWS resources
 
 ### Policy Enforcement
 
@@ -458,11 +458,11 @@
 ### Firewalls & Network Protection
 
 - Web Application Firewall (WAF)
-  - [AWS WAF](https://aws.amazon.com/waf/) - A web application firewall that helps protect your web applications or APIs against common web exploits and bots
-  - [Azure Web Application Firewall](https://azure.microsoft.com/en-us/products/web-application-firewall/) - A cloud-native service that protects web apps from common web-hacking techniques and vulnerabilities
+  - 💲 [AWS WAF](https://aws.amazon.com/waf/) - A web application firewall that helps protect your web applications or APIs against common web exploits and bots
+  - 💲 [Azure Web Application Firewall](https://azure.microsoft.com/en-us/products/web-application-firewall/) - A cloud-native service that protects web apps from common web-hacking techniques and vulnerabilities
 - Network-level Protection
-  - [AWS Shield](https://aws.amazon.com/shield/) - A managed Distributed Denial of Service (DDoS) protection service that safeguards applications running on AWS
-  - [Azure DDoS Protection](https://azure.microsoft.com/en-us/products/ddos-protection) - A service that provides countermeasures against the most sophisticated DDoS threats
+  - 💲 [AWS Shield](https://aws.amazon.com/shield/) - A managed Distributed Denial of Service (DDoS) protection service that safeguards applications running on AWS
+  - 💲 [Azure DDoS Protection](https://azure.microsoft.com/en-us/products/ddos-protection) - A service that provides countermeasures against the most sophisticated DDoS threats
   - [Fail2ban](https://github.com/fail2ban/fail2ban) - An intrusion prevention software framework that protects computer servers from brute-force attacks
   - [Snort](https://www.snort.org/) (IPS) - The foremost Open Source Intrusion Prevention System (IPS) in the world
 - Host-based Firewalls
@@ -498,14 +498,14 @@
 ### Data Governance
 
 - [Unity Catalog](https://unitycatalog.io/) - A universal catalog for data and AI that provides interoperability, openness, and unified governance across various formats and platforms
-- [Microsoft Purview](https://www.microsoft.com/en-us/security/business/microsoft-purview) - A unified approach to help organizations secure and govern data across their heterogeneous data estate
-- [Amazon DataZone](https://aws.amazon.com/datazone/) - A data management service that makes it faster and easier for customers to catalog, discover, share, and govern data stored across AWS, on premises, and third-party sources
+- 💲 [Microsoft Purview](https://www.microsoft.com/en-us/security/business/microsoft-purview) - A unified approach to help organizations secure and govern data across their heterogeneous data estate
+- 💲 [Amazon DataZone](https://aws.amazon.com/datazone/) - A data management service that makes it faster and easier for customers to catalog, discover, share, and govern data stored across AWS, on premises, and third-party sources
 
 ### AI Governance & Security
 
 - [ISO/IEC 42001](https://www.iso.org/standard/42001) - The world's first AI management system standard, specifying requirements for establishing, implementing, maintaining and continually improving an Artificial Intelligence Management System (AIMS) within organizations
 - [METR](https://metr.org/) - A research nonprofit that scientifically measures whether and when AI systems might threaten catastrophic harm to society
-- [Microsoft Agent 365](https://www.microsoft.com/en-us/microsoft-agent-365) - A centralized governance and management platform designed to oversee autonomous AI agents within an enterprise environment
+- 💲 [Microsoft Agent 365](https://www.microsoft.com/en-us/microsoft-agent-365) - A centralized governance and management platform designed to oversee autonomous AI agents within an enterprise environment
 
 ### Regulations & Standards
 
@@ -576,7 +576,7 @@
 ### Personal Security Tools
 
 - Password Managers
-  - [1Password](https://1password.com/) - A password manager and secure vault platform for identities, credentials, and secrets across humans and AI agents
+  - 💲 [1Password](https://1password.com/) - A password manager and secure vault platform for identities, credentials, and secrets across humans and AI agents
   - [pass](https://www.passwordstore.org/) - The standard unix password manager
   - [gokey](https://github.com/cloudflare/gokey) - A simple vaultless password manager in Go
   - [Buttercup](https://buttercup.pw/) - A free, open-source and cross-platform password manager

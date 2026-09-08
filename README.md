@@ -22,7 +22,7 @@ This site aims to provide a comprehensive overview of concepts, techniques, tool
 A marker before an item's name flags it as a commercial product and shows how it is monetized:
 
 - 🔒 Open source or source-available, but most of the value is gated behind a paid tier (e.g. n8n, Odoo, Metabase)
-- 💲 Proprietary commercial product or SaaS with no meaningful free use
+- 💲 Proprietary commercial product or cloud service with no meaningful free use
 - 🪙 Freemium: genuinely usable for free, with paid tiers or otherwise peripheral monetization
 
 An unmarked item is free and open source without a significant paywall, or is not a product at all — a concept, standard, or protocol. This complements the "Prioritizing Openness" principle below.

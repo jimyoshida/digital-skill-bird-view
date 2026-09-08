@@ -108,7 +108,7 @@ list marker and before the link (`- 🔒 [n8n](https://n8n.io/) - ...`):
 
 - 🔒 — open-source or source-available, but most of the value is gated behind a paid tier
   (e.g. n8n, Odoo, Metabase, Mattermost, OpenProject)
-- 💲 — proprietary commercial product or SaaS with no meaningful free use
+- 💲 — proprietary commercial product or cloud service with no meaningful free use
 - 🪙 — freemium: genuinely usable for free, with paid tiers or otherwise peripheral monetization
 
 Items with no marker are either not products (concepts, standards) or are free/open-source

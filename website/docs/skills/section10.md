@@ -78,7 +78,7 @@
 
 ### Multi-paradigm & Hybrid Languages
 
-- [Java](https://www.oracle.com/java/) - The #1 programming language and development platform
+- 🪙 [Java](https://www.oracle.com/java/) - The #1 programming language and development platform
   - [Built-in concurrency support](https://docs.oracle.com/javase/tutorial/essential/concurrency/sync.html) - The features of the Java platform designed from the ground up to support concurrent programming
 - [C#](https://learn.microsoft.com/en-us/dotnet/csharp/) - A modern, object-oriented, and type-safe programming language
   - [Language-Integrated Query (LINQ)](https://learn.microsoft.com/en-us/dotnet/csharp/linq/) - The name for a set of technologies based on the direct integration of query capabilities into the C# language
@@ -413,7 +413,7 @@
 
 - Monorepo Tools
   - [Turborepo](https://turbo.build/repo) - A high-performance build system for JavaScript and TypeScript monorepos
-  - [Nx](https://nx.dev/) - A smart, fast and extensible build system with first-class monorepo support and powerful integrations
+  - 🔒 [Nx](https://nx.dev/) - A smart, fast and extensible build system with first-class monorepo support and powerful integrations
   - [Lerna](https://lerna.js.org/) - The original monorepo tool for JavaScript/TypeScript
 - Resources
   - [Monorepo Tools](https://monorepo.tools/) - A website with tools and resources for monorepos

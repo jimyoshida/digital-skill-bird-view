@@ -78,7 +78,7 @@
 
 ### マルチパラダイム・ハイブリッド言語
 
-- [Java](https://www.oracle.com/java/) - 第 1 位のプログラミング言語であり開発プラットフォームです
+- 🪙 [Java](https://www.oracle.com/java/) - 第 1 位のプログラミング言語であり開発プラットフォームです
   - [Built-in concurrency support](https://docs.oracle.com/javase/tutorial/essential/concurrency/sync.html) - 並行プログラミングをサポートするために根本から設計された Java プラットフォームの機能です
 - [C#](https://learn.microsoft.com/en-us/dotnet/csharp/) - モダンでオブジェクト指向かつ型安全なプログラミング言語です
   - [Language-Integrated Query (LINQ)](https://learn.microsoft.com/en-us/dotnet/csharp/linq/) - クエリ機能を C# 言語に直接統合することに基づく一連の技術の名称です
@@ -413,7 +413,7 @@
 
 - モノレポツール
   - [Turborepo](https://turbo.build/repo) - JavaScript と TypeScript のモノレポ向けの高性能ビルドシステムです
-  - [Nx](https://nx.dev/) - ファーストクラスのモノレポサポートと強力な統合機能を備えた、スマートで高速かつ拡張可能なビルドシステムです
+  - 🔒 [Nx](https://nx.dev/) - ファーストクラスのモノレポサポートと強力な統合機能を備えた、スマートで高速かつ拡張可能なビルドシステムです
   - [Lerna](https://lerna.js.org/) - JavaScript/TypeScript 向けの元祖モノレポツールです
 - リソース
   - [Monorepo Tools](https://monorepo.tools/) - モノレポ向けのツールとリソースを掲載したウェブサイトです

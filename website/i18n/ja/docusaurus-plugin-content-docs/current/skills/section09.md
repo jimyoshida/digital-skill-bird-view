@@ -397,8 +397,8 @@
   - [Node.js](https://nodejs.org/) - 無料でオープンソースのクロスプラットフォーム JavaScript ランタイム環境です
     - [libuv](https://libuv.org/) - 非同期 I/O に重点を置いたマルチプラットフォーム対応サポートライブラリです
   - [Deno](https://deno.com/) - TypeScript と JavaScript のためのモダンなランタイムです
-    - [Deno Deploy](https://deno.com/deploy) - JavaScript、TypeScript、WebAssembly をエッジで実行できる分散型 HTTP サービスです
-    - [Deno Subhosting](https://deno.com/subhosting) - SaaS プロバイダが V8 アイソレートを使用して信頼できない顧客のコードを大規模に安全に実行するためのプラットフォームです
+    - 🪙 [Deno Deploy](https://deno.com/deploy) - JavaScript、TypeScript、WebAssembly をエッジで実行できる分散型 HTTP サービスです
+    - 💲 [Deno Subhosting](https://deno.com/subhosting) - SaaS プロバイダが V8 アイソレートを使用して信頼できない顧客のコードを大規模に安全に実行するためのプラットフォームです
   - [Bun](https://bun.sh/) - JavaScript と TypeScript の実行、ビルド、テスト、デバッグのための高速なオールインワンツールキットです
   - [WinterJS](https://github.com/wasmerio/winterjs) - SpiderMonkey エンジンと Tokio ランタイムを使用して Rust 上に構築された、非常に高速な JavaScript ランタイムです
 - Python
@@ -408,7 +408,7 @@
 - Ruby
   - CRuby (default)
   - [JRuby](https://www.jruby.org/) - Java Virtual Machine 上で動作する Ruby プログラミング言語の実装です
-- [Java SE](https://www.oracle.com/java/technologies/java-se-glance.html) - 現代的なアプリケーション開発のための、最も実績があり信頼性が高く安全な開発プラットフォームです
+- 🪙 [Java SE](https://www.oracle.com/java/technologies/java-se-glance.html) - 現代的なアプリケーション開発のための、最も実績があり信頼性が高く安全な開発プラットフォームです
   - [Java HotSpot VM](https://docs.oracle.com/en/java/javase/22/vm/java-virtual-machine-technology-overview.html) - Oracle Corporation が提供する、デスクトップとサーバー向けの主要な Java Virtual Machine です
   - [JMX API](https://docs.oracle.com/en/java/javase/22/jmx/introduction-jmx-technology.html) - Java Platform の標準的な一部である Java Management Extensions 技術です
   - [JDK tools](https://docs.oracle.com/en/java/javase/22/docs/specs/man/index.html) - アプリケーションを作成しビルドするためのコマンドラインツールです

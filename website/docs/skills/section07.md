@@ -112,8 +112,8 @@
 - Principles & Adages
   - [Linus's law](https://en.wikipedia.org/wiki/Linus%27s_law) - The assertion that 'given enough eyeballs, all bugs are shallow', which is a key principle in open source development
 - Source Repositories
-  - [GitHub](https://github.com/) - The AI-powered developer platform to build, scale, and deliver secure software
-  - [GitLab.com](https://about.gitlab.com/) - The DevSecOps Platform that empowers organizations to maximize the overall return on software development
+  - 🪙 [GitHub](https://github.com/) - The AI-powered developer platform to build, scale, and deliver secure software
+  - 🪙 [GitLab.com](https://about.gitlab.com/) - The DevSecOps Platform that empowers organizations to maximize the overall return on software development
 - Package Registries
   - [CTAN](https://ctan.org/) - The Comprehensive TEX Archive Network
   - [CPAN](https://www.cpan.org/) - The Comprehensive Perl Archive Network
@@ -130,7 +130,7 @@
   - [NuGet Gallery](https://www.nuget.org/) - The package manager for .NET
   - [Maven Central](https://central.sonatype.com/) - The World's Largest and Oldest Component Repository
   - [ConanCenter](https://conan.io/center) - The central repository where you can find all the open source packages created by the community
-  - [Anaconda Hub](https://www.anaconda.com/products) - The Hub for Data Science and AI Collaboration
+  - 🪙 [Anaconda Hub](https://www.anaconda.com/products) - The Hub for Data Science and AI Collaboration
 
 ### Open Data
 
@@ -138,7 +138,7 @@
   - [Creative Commons](https://creativecommons.org/) - A nonprofit organization that helps overcome legal obstacles to the sharing of knowledge and creativity to address the world's pressing challenges
   - [Open Data Commons](https://opendatacommons.org/) - The home of a set of legal tools and licenses to help you publish, provide and use open data
 - Open Data Registries
-  - [Hugging Face Hub](https://huggingface.co/docs/hub/index) - A platform with over 900k models, 200k datasets, and 300k demos in which people can easily collaborate in their ML workflows
+  - 🪙 [Hugging Face Hub](https://huggingface.co/docs/hub/index) - A platform with over 900k models, 200k datasets, and 300k demos in which people can easily collaborate in their ML workflows
   - [Data.gov](https://data.gov/) - The home of the U.S. Government's open data
   - [Kaggle](https://www.kaggle.com/) - The world's largest data science community with powerful tools and resources to help you achieve your data science goals
   - [Registry of Open Data on AWS](https://registry.opendata.aws/) - A service that makes it easy for people to find datasets that are publicly available through AWS services
@@ -311,14 +311,14 @@
 
 ### Git Hosting Services
 
-- [GitLab SCM](https://about.gitlab.com/solutions/source-code-management/) - The single source of truth for collaborating on code and projects
+- 🪙 [GitLab SCM](https://about.gitlab.com/solutions/source-code-management/) - The single source of truth for collaborating on code and projects
   - [GitLab CLI](https://gitlab.com/gitlab-org/cli) - An open source tool that brings GitLab to your terminal, next to where you are already working with git and your code
 - [Gitea](https://about.gitea.com/products/gitea/) - A painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
 - [Codeberg](https://codeberg.org/) - A community-led effort that provides Git hosting and other services for free and open source projects
 - [Forgejo](https://forgejo.org/) - A self-hosted lightweight software forge
 - [Soft Serve](https://github.com/charmbracelet/soft-serve) - A tasty, self-hostable Git server for the command line
-- [Azure Repos](https://learn.microsoft.com/en-us/azure/devops/repos/) - A set of version control tools that you can use to manage your code
-- [GitHub](https://github.com/) - The AI-powered developer platform to build, scale, and deliver secure software
+- 💲 [Azure Repos](https://learn.microsoft.com/en-us/azure/devops/repos/) - A set of version control tools that you can use to manage your code
+- 🪙 [GitHub](https://github.com/) - The AI-powered developer platform to build, scale, and deliver secure software
   - [GitHub CLI](https://cli.github.com/) - An open source tool that brings pull requests, issues, GitHub Actions, and other GitHub features to your terminal, so you can do all your work in one place
 
 ### Branching Models
@@ -347,22 +347,22 @@
   - [Eclipse IDE](https://www.eclipseide.org/) - A free and open source IDE that is industry-backed and community driven, offering proven extensibility through a wide variety of platform plugins
   - [Visual Studio Code](https://code.visualstudio.com/) - A lightweight but powerful source code editor which runs on your desktop and is available for Windows, macOS and Linux
     - [Awesome VS Code](https://viatsko.github.io/awesome-vscode/) - A curated list of delightful VS Code packages and resources
-    - [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens) - An extension that supercharges the Git capabilities built into Visual Studio Code
+    - 🪙 [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens) - An extension that supercharges the Git capabilities built into Visual Studio Code
     - [Git Graph](https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph) - An extension to view a Git Graph of your repository, and perform Git actions from the graph
   - AI Assistance Plugins
-    - [GitHub Copilot](https://github.com/features/copilot/) - The AI pair programmer that helps you write code faster and with less work
+    - 🪙 [GitHub Copilot](https://github.com/features/copilot/) - The AI pair programmer that helps you write code faster and with less work
       - [Awesome GitHub Copilot](https://awesome-copilot.github.com/) - A community-contributed collection of agents, instructions, skills, hooks, workflows, plugins, canvas extensions, and tools to enhance the experience
-    - [Gemini Code Assist](https://cloud.google.com/products/gemini/code-assist) - An AI-powered assistant for the entire development lifecycle
-    - [Amazon Q Developer](https://aws.amazon.com/q/developer/) - The most capable generative AI-powered assistant for software development
+    - 🪙 [Gemini Code Assist](https://cloud.google.com/products/gemini/code-assist) - An AI-powered assistant for the entire development lifecycle
+    - 🪙 [Amazon Q Developer](https://aws.amazon.com/q/developer/) - The most capable generative AI-powered assistant for software development
     - [Cline](https://cline.bot/) - An open source AI coding agent that brings frontier AI models directly to your VS Code editor
   - AI-integrated IDEs
-    - [Cursor](https://www.cursor.com/) - An AI-native fork of VS Code designed for seamless, agentic integration with proprietary and frontier models
-    - [Windsurf](https://codeium.com/windsurf) - Where the work of developers and AI truly flow together, allowing for a coding experience that feels like literal magic
-    - [Zed](https://zed.dev/) - A next-generation code editor designed for high-performance collaboration with humans and AI
+    - 🪙 [Cursor](https://www.cursor.com/) - An AI-native fork of VS Code designed for seamless, agentic integration with proprietary and frontier models
+    - 🪙 [Windsurf](https://codeium.com/windsurf) - Where the work of developers and AI truly flow together, allowing for a coding experience that feels like literal magic
+    - 🪙 [Zed](https://zed.dev/) - A next-generation code editor designed for high-performance collaboration with humans and AI
 - Web-based
   - [code-server](https://github.com/coder/code-server) - A VS Code instance running on a remote server, accessible through any web browser
-  - [GitHub Codespaces](https://github.com/features/codespaces) - A fully configured, secure cloud development environment native to GitHub that gets you up and coding faster
-  - [Replit](https://replit.com/) - A platform to turn ideas into apps in minutes — no coding needed
+  - 🪙 [GitHub Codespaces](https://github.com/features/codespaces) - A fully configured, secure cloud development environment native to GitHub that gets you up and coding faster
+  - 🪙 [Replit](https://replit.com/) - A platform to turn ideas into apps in minutes — no coding needed
 - Terminal-based
   - [Vim](https://www.vim.org/) - A highly configurable text editor built to make creating and changing any kind of text very efficient
     - [motion and operators](https://vimdoc.sourceforge.net/htmldoc/motion.html) - The commands that move the cursor and the commands used to delete or change text
@@ -387,7 +387,7 @@
     - [Spacemacs](https://www.spacemacs.org/#) - A community-driven Emacs distribution
   - Tutorials and Cheat Sheets
     - [OpenVim](https://openvim.com/) - An interactive Vim tutorial
-    - [Vim Adventures](https://vim-adventures.com/) - An online game based on VIM's keyboard shortcuts
+    - 💲 [Vim Adventures](https://vim-adventures.com/) - An online game based on VIM's keyboard shortcuts
     - [Vim Cheat Sheet](https://vim.rtorr.com/) - A quick reference guide for Vim commands
 
 ### Language Servers
@@ -421,11 +421,11 @@
 
 ### Analysis Platform
 
-- [SonarQube Server](https://www.sonarsource.com/products/sonarqube/) - An on-premise analysis tool designed to detect coding issues in 30+ languages, frameworks, and IaC platform
-- [CodeScene](https://codescene.com/) - A code analysis platform that goes beyond static analysis, visualizing software quality through Code Health metrics and behavioral analysis of how teams work with code
-- [Codecov](https://about.codecov.io/) - A tool that measures code coverage and helps improve code quality at every step
-- [GitLab Code Coverage](https://docs.gitlab.com/ee/ci/testing/code_coverage.html) - A report that shows the percentage of your code that is covered by tests
-- [GitLab Code Quality](https://docs.gitlab.com/ee/ci/testing/code_quality.html) - A feature that uses CodeClimate Engines to provide code quality analysis for your projects
+- 🔒 [SonarQube Server](https://www.sonarsource.com/products/sonarqube/) - An on-premise analysis tool designed to detect coding issues in 30+ languages, frameworks, and IaC platform
+- 💲 [CodeScene](https://codescene.com/) - A code analysis platform that goes beyond static analysis, visualizing software quality through Code Health metrics and behavioral analysis of how teams work with code
+- 🪙 [Codecov](https://about.codecov.io/) - A tool that measures code coverage and helps improve code quality at every step
+- 🪙 [GitLab Code Coverage](https://docs.gitlab.com/ee/ci/testing/code_coverage.html) - A report that shows the percentage of your code that is covered by tests
+- 🪙 [GitLab Code Quality](https://docs.gitlab.com/ee/ci/testing/code_quality.html) - A feature that uses CodeClimate Engines to provide code quality analysis for your projects
 
 ### Formatters
 
@@ -484,25 +484,25 @@
 ### Development Agents
 
 - CLI Coding Agents
-  - [Claude Code](https://code.claude.com/docs) - An agentic coding tool that reads your codebase, edits files, runs commands, and integrates with development tools
+  - 💲 [Claude Code](https://code.claude.com/docs) - An agentic coding tool that reads your codebase, edits files, runs commands, and integrates with development tools
     - [Plan Mode](https://code.claude.com/docs/en/common-workflows#use-plan-mode-for-safe-code-analysis) - A mode that instructs Claude to create a plan by analyzing the codebase with read-only operations, perfect for exploring codebases, planning complex changes, or reviewing code safely
     - [Hooks](https://code.claude.com/docs/en/hooks) - The user-defined shell commands or LLM prompts that execute automatically at specific points in the agent's lifecycle
     - [Subagents](https://code.claude.com/docs/en/sub-agents) - The specialized AI assistants that handle specific types of tasks, running in their own context with custom prompts and tool access
     - [Sandboxing](https://code.claude.com/docs/en/sandboxing) - A feature that provides filesystem and network isolation for safer, more autonomous agent execution, using OS-level primitives to enforce these isolations and reduce constant permission prompts
     - [Auto-memory](https://code.claude.com/docs/en/memory#auto-memory) - A feature that allows the agent to automatically accumulate knowledge across sessions by saving notes on build commands, debugging insights, architecture notes, and user preferences without manual intervention
-  - [Gemini CLI](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal
+  - 🪙 [Gemini CLI](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal
     - [Conductor](https://github.com/gemini-cli-extensions/conductor) - The official project management tool for Gemini CLI
     - [Sandboxing](https://geminicli.com/docs/cli/sandbox/) - A feature that isolates potentially dangerous operations from your host system, providing a security barrier between AI operations and your environment, using macOS Seatbelt or container-based methods for isolation
-  - [Antigravity CLI](https://github.com/google-antigravity/antigravity-cli) - A terminal-based AI coding agent that understands codebases, makes edits with permission, and executes commands directly from the terminal
-  - [GitHub Copilot CLI](https://github.com/github/copilot-cli) - A tool that brings the power of Copilot coding agent directly to your terminal
-  - [Cursor CLI](https://cursor.com/cli) - A tool built to help you ship right from your terminal, with the same commands in any environment
-  - [Amp](https://ampcode.com/) - The coding agent and development environment that runs anywhere and everywhere
+  - 🪙 [Antigravity CLI](https://github.com/google-antigravity/antigravity-cli) - A terminal-based AI coding agent that understands codebases, makes edits with permission, and executes commands directly from the terminal
+  - 🪙 [GitHub Copilot CLI](https://github.com/github/copilot-cli) - A tool that brings the power of Copilot coding agent directly to your terminal
+  - 🪙 [Cursor CLI](https://cursor.com/cli) - A tool built to help you ship right from your terminal, with the same commands in any environment
+  - 🪙 [Amp](https://ampcode.com/) - The coding agent and development environment that runs anywhere and everywhere
   - [Aider](https://aider.chat/) - An AI pair programming tool in your terminal that lets you start a new project or build on your existing codebase
   - [Letta Code](https://docs.letta.com/letta-code) - A memory-first coding agent that lives in your terminal
   - [Deep Agents CLI](https://docs.langchain.com/oss/python/deepagents/cli/overview) - A terminal coding agent built on the Deep Agents SDK
   - [OpenCode.ai](https://opencode.ai/) - An open-source AI coding agent for the terminal that provides an interactive TUI to help you understand, edit, and ship code within real repositories
-  - [OpenAI Codex](https://github.com/openai/codex) - A lightweight coding agent that runs in your terminal, providing a local coding assistant
-  - [Kimi Code](https://www.kimi.com/code) - A CLI coding agent by Moonshot AI engineered to drop into any dev workflow, supporting codebase analysis, file operations, web search, and parallel sub-agent task handling, powered by the kimi-k2.6 model
+  - 💲 [OpenAI Codex](https://github.com/openai/codex) - A lightweight coding agent that runs in your terminal, providing a local coding assistant
+  - 💲 [Kimi Code](https://www.kimi.com/code) - A CLI coding agent by Moonshot AI engineered to drop into any dev workflow, supporting codebase analysis, file operations, web search, and parallel sub-agent task handling, powered by the kimi-k2.6 model
   - [Crush](https://github.com/charmbracelet/crush) - The glamourous AI coding agent for your favourite terminal 💘
   - [ForgeCode](https://forgecode.dev/) - A ZSH-integrated coding harness with a multi-agent architecture for research, planning, and execution, supporting multiple LLM providers and ranking at the top of Terminal-Bench
 - Desktop Coding Agents
@@ -513,22 +513,22 @@
 - Autonomous Coding Agents
   - [SWE-agent](https://swe-agent.com/latest/) - A tool for fixing bugs and issues in GitHub repositories, powered by a family of language models
   - [mini-swe-agent](https://mini-swe-agent.com/latest/) - A smaller, more accessible version of SWE-agent
-  - [Devin](https://devin.ai/) - An autonomous AI software engineer that can handle complex engineering tasks unassisted within its own sandboxed environment
-  - [Jules](https://jules.google/) - An Autonomous Coding Agent
-  - [Replit Agent](https://replit.com/products/agent) - The first developer agent that can learn and work alongside you in your IDE
+  - 💲 [Devin](https://devin.ai/) - An autonomous AI software engineer that can handle complex engineering tasks unassisted within its own sandboxed environment
+  - 🪙 [Jules](https://jules.google/) - An Autonomous Coding Agent
+  - 🪙 [Replit Agent](https://replit.com/products/agent) - The first developer agent that can learn and work alongside you in your IDE
 
 ### Supporting Tools & Infrastructure
 
 - Platforms
   - [OpenHands](https://docs.all-hands.dev/) - A platform for software development agents powered by AI
-  - [Port](https://www.getport.io/) - An agentic developer portal to build autonomous workflows to accelerate every aspect of engineering
-  - [Antigravity](https://antigravity.google/) - An agentic development platform
-  - [Warp](https://www.warp.dev/) - The open platform for automating development
+  - 🪙 [Port](https://www.getport.io/) - An agentic developer portal to build autonomous workflows to accelerate every aspect of engineering
+  - 🪙 [Antigravity](https://antigravity.google/) - An agentic development platform
+  - 🪙 [Warp](https://www.warp.dev/) - The open platform for automating development
 - Benchmarks
   - [SWE-bench](https://www.swebench.com/SWE-bench/) - A benchmark for evaluating large language models on real world software issues collected from GitHub
   - [Terminal-Bench](https://www.tbench.ai/) - A collection of harbor-native benchmark tasks for quantifying AI agents' terminal mastery, covering software engineering, machine learning, security, and data science
 - Context Providers
-  - [Context7](https://context7.com/) - An AI agent and tool designed to provide up-to-date documentation for LLMs and AI code editors
+  - 🪙 [Context7](https://context7.com/) - An AI agent and tool designed to provide up-to-date documentation for LLMs and AI code editors
   - [LeanCTX](https://leanctx.com/) - An open-source context compression tool that reduces AI coding assistant token usage by compressing file reads and shell output by up to 99%, working with 29+ AI tools like Cursor and Claude Code
   - [Context Mode](https://github.com/mksglu/context-mode) - Context window optimization for AI coding agents. Sandboxes tool output, 98% reduction
   - [RTK](https://github.com/rtk-ai/rtk) - A CLI proxy that reduces LLM token consumption by 60-90% on common dev commands

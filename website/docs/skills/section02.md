@@ -61,7 +61,7 @@
   - [WebGL API](https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API) - A JavaScript API for rendering high-performance interactive 3D and 2D graphics within any compatible web browser without the use of plug-ins
   - [Web Neural Network API (WebNN)](https://www.w3.org/TR/webnn/) - An emerging web standard that allows web apps and frameworks to accelerate deep neural networks with on-device hardware such as GPUs, CPUs, or NPUs
 - Site Analyzers
-  - [Wappalyzer](https://www.wappalyzer.com/) - A technology profiler that shows you what websites are built with
+  - 🪙 [Wappalyzer](https://www.wappalyzer.com/) - A technology profiler that shows you what websites are built with
 
 ### Web Application Architectures
 
@@ -155,18 +155,18 @@
     - [CSS Transforms 1](https://www.w3.org/TR/css-transforms-1/) - A CSS module that allows elements to be transformed in two-dimensional space
     - [CSS Transforms 2](https://www.w3.org/TR/css-transforms-2/) - A CSS module that allows elements to be transformed in three-dimensional space
 - UI Component Libraries
-  - [templUI](https://templui.io/) - A growing collection of beautifully designed UI components for Go and templ
-  - [Material UI](https://mui.com/material-ui/) - An open-source React component library that implements Google's Material Design
+  - 🪙 [templUI](https://templui.io/) - A growing collection of beautifully designed UI components for Go and templ
+  - 🪙 [Material UI](https://mui.com/material-ui/) - An open-source React component library that implements Google's Material Design
   - [Chakra UI](https://www.chakra-ui.com/) - A component system for building products with speed
   - [Vuetify](https://vuetifyjs.com/en/) - A no design skills required Open Source UI Library with beautifully handcrafted Vue Components
 - Specialized UI Widgets
   - Rich Text Editors
-    - [Tiptap](https://tiptap.dev/) - The headless and open source editor framework designed for web developers
+    - 🪙 [Tiptap](https://tiptap.dev/) - The headless and open source editor framework designed for web developers
   - Interaction & Media
     - [Swiper.js](https://swiperjs.com/) - The most modern mobile touch slider with hardware accelerated transitions and amazing native behavior
     - [Hammer.js](https://hammerjs.github.io/) - A javascript library for multi-touch gestures
   - Canvas & Whiteboarding
-    - [tldraw](https://tldraw.dev/) - A React-based SDK for building whiteboards, diagrams, and canvas tools with a high-performance web canvas
+    - 🔒 [tldraw](https://tldraw.dev/) - A React-based SDK for building whiteboards, diagrams, and canvas tools with a high-performance web canvas
 
 ### Build & Development Tooling
 
@@ -216,16 +216,16 @@
 - [Eleventy](https://www.11ty.dev/) - A simpler static site generator written in JavaScript
 - [Sphinx](http://www.sphinx-doc.org/en/master/) - A tool that makes it easy to create intelligent and beautiful documentation
 - [MkDocs](https://www.mkdocs.org/) - A fast, simple and downright gorgeous static site generator that's geared towards building project documentation
-  - [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/) - A powerful and beautiful theme for the MkDocs static site generator
+  - 🔒 [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/) - A powerful and beautiful theme for the MkDocs static site generator
 - [Nanoc](https://nanoc.app/) - A static-site generator, fit for building anything from a small personal blog to a large corporate website
 - [gitmal](https://github.com/antonmedv/gitmal) - A static page generator designed for Git repositories
 
 ### Headless CMS
 
 - Cloud-native & API-first CMS
-  - [Contentful](https://www.contentful.com/) - A headless content management system that provides a content-first approach to building digital products
-  - [Strapi](https://strapi.io/) - The leading open-source headless CMS
-  - [Sanity](https://www.sanity.io/) - A platform for structured content that lets you build better digital experiences
+  - 💲 [Contentful](https://www.contentful.com/) - A headless content management system that provides a content-first approach to building digital products
+  - 🔒 [Strapi](https://strapi.io/) - The leading open-source headless CMS
+  - 🪙 [Sanity](https://www.sanity.io/) - A platform for structured content that lets you build better digital experiences
 
 ## Backend Development
 
@@ -276,7 +276,7 @@
     - [Puma](https://puma.io/) - A fast, concurrent web server for Ruby & Rack
     - [Falcon](https://socketry.github.io/falcon/) - A multi-process, multi-fiber rack-compatible HTTP server built on top of async, async-container and async-http
     - [Sinatra](https://sinatrarb.com/) - A DSL for quickly creating web applications in Ruby with minimal effort
-  - [Sidekiq](https://sidekiq.org/) - A simple, efficient background processing tool for Ruby
+  - 🔒 [Sidekiq](https://sidekiq.org/) - A simple, efficient background processing tool for Ruby
   - [Shrine](https://shrinerb.com/) - A file attachment toolkit for Ruby applications
 - Perl Backend Frameworks (legacy)
   - Classic CGI
@@ -315,12 +315,12 @@
   - [nodejs http-server](https://github.com/http-party/http-server#readme) - A simple static HTTP server
   - [goshs](https://github.com/patrickhener/goshs) - A feature-rich single-binary file server for red teamers and developers supporting HTTP/S, WebDAV, SFTP, SMB, LDAP/S, NTLM hash capture, DNS/SMTP callbacks, TLS, authentication, and share links
 - API Management
-  - [Unkey](https://www.unkey.com/) - An open-source API management platform designed to help developers secure, manage, and scale their APIs
-  - [Kong API gateway](https://konghq.com/products/kong-gateway) - A lightweight, fast, and flexible cloud-native API gateway
-  - [Azure API Management](https://azure.microsoft.com/en-us/services/api-management/) - A hybrid, multicloud management platform for APIs across all environments
-  - [Amazon API Gateway](https://aws.amazon.com/api-gateway/) - A fully managed service that makes it easy for developers to create, publish, maintain, monitor, and secure APIs at any scale
-  - [Google Cloud Apigee](https://cloud.google.com/apigee) - The platform for developing and managing API services
-  - [Gravitee](https://www.gravitee.io/) - A unified API visibility and governance platform that provides a single pane of glass for managing, securing, and governing APIs across any infrastructure
+  - 🪙 [Unkey](https://www.unkey.com/) - An open-source API management platform designed to help developers secure, manage, and scale their APIs
+  - 🔒 [Kong API gateway](https://konghq.com/products/kong-gateway) - A lightweight, fast, and flexible cloud-native API gateway
+  - 💲 [Azure API Management](https://azure.microsoft.com/en-us/services/api-management/) - A hybrid, multicloud management platform for APIs across all environments
+  - 💲 [Amazon API Gateway](https://aws.amazon.com/api-gateway/) - A fully managed service that makes it easy for developers to create, publish, maintain, monitor, and secure APIs at any scale
+  - 💲 [Google Cloud Apigee](https://cloud.google.com/apigee) - The platform for developing and managing API services
+  - 🔒 [Gravitee](https://www.gravitee.io/) - A unified API visibility and governance platform that provides a single pane of glass for managing, securing, and governing APIs across any infrastructure
 
 ### CDN & Edge Computing
 
@@ -331,16 +331,16 @@
 - Forward Proxy Servers
   - [Squid](http://www.squid-cache.org/) - A caching proxy for the Web supporting HTTP, HTTPS, FTP, and more
 - CDN Providers
-  - [Cloudflare](https://www.cloudflare.com/) - A global network designed to make everything you connect to the Internet secure, private, fast, and reliable
-    - [Cloudflare Workers](https://workers.cloudflare.com/) - A serverless execution environment that allows you to create entirely new applications or augment existing ones without configuring or maintaining infrastructure
+  - 🪙 [Cloudflare](https://www.cloudflare.com/) - A global network designed to make everything you connect to the Internet secure, private, fast, and reliable
+    - 🪙 [Cloudflare Workers](https://workers.cloudflare.com/) - A serverless execution environment that allows you to create entirely new applications or augment existing ones without configuring or maintaining infrastructure
     - [Cloudflare Workers Bindings](https://developers.cloudflare.com/workers/runtime-apis/bindings/) - A mechanism that allows your Worker to interact with resources on the Cloudflare Developer Platform, providing better performance and fewer restrictions than REST APIs for accessing resources from Workers
-  - [Amazon CloudFront](https://aws.amazon.com/cloudfront/) - A content delivery network (CDN) service built for high performance, security, and developer convenience
-    - [Lambda@Edge](https://aws.amazon.com/lambda/edge/) - A feature of Amazon CloudFront that lets you run code closer to users of your application
-  - [Google Cloud CDN](https://cloud.google.com/cdn) - A content delivery network (CDN) that accelerates delivery of your web and video content
-  - [Azure Front Door](https://azure.microsoft.com/en-us/products/frontdoor/) - A modern cloud content delivery network (CDN) that provides a secure and scalable entry point for fast delivery of your global web applications and content
+  - 🪙 [Amazon CloudFront](https://aws.amazon.com/cloudfront/) - A content delivery network (CDN) service built for high performance, security, and developer convenience
+    - 💲 [Lambda@Edge](https://aws.amazon.com/lambda/edge/) - A feature of Amazon CloudFront that lets you run code closer to users of your application
+  - 💲 [Google Cloud CDN](https://cloud.google.com/cdn) - A content delivery network (CDN) that accelerates delivery of your web and video content
+  - 💲 [Azure Front Door](https://azure.microsoft.com/en-us/products/frontdoor/) - A modern cloud content delivery network (CDN) that provides a secure and scalable entry point for fast delivery of your global web applications and content
 - JAMstack Hosting
-  - [GitLab Pages](https://docs.gitlab.com/ee/user/project/pages/) - A feature that allows you to publish static websites directly from a repository in GitLab
-  - [Cloudflare Pages](https://pages.cloudflare.com/) - A JAMstack platform for frontend developers to collaborate and deploy websites
+  - 🪙 [GitLab Pages](https://docs.gitlab.com/ee/user/project/pages/) - A feature that allows you to publish static websites directly from a repository in GitLab
+  - 🪙 [Cloudflare Pages](https://pages.cloudflare.com/) - A JAMstack platform for frontend developers to collaborate and deploy websites
 
 ## Decentralized Web
 
@@ -415,8 +415,8 @@
 - GraphQL Libraries
   - [URQL](https://commerce.nearform.com/open-source/urql/) - The highly customizable and versatile GraphQL client for React, Svelte, Vue, or plain JavaScript
 - API Testing Platforms
-  - [Bruno](https://www.usebruno.com/) - A Git-integrated, fully offline, and open-source API client
-  - [Postman/Newman](https://www.postman.com/) - An API platform for building and using APIs
+  - 🪙 [Bruno](https://www.usebruno.com/) - A Git-integrated, fully offline, and open-source API client
+  - 🪙 [Postman/Newman](https://www.postman.com/) - An API platform for building and using APIs
 - Classic Web Automation
   - [Mechanize](https://metacpan.org/pod/WWW::Mechanize) - A module that helps you automate interaction with a website
   - [Mechanize (Ruby)](https://github.com/sparklemotion/mechanize) - A ruby library that makes automated web interaction easy
@@ -429,10 +429,10 @@
 - [Vue.js devtools](https://devtools.vuejs.org/) - A browser extension for debugging Vue.js applications that provides component inspection and state management debugging
 - [Redux DevTools](https://github.com/reduxjs/redux-devtools) - A development tool that provides power-ups for Redux development workflow, including hot reloading, action replay, and customizable UI
 - [Lighthouse](https://developer.chrome.com/docs/lighthouse/overview/) - An open-source, automated tool that helps improve web page quality by auditing performance, accessibility, SEO, and best practices
-- [Fiddler](https://www.telerik.com/fiddler) - A free web debugging proxy for any browser, system or platform
-- [Charles Proxy](https://www.charlesproxy.com/) - An HTTP proxy/monitor that enables developers to view all HTTP and SSL/HTTPS traffic between their machine and the Internet, including requests, responses, and headers
+- 🪙 [Fiddler](https://www.telerik.com/fiddler) - A free web debugging proxy for any browser, system or platform
+- 💲 [Charles Proxy](https://www.charlesproxy.com/) - An HTTP proxy/monitor that enables developers to view all HTTP and SSL/HTTPS traffic between their machine and the Internet, including requests, responses, and headers
 - [mitmproxy](https://mitmproxy.org/) - A free and open source interactive HTTPS proxy that can intercept, inspect, modify, and replay web traffic for debugging, testing, and penetration testing purposes
-- [Requestly](https://requestly.com/) - An HTTP interceptor that allows developers to modify URLs, headers, and API responses in real-time for debugging and testing
+- 🪙 [Requestly](https://requestly.com/) - An HTTP interceptor that allows developers to modify URLs, headers, and API responses in real-time for debugging and testing
 
 ### Web Test Automation Frameworks
 
@@ -440,7 +440,7 @@
   - [Puppeteer](https://developer.chrome.com/docs/puppeteer/) - A Node.js library which provides a high-level API to control Chrome/Chromium over the DevTools Protocol
   - [Playwright](https://playwright.dev/) - A framework for reliable end-to-end testing for modern web apps with a single API for Chromium, Firefox, and WebKit
     - [Playwright for Go](https://playwright-community.github.io/playwright-go/) - A Go library to automate Chromium, Firefox and WebKit with a single API
-  - [Cypress](https://www.cypress.io/) - An open-source, JavaScript-based testing framework that enables developers to write, run, and debug end-to-end and component tests directly in the browser for modern web applications
+  - 🪙 [Cypress](https://www.cypress.io/) - An open-source, JavaScript-based testing framework that enables developers to write, run, and debug end-to-end and component tests directly in the browser for modern web applications
   - [WebDriver](https://www.w3.org/TR/webdriver2/) - A remote control interface that enables introspection and control of user agents
     - [Selenium WebDriver](https://www.selenium.dev/documentation/webdriver/) - A tool that drives a browser natively, as a user would, either locally or on a remote machine
     - [WebDriver BiDi](https://www.w3.org/TR/webdriver-bidi/) - The BiDirectional WebDriver Protocol, a mechanism for remote control of user agents

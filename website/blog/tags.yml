@@ -1,0 +1,14 @@
+monetization-markers:
+  label: Monetization markers
+  permalink: /monetization-markers
+  description: The 🔒 / 💲 / 🪙 markers that flag how a listed product is monetized
+
+skill-list:
+  label: Skill list
+  permalink: /skill-list
+  description: Additions and reorganizations across the twelve skill sections
+
+site:
+  label: Site
+  permalink: /site
+  description: Changes to the site itself rather than to its content
