@@ -214,14 +214,13 @@
   - [fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to find
   - [grep](https://www.gnu.org/software/grep/) - A command-line utility for searching plain-text data sets for lines that match a regular expression
   - [ripgrep](https://github.com/BurntSushi/ripgrep) - A line-oriented search tool that recursively searches the current directory for a regex pattern
-  - [silversearcher-ag](https://geoff.greer.fm/ag/) - A code-searching tool similar to ack, but faster
 - Shell Frameworks & Customization
   - [starship](https://starship.rs/) - The minimal, blazing-fast, and infinitely customizable prompt for any shell!
-  - [oh-my-bash](https://ohmybash.nntoan.com/) - An open source, community-driven framework for managing your BASH configuration
+  - [oh-my-bash](https://github.com/ohmybash/oh-my-bash) - An open source, community-driven framework for managing your BASH configuration
   - [oh-my-zsh](https://ohmyz.sh/) - A delightful, open source, community-driven framework for managing your Zsh configuration
   - [Zim Framework](https://zimfw.sh/) - The Zsh configuration framework with blazing speed and modular extensions
-  - [Powerlevel10k](https://github.com/romkatv/powerlevel10k) - A theme for Zsh
-  - [Pure](https://github.com/sindreshorhus/pure) - A pretty, minimal and fast ZSH prompt
+  - [Powerlevel10k](https://github.com/romkatv/powerlevel10k) - A theme for Zsh, now with very limited support and no new features in the works
+  - [Pure](https://github.com/sindresorhus/pure) - A pretty, minimal and fast ZSH prompt
 - Shell Tutorials
   - [LinuxCommand.com](https://www.linuxcommand.org/) - A site containing a book and other material designed to help you learn how to use the Linux command line
 
@@ -263,7 +262,7 @@
 
 ### Linux or Unix-like environments on Windows
 
-- [winpty](https://github.com/rprichard/winpty) - A Windows software package providing a Unix-like VT100 console interface for Windows console programs
+- [ConPTY](https://learn.microsoft.com/en-us/windows/console/pseudoconsoles) - A device type that allows applications to become the host for character-mode applications
 - [WSL](https://learn.microsoft.com/en-us/windows/wsl/) - A feature of Windows that enables you to run a GNU/Linux environment on your Windows machine without the need for a separate virtual machine or dual booting
   - [WSLg](https://github.com/microsoft/wslg) - A project that enables support for running Linux GUI applications (X11 and Wayland) on Windows in a fully integrated desktop experience
 - [Git for Windows](https://gitforwindows.org/) - A lightweight, native set of tools that bring the full feature set of the Git SCM to Windows
@@ -357,7 +356,7 @@
     - [Cline](https://cline.bot/) - An open source AI coding agent that brings frontier AI models directly to your VS Code editor
   - AI-integrated IDEs
     - 🪙 [Cursor](https://www.cursor.com/) - An AI-native fork of VS Code designed for seamless, agentic integration with proprietary and frontier models
-    - 🪙 [Windsurf](https://codeium.com/windsurf) - Where the work of developers and AI truly flow together, allowing for a coding experience that feels like literal magic
+    - 🪙 [Devin Desktop](https://devin.ai/desktop) - An AI-native code editor, formerly Windsurf, folded into Cognition's autonomous agent platform in June 2026
     - 🪙 [Zed](https://zed.dev/) - A next-generation code editor designed for high-performance collaboration with humans and AI
 - Web-based
   - [code-server](https://github.com/coder/code-server) - A VS Code instance running on a remote server, accessible through any web browser
@@ -374,14 +373,14 @@
     - [NvChad](https://nvchad.com/) - A blazing fast Neovim config providing solid defaults and a beautiful UI
     - [neo-tree.nvim](https://github.com/nvim-neo-tree/neo-tree.nvim) - A Neovim plugin to manage the file system and other tree like structures
     - [colorful-winsep.nvim](https://github.com/nvim-zh/colorful-winsep.nvim) - A colorful window separator for Neovim
-    - [mason.nvim](https://github.com/williamboman/mason.nvim) - A Neovim plugin that allows you to easily manage external editor tooling such as LSP servers, DAP servers, linters, and formatters through a single interface
+    - [mason.nvim](https://github.com/mason-org/mason.nvim) - A Neovim plugin that allows you to easily manage external editor tooling such as LSP servers, DAP servers, linters, and formatters through a single interface
     - [telescope.nvim](https://github.com/nvim-telescope/telescope.nvim) - A highly extendable fuzzy finder over lists
     - [flash.nvim](https://github.com/folke/flash.nvim) - A plugin that helps you navigate your code with search labels, enhanced character motions and Treesitter integration
     - [nvim-llama](https://github.com/jpmcb/nvim-llama) - A simple interface to Ollama for Neovim
   - [Helix](https://helix-editor.com/) - A modal editor, meaning it has different modes for different tasks
   - [GNU Emacs](https://www.gnu.org/software/emacs/) - An extensible, customizable, free/libre text editor — and more
     - [MELPA](https://melpa.org/#/) - Milkypostman's Emacs Lisp Package Archive
-    - [doomemacs](https://github.com/doomemacs/doomemacs) - An Emacs framework for the stubborn martian hacker
+    - [doomemacs](https://github.com/doomemacs/core) - An Emacs framework for the stubborn martian hacker
     - [neotree](https://github.com/jaypei/emacs-neotree) - A tree explorer for Emacs
     - [Treemacs](https://github.com/Alexander-Miller/treemacs) - A tree layout file explorer for Emacs
     - [Spacemacs](https://www.spacemacs.org/#) - A community-driven Emacs distribution
@@ -439,7 +438,6 @@
 ### Linters
 
 - [ESLint](https://eslint.org/) - An open source project that helps you find and fix problems with your JavaScript code
-- [JSHint](https://jshint.com/about/) - A Static Code Analysis Tool for JavaScript
 - [Biome](https://biomejs.dev/) - A toolchain of the web that provides a fast formatter and performant linter for JavaScript, TypeScript, JSX, JSON, HTML, CSS, and GraphQL
 - [Pylint](https://pylint.readthedocs.io/) - A static code analyser for Python 2 or 3
 - [Ruff](https://docs.astral.sh/ruff/) - An extremely fast Python linter and code formatter, written in Rust
@@ -472,7 +470,6 @@
 
 ### AI Productivity Tools
 
-- [Mods](https://github.com/charmbracelet/mods) - A simple tool that helps you write programs with the assistance of AI
 - [gptcli](https://github.com/evilpan/gptcli) - A command-line interface for ChatGPT
 - [ShellGPT](https://github.com/TheR1D/shell_gpt) - A command-line productivity tool powered by AI large language models (LLM)
 - [LLM](https://llm.datasette.io/en/stable/) - A CLI utility and Python library for interacting with Large Language Models
@@ -490,10 +487,8 @@
     - [Subagents](https://code.claude.com/docs/en/sub-agents) - The specialized AI assistants that handle specific types of tasks, running in their own context with custom prompts and tool access
     - [Sandboxing](https://code.claude.com/docs/en/sandboxing) - A feature that provides filesystem and network isolation for safer, more autonomous agent execution, using OS-level primitives to enforce these isolations and reduce constant permission prompts
     - [Auto-memory](https://code.claude.com/docs/en/memory#auto-memory) - A feature that allows the agent to automatically accumulate knowledge across sessions by saving notes on build commands, debugging insights, architecture notes, and user preferences without manual intervention
-  - 🪙 [Gemini CLI](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal
-    - [Conductor](https://github.com/gemini-cli-extensions/conductor) - The official project management tool for Gemini CLI
-    - [Sandboxing](https://geminicli.com/docs/cli/sandbox/) - A feature that isolates potentially dangerous operations from your host system, providing a security barrier between AI operations and your environment, using macOS Seatbelt or container-based methods for isolation
   - 🪙 [Antigravity CLI](https://github.com/google-antigravity/antigravity-cli) - A terminal-based AI coding agent that understands codebases, makes edits with permission, and executes commands directly from the terminal
+    - [Conductor](https://github.com/gemini-cli-extensions/conductor) - A project management agent plugin, compatible across modern AI coding agents
   - 🪙 [GitHub Copilot CLI](https://github.com/github/copilot-cli) - A tool that brings the power of Copilot coding agent directly to your terminal
   - 🪙 [Cursor CLI](https://cursor.com/cli) - A tool built to help you ship right from your terminal, with the same commands in any environment
   - 🪙 [Amp](https://ampcode.com/) - The coding agent and development environment that runs anywhere and everywhere
@@ -513,7 +508,7 @@
 - Autonomous Coding Agents
   - [SWE-agent](https://swe-agent.com/latest/) - A tool for fixing bugs and issues in GitHub repositories, powered by a family of language models
   - [mini-swe-agent](https://mini-swe-agent.com/latest/) - A smaller, more accessible version of SWE-agent
-  - 💲 [Devin](https://devin.ai/) - An autonomous AI software engineer that can handle complex engineering tasks unassisted within its own sandboxed environment
+  - 🪙 [Devin](https://devin.ai/) - An autonomous AI software engineer that can handle complex engineering tasks unassisted within its own sandboxed environment
   - 🪙 [Jules](https://jules.google/) - An Autonomous Coding Agent
   - 🪙 [Replit Agent](https://replit.com/products/agent) - The first developer agent that can learn and work alongside you in your IDE
 

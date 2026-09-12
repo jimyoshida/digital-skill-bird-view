@@ -214,14 +214,13 @@
   - [fd](https://github.com/sharkdp/fd) - find に代わるシンプルで高速、かつユーザーフレンドリーなツールです
   - [grep](https://www.gnu.org/software/grep/) - 正規表現に一致する行をプレーンテキストデータセットから検索するコマンドラインユーティリティです
   - [ripgrep](https://github.com/BurntSushi/ripgrep) - 現在のディレクトリを再帰的に検索し、正規表現パターンを探す行指向の検索ツールです
-  - [silversearcher-ag](https://geoff.greer.fm/ag/) - ack に似たコード検索ツールですが、より高速です
 - シェルフレームワークとカスタマイズ
   - [starship](https://starship.rs/) - あらゆるシェル向けの、ミニマルで高速、無限にカスタマイズ可能なプロンプトです
-  - [oh-my-bash](https://ohmybash.nntoan.com/) - BASH 構成を管理するための、オープンソースでコミュニティ主導のフレームワークです
+  - [oh-my-bash](https://github.com/ohmybash/oh-my-bash) - BASH 構成を管理するための、オープンソースでコミュニティ主導のフレームワークです
   - [oh-my-zsh](https://ohmyz.sh/) - Zsh 構成を管理するための、愉快でオープンソース、コミュニティ主導のフレームワークです
   - [Zim Framework](https://zimfw.sh/) - 高速性とモジュール式の拡張機能を備えた Zsh 構成フレームワークです
-  - [Powerlevel10k](https://github.com/romkatv/powerlevel10k) - Zsh 向けのテーマです
-  - [Pure](https://github.com/sindreshorhus/pure) - 美しくミニマルで高速な ZSH プロンプトです
+  - [Powerlevel10k](https://github.com/romkatv/powerlevel10k) - Zsh 向けのテーマですが、現在はサポートが非常に限定的で、新機能の開発予定はありません
+  - [Pure](https://github.com/sindresorhus/pure) - 美しくミニマルで高速な ZSH プロンプトです
 - シェルチュートリアル
   - [LinuxCommand.com](https://www.linuxcommand.org/) - Linux コマンドラインの使い方を学ぶのに役立つよう設計された、書籍やその他の資料を掲載したサイトです
 
@@ -263,7 +262,7 @@
 
 ### Windows 上の Linux/Unix 系環境
 
-- [winpty](https://github.com/rprichard/winpty) - Windows コンソールプログラム向けに Unix ライクな VT100 コンソールインターフェイスを提供する Windows ソフトウェアパッケージです
+- [ConPTY](https://learn.microsoft.com/en-us/windows/console/pseudoconsoles) - アプリケーションがキャラクターモードのアプリケーションのホストとなることを可能にするデバイスの種類です
 - [WSL](https://learn.microsoft.com/en-us/windows/wsl/) - 別の仮想マシンやデュアルブートを必要とせずに、Windows マシン上で GNU/Linux 環境を実行できるようにする Windows の機能です
   - [WSLg](https://github.com/microsoft/wslg) - 完全に統合されたデスクトップ体験の中で、Windows 上で Linux GUI アプリケーション (X11 と Wayland) を実行するサポートを可能にするプロジェクトです
 - [Git for Windows](https://gitforwindows.org/) - Git SCM の全機能セットを Windows にもたらす、軽量なネイティブツール群です
@@ -357,7 +356,7 @@
     - [Cline](https://cline.bot/) - 最先端の AI モデルを VS Code エディターに直接もたらすオープンソースの AI コーディングエージェントです
   - AI 統合 IDE
     - 🪙 [Cursor](https://www.cursor.com/) - プロプライエタリモデルおよび最先端モデルとのシームレスでエージェント的な統合のために設計された、VS Code の AI ネイティブなフォークです
-    - 🪙 [Windsurf](https://codeium.com/windsurf) - 開発者と AI の作業が本当に一体となって流れ、まさに魔法のようなコーディング体験を可能にする場です
+    - 🪙 [Devin Desktop](https://devin.ai/desktop) - AI ネイティブなコードエディタで、以前は Windsurf として提供されており、2026 年 6 月に Cognition の自律エージェントプラットフォームに統合されました
     - 🪙 [Zed](https://zed.dev/) - 人間と AI との高パフォーマンスな協業のために設計された次世代コードエディターです
 - Web ベース
   - [code-server](https://github.com/coder/code-server) - リモートサーバー上で動作し、あらゆる Web ブラウザーからアクセスできる VS Code インスタンスです
@@ -374,14 +373,14 @@
     - [NvChad](https://nvchad.com/) - 堅実なデフォルト設定と美しい UI を提供する超高速な Neovim 構成です
     - [neo-tree.nvim](https://github.com/nvim-neo-tree/neo-tree.nvim) - ファイルシステムやその他のツリー状構造を管理するための Neovim プラグインです
     - [colorful-winsep.nvim](https://github.com/nvim-zh/colorful-winsep.nvim) - Neovim 向けのカラフルなウィンドウ区切りです
-    - [mason.nvim](https://github.com/williamboman/mason.nvim) - LSP サーバー、DAP サーバー、リンター、フォーマッターなどの外部エディターツールを単一のインターフェイスで簡単に管理できる Neovim プラグインです
+    - [mason.nvim](https://github.com/mason-org/mason.nvim) - LSP サーバー、DAP サーバー、リンター、フォーマッターなどの外部エディターツールを単一のインターフェイスで簡単に管理できる Neovim プラグインです
     - [telescope.nvim](https://github.com/nvim-telescope/telescope.nvim) - リストに対する高度に拡張可能なファジーファインダーです
     - [flash.nvim](https://github.com/folke/flash.nvim) - 検索ラベル、強化された文字モーション、Treesitter 統合でコードナビゲーションを助けるプラグインです
     - [nvim-llama](https://github.com/jpmcb/nvim-llama) - Neovim 向けの Ollama へのシンプルなインターフェイスです
   - [Helix](https://helix-editor.com/) - モーダルエディターであり、異なるタスクに対して異なるモードを持つことを意味します
   - [GNU Emacs](https://www.gnu.org/software/emacs/) - 拡張可能でカスタマイズ可能な、フリー/リブレなテキストエディター、そしてそれ以上のものです
     - [MELPA](https://melpa.org/#/) - Milkypostman's Emacs Lisp Package Archive です
-    - [doomemacs](https://github.com/doomemacs/doomemacs) - 頑固な火星人ハッカーのための Emacs フレームワークです
+    - [doomemacs](https://github.com/doomemacs/core) - 頑固な火星人ハッカーのための Emacs フレームワークです
     - [neotree](https://github.com/jaypei/emacs-neotree) - Emacs 向けのツリーエクスプローラーです
     - [Treemacs](https://github.com/Alexander-Miller/treemacs) - Emacs 向けのツリーレイアウトファイルエクスプローラーです
     - [Spacemacs](https://www.spacemacs.org/#) - コミュニティ主導の Emacs ディストリビューションです
@@ -439,7 +438,6 @@
 ### リンター
 
 - [ESLint](https://eslint.org/) - JavaScript コードの問題を見つけて修正する手助けをするオープンソースプロジェクトです
-- [JSHint](https://jshint.com/about/) - JavaScript 向けの静的コード解析ツールです
 - [Biome](https://biomejs.dev/) - JavaScript、TypeScript、JSX、JSON、HTML、CSS、GraphQL 向けの高速なフォーマッターと高性能なリンターを提供する Web 向けツールチェーンです
 - [Pylint](https://pylint.readthedocs.io/) - Python 2 または 3 向けの静的コード解析ツールです
 - [Ruff](https://docs.astral.sh/ruff/) - Rust で書かれた、非常に高速な Python リンター兼コードフォーマッターです
@@ -472,7 +470,6 @@
 
 ### AI 生産性ツール
 
-- [Mods](https://github.com/charmbracelet/mods) - AI の助けを借りてプログラムを書く手助けをするシンプルなツールです
 - [gptcli](https://github.com/evilpan/gptcli) - ChatGPT 向けのコマンドラインインターフェイスです
 - [ShellGPT](https://github.com/TheR1D/shell_gpt) - AI 大規模言語モデル (LLM) を活用したコマンドライン生産性ツールです
 - [LLM](https://llm.datasette.io/en/stable/) - 大規模言語モデルと相互作用するための CLI ユーティリティと Python ライブラリです
@@ -490,10 +487,8 @@
     - [Subagents](https://code.claude.com/docs/en/sub-agents) - 特定の種類のタスクを処理する専門化された AI アシスタントで、独自のコンテキストの中でカスタムプロンプトとツールアクセスを備えて実行されます
     - [Sandboxing](https://code.claude.com/docs/en/sandboxing) - より安全で自律的なエージェント実行のためにファイルシステムとネットワークの分離を提供する機能で、OS レベルのプリミティブを使用してこれらの分離を実施し、絶え間ない権限プロンプトを削減します
     - [Auto-memory](https://code.claude.com/docs/en/memory#auto-memory) - ビルドコマンド、デバッグの知見、アーキテクチャに関するメモ、ユーザーの好みに関するノートを手動介入なしで保存することで、エージェントがセッションをまたいで自動的に知識を蓄積できるようにする機能です
-  - 🪙 [Gemini CLI](https://github.com/google-gemini/gemini-cli) - Gemini の力を直接ターミナルにもたらすオープンソースの AI エージェントです
-    - [Conductor](https://github.com/gemini-cli-extensions/conductor) - Gemini CLI 向けの公式プロジェクトマネジメントツールです
-    - [Sandboxing](https://geminicli.com/docs/cli/sandbox/) - 潜在的に危険な操作をホストシステムから分離する機能で、macOS Seatbelt またはコンテナベースの分離手法を使用して、AI 操作と環境の間にセキュリティバリアを提供します
   - 🪙 [Antigravity CLI](https://github.com/google-antigravity/antigravity-cli) - コードベースを理解し、許可を得て編集を行い、ターミナルから直接コマンドを実行する、ターミナルベースの AI コーディングエージェントです
+    - [Conductor](https://github.com/gemini-cli-extensions/conductor) - 最新の AI コーディングエージェント全般に対応する、プロジェクト管理のためのエージェントプラグインです
   - 🪙 [GitHub Copilot CLI](https://github.com/github/copilot-cli) - Copilot コーディングエージェントの力を直接ターミナルにもたらすツールです
   - 🪙 [Cursor CLI](https://cursor.com/cli) - ターミナルから直接開発を進められるよう構築されたツールで、どの環境でも同じコマンドを使用できます
   - 🪙 [Amp](https://ampcode.com/) - あらゆる場所で動作するコーディングエージェント兼開発環境です
@@ -513,7 +508,7 @@
 - 自律型コーディングエージェント
   - [SWE-agent](https://swe-agent.com/latest/) - 一連の言語モデルを搭載した、GitHub リポジトリのバグや問題を修正するツールです
   - [mini-swe-agent](https://mini-swe-agent.com/latest/) - SWE-agent のより小型でアクセスしやすいバージョンです
-  - 💲 [Devin](https://devin.ai/) - 独自のサンドボックス環境内で複雑なエンジニアリングタスクを支援なしで処理できる自律型 AI ソフトウェアエンジニアです
+  - 🪙 [Devin](https://devin.ai/) - 独自のサンドボックス環境内で複雑なエンジニアリングタスクを支援なしで処理できる自律型 AI ソフトウェアエンジニアです
   - 🪙 [Jules](https://jules.google/) - 自律型コーディングエージェントです
   - 🪙 [Replit Agent](https://replit.com/products/agent) - IDE 内であなたと共に学習し作業できる最初の開発者エージェントです
 

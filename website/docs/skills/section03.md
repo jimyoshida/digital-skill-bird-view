@@ -96,9 +96,7 @@
   - [TerraTest](https://terratest.gruntwork.io/) - A Go library that provides patterns and helper functions for testing infrastructure
   - [Atmos](https://atmos.tools/) - A universal tool for DevOps and Cloud Engineering that orchestrates workflows and simplifies the management of infrastructure
   - 🪙 [GitLab-managed Terraform/OpenTofu state](https://docs.gitlab.com/ee/user/infrastructure/iac/terraform_state.html) - A feature that allows you to store your Terraform state files in GitLab
-  - [tf.libsonnet](https://docs.tflibsonnet.com/) - A collection of Jsonnet libraries for generating Terraform code
   - [terraform-docs](https://terraform-docs.io/) - A utility to generate documentation from Terraform modules in various output formats
-  - [Terraformer](https://github.com/GoogleCloudPlatform/terraformer) - A CLI tool to generate terraform files from existing infrastructure
   - [Atlantis](https://www.runatlantis.io/) - A self-hosted golang application that listens for Terraform pull request events via webhooks
 - Vendor-specific Tools
   - [AWS CloudFormation](https://aws.amazon.com/cloudformation/) - A service that helps you model and set up your Amazon Web Services resources
@@ -397,7 +395,7 @@
 - Continuous Delivery Tools
   - 💲 [Harness](https://harness.io/) - A modern software delivery platform that uses AI and automation to streamline CI/CD, GitOps, and cloud cost management
   - [Jenkins](https://www.jenkins.io/) - An open source automation server which enables developers around the world to reliably build, test, and deploy their software
-    - [Blue Ocean for Jenkins Pipelines](https://www.jenkins.io/projects/blueocean/) - A project that rethinks the user experience of Jenkins
+    - [Pipeline Graph View](https://plugins.jenkins.io/pipeline-graph-view/) - A plugin that adds a visual representation of Jenkins pipelines, showing each stage of a run in a clear and easy-to-follow graph format
     - [Python Jenkins](https://opendev.org/jjb/python-jenkins) - A Python wrapper for the Jenkins REST API
     - [JenkinsPipelineUnit](https://github.com/jenkinsci/JenkinsPipelineUnit) - A testing framework to unit test Jenkins pipelines written in Groovy or Declarative
   - 🪙 [GitLab CI/CD](https://docs.gitlab.com/ee/ci/) - A part of GitLab that you can use to automate the builds, integration, and verification of your source code

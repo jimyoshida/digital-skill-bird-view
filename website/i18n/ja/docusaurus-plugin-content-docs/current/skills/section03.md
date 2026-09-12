@@ -96,9 +96,7 @@
   - [TerraTest](https://terratest.gruntwork.io/) - インフラストラクチャのテストのためのパターンとヘルパー関数を提供する Go ライブラリです
   - [Atmos](https://atmos.tools/) - ワークフローをオーケストレーションし、インフラストラクチャの管理を簡素化する、DevOps とクラウドエンジニアリングのためのユニバーサルツールです
   - 🪙 [GitLab-managed Terraform/OpenTofu state](https://docs.gitlab.com/ee/user/infrastructure/iac/terraform_state.html) - Terraform のステートファイルを GitLab に保存できる機能です
-  - [tf.libsonnet](https://docs.tflibsonnet.com/) - Terraform コードを生成するための Jsonnet ライブラリのコレクションです
   - [terraform-docs](https://terraform-docs.io/) - さまざまな出力フォーマットで Terraform モジュールからドキュメントを生成するユーティリティです
-  - [Terraformer](https://github.com/GoogleCloudPlatform/terraformer) - 既存のインフラストラクチャから Terraform ファイルを生成する CLI ツールです
   - [Atlantis](https://www.runatlantis.io/) - Webhook 経由で Terraform のプルリクエストイベントをリッスンするセルフホスト型の Golang アプリケーションです
 - ベンダー固有のツール
   - [AWS CloudFormation](https://aws.amazon.com/cloudformation/) - Amazon Web Services のリソースのモデル化とセットアップを支援するサービスです
@@ -397,7 +395,7 @@
 - 継続的デリバリーツール
   - 💲 [Harness](https://harness.io/) - AI と自動化を使って CI/CD、GitOps、クラウドコスト管理を効率化する、モダンなソフトウェアデリバリープラットフォームです
   - [Jenkins](https://www.jenkins.io/) - 世界中の開発者がソフトウェアを確実に構築、テスト、デプロイできるようにする、オープンソースの自動化サーバーです
-    - [Blue Ocean for Jenkins Pipelines](https://www.jenkins.io/projects/blueocean/) - Jenkins のユーザー体験を再考するプロジェクトです
+    - [Pipeline Graph View](https://plugins.jenkins.io/pipeline-graph-view/) - Jenkins のパイプラインを視覚的に表現し、実行の各ステージを分かりやすいグラフ形式で表示するプラグインです
     - [Python Jenkins](https://opendev.org/jjb/python-jenkins) - Jenkins REST API の Python ラッパーです
     - [JenkinsPipelineUnit](https://github.com/jenkinsci/JenkinsPipelineUnit) - Groovy または Declarative で記述された Jenkins パイプラインをユニットテストするためのテストフレームワークです
   - 🪙 [GitLab CI/CD](https://docs.gitlab.com/ee/ci/) - ソースコードのビルド、統合、検証を自動化するために使用できる、GitLab の一部です
